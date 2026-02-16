@@ -103,17 +103,8 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,11 +136,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,13 +166,12 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-16T01:08:01Z",
+  "generatedAt": "2026-02-16T04:54:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",
@@ -184,6 +183,7 @@
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Public Storage",
     "UDR INC",
     "Wabtec",
     "Wynn Resorts Ltd"
