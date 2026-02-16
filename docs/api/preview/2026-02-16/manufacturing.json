@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-02-16",
+      "bmo_amc": "10:25 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:25 am EST",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Caesars Entertainment Inc",
       "symbol": "CZR",
       "date": "2026-02-17",
@@ -8,17 +19,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-02-17",
-      "bmo_amc": "10:25 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:25 am EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Leidos Holdings Inc",
@@ -64,17 +64,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-02-18",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Host Hotels & Resorts Inc",
@@ -153,13 +142,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-16T18:30:19Z",
+  "generatedAt": "2026-02-16T21:21:30Z",
   "irCompanies": [
     "Emerson Electric Co",
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Quanta Services Inc"
   ],
