@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-02-17",
+      "bmo_amc": "8:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Kenvue",
       "symbol": "KVUE",
       "date": "2026-02-17",
@@ -13,9 +35,9 @@
       "company": "Labcorp Holdings Inc",
       "symbol": "LH",
       "date": "2026-02-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -24,7 +46,7 @@
       "date": "2026-02-17",
       "bmo_amc": "5:45 AM CST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "5:45 AM CST",
       "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations"
@@ -48,11 +70,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-17T12:36:55Z",
+  "generatedAt": "2026-02-17T15:43:07Z",
   "irCompanies": [
+    "Centene Corp",
+    "Danaher Corp",
     "Medtronic PLC"
   ],
   "fallbackCompanies": [

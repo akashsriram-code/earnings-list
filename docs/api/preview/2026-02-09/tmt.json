@@ -46,6 +46,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -76,8 +85,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -96,15 +105,6 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -154,6 +154,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tyler Tech",
       "symbol": "TYL",
       "date": "2026-02-11",
@@ -181,30 +190,12 @@
       "source": "aggregator"
     },
     {
-      "company": "GoDaddy",
-      "symbol": "GDDY",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Palo Alto",
-      "symbol": "PANW",
-      "date": "2026-02-12",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -229,8 +220,8 @@
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -244,10 +235,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-17T12:36:40Z",
+  "generatedAt": "2026-02-17T15:42:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -258,14 +249,12 @@
     "Equinix",
     "Freshworks",
     "GlobalFoundries",
-    "GoDaddy",
-    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
     "Motorola",
+    "Omnicom",
     "Onsemi",
-    "Palo Alto",
     "Paycom",
     "Pinterest",
     "Rivian",
@@ -274,6 +263,7 @@
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trade Desk",
     "Trimble",
     "Tyler Tech",
     "Zebra Technologies"
