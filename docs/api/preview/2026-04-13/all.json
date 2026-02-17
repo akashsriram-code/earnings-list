@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Goldman Sachs",
+      "symbol": "GS",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-04-14",
@@ -35,21 +55,35 @@
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 3,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-17T09:41:08Z",
+  "generatedAt": "2026-02-17T12:38:38Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Wells Fargo"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Applied Digital",
+    "Goldman Sachs",
+    "M&T Bank Corp"
+  ],
   "week": {
     "id": "2026-04-13",
     "start_date": "2026-04-13",
