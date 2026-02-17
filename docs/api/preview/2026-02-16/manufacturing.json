@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-02-16",
-      "bmo_amc": "10:25 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:25 am EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Caesars Entertainment Inc",
       "symbol": "CZR",
       "date": "2026-02-17",
@@ -24,27 +13,27 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -64,6 +53,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-02-18",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Host Hotels & Resorts Inc",
@@ -145,9 +145,9 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-16T21:21:30Z",
+  "generatedAt": "2026-02-17T01:06:58Z",
   "irCompanies": [
-    "Emerson Electric Co",
+    "Honeywell",
     "Parker-Hannifin Corp",
     "Quanta Services Inc"
   ],

@@ -4,10 +4,12 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-03-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Best Buy Co Inc",
@@ -76,15 +78,16 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-16T21:21:54Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-17T01:07:26Z",
+  "irCompanies": [
+    "Norwegian Cruise Line"
+  ],
   "fallbackCompanies": [
     "Best Buy Co Inc",
     "Brown-Forman Corp",
     "Campbell Soup Co",
     "Costco Wholesale Corp",
     "Kroger Co",
-    "Norwegian Cruise Line",
     "Ross Stores",
     "Target Corp"
   ],

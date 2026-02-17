@@ -1,98 +1,12 @@
 {
   "records": [
     {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "5:45 AM CST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-18",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-02-16",
-      "bmo_amc": "10:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:20 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -163,6 +77,58 @@
       "sector": "Consumer"
     },
     {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-17",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-02-17",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "5:45 AM CST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "ir_time_label": "5:45 AM CST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Celanese",
       "symbol": "CE",
       "date": "2026-02-17",
@@ -176,9 +142,9 @@
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-02-17",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -186,9 +152,9 @@
       "company": "DTE",
       "symbol": "DTE",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -196,9 +162,9 @@
       "company": "Devon Energy",
       "symbol": "DVN",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -206,9 +172,9 @@
       "company": "EQT Corp",
       "symbol": "EQT",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -216,9 +182,9 @@
       "company": "Energy Transfer",
       "symbol": "ET",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -226,9 +192,9 @@
       "company": "Expand Energy",
       "symbol": "EXE",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -236,9 +202,9 @@
       "company": "First Energy",
       "symbol": "FE",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Resources"
     },
@@ -406,9 +372,9 @@
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -416,9 +382,9 @@
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -505,16 +471,26 @@
       "sector": "TMT"
     },
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-02-16",
-      "bmo_amc": "10:25 AM EST",
-      "nasdaq_time_label": null,
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-18",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:25 am EST",
-      "ir_source_url": "https://ir.emerson.com/",
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.globalpayments.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Caesars Entertainment Inc",
@@ -530,9 +506,9 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -540,9 +516,9 @@
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -550,9 +526,9 @@
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -574,6 +550,18 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-02-18",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -661,20 +649,19 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 64,
+  "count": 63,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-16T21:21:30Z",
+  "generatedAt": "2026-02-17T01:06:58Z",
   "irCompanies": [
-    "Emerson Electric Co",
     "Etsy Inc",
     "Global Payments",
+    "Honeywell",
     "Live Nation Entertainment",
     "Medtronic PLC",
-    "Norwegian Cruise Line",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
     "Sysco Corp",
