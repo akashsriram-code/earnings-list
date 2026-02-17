@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -105,6 +96,15 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Grab",
+      "symbol": "GRAB",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -199,15 +199,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Motorola",
-      "symbol": "MSI",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-02-12",
@@ -253,10 +244,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-17T01:06:42Z",
+  "generatedAt": "2026-02-17T04:48:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -268,11 +259,11 @@
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",
+    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
     "Motorola",
-    "Omnicom",
     "Onsemi",
     "Palo Alto",
     "Paycom",
