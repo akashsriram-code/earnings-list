@@ -1,55 +1,31 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Danaher Corp",
-      "symbol": "DHR",
-      "date": "2026-02-17",
-      "bmo_amc": "8:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Kenvue",
       "symbol": "KVUE",
       "date": "2026-02-17",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Labcorp Holdings Inc",
       "symbol": "LH",
       "date": "2026-02-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-02-17",
-      "bmo_amc": "5:45 AM CST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Charles River Labs",
@@ -64,26 +40,23 @@
       "company": "Insulet",
       "symbol": "PODD",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-17T21:27:19Z",
-  "irCompanies": [
-    "Centene Corp",
-    "Danaher Corp",
-    "Medtronic PLC"
-  ],
+  "generatedAt": "2026-02-18T01:08:56Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Charles River Labs",
     "Insulet",
     "Kenvue",
-    "Labcorp Holdings Inc"
+    "Labcorp Holdings Inc",
+    "Medtronic PLC"
   ],
   "week": {
     "id": "2026-02-16",

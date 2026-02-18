@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-05-01",
-      "bmo_amc": "08:30AM ET",
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-28",
+      "bmo_amc": "8:30AM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Merck",
@@ -23,16 +23,29 @@
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-05-01",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-17T21:29:30Z",
+  "generatedAt": "2026-02-18T01:11:15Z",
   "irCompanies": [
+    "Centene Corp",
     "Estee Lauder",
     "Merck"
   ],

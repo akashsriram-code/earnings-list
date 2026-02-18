@@ -4,60 +4,27 @@
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-02-17",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-02-17",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-17",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -73,18 +40,18 @@
       "company": "Garmin",
       "symbol": "GRMN",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -118,20 +85,20 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm PST",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 13,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-17T21:27:19Z",
+  "generatedAt": "2026-02-18T01:08:55Z",
   "irCompanies": [
-    "Lam Research",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
+    "Live Nation Entertainment"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -141,7 +108,6 @@
     "EPAM",
     "Figma",
     "Garmin",
-    "Live Nation Entertainment",
     "Omnicom",
     "Palo Alto"
   ],
