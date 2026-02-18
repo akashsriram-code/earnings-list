@@ -103,17 +103,8 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -172,16 +163,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-18T12:36:13Z",
+  "generatedAt": "2026-02-18T15:42:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",
