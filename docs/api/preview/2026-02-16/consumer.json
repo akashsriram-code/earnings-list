@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-18",
+      "bmo_amc": "4:05 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Hormel Foods",
       "symbol": "HRL",
       "date": "2026-02-18",
@@ -40,12 +51,10 @@
       "company": "Etsy Inc",
       "symbol": "ETSY",
       "date": "2026-02-19",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Walmart Inc",
@@ -59,10 +68,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-18T18:39:01Z",
+  "generatedAt": "2026-02-18T21:29:08Z",
   "irCompanies": [
     "Etsy Inc",
     "Walmart Inc"
@@ -70,6 +79,7 @@
   "fallbackCompanies": [
     "Coca-Cola Europacific",
     "DoorDash",
+    "Etsy Inc",
     "Hormel Foods",
     "Molson Coors Beverage Co"
   ],
