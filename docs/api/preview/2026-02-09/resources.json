@@ -55,26 +55,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Williams Co",
-      "symbol": "WMB",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AEP",
       "symbol": "AEP",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Entergy Corp",
-      "symbol": "ETR",
       "date": "2026-02-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -136,10 +118,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-18T06:49:46Z",
+  "generatedAt": "2026-02-18T09:37:37Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -149,14 +131,12 @@
     "Duke Energy",
     "Ecolab",
     "Enbridge",
-    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",
     "PBF Energy",
     "PG&E Corp",
-    "TC Energy",
-    "Williams Co"
+    "TC Energy"
   ],
   "week": {
     "id": "2026-02-09",
