@@ -13,21 +13,10 @@
       "company": "DoorDash",
       "symbol": "DASH",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-02-18",
-      "bmo_amc": "4:05 PM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 pm EST",
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Hormel Foods",
@@ -51,10 +40,12 @@
       "company": "Etsy Inc",
       "symbol": "ETSY",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Walmart Inc",
@@ -62,16 +53,16 @@
       "date": "2026-02-19",
       "bmo_amc": "7:00 A.M. US",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:00 a.m. US",
       "ir_source_url": "https://stock.walmart.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-18T21:29:08Z",
+  "generatedAt": "2026-02-19T01:08:34Z",
   "irCompanies": [
     "Etsy Inc",
     "Walmart Inc"
@@ -79,7 +70,6 @@
   "fallbackCompanies": [
     "Coca-Cola Europacific",
     "DoorDash",
-    "Etsy Inc",
     "Hormel Foods",
     "Molson Coors Beverage Co"
   ],

@@ -4,12 +4,10 @@
       "company": "Global Payments",
       "symbol": "GPN",
       "date": "2026-02-18",
-      "bmo_amc": "6:55 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:55 AM EST",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Moody's Corporation",
@@ -19,31 +17,18 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-18T21:29:08Z",
-  "irCompanies": [
-    "Global Payments",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-02-19T01:08:35Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Global Payments",
     "Moody's Corporation"
   ],
   "week": {

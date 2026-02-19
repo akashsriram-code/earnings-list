@@ -40,64 +40,60 @@
       "company": "American Water Works",
       "symbol": "AWK",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-02-18",
-      "bmo_amc": "11:35 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:35 am EST",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-02-18",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Host Hotels & Resorts Inc",
       "symbol": "HST",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Invitation Homes Inc",
       "symbol": "INVH",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Nordson Corp",
       "symbol": "NDSN",
       "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-19",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
+      "company": "Extra Space Storage Inc",
+      "symbol": "EXR",
+      "date": "2026-02-19",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
@@ -106,31 +102,13 @@
     {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
-      "date": "2026-02-18",
-      "bmo_amc": "7:30 AM EST",
+      "date": "2026-02-19",
+      "bmo_amc": "11:20 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EST",
+      "ir_time_label": "11:20 am EST",
       "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Extra Space Storage Inc",
-      "symbol": "EXR",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Pool Corp",
@@ -147,19 +125,17 @@
       "date": "2026-02-19",
       "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 AM ET",
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-18T21:29:10Z",
+  "generatedAt": "2026-02-19T01:08:35Z",
   "irCompanies": [
-    "Fortive Corp",
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Quanta Services Inc"
   ],

@@ -49,9 +49,9 @@
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-02-10",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -85,8 +85,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -105,15 +105,6 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -159,6 +150,15 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -238,7 +238,7 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-18T21:28:56Z",
+  "generatedAt": "2026-02-19T01:08:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -249,7 +249,6 @@
     "Equinix",
     "Freshworks",
     "GlobalFoundries",
-    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
@@ -264,6 +263,7 @@
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trade Desk",
     "Trimble",
     "Tyler Tech",
     "Zebra Technologies"
