@@ -50,23 +50,53 @@
       "ir_time_label": "8:00 am ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "US Bancorp",
+      "symbol": "USB",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-19T12:39:29Z",
+  "generatedAt": "2026-02-19T15:42:03Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
+    "Citizens Financial",
     "Goldman Sachs",
-    "M&T Bank Corp"
+    "M&T Bank Corp",
+    "Progressive Corporation",
+    "US Bancorp"
   ],
   "week": {
     "id": "2026-04-13",

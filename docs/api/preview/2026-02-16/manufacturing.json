@@ -85,9 +85,9 @@
       "company": "Deere",
       "symbol": "DE",
       "date": "2026-02-19",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -123,10 +123,10 @@
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-02-19",
-      "bmo_amc": "9:00 AM ET",
+      "bmo_amc": "6:55 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "9:00 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": "6:55 AM EST",
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations"
     }
@@ -134,7 +134,7 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-19T12:37:44Z",
+  "generatedAt": "2026-02-19T15:40:10Z",
   "irCompanies": [
     "Parker-Hannifin Corp",
     "Quanta Services Inc"
