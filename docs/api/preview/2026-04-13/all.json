@@ -1,9 +1,79 @@
 {
   "records": [
     {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -97,53 +167,103 @@
       "sector": "Finance"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Finance"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-04-13",
+      "company": "Blackstone",
+      "symbol": "BX",
+      "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "CSX Corp",
-      "symbol": "CSX",
-      "date": "2026-04-15",
+      "company": "Charles Schwab",
+      "symbol": "SCHW",
+      "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-04-15",
+      "company": "Fifth Third Bancorp",
+      "symbol": "FITB",
+      "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "KeyCorp",
+      "symbol": "KEY",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Regions Financial",
+      "symbol": "RF",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 13,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-20T12:35:25Z",
+  "generatedAt": "2026-02-20T15:33:23Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -151,15 +271,27 @@
   ],
   "fallbackCompanies": [
     "Abbott Laboratories",
+    "American Express",
     "Applied Digital",
+    "Blackstone",
     "CSX Corp",
+    "Charles Schwab",
     "Citizens Financial",
+    "Fifth Third Bancorp",
     "Goldman Sachs",
+    "Huntington Bancshares",
+    "KeyCorp",
     "Kinder Morgan",
     "M&T Bank Corp",
+    "Netflix",
     "Progressive Corporation",
     "Prologis Inc",
-    "US Bancorp"
+    "Regions Financial",
+    "Snap-On Inc",
+    "State Street Corp",
+    "Truist Financial",
+    "US Bancorp",
+    "UnitedHealth Group"
   ],
   "week": {
     "id": "2026-04-13",
