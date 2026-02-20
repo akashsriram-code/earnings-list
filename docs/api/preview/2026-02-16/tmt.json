@@ -58,9 +58,9 @@
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-02-19",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,54 +76,26 @@
       "company": "EPAM",
       "symbol": "EPAM",
       "date": "2026-02-19",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-02-19",
-      "bmo_amc": "7:00 AM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 AM EST",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-02-19",
-      "bmo_amc": "2:00PM PST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00pm PST",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-19",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-19T21:23:37Z",
-  "irCompanies": [
-    "Intuit",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-02-20T01:04:24Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alibaba",
@@ -132,6 +104,7 @@
     "EPAM",
     "Figma",
     "Garmin",
+    "Live Nation Entertainment",
     "Omnicom",
     "Palo Alto"
   ],

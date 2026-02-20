@@ -85,32 +85,10 @@
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-02-19",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-02-19",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Pool Corp",
@@ -125,23 +103,17 @@
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-02-19",
-      "bmo_amc": "6:55 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:55 AM EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-19T21:23:37Z",
-  "irCompanies": [
-    "Lennar Corp",
-    "Parker-Hannifin Corp",
-    "Quanta Services Inc"
-  ],
+  "generatedAt": "2026-02-20T01:04:23Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "American Water Works",
     "Booking Holdings Inc",
@@ -152,6 +124,7 @@
     "Leidos Holdings Inc",
     "Nordson Corp",
     "Pool Corp",
+    "Quanta Services Inc",
     "Republic Services Inc",
     "Vulcan Materials Co"
   ],

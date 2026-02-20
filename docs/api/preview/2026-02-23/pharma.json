@@ -54,7 +54,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Solventum Corp",
@@ -80,9 +82,10 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-19T21:23:49Z",
+  "generatedAt": "2026-02-20T01:04:38Z",
   "irCompanies": [
     "IDEXX Laboratories Inc",
+    "Novavax",
     "Solventum Corp"
   ],
   "fallbackCompanies": [
@@ -90,7 +93,6 @@
     "Dentsply Sirona",
     "Henry Schein Inc",
     "Hims and Hers",
-    "Novavax",
     "Viatris"
   ],
   "week": {
