@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-02-24",
+      "bmo_amc": "10:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
+    },
+    {
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2026-02-24",
@@ -225,11 +236,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-20T04:33:18Z",
+  "generatedAt": "2026-02-20T06:43:11Z",
   "irCompanies": [
+    "AT&T",
     "GoDaddy",
     "Intuit",
     "Qnity",
