@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Frontier Holdings",
-      "symbol": "ULCC",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-02-11",
@@ -69,6 +60,15 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,11 +145,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -157,16 +166,16 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-21T09:21:58Z",
+  "generatedAt": "2026-02-21T12:24:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
@@ -175,15 +184,16 @@
     "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
-    "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
+    "MGM Resorts International",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Public Storage",
     "UDR INC",
     "Wabtec",
     "Wynn Resorts Ltd"
