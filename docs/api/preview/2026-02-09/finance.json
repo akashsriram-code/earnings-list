@@ -116,15 +116,24 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-21T04:24:33Z",
+  "generatedAt": "2026-02-21T06:30:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
@@ -136,6 +145,7 @@
     "Global Payments",
     "Lincoln National Corporation",
     "Manulife",
+    "Moody's Corporation",
     "Principal Financial Group",
     "Robinhood",
     "S&P Global Inc",
