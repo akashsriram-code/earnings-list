@@ -73,11 +73,11 @@
       "source": "aggregator"
     },
     {
-      "company": "DTE",
-      "symbol": "DTE",
+      "company": "Entergy Corp",
+      "symbol": "ETR",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -118,15 +118,6 @@
       "source": "aggregator"
     },
     {
-      "company": "PPL Corp",
-      "symbol": "PPL",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
@@ -145,26 +136,25 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-22T06:35:55Z",
+  "generatedAt": "2026-02-22T09:22:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
-    "DTE",
     "DuPont",
     "Duke Energy",
     "Ecolab",
     "Enbridge",
+    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",
     "PBF Energy",
     "PG&E Corp",
-    "PPL Corp",
     "TC Energy",
     "Williams Co"
   ],

@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-04-15",
@@ -31,34 +51,24 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
+      "company": "Netflix",
+      "symbol": "NFLX",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
     },
     {
       "company": "Goldman Sachs",
@@ -237,24 +247,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-04-13",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     }
   ],
   "count": 25,
@@ -263,7 +263,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-22T06:37:31Z",
+  "generatedAt": "2026-02-22T09:24:10Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
