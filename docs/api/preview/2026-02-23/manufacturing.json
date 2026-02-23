@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-02-24",
@@ -48,12 +59,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-23T18:48:26Z",
+  "generatedAt": "2026-02-23T21:36:17Z",
   "irCompanies": [
-    "Axon Enterprise Inc"
+    "Axon Enterprise Inc",
+    "MGM Resorts International"
   ],
   "fallbackCompanies": [
     "Expeditors International of Washington Inc",
