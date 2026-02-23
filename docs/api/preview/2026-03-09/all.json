@@ -23,6 +23,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Bumble",
+      "symbol": "BMBL",
+      "date": "2026-03-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-03-11",
@@ -77,13 +87,13 @@
       "sector": "Consumer"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-23T09:44:30Z",
+  "generatedAt": "2026-02-23T12:38:55Z",
   "irCompanies": [
     "HPE",
     "Lam Research",
@@ -91,6 +101,7 @@
   ],
   "fallbackCompanies": [
     "Adobe",
+    "Bumble",
     "Dollar General",
     "Oracle",
     "SentinelOne"

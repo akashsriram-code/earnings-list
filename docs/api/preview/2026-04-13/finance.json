@@ -61,6 +61,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-04-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-04-15",
@@ -160,13 +169,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-23T09:45:33Z",
+  "generatedAt": "2026-02-23T12:39:59Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -182,6 +191,7 @@
     "Huntington Bancshares",
     "KeyCorp",
     "M&T Bank Corp",
+    "Morgan Stanley",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
