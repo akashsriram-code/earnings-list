@@ -13,9 +13,9 @@
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-02-24",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations"
@@ -24,10 +24,10 @@
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2026-02-24",
-      "bmo_amc": "8:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00am",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations"
     },
@@ -80,7 +80,7 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-24T12:38:51Z",
+  "generatedAt": "2026-02-24T15:47:05Z",
   "irCompanies": [
     "Home Depot Inc",
     "Keurig Dr. Pepper"
