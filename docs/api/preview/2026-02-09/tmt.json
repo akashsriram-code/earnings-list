@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -85,8 +76,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -150,6 +141,15 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -229,7 +229,7 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-24T15:46:38Z",
+  "generatedAt": "2026-02-24T18:46:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -244,7 +244,6 @@
     "Kyndryl",
     "Lyft",
     "Motorola",
-    "Omnicom",
     "Onsemi",
     "Paycom",
     "Pinterest",
@@ -254,6 +253,7 @@
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trade Desk",
     "Trimble",
     "Tyler Tech",
     "Zebra Technologies"

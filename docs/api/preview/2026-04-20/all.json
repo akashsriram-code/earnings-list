@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "DR Horton Inc",
+      "symbol": "DHI",
+      "date": "2026-04-21",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investor.drhorton.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "W. R. Berkley Corp",
       "symbol": "WRB",
       "date": "2026-04-20",
@@ -19,18 +31,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "DR Horton Inc",
-      "symbol": "DHI",
-      "date": "2026-04-21",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investor.drhorton.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 3,
@@ -39,7 +39,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-24T15:48:52Z",
+  "generatedAt": "2026-02-24T18:48:35Z",
   "irCompanies": [
     "DR Horton Inc"
   ],
