@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2026-03-02",
@@ -133,28 +123,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-03-02",
@@ -174,6 +142,18 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rogers Communications",
+      "symbol": "RCI",
+      "date": "2026-03-03",
+      "bmo_amc": "9:30 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ",
+      "ir_source_url": "https://about.rogers.com/investor-relations/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -229,20 +209,53 @@
       "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-24T09:43:10Z",
+  "generatedAt": "2026-02-24T12:39:04Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Fox Corp",
     "Marvell",
     "Norwegian Cruise Line",
+    "Rogers Communications",
     "SiriusXM"
   ],
   "fallbackCompanies": [
