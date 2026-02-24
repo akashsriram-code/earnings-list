@@ -4,29 +4,18 @@
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-02-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-02-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investor.axon.com/",
       "source": "investor_relations"
@@ -35,18 +24,18 @@
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2026-02-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-02-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -59,13 +48,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-23T21:36:17Z",
+  "generatedAt": "2026-02-24T01:05:39Z",
   "irCompanies": [
-    "Axon Enterprise Inc",
-    "MGM Resorts International"
+    "Axon Enterprise Inc"
   ],
   "fallbackCompanies": [
     "Expeditors International of Washington Inc",
