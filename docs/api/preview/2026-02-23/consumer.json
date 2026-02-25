@@ -13,12 +13,10 @@
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-02-24",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -27,26 +25,24 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lowe\u2019s Cos Inc",
       "symbol": "LOW",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "TJX Cos Inc",
       "symbol": "TJX",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -80,15 +76,14 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-24T21:26:38Z",
-  "irCompanies": [
-    "Home Depot Inc",
-    "Keurig Dr. Pepper"
-  ],
+  "generatedAt": "2026-02-25T01:11:08Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc",
+    "Home Depot Inc",
     "Hormel Foods",
     "J.M. Smucker Co",
+    "Keurig Dr. Pepper",
     "Lowe\u2019s Cos Inc",
     "Monster Beverage",
     "TJX Cos Inc"

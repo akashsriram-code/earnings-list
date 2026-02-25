@@ -13,12 +13,10 @@
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Expeditors International of Washington Inc",
@@ -33,29 +31,28 @@
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "VICI Properties Inc",
       "symbol": "VICI",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
   "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-24T21:26:38Z",
-  "irCompanies": [
-    "Axon Enterprise Inc"
-  ],
+  "generatedAt": "2026-02-25T01:11:07Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Axon Enterprise Inc",
     "Expeditors International of Washington Inc",
     "Keysight Technologies Inc",
     "Realty Income Corp",

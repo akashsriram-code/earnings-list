@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-02-24",
-      "bmo_amc": "08:30 AM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations"
-    },
-    {
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2026-02-24",
@@ -24,41 +13,28 @@
       "company": "CoStar Group",
       "symbol": "CSGP",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "GoDaddy",
       "symbol": "GDDY",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-02-24",
-      "bmo_amc": "4:00 PM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM EST",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lucid",
@@ -70,45 +46,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-24",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-02-24",
-      "bmo_amc": "08:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:00 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2026-02-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -124,36 +67,36 @@
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Snowflake",
       "symbol": "SNOW",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Synopsys",
       "symbol": "SNPS",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -169,9 +112,9 @@
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -232,10 +175,12 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "1:30 PM PT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "1:30 PM PT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qnity",
@@ -278,19 +223,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-24T21:26:41Z",
+  "generatedAt": "2026-02-25T01:11:07Z",
   "irCompanies": [
-    "AT&T",
-    "GoDaddy",
     "Intuit",
-    "Micron",
     "Qnity",
-    "Take-Two Interactive",
-    "Teradyne",
-    "Verizon"
+    "Teradyne"
   ],
   "fallbackCompanies": [
     "Alibaba",
@@ -302,8 +242,8 @@
     "CoreWeave",
     "Dell",
     "Duolingo",
+    "GoDaddy",
     "HP Inc",
-    "Intuit",
     "Lucid",
     "NVIDIA",
     "SBA Communications",
