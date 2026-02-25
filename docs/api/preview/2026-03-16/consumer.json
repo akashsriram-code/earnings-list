@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-03-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2026-03-18",
@@ -37,14 +46,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-25T09:44:26Z",
+  "generatedAt": "2026-02-25T12:39:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
     "Darden Restaurants",
+    "Dollar Tree",
     "General Mills",
     "Nike Inc"
   ],

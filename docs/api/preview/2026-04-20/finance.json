@@ -17,17 +17,57 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-25T09:45:27Z",
+  "generatedAt": "2026-02-25T12:40:35Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Bank of America",
+    "Citigroup",
+    "Interactive Brokers",
+    "PNC Financial",
     "W. R. Berkley Corp",
     "Zions Bancorporation"
   ],
