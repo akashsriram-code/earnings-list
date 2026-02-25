@@ -64,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Entergy Corp",
+      "symbol": "ETR",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Eversource Energy",
       "symbol": "ES",
       "date": "2026-02-12",
@@ -118,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-25T18:51:19Z",
+  "generatedAt": "2026-02-25T21:28:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -131,6 +140,7 @@
     "Duke Energy",
     "Ecolab",
     "Enbridge",
+    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",

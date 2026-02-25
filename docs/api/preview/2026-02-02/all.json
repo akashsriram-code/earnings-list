@@ -161,16 +161,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Dayforce",
-      "symbol": "DAY",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-02-04",
@@ -801,6 +791,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-02-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-02-06",
@@ -1201,16 +1201,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "UDR INC",
-      "symbol": "UDR",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-02-05",
@@ -1291,13 +1281,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 129,
+  "count": 128,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-25T18:51:11Z",
+  "generatedAt": "2026-02-25T21:28:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -1322,6 +1312,7 @@
     "CMS Energy Corp",
     "Camden Property Trust",
     "Cardinal Health Inc",
+    "Carlyle",
     "Carrier Global Corp",
     "Cboe Global Markets",
     "Cencora Inc",
@@ -1335,7 +1326,6 @@
     "Corteva",
     "Crown Castle",
     "DaVita Inc",
-    "Dayforce",
     "Digital Realty",
     "Disney",
     "Eaton Corporation PLC",
@@ -1419,7 +1409,6 @@
     "Teradyne",
     "TransDigm Group Inc",
     "Tyson Foods",
-    "UDR INC",
     "Uber",
     "Veralto Corp",
     "VeriSign",
