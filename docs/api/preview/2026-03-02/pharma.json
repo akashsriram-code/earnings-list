@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-03-03",
@@ -21,12 +32,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-26T15:45:11Z",
+  "generatedAt": "2026-02-26T18:39:18Z",
   "irCompanies": [
-    "Boston Scientific Corp"
+    "Boston Scientific Corp",
+    "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Cooper Companies Inc"
