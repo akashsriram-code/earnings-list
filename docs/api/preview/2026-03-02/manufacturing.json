@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-03-04",
+      "bmo_amc": "11:35 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:35 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-25T21:29:07Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-26T01:04:46Z",
+  "irCompanies": [
+    "UPS"
+  ],
   "fallbackCompanies": [
     "Autozone Inc"
   ],

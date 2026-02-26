@@ -15,10 +15,12 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-03-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Best Buy Co Inc",
@@ -28,6 +30,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-03-03",
+      "bmo_amc": "4:50 PM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:50 pm PST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Ross Stores",
@@ -93,12 +106,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-25T21:29:08Z",
+  "generatedAt": "2026-02-26T01:04:47Z",
   "irCompanies": [
-    "Kimco Realty Corp"
+    "Etsy Inc",
+    "Kimco Realty Corp",
+    "Norwegian Cruise Line"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
@@ -107,7 +122,6 @@
     "Campbell Soup Co",
     "Costco Wholesale Corp",
     "Kroger Co",
-    "Norwegian Cruise Line",
     "Ross Stores",
     "Target Corp"
   ],
