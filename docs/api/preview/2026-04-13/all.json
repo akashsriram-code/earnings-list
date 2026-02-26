@@ -1,24 +1,44 @@
 {
   "records": [
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
       "date": "2026-04-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "Goldman Sachs",
@@ -207,34 +227,24 @@
       "sector": "Finance"
     },
     {
-      "company": "CSX Corp",
-      "symbol": "CSX",
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
       "date": "2026-04-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Applied Digital",
@@ -255,16 +265,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
   "count": 26,
@@ -273,7 +273,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-26T04:49:26Z",
+  "generatedAt": "2026-02-26T06:49:22Z",
   "irCompanies": [
     "Citigroup",
     "JPMorgan",
