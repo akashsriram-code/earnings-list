@@ -24,8 +24,8 @@
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.micron.com/",
@@ -39,28 +39,18 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-26T09:40:29Z",
+  "generatedAt": "2026-02-26T12:39:35Z",
   "irCompanies": [
     "Micron",
     "Tencent Music"
   ],
   "fallbackCompanies": [
     "Accenture",
-    "Micron",
     "Xpeng"
   ],
   "week": {

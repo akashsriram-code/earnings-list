@@ -12,6 +12,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-03-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-03-12",
@@ -32,15 +41,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-26T09:40:16Z",
+  "generatedAt": "2026-02-26T12:39:22Z",
   "irCompanies": [
     "Coca-Cola Co",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
+    "Campbell Soup Co",
     "Dollar General"
   ],
   "week": {
