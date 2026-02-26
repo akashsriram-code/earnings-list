@@ -139,9 +139,9 @@
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -186,10 +186,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-02-26",
-      "bmo_amc": "8:00 AM EST",
+      "bmo_amc": "6:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EST",
+      "ir_time_label": "6:00 am EST",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
     },
@@ -197,10 +197,21 @@
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-02-26",
+      "bmo_amc": "10:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Teradyne",
@@ -217,19 +228,20 @@
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-26T12:38:58Z",
+  "generatedAt": "2026-02-26T15:44:58Z",
   "irCompanies": [
     "Intuit",
     "Qnity",
+    "Take-Two Interactive",
     "Teradyne"
   ],
   "fallbackCompanies": [
