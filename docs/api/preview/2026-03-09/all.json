@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-03-10",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-03-09",
@@ -39,22 +51,8 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-03-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     },
     {
       "company": "HPE",
@@ -163,7 +161,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-26T18:39:35Z",
+  "generatedAt": "2026-02-26T21:26:25Z",
   "irCompanies": [
     "Bank of America",
     "Becton Dickinson and Co",
@@ -171,8 +169,7 @@
     "Coca-Cola Co",
     "HPE",
     "Lam Research",
-    "PNC Financial",
-    "Ulta Beauty"
+    "PNC Financial"
   ],
   "fallbackCompanies": [
     "Adobe",
@@ -180,7 +177,8 @@
     "Campbell Soup Co",
     "Dollar General",
     "Oracle",
-    "SentinelOne"
+    "SentinelOne",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2026-03-09",

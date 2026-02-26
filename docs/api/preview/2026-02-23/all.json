@@ -81,6 +81,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-02-23",
@@ -470,10 +482,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-26",
-      "bmo_amc": "1:15 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:15 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -775,13 +787,13 @@
       "sector": "Resources"
     }
   ],
-  "count": 75,
+  "count": 76,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-26T18:39:06Z",
+  "generatedAt": "2026-02-26T21:26:02Z",
   "irCompanies": [
     "CIBC",
     "Centene Corp",
@@ -794,7 +806,8 @@
     "Solventum Corp",
     "Take-Two Interactive",
     "Teradyne",
-    "Truist Financial"
+    "Truist Financial",
+    "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "AES Corp",
