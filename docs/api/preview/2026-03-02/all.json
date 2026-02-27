@@ -1,6 +1,40 @@
 {
   "records": [
     {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-03-04",
+      "bmo_amc": "11:35 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:35 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-03-02",
@@ -63,28 +97,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-03-04",
-      "bmo_amc": "11:35 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:35 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     },
     {
       "company": "Kimco Realty Corp",
@@ -271,6 +283,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-03-05",
@@ -293,13 +315,13 @@
       "sector": "TMT"
     }
   ],
-  "count": 27,
+  "count": 29,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-27T12:34:48Z",
+  "generatedAt": "2026-02-27T15:32:06Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Etsy Inc",
@@ -308,12 +330,14 @@
     "Kimco Realty Corp",
     "Marvell",
     "Norwegian Cruise Line",
+    "Quanta Services Inc",
     "Rogers Communications",
     "Shopify",
     "SiriusXM",
     "UPS"
   ],
   "fallbackCompanies": [
+    "Alibaba",
     "Autozone Inc",
     "Bath & Body Works",
     "Best Buy Co Inc",
