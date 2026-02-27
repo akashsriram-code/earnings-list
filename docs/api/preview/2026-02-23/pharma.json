@@ -28,17 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Dentsply Sirona",
       "symbol": "XRAY",
       "date": "2026-02-26",
@@ -54,20 +43,16 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-02-26",
-      "bmo_amc": "4:30 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 pm EST",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Viatris",
@@ -79,20 +64,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-26T21:26:00Z",
-  "irCompanies": [
-    "Centene Corp",
-    "Novavax",
-    "Solventum Corp"
-  ],
+  "generatedAt": "2026-02-27T01:07:46Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
     "Dentsply Sirona",
     "Henry Schein Inc",
     "Hims and Hers",
+    "Novavax",
+    "Solventum Corp",
     "Viatris"
   ],
   "week": {

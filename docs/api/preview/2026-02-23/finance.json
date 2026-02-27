@@ -34,9 +34,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.cibc.com/en/about-cibc/investor-relations.html",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Royal Bank of Canada",
@@ -45,9 +43,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.rbc.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "TD Bank",
@@ -57,34 +53,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-26T21:26:00Z",
-  "irCompanies": [
-    "CIBC",
-    "Royal Bank of Canada",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-02-27T01:07:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
+    "CIBC",
     "Fidelity National Information Services",
+    "Royal Bank of Canada",
     "Scotiabank",
     "TD Bank"
   ],

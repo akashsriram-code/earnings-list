@@ -49,9 +49,9 @@
       "company": "Hormel Foods",
       "symbol": "HRL",
       "date": "2026-02-26",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -67,30 +67,17 @@
       "company": "Monster Beverage",
       "symbol": "MNST",
       "date": "2026-02-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-26T21:26:00Z",
-  "irCompanies": [
-    "Ulta Beauty"
-  ],
+  "generatedAt": "2026-02-27T01:07:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc",
     "Home Depot Inc",
