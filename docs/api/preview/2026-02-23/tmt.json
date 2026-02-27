@@ -139,8 +139,8 @@
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -181,6 +181,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2026-02-26",
@@ -199,10 +208,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-27T06:40:48Z",
+  "generatedAt": "2026-02-27T09:33:03Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
@@ -219,6 +228,7 @@
     "Intuit",
     "Lucid",
     "NVIDIA",
+    "Qnity",
     "SBA Communications",
     "Salesforce",
     "Snowflake",
