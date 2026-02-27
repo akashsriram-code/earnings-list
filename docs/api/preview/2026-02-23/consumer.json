@@ -71,13 +71,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-02-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-27T15:31:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-27T18:28:35Z",
+  "irCompanies": [
+    "Lululemon Athletica"
+  ],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc",
     "Home Depot Inc",
