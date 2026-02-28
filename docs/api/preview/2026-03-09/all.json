@@ -1,16 +1,48 @@
 {
   "records": [
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-03-10",
-      "bmo_amc": "8:30 AM EST",
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-03-09",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-03-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-03-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-03-12",
+      "bmo_amc": "4:30 PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm ET",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Bank of America",
@@ -137,48 +169,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-03-09",
-      "bmo_amc": "8:00 AM ET",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-03-10",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-03-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-03-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-03-12",
-      "bmo_amc": "4:30 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm ET",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     }
   ],
   "count": 16,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-28T12:24:45Z",
+  "generatedAt": "2026-02-28T15:14:45Z",
   "irCompanies": [
     "Bank of America",
     "Becton Dickinson and Co",
