@@ -27,9 +27,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Accenture",
@@ -44,13 +42,13 @@
   "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-28T09:19:06Z",
+  "generatedAt": "2026-02-28T12:24:55Z",
   "irCompanies": [
-    "Micron",
     "Tencent Music"
   ],
   "fallbackCompanies": [
     "Accenture",
+    "Micron",
     "Xpeng"
   ],
   "week": {
