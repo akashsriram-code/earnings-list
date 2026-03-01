@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
@@ -31,14 +40,23 @@
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -64,6 +82,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2026-02-12",
@@ -82,13 +109,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-01T09:21:06Z",
+  "generatedAt": "2026-03-01T12:25:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
+    "CVS Health Corp",
     "Edwards Lifesciences Corp",
     "Gilead",
     "Quest Diagnostics Inc",
@@ -96,6 +124,7 @@
     "Vertex Pharmaceuticals Inc",
     "Waters Corp",
     "West Pharmaceutical Services Inc",
+    "Zimmer Biomet Holdings Inc",
     "Zoetis"
   ],
   "week": {
