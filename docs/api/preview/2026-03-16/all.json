@@ -29,7 +29,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -141,9 +143,10 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-28T21:14:49Z",
+  "generatedAt": "2026-03-01T01:13:40Z",
   "irCompanies": [
     "Axon Enterprise Inc",
+    "Micron",
     "Tencent Music"
   ],
   "fallbackCompanies": [
@@ -155,7 +158,6 @@
     "General Mills",
     "Jabil Inc",
     "Lennar Corp",
-    "Micron",
     "Nike Inc",
     "Xpeng"
   ],
