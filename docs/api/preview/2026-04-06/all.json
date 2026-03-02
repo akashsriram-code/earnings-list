@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-04-10",
@@ -31,6 +43,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-04-08",
@@ -59,26 +81,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-01T21:17:04Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-02T01:07:18Z",
+  "irCompanies": [
+    "BlackBerry"
+  ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
     "BlackRock Inc",
