@@ -11,16 +11,6 @@
       "sector": "TMT"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-31",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-04-02",
@@ -39,6 +29,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 4,
@@ -47,7 +47,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-02T06:46:06Z",
+  "generatedAt": "2026-03-02T09:40:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "BlackBerry",
