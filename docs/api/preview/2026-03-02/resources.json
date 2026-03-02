@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2026-03-02",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator"
+    },
+    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2026-03-02",
@@ -28,12 +37,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-02T09:39:14Z",
+  "generatedAt": "2026-03-02T12:34:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AES Corp",
     "Canadian Natural Resources",
     "New Fortress Energy",
     "Venture Global"

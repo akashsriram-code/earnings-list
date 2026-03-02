@@ -31,8 +31,8 @@
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-04-24",
@@ -100,20 +109,31 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.danaher.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
+      "date": "2026-04-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-02T09:40:46Z",
+  "generatedAt": "2026-03-02T12:35:52Z",
   "irCompanies": [
     "Danaher Corp"
   ],
   "fallbackCompanies": [
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
+    "Centene Corp",
     "Edwards Lifesciences Corp",
     "Gilead",
+    "HCA Healthcare Inc",
     "Healthpeak Properties",
     "Johnson & Johnson",
     "Merck",

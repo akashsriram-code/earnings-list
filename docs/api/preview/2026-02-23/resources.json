@@ -100,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "AES Corp",
-      "symbol": "AES",
-      "date": "2026-02-26",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
       "company": "Cheniere Energy",
       "symbol": "LNG",
       "date": "2026-02-26",
@@ -175,19 +166,18 @@
       "company": "Hawaiian Electric",
       "symbol": "HE",
       "date": "2026-02-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-02T09:39:03Z",
+  "generatedAt": "2026-03-02T12:34:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "AES Corp",
     "APA",
     "Cheniere Energy",
     "Constellation Energy",

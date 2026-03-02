@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Nike Inc",
+      "symbol": "NKE",
+      "date": "2026-03-31",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-04-02",
@@ -19,14 +28,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-02T09:40:10Z",
+  "generatedAt": "2026-03-02T12:35:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Conagra Brands",
-    "Lamb Weston Holdings"
+    "Lamb Weston Holdings",
+    "Nike Inc"
   ],
   "week": {
     "id": "2026-03-30",
