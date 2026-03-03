@@ -4,8 +4,8 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-03-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -30,6 +30,28 @@
       "source": "investor_relations"
     },
     {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-03-03",
+      "bmo_amc": "2:10 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:10 pm EST",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-03-03",
@@ -45,7 +67,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Bath & Body Works",
@@ -84,12 +108,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-03T09:33:44Z",
+  "generatedAt": "2026-03-03T12:34:15Z",
   "irCompanies": [
-    "Etsy Inc"
+    "Etsy Inc",
+    "Kimco Realty Corp",
+    "Lululemon Athletica",
+    "Target Corp"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
@@ -98,8 +125,7 @@
     "Costco Wholesale Corp",
     "Kroger Co",
     "Norwegian Cruise Line",
-    "Ross Stores",
-    "Target Corp"
+    "Ross Stores"
   ],
   "week": {
     "id": "2026-03-02",
