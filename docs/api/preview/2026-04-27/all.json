@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-04-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Brown & Brown",
-      "symbol": "BRO",
-      "date": "2026-04-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-04-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-04-27",
@@ -51,6 +21,36 @@
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Alexandria Real Estate Equities Inc",
+      "symbol": "ARE",
+      "date": "2026-04-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nucor Corp",
+      "symbol": "NUE",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Cadence",
@@ -113,34 +113,34 @@
       "sector": "TMT"
     },
     {
-      "company": "Alexandria Real Estate Equities Inc",
-      "symbol": "ARE",
-      "date": "2026-04-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nucor Corp",
-      "symbol": "NUE",
+      "company": "Revvity",
+      "symbol": "RVTY",
       "date": "2026-04-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
+      "company": "Brown & Brown",
+      "symbol": "BRO",
       "date": "2026-04-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 14,
@@ -149,7 +149,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-03T15:41:58Z",
+  "generatedAt": "2026-03-03T18:37:36Z",
   "irCompanies": [
     "Estee Lauder"
   ],
