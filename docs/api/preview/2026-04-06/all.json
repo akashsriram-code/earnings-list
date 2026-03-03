@@ -31,14 +31,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Delta Air",
@@ -71,16 +73,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 8,
@@ -89,7 +89,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-03T01:09:04Z",
+  "generatedAt": "2026-03-03T04:34:33Z",
   "irCompanies": [
     "BlackBerry"
   ],
