@@ -1,16 +1,44 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-04-28",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Brown & Brown",
+      "symbol": "BRO",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Estee Lauder",
@@ -23,20 +51,123 @@
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Cadence",
+      "symbol": "CDNS",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "F5",
+      "symbol": "FFIV",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "NXP Semiconductors",
+      "symbol": "NXPI",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "SBA Communications",
+      "symbol": "SBAC",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alexandria Real Estate Equities Inc",
+      "symbol": "ARE",
+      "date": "2026-04-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nucor Corp",
+      "symbol": "NUE",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 2,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-03T12:36:06Z",
+  "generatedAt": "2026-03-03T15:41:58Z",
   "irCompanies": [
-    "Centene Corp",
     "Estee Lauder"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Alexandria Real Estate Equities Inc",
+    "Brown & Brown",
+    "Cadence",
+    "Cincinnati Financial",
+    "Domino\u2019s Pizza Inc",
+    "F5",
+    "NXP Semiconductors",
+    "Nucor Corp",
+    "Revvity",
+    "Roper Technologies",
+    "SBA Communications",
+    "Teradyne",
+    "Waste Management Inc"
+  ],
   "week": {
     "id": "2026-04-27",
     "start_date": "2026-04-27",
