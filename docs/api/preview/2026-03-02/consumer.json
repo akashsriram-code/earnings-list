@@ -4,31 +4,18 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-03-02",
-      "bmo_amc": "8:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Target Corp",
-      "symbol": "TGT",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.target.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -57,18 +44,18 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Target Corp",
       "symbol": "TGT",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -108,15 +95,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-02T21:26:05Z",
+  "generatedAt": "2026-03-03T01:07:56Z",
   "irCompanies": [
     "Etsy Inc",
-    "Kimco Realty Corp",
-    "Norwegian Cruise Line",
-    "Target Corp"
+    "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
@@ -124,6 +109,7 @@
     "Brown-Forman Corp",
     "Costco Wholesale Corp",
     "Kroger Co",
+    "Norwegian Cruise Line",
     "Ross Stores",
     "Target Corp"
   ],
