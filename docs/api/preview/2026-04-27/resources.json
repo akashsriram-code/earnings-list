@@ -1,11 +1,53 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Baker Hughes",
+      "symbol": "BKR",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Enphase Energy",
+      "symbol": "ENPH",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-04T09:33:42Z",
+  "generatedAt": "2026-03-04T12:34:42Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Baker Hughes",
+    "EQT Corp",
+    "Enphase Energy",
+    "Halliburton"
+  ],
   "week": {
     "id": "2026-04-27",
     "start_date": "2026-04-27",

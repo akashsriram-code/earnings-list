@@ -1,60 +1,40 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-03-09",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-03-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-03-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-03-12",
-      "bmo_amc": "4:30 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm ET",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
+      "company": "Bank of America",
+      "symbol": "BAC",
       "date": "2026-03-10",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "1:20 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
+      "ir_time_label": "1:20 pm ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-03-10",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-03-10",
+      "bmo_amc": "10:40 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:40 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "AT&T",
@@ -125,18 +105,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-03-11",
-      "bmo_amc": "9:15AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:15am PST",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Adobe",
       "symbol": "ADBE",
       "date": "2026-03-12",
@@ -155,6 +123,50 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-03-09",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-03-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-03-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-03-12",
+      "bmo_amc": "4:30 PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm ET",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Lennar Corp",
@@ -179,49 +191,25 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
       "date": "2026-03-10",
-      "bmo_amc": "1:20 PM ET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:20 pm ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-03-10",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-03-10",
-      "bmo_amc": "10:40 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:40 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-04T09:32:11Z",
+  "generatedAt": "2026-03-04T12:33:09Z",
   "irCompanies": [
     "AT&T",
     "Bank of America",
@@ -231,7 +219,6 @@
     "Fox Corp",
     "HPE",
     "Juniper Networks",
-    "Lam Research",
     "Lennar Corp",
     "PNC Financial",
     "Ulta Beauty"

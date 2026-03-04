@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-03-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2026-03-18",
@@ -37,16 +46,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-04T09:32:24Z",
+  "generatedAt": "2026-03-04T12:33:21Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
     "Darden Restaurants",
     "Dollar Tree",
-    "General Mills"
+    "General Mills",
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2026-03-16",

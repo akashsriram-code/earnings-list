@@ -24,8 +24,8 @@
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -34,8 +34,8 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -44,8 +44,8 @@
       "company": "Target Corp",
       "symbol": "TGT",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -91,33 +91,11 @@
       "sector": "Consumer"
     },
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-03-04",
-      "bmo_amc": "11:35 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:35 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -126,8 +104,8 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -213,6 +191,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-03-04",
+      "bmo_amc": "11:35 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:35 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 21,
@@ -221,7 +221,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-04T09:31:57Z",
+  "generatedAt": "2026-03-04T12:32:58Z",
   "irCompanies": [
     "Marvell",
     "UPS"
