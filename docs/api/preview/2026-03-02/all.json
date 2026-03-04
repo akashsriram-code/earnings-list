@@ -31,13 +31,25 @@
       "sector": "TMT"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-03-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-03-04",
-      "bmo_amc": "10:08 AM ET",
+      "bmo_amc": "1:12 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:08 AM ET",
+      "ir_time_label": "1:12 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -73,102 +85,6 @@
       "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "AES Corp",
-      "symbol": "AES",
-      "date": "2026-03-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Canadian Natural Resources",
-      "symbol": "CNQ",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-03-04",
-      "bmo_amc": "11:35 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:35 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-03-04",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-03-04",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
     },
     {
       "company": "Norwegian Cruise Line",
@@ -249,6 +165,90 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-03-04",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-03-04",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2026-03-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Canadian Natural Resources",
+      "symbol": "CNQ",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 24,
@@ -257,12 +257,12 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-04T15:31:39Z",
+  "generatedAt": "2026-03-04T18:34:52Z",
   "irCompanies": [
+    "Live Nation Entertainment",
     "Marvell",
     "PNC Financial",
     "Take-Two Interactive",
-    "UPS",
     "Veralto Corp"
   ],
   "fallbackCompanies": [
