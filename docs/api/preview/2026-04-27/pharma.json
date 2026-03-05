@@ -62,13 +62,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-05T19:10:24Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-05T21:27:59Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Danaher Corp",

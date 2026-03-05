@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Seagate",
-      "symbol": "STX",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-01-22",
@@ -37,16 +28,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-05T19:07:18Z",
+  "generatedAt": "2026-03-05T21:24:51Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Intel",
     "Mobileye",
-    "Netflix",
-    "Seagate"
+    "Netflix"
   ],
   "week": {
     "id": "2026-01-19",
