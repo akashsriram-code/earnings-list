@@ -40,9 +40,9 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-03-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -55,14 +55,26 @@
       "ir_time_label": "1:45 pm PST",
       "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-03-05",
+      "bmo_amc": "10:21 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:21 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-05T12:36:54Z",
+  "generatedAt": "2026-03-05T15:42:11Z",
   "irCompanies": [
-    "Marvell"
+    "Marvell",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Alibaba",

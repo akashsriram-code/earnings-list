@@ -67,17 +67,30 @@
       "company": "Kroger Co",
       "symbol": "KR",
       "date": "2026-03-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-05T12:36:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-05T15:42:10Z",
+  "irCompanies": [
+    "Sysco Corp"
+  ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Best Buy Co Inc",
