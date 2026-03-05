@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Bank of New York Mellon",
-      "symbol": "BK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-10",
@@ -28,16 +19,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-05T09:36:08Z",
+  "generatedAt": "2026-03-05T12:38:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Bank of New York Mellon",
     "BlackRock Inc",
     "JPMorgan"
   ],

@@ -40,8 +40,8 @@
       "company": "Raymond James",
       "symbol": "RJF",
       "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-04-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Aon",
       "symbol": "AON",
       "date": "2026-04-24",
@@ -109,15 +118,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-05T09:36:34Z",
+  "generatedAt": "2026-03-05T12:38:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "American Express",
     "Ameriprise Financial Inc",
     "Aon",
     "CME Group Inc",

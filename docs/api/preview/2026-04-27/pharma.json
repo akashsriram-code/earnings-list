@@ -44,16 +44,36 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Aflac Inc",
+      "symbol": "AFL",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-05T09:36:45Z",
+  "generatedAt": "2026-03-05T12:38:51Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Aflac Inc",
     "Danaher Corp",
     "Elevance Health Inc",
+    "GE HealthCare Technologies Inc",
     "Intuitive Surgical Inc",
     "Quest Diagnostics Inc",
     "Revvity"

@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Nike Inc",
       "symbol": "NKE",
       "date": "2026-03-31",
@@ -33,9 +23,9 @@
     {
       "company": "Lamb Weston Holdings",
       "symbol": "LW",
-      "date": "2026-04-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "date": "2026-04-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -51,16 +41,15 @@
       "sector": "Finance"
     }
   ],
-  "count": 5,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-05T09:35:56Z",
+  "generatedAt": "2026-03-05T12:37:51Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "BlackBerry",
     "Conagra Brands",
     "FactSet Research",
     "Lamb Weston Holdings",
