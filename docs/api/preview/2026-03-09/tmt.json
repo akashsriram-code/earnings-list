@@ -72,6 +72,17 @@
       "source": "aggregator"
     },
     {
+      "company": "KLA Corp",
+      "symbol": "KLAC",
+      "date": "2026-03-12",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-03-12",
@@ -81,15 +92,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-04T21:26:47Z",
+  "generatedAt": "2026-03-05T01:06:53Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
     "HPE",
-    "Juniper Networks"
+    "Juniper Networks",
+    "KLA Corp"
   ],
   "fallbackCompanies": [
     "Adobe",
