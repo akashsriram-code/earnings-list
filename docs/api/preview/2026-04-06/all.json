@@ -31,16 +31,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "BlackRock Inc",
@@ -63,14 +61,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 7,
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-06T12:33:07Z",
+  "generatedAt": "2026-03-06T15:30:13Z",
   "irCompanies": [
     "BlackBerry"
   ],
