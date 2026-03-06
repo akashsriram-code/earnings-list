@@ -94,6 +94,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-03-12",
@@ -114,10 +123,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-06T09:30:27Z",
+  "generatedAt": "2026-03-06T12:32:16Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
@@ -129,6 +138,7 @@
   ],
   "fallbackCompanies": [
     "Adobe",
+    "Alibaba",
     "Bumble",
     "Oracle",
     "SentinelOne"
