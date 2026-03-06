@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-10",
@@ -59,18 +71,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
   "count": 7,
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-06T18:32:37Z",
+  "generatedAt": "2026-03-06T21:23:07Z",
   "irCompanies": [
     "BlackBerry"
   ],
