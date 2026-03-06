@@ -85,8 +85,8 @@
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "CMS Energy Corp",
       "symbol": "CMS",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -118,19 +118,28 @@
       "source": "aggregator"
     },
     {
+      "company": "WEC Energy Group Inc",
+      "symbol": "WEC",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-06T04:28:16Z",
+  "generatedAt": "2026-03-06T06:35:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
@@ -146,6 +155,7 @@
     "Marathon Petroleum",
     "Phillips 66",
     "Suncor Energy",
+    "WEC Energy Group Inc",
     "Xcel Energy Inc"
   ],
   "week": {
