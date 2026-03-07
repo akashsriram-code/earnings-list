@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-03-10",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-03-10",
@@ -12,11 +23,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-07T15:15:55Z",
+  "generatedAt": "2026-03-07T18:20:40Z",
   "irCompanies": [
+    "Becton Dickinson and Co",
     "Medtronic PLC"
   ],
   "fallbackCompanies": [],
