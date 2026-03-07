@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-04-15",
@@ -225,36 +245,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-04-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-04-15",
@@ -295,6 +285,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 29,
@@ -303,7 +303,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-07T01:03:50Z",
+  "generatedAt": "2026-03-07T04:21:13Z",
   "irCompanies": [
     "JPMorgan",
     "Prologis Inc",
