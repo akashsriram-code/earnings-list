@@ -1,24 +1,56 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-04-13",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     },
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-16",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
       "company": "Abbott Laboratories",
@@ -39,6 +71,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Goldman Sachs",
@@ -243,58 +295,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "CSX Corp",
-      "symbol": "CSX",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-04-16",
-      "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 PM ET",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
   "count": 29,
@@ -303,7 +303,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-07T04:21:13Z",
+  "generatedAt": "2026-03-07T06:28:54Z",
   "irCompanies": [
     "JPMorgan",
     "Prologis Inc",
