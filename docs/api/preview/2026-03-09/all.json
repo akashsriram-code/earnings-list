@@ -1,6 +1,62 @@
 {
   "records": [
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-03-10",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-03-10",
+      "bmo_amc": "10:30 A.M. EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 a.m. EST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-03-09",
@@ -45,50 +101,52 @@
       "sector": "Consumer"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-03-10",
+      "bmo_amc": "1:20 PM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "1:20 pm ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-13",
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-03-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
+      "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
+      "company": "Citizens Financial",
+      "symbol": "CFG",
       "date": "2026-03-10",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "11:20 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
+      "company": "PNC Financial",
+      "symbol": "PNC",
       "date": "2026-03-10",
-      "bmo_amc": "10:30 A.M. EST",
+      "bmo_amc": "10:40 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 a.m. EST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "ir_time_label": "10:40 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
       "company": "AT&T",
@@ -223,64 +281,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-03-10",
-      "bmo_amc": "1:20 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:20 pm ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-03-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-03-10",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-03-10",
-      "bmo_amc": "10:40 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:40 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
   "count": 25,
@@ -289,7 +289,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-08T01:06:53Z",
+  "generatedAt": "2026-03-08T04:30:59Z",
   "irCompanies": [
     "AT&T",
     "Bank of America",
