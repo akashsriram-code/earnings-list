@@ -100,20 +100,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Philip Morris International",
-      "symbol": "PM",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Ralph Lauren Corp",
       "symbol": "RL",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -130,17 +121,8 @@
       "company": "Tapestry Inc",
       "symbol": "TPR",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Yum Brands",
-      "symbol": "YUM",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -154,10 +136,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-09T04:47:25Z",
+  "generatedAt": "2026-03-09T06:48:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
