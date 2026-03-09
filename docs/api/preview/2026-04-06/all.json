@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-04-09",
@@ -23,24 +13,14 @@
       "sector": "TMT"
     },
     {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
       "company": "Delta Air",
@@ -71,6 +51,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 7,
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-09T15:49:31Z",
+  "generatedAt": "2026-03-09T18:40:01Z",
   "irCompanies": [
     "BlackBerry"
   ],
