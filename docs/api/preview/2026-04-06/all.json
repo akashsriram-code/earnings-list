@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-04-08",
@@ -41,18 +53,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-10",
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-08T21:17:09Z",
+  "generatedAt": "2026-03-09T01:08:17Z",
   "irCompanies": [
     "BlackBerry"
   ],
