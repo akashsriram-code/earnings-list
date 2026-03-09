@@ -49,13 +49,25 @@
       "sector": "TMT"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-03-09",
-      "bmo_amc": "2:18 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:18 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -137,6 +149,30 @@
       "sector": "TMT"
     },
     {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-03-10",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-03-10",
+      "bmo_amc": "10:30 A.M. ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 a.m. ET",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-03-09",
@@ -181,28 +217,26 @@
       "sector": "Consumer"
     },
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-03-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-03-10",
-      "bmo_amc": "10:30 A.M. ET",
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 a.m. ET",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "Quanta Services Inc",
@@ -237,16 +271,6 @@
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Bank of America",
@@ -288,22 +312,22 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-03-10",
-      "bmo_amc": "10:40 AM EST",
+      "bmo_amc": "10:40 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:40 am EST",
+      "ir_time_label": "10:40 am EDT",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations",
       "sector": "Finance"
     }
   ],
-  "count": 26,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-09T18:39:09Z",
+  "generatedAt": "2026-03-09T21:24:56Z",
   "irCompanies": [
     "AT&T",
     "Bank of America",
@@ -316,6 +340,8 @@
     "Juniper Networks",
     "KLA Corp",
     "Lennar Corp",
+    "Live Nation Entertainment",
+    "MGM Resorts International",
     "Medtronic PLC",
     "PNC Financial",
     "Quanta Services Inc",
