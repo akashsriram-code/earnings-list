@@ -43,20 +43,32 @@
       "ir_time_label": "10:40 am EDT",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-03-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-10T09:36:03Z",
+  "generatedAt": "2026-03-10T12:36:26Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
-    "PNC Financial"
+    "PNC Financial",
+    "Truist Financial"
   ],
   "fallbackCompanies": [],
   "week": {

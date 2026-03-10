@@ -1,11 +1,43 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Clorox Co",
+      "symbol": "CLX",
+      "date": "2026-05-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2026-05-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2026-05-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-10T09:37:56Z",
+  "generatedAt": "2026-03-10T12:38:07Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Clorox Co",
+    "Mattel",
+    "Tyson Foods"
+  ],
   "week": {
     "id": "2026-05-04",
     "start_date": "2026-05-04",
