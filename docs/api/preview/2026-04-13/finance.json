@@ -16,7 +16,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     },
     {
       "company": "JPMorgan",
@@ -80,10 +82,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-04-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Progressive Corporation",
@@ -191,9 +195,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-10T12:37:30Z",
+  "generatedAt": "2026-03-10T15:53:23Z",
   "irCompanies": [
+    "Citigroup",
     "JPMorgan",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -201,7 +207,6 @@
     "Bank of New York Mellon",
     "Blackstone",
     "Charles Schwab",
-    "Citigroup",
     "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",
@@ -209,7 +214,6 @@
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

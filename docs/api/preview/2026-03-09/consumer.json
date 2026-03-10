@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-03-10",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-03-11",
@@ -22,21 +33,25 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-03-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm ET",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-10T12:36:26Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-10T15:52:15Z",
+  "irCompanies": [
+    "Norwegian Cruise Line",
+    "Ulta Beauty"
+  ],
   "fallbackCompanies": [
     "Campbell Soup Co",
-    "Dollar General",
-    "Ulta Beauty"
+    "Dollar General"
   ],
   "week": {
     "id": "2026-03-09",
