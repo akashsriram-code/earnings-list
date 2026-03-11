@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-31",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Nike Inc",
       "symbol": "NKE",
       "date": "2026-03-31",
@@ -41,6 +31,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-03-31",
@@ -59,7 +59,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-11T09:35:43Z",
+  "generatedAt": "2026-03-11T12:36:50Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],

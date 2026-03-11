@@ -13,8 +13,8 @@
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2026-03-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -26,6 +26,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Shopify",
@@ -79,12 +90,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-11T09:35:01Z",
+  "generatedAt": "2026-03-11T12:36:11Z",
   "irCompanies": [
     "KLA Corp",
+    "Paychex",
     "Shopify",
     "Teradyne"
   ],

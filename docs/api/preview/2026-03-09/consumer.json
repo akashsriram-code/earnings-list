@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-03-12",
@@ -30,11 +41,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-11T09:34:59Z",
+  "generatedAt": "2026-03-11T12:36:11Z",
   "irCompanies": [
+    "Target Corp",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
