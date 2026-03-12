@@ -14,9 +14,9 @@
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-03-12",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -31,6 +31,30 @@
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "HPE",
@@ -95,16 +119,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
       "date": "2026-03-12",
-      "bmo_amc": "TBD",
+      "bmo_amc": "11:24 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "ir_time_label": "11:24 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
       "company": "Lennar Corp",
@@ -129,16 +153,18 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 12,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-12T12:35:02Z",
+  "generatedAt": "2026-03-12T15:48:23Z",
   "irCompanies": [
+    "Bank of America",
     "KLA Corp",
     "Lennar Corp",
+    "Take-Two Interactive",
     "Truist Financial",
     "Ulta Beauty"
   ],

@@ -10,20 +10,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Ford Motor Co",
-      "symbol": "F",
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Harley Davidson",
-      "symbol": "HOG",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,20 +136,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Public Storage",
-      "symbol": "PSA",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,34 +148,32 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-12T12:34:12Z",
+  "generatedAt": "2026-03-12T15:47:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
+    "Carrier Global Corp",
     "Deere",
     "Expedia Group Inc",
-    "Ford Motor Co",
     "Frontier Holdings",
     "Generac Holdings Inc",
-    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
-    "Public Storage",
     "UDR INC",
     "Wabtec",
     "Wynn Resorts Ltd"
