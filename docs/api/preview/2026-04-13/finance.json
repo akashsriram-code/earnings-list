@@ -120,10 +120,12 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:20 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Huntington Bancshares",
@@ -195,9 +197,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-12T15:49:23Z",
+  "generatedAt": "2026-03-12T18:41:33Z",
   "irCompanies": [
     "Citigroup",
+    "Citizens Financial",
     "JPMorgan",
     "PNC Financial",
     "Wells Fargo"
@@ -207,7 +210,6 @@
     "Bank of New York Mellon",
     "Blackstone",
     "Charles Schwab",
-    "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",
     "Huntington Bancshares",
