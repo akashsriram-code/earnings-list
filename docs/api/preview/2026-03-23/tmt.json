@@ -35,23 +35,25 @@
       "company": "Paychex",
       "symbol": "PAYX",
       "date": "2026-03-25",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-11T21:25:28Z",
+  "generatedAt": "2026-03-12T01:00:35Z",
   "irCompanies": [
     "HPE",
-    "Juniper Networks"
+    "Juniper Networks",
+    "Paychex"
   ],
   "fallbackCompanies": [
-    "GameStop",
-    "Paychex"
+    "GameStop"
   ],
   "week": {
     "id": "2026-03-23",

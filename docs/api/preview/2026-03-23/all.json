@@ -38,10 +38,12 @@
       "company": "Paychex",
       "symbol": "PAYX",
       "date": "2026-03-25",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -58,10 +60,10 @@
       "company": "Smithfield Foods",
       "symbol": "SFD",
       "date": "2026-03-24",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
+      "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://investors.smithfieldfoods.com/",
       "source": "investor_relations",
       "sector": "Consumer"
@@ -83,17 +85,17 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-11T21:25:30Z",
+  "generatedAt": "2026-03-12T01:00:37Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
+    "Paychex",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
     "Cintas Corp",
     "GameStop",
-    "McCormick & Co",
-    "Paychex"
+    "McCormick & Co"
   ],
   "week": {
     "id": "2026-03-23",

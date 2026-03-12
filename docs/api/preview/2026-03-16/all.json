@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2026-03-16",
@@ -63,6 +73,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-03-17",
+      "bmo_amc": "4:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-03-18",
@@ -83,14 +105,16 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-03-18",
+      "bmo_amc": "10:30 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "ir_time_label": "10:30 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Tencent Music",
@@ -147,30 +171,19 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-03-18",
-      "bmo_amc": "10:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-11T21:25:15Z",
+  "generatedAt": "2026-03-12T01:00:24Z",
   "irCompanies": [
     "Alaska Air",
     "Alibaba",
+    "Honeywell",
     "Micron",
     "Solventum Corp",
     "Tencent Music"
