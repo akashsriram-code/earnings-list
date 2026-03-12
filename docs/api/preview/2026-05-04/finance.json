@@ -80,15 +80,42 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Sun Life",
+      "symbol": "SLF",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-05-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-12T09:37:16Z",
+  "generatedAt": "2026-03-12T12:36:43Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",
@@ -97,8 +124,11 @@
     "Fidelity National Information Services",
     "Global Payments",
     "Jack Henry and Associates",
+    "Manulife",
     "PayPal Holdings",
     "S&P Global Inc",
+    "Sun Life",
+    "TPG",
     "Visa"
   ],
   "week": {

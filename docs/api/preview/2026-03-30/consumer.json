@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-03-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Nike Inc",
       "symbol": "NKE",
       "date": "2026-03-31",
@@ -28,14 +37,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-12T09:36:11Z",
+  "generatedAt": "2026-03-12T12:35:42Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Conagra Brands",
     "Lamb Weston Holdings",
+    "McCormick & Co",
     "Nike Inc"
   ],
   "week": {
