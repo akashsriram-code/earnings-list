@@ -57,6 +57,16 @@
       "sector": "TMT"
     },
     {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-16",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-03-17",
@@ -65,18 +75,6 @@
       "yahoo_time_label": null,
       "ir_time_label": "10:10 a.m. EDT",
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-03-17",
-      "bmo_amc": "4:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 AM EDT",
-      "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
     },
@@ -111,18 +109,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-03-18",
-      "bmo_amc": "10:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     },
     {
       "company": "Dollar Tree",
@@ -175,27 +161,28 @@
       "sector": "Consumer"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-16",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Resources"
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-03-18",
+      "bmo_amc": "10:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-13T01:05:52Z",
+  "generatedAt": "2026-03-13T04:31:49Z",
   "irCompanies": [
     "Alaska Air",
     "Alibaba",
-    "Honeywell",
     "Micron",
     "Parker-Hannifin Corp",
     "Solventum Corp",

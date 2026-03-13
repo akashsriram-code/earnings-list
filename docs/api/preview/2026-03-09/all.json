@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-13",
-      "bmo_amc": "11:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 AM ET",
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-03-11",
@@ -51,6 +29,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-13",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM ET",
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "HPE",
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-13T01:05:41Z",
+  "generatedAt": "2026-03-13T04:31:36Z",
   "irCompanies": [
     "Lennar Corp"
   ],
