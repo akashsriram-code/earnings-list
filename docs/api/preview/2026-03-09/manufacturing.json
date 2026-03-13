@@ -4,22 +4,33 @@
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-03-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-13",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM ET",
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-12T21:25:59Z",
+  "generatedAt": "2026-03-13T01:05:38Z",
   "irCompanies": [
     "Lennar Corp"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Lennar Corp"
+  ],
   "week": {
     "id": "2026-03-09",
     "start_date": "2026-03-09",

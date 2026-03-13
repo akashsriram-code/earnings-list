@@ -13,33 +13,30 @@
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-03-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-03-12",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-12T21:25:59Z",
-  "irCompanies": [
-    "Ulta Beauty"
-  ],
+  "generatedAt": "2026-03-13T01:05:39Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Campbell Soup Co",
-    "Dollar General"
+    "Dollar General",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2026-03-09",
