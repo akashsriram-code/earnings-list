@@ -1,76 +1,60 @@
 {
   "records": [
     {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
-      "date": "2026-03-16",
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-03-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-03-17",
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-03-18",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "General Mills",
-      "symbol": "GIS",
-      "date": "2026-03-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
+      "company": "Accenture",
+      "symbol": "ACN",
       "date": "2026-03-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-03-19",
+      "bmo_amc": "7:30 PM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 PM",
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
       "date": "2026-03-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-16",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
       "company": "Alaska Air",
@@ -141,60 +125,76 @@
       "sector": "Pharma"
     },
     {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-03-17",
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-03-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-03-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-03-18",
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-03-17",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
-      "company": "Accenture",
-      "symbol": "ACN",
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-03-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
       "date": "2026-03-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-03-19",
-      "bmo_amc": "7:30 PM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30 PM",
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
+      "company": "Carnival Corp",
+      "symbol": "CCL",
       "date": "2026-03-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 18,
@@ -203,7 +203,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-13T21:26:12Z",
+  "generatedAt": "2026-03-14T01:05:31Z",
   "irCompanies": [
     "Alaska Air",
     "Alibaba",

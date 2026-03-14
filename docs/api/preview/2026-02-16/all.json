@@ -291,6 +291,26 @@
       "sector": "Resources"
     },
     {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-02-17",
@@ -379,26 +399,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -551,6 +551,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-02-19",
@@ -581,13 +591,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 58,
+  "count": 59,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-13T21:25:23Z",
+  "generatedAt": "2026-03-14T01:04:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -607,6 +617,7 @@
     "Consolidated Edison",
     "Constellation Energy",
     "DTE",
+    "Deere",
     "Devon Energy",
     "DoorDash",
     "EPAM",
