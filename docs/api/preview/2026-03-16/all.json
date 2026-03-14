@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-03-17",
@@ -69,48 +57,28 @@
       "sector": "TMT"
     },
     {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-03-17",
-      "bmo_amc": "10:10 A.M. EDT",
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-03-18",
+      "bmo_amc": "10:30 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:10 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "ir_time_label": "10:30 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
+      "company": "Morgan Stanley",
+      "symbol": "MS",
       "date": "2026-03-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-03-18",
-      "bmo_amc": "6:30 AM EDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
       "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-03-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Dollar Tree",
@@ -173,28 +141,73 @@
       "sector": "Resources"
     },
     {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-03-18",
-      "bmo_amc": "10:30 AM EDT",
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-03-17",
+      "bmo_amc": "10:10 A.M. EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
+      "ir_time_label": "10:10 a.m. EDT",
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-03-17",
+      "bmo_amc": "4:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-03-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-03-18",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-03-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-14T09:25:23Z",
+  "generatedAt": "2026-03-14T12:27:38Z",
   "irCompanies": [
     "Alaska Air",
     "Alibaba",
+    "Honeywell",
     "Micron",
     "Morgan Stanley",
     "Parker-Hannifin Corp",
