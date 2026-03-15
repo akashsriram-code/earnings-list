@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-31",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-03-31",
@@ -61,6 +51,16 @@
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 6,
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-15T15:22:26Z",
+  "generatedAt": "2026-03-15T18:26:17Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],
