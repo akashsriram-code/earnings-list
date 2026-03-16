@@ -22,8 +22,8 @@
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Figma",
       "symbol": "FIG",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Garmin",
       "symbol": "GRMN",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,17 @@
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "eBay",
+      "symbol": "EBAY",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,10 +100,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-16T09:55:31Z",
+  "generatedAt": "2026-03-16T12:45:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -106,7 +115,8 @@
     "Garmin",
     "Live Nation Entertainment",
     "Omnicom",
-    "Palo Alto"
+    "Palo Alto",
+    "eBay"
   ],
   "week": {
     "id": "2026-02-16",
