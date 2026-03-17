@@ -4,18 +4,18 @@
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2026-03-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-03-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -49,7 +49,7 @@
   "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-16T21:31:17Z",
+  "generatedAt": "2026-03-17T01:07:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",

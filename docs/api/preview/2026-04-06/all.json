@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Delta Air",
@@ -31,16 +33,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Constellation Brands",
@@ -59,7 +59,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-16T21:31:57Z",
+  "generatedAt": "2026-03-17T01:08:13Z",
   "irCompanies": [
     "BlackBerry"
   ],

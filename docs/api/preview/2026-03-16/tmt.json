@@ -1,34 +1,12 @@
 {
   "records": [
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-03-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-03-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-03-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
@@ -85,16 +63,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-16T21:31:17Z",
+  "generatedAt": "2026-03-17T01:07:32Z",
   "irCompanies": [
     "Alibaba",
-    "Live Nation Entertainment",
     "Marvell",
     "Micron",
-    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [
