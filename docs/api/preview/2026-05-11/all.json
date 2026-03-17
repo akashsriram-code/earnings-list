@@ -1,24 +1,14 @@
 {
   "records": [
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
+      "company": "DaVita Inc",
+      "symbol": "DVA",
       "date": "2026-05-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "NRG Energy",
@@ -41,14 +31,24 @@
       "sector": "Resources"
     },
     {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
+      "company": "Fox Corp",
+      "symbol": "FOXA",
       "date": "2026-05-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 5,
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-17T12:46:02Z",
+  "generatedAt": "2026-03-17T15:58:53Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "DaVita Inc",
