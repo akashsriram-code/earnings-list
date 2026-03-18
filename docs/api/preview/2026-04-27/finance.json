@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-04-28",
@@ -172,17 +181,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-18T09:45:59Z",
+  "generatedAt": "2026-03-18T12:46:27Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
     "Apollo",
+    "Arch Capital Group",
     "Brown & Brown",
     "Capital One Financial",
     "Cboe Global Markets",

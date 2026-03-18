@@ -19,16 +19,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-03-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-18T09:44:48Z",
+  "generatedAt": "2026-03-18T12:45:22Z",
   "irCompanies": [
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
+    "Carnival Corp",
     "Cintas Corp"
   ],
   "week": {
