@@ -22,21 +22,32 @@
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-03-18",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 PM EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-03-18",
+      "bmo_amc": "4:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 pm EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
     },
     {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-03-18",
-      "bmo_amc": "2:22 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:22 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -81,14 +92,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-18T18:45:53Z",
+  "generatedAt": "2026-03-18T21:27:59Z",
   "irCompanies": [
     "Alibaba",
     "Marvell",
     "Micron",
+    "Qnity",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
