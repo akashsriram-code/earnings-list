@@ -4,39 +4,26 @@
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-03-18",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-03-18",
-      "bmo_amc": "6:30 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-03-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-18T21:27:59Z",
-  "irCompanies": [
-    "Parker-Hannifin Corp"
-  ],
+  "generatedAt": "2026-03-19T01:11:22Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FedEx",
     "Jabil Inc"
