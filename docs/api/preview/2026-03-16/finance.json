@@ -1,13 +1,27 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-19T18:43:41Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-19T21:28:09Z",
+  "irCompanies": [
+    "Bank of America"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-03-16",
