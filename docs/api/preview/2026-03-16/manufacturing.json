@@ -4,8 +4,8 @@
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-03-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -17,13 +17,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-03-19",
+      "bmo_amc": "8:30AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am EDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-19T09:35:49Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-19T12:38:54Z",
+  "irCompanies": [
+    "Prologis Inc"
+  ],
   "fallbackCompanies": [
     "FedEx",
     "Jabil Inc"

@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ecolab",
+      "symbol": "ECL",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Enphase Energy",
       "symbol": "ENPH",
       "date": "2026-04-28",
@@ -118,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-19T09:37:07Z",
+  "generatedAt": "2026-03-19T12:40:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Albemarle",
@@ -129,6 +138,7 @@
     "Chevron",
     "DuPont",
     "EQT Corp",
+    "Ecolab",
     "Enphase Energy",
     "Exxon Mobil",
     "FMC",

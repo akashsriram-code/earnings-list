@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "STERIS plc",
+      "symbol": "STE",
+      "date": "2026-05-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "NRG Energy",
+      "symbol": "NRG",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NuScale Power",
+      "symbol": "SMR",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-05-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-05-11",
@@ -61,63 +111,57 @@
       "sector": "TMT"
     },
     {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-05-11",
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
+      "date": "2026-05-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
     },
     {
-      "company": "NRG Energy",
-      "symbol": "NRG",
-      "date": "2026-05-11",
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2026-05-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
-      "company": "NuScale Power",
-      "symbol": "SMR",
-      "date": "2026-05-11",
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-05-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-05-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     }
   ],
-  "count": 10,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-19T09:37:34Z",
+  "generatedAt": "2026-03-19T12:40:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Cisco Systems",
+    "CoreWeave",
     "DaVita Inc",
     "Fox Corp",
     "JD.com",
     "NRG Energy",
     "NuScale Power",
+    "STERIS plc",
     "Sea Limited",
     "Simon Property Group",
     "Tencent Music",
+    "Tower Semiconductor",
     "Venture Global",
     "Zebra Technologies"
   ],
