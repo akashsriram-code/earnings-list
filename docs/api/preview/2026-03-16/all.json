@@ -1,90 +1,44 @@
 {
   "records": [
     {
-      "company": "VinFast",
-      "symbol": "VFS",
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
       "date": "2026-03-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Tencent Music",
-      "symbol": "TME",
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
       "date": "2026-03-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
+      "company": "General Mills",
+      "symbol": "GIS",
       "date": "2026-03-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Accenture",
-      "symbol": "ACN",
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
       "date": "2026-03-19",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-03-19",
-      "bmo_amc": "7:30 PM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "7:30 PM",
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
-      "date": "2026-03-20",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
       "company": "Jabil Inc",
@@ -119,58 +73,117 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
+      "company": "VinFast",
+      "symbol": "VFS",
       "date": "2026-03-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
+      "company": "Tencent Music",
+      "symbol": "TME",
       "date": "2026-03-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "General Mills",
-      "symbol": "GIS",
+      "company": "Micron",
+      "symbol": "MU",
       "date": "2026-03-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
+      "company": "Accenture",
+      "symbol": "ACN",
       "date": "2026-03-19",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-03-19",
+      "bmo_amc": "7:30 PM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "7:30 PM",
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-03-19",
+      "bmo_amc": "11:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-03-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-19T12:38:55Z",
+  "generatedAt": "2026-03-19T15:44:55Z",
   "irCompanies": [
     "Alibaba",
     "Marvell",
     "Prologis Inc",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Accenture",
