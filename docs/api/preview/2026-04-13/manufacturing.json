@@ -22,10 +22,12 @@
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Snap-On Inc",
@@ -40,12 +42,13 @@
   "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-19T21:29:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-20T01:08:25Z",
+  "irCompanies": [
+    "Prologis Inc"
+  ],
   "fallbackCompanies": [
     "CSX Corp",
     "Fastenal Co",
-    "Prologis Inc",
     "Snap-On Inc"
   ],
   "week": {

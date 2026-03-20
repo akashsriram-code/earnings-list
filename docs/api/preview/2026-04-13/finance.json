@@ -46,10 +46,12 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-04-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "1:20 PM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "1:20 pm ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     },
     {
       "company": "M&T Bank Corp",
@@ -199,8 +201,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-19T21:29:01Z",
+  "generatedAt": "2026-03-20T01:08:26Z",
   "irCompanies": [
+    "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
@@ -209,7 +212,6 @@
     "Wells Fargo"
   ],
   "fallbackCompanies": [
-    "Bank of America",
     "Bank of New York Mellon",
     "Blackstone",
     "Charles Schwab",
