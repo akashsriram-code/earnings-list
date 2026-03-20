@@ -46,20 +46,45 @@
       "source": "aggregator"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-03-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-03-20",
+      "bmo_amc": "11:12 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:12 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-03-20",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-20T12:35:16Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-20T15:36:40Z",
+  "irCompanies": [
+    "Live Nation Entertainment",
+    "Take-Two Interactive"
+  ],
   "fallbackCompanies": [
     "Accenture",
     "Alibaba",
