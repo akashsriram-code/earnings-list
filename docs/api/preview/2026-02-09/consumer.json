@@ -76,8 +76,8 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Instacart",
       "symbol": "CART",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,19 +94,29 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-02-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-20T06:42:14Z",
+  "generatedAt": "2026-03-20T09:32:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Coca-Cola Co",
+    "Coca-Cola Europacific",
     "Federal Realty Investment Trust",
     "Hasbro Inc",
     "Instacart",
