@@ -13,17 +13,30 @@
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-03-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-03-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-20T09:33:29Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-20T12:35:17Z",
+  "irCompanies": [
+    "Quanta Services Inc"
+  ],
   "fallbackCompanies": [
     "FedEx",
     "Jabil Inc"
