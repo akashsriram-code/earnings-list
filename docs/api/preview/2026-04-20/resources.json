@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Baker Hughes",
+      "symbol": "BKR",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CMS Energy Corp",
       "symbol": "CMS",
       "date": "2026-04-23",
@@ -145,12 +154,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-23T09:56:46Z",
+  "generatedAt": "2026-03-23T12:42:27Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Baker Hughes",
     "CMS Energy Corp",
     "CenterPoint Energy",
     "Dow",

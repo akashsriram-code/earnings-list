@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-04-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-04-15",
@@ -39,15 +48,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-23T09:56:34Z",
+  "generatedAt": "2026-03-23T12:42:13Z",
   "irCompanies": [
     "Prologis Inc"
   ],
   "fallbackCompanies": [
     "CSX Corp",
+    "Carmax Inc",
     "Fastenal Co",
     "Snap-On Inc"
   ],
