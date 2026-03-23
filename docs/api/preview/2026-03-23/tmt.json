@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-03-23",
+      "bmo_amc": "11:34 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:34 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
@@ -43,14 +54,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-23T12:41:34Z",
+  "generatedAt": "2026-03-23T15:54:01Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
-    "Paychex"
+    "Paychex",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "GameStop"
