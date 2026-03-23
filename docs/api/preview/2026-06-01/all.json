@@ -1,13 +1,28 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-06-03",
+      "bmo_amc": "4:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-23T05:02:21Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-23T07:02:16Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-06-01",

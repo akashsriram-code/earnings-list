@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Datadog",
+      "symbol": "DDOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Freshworks",
       "symbol": "FRSH",
       "date": "2026-02-10",
@@ -28,26 +37,17 @@
       "source": "aggregator"
     },
     {
-      "company": "IAC",
-      "symbol": "IAC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Shopify",
-      "symbol": "SHOP",
+      "company": "Omnicom",
+      "symbol": "OMC",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -57,6 +57,15 @@
     {
       "company": "Spotify",
       "symbol": "SPOT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Trimble",
+      "symbol": "TRMB",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -157,8 +166,8 @@
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -168,15 +177,6 @@
       "date": "2026-02-12",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Datadog",
-      "symbol": "DDOG",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -193,17 +193,8 @@
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Motorola",
-      "symbol": "MSI",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -253,10 +244,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-23T04:58:58Z",
+  "generatedAt": "2026-03-23T06:58:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -268,11 +259,11 @@
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",
-    "IAC",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
     "Motorola",
+    "Omnicom",
     "Onsemi",
     "Palo Alto",
     "Paycom",
@@ -283,6 +274,7 @@
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trimble",
     "Tyler Tech",
     "Zebra Technologies"
   ],
