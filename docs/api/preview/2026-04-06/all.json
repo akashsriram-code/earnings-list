@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-04-08",
@@ -33,6 +23,16 @@
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Constellation Brands",
@@ -73,7 +73,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-23T01:12:19Z",
+  "generatedAt": "2026-03-23T05:00:38Z",
   "irCompanies": [
     "Applied Digital",
     "BlackBerry",
