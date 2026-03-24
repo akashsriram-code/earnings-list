@@ -1,34 +1,12 @@
 {
   "records": [
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-03-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-03-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -65,16 +43,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-23T21:29:33Z",
+  "generatedAt": "2026-03-24T01:04:47Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
-    "Live Nation Entertainment",
-    "Paychex",
-    "Take-Two Interactive"
+    "Paychex"
   ],
   "fallbackCompanies": [
     "GameStop"
