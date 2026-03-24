@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Steel Dynamics",
+      "symbol": "STLD",
+      "date": "2026-04-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-04-21",
@@ -10,6 +19,15 @@
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2026-04-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "J B Hunt Transport Services Inc",
@@ -44,6 +62,15 @@
       "date": "2026-04-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-04-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -230,10 +257,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-24T09:48:06Z",
+  "generatedAt": "2026-03-24T12:46:42Z",
   "irCompanies": [
     "DR Horton Inc",
     "Southwest Airlines Co"
@@ -242,7 +269,9 @@
     "Alaska Air",
     "American Airlines Group Inc",
     "Boeing",
+    "CSX Corp",
     "Dover Corp",
+    "GE Aerospace",
     "General Dynamics Corp",
     "J B Hunt Transport Services Inc",
     "L3Harris Technologies Inc",
@@ -256,6 +285,7 @@
     "Pultegroup Inc",
     "Republic Services Inc",
     "Southwest Airlines Co",
+    "Steel Dynamics",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc",
     "Textron Inc",

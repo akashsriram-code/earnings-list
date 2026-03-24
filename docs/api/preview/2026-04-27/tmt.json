@@ -59,7 +59,7 @@
       "symbol": "VZ",
       "date": "2026-04-27",
       "bmo_amc": "08:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "08:30 AM ET",
       "ir_source_url": "https://www.verizon.com/about/investors",
@@ -68,15 +68,6 @@
     {
       "company": "Tesla",
       "symbol": "TSLA",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
       "date": "2026-04-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -201,10 +192,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-24T09:48:18Z",
+  "generatedAt": "2026-03-24T12:46:51Z",
   "irCompanies": [
     "Verizon"
   ],
@@ -227,7 +218,6 @@
     "SBA Communications",
     "Teradyne",
     "Tesla",
-    "Verizon",
     "Western Digital",
     "eBay"
   ],

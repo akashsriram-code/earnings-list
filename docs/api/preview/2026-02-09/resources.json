@@ -4,8 +4,8 @@
       "company": "DuPont",
       "symbol": "DD",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -24,6 +24,15 @@
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Eversource Energy",
+      "symbol": "ES",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -64,8 +73,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Entergy Corp",
-      "symbol": "ETR",
+      "company": "Ameren",
+      "symbol": "AEE",
       "date": "2026-02-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -73,8 +82,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Eversource Energy",
-      "symbol": "ES",
+      "company": "DTE",
+      "symbol": "DTE",
       "date": "2026-02-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -85,8 +94,8 @@
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,14 +103,23 @@
       "company": "PBF Energy",
       "symbol": "PBF",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "PG&E Corp",
       "symbol": "PCG",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "PPL Corp",
+      "symbol": "PPL",
       "date": "2026-02-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -127,25 +145,26 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-24T09:46:01Z",
+  "generatedAt": "2026-03-24T12:44:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
+    "DTE",
     "DuPont",
     "Duke Energy",
     "Ecolab",
     "Enbridge",
-    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",
     "PBF Energy",
     "PG&E Corp",
+    "PPL Corp",
     "TC Energy"
   ],
   "week": {

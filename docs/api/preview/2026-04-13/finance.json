@@ -130,20 +130,11 @@
       "source": "investor_relations"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -195,13 +186,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-24T09:47:52Z",
+  "generatedAt": "2026-03-24T12:46:30Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -217,7 +208,6 @@
     "Charles Schwab",
     "Fifth Third Bancorp",
     "Goldman Sachs",
-    "Huntington Bancshares",
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",

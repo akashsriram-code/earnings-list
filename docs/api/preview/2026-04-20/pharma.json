@@ -5,20 +5,11 @@
       "symbol": "DHR",
       "date": "2026-04-21",
       "bmo_amc": "8:00 A.M. ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 a.m. ET",
       "ir_source_url": "https://investors.danaher.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-04-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Quest Diagnostics Inc",
@@ -120,10 +111,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-24T09:48:06Z",
+  "generatedAt": "2026-03-24T12:46:40Z",
   "irCompanies": [
     "Danaher Corp"
   ],
@@ -134,7 +125,6 @@
     "Gilead",
     "HCA Healthcare Inc",
     "Healthpeak Properties",
-    "Johnson & Johnson",
     "Molina Healthcare Inc",
     "Quest Diagnostics Inc",
     "Thermo Fisher Scientific Inc",
