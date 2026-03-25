@@ -66,6 +66,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-04-30",
@@ -81,9 +90,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Cigna",
@@ -95,22 +102,23 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-25T09:46:00Z",
+  "generatedAt": "2026-03-25T12:44:07Z",
   "irCompanies": [
-    "Centene Corp",
-    "Merck"
+    "Centene Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Bristol Myers-Squibb",
+    "Cardinal Health Inc",
     "Cigna",
     "Elevance Health Inc",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Intuitive Surgical Inc",
+    "Merck",
     "Revvity"
   ],
   "week": {

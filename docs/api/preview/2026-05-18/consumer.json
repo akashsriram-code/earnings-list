@@ -1,11 +1,33 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-05-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-05-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-25T09:46:41Z",
+  "generatedAt": "2026-03-25T12:44:44Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Coca-Cola Europacific",
+    "Home Depot Inc"
+  ],
   "week": {
     "id": "2026-05-18",
     "start_date": "2026-05-18",

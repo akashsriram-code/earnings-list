@@ -82,6 +82,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Southern Co",
+      "symbol": "SO",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-04-30",
@@ -127,10 +136,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-03-25T09:46:01Z",
+  "generatedAt": "2026-03-25T12:44:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Albemarle",
@@ -146,6 +155,7 @@
     "PPL Corp",
     "Phillips 66",
     "Public Service Enterprise Co",
+    "Southern Co",
     "Valero Energy Corp"
   ],
   "week": {

@@ -4,8 +4,8 @@
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -18,6 +18,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-03-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
       "source": "investor_relations"
     },
     {
@@ -43,13 +54,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-25T09:44:57Z",
+  "generatedAt": "2026-03-25T12:43:02Z",
   "irCompanies": [
     "AT&T",
     "Live Nation Entertainment",
+    "Micron",
     "Paychex"
   ],
   "fallbackCompanies": [
