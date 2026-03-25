@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-03-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
-      "date": "2026-03-25",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-03-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
@@ -63,6 +33,36 @@
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-03-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-03-25",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-03-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 6,
@@ -71,7 +71,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-25T04:51:52Z",
+  "generatedAt": "2026-03-25T06:53:11Z",
   "irCompanies": [
     "AT&T",
     "Paychex"
