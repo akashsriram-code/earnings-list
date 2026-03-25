@@ -4,54 +4,10 @@
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-03-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-03-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-03-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-03-24",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Paychex",
@@ -59,7 +15,7 @@
       "date": "2026-03-25",
       "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:30 AM ET",
       "ir_source_url": "https://investor.paychex.com/",
       "source": "investor_relations"
@@ -76,17 +32,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-24T21:31:22Z",
+  "generatedAt": "2026-03-25T01:10:21Z",
   "irCompanies": [
     "AT&T",
-    "HPE",
-    "Juniper Networks",
-    "Live Nation Entertainment",
-    "Paychex",
-    "Take-Two Interactive"
+    "Paychex"
   ],
   "fallbackCompanies": [
     "GameStop"

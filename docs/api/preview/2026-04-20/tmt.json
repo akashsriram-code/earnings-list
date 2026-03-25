@@ -118,6 +118,17 @@
       "source": "aggregator"
     },
     {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-04-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-04-23",
@@ -125,6 +136,17 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
+      "date": "2026-04-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations"
     },
     {
       "company": "Mobileye",
@@ -163,11 +185,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-24T21:32:14Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-25T01:11:11Z",
+  "irCompanies": [
+    "HPE",
+    "Juniper Networks"
+  ],
   "fallbackCompanies": [
     "AT&T",
     "Alphabet Inc",
