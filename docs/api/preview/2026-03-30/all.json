@@ -41,14 +41,16 @@
       "sector": "Consumer"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
       "date": "2026-03-31",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "New Fortress Energy",
@@ -61,16 +63,14 @@
       "sector": "Resources"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-03-31",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 7,
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T16:04:43Z",
+  "generatedAt": "2026-03-26T18:52:57Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],
