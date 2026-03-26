@@ -1,40 +1,36 @@
 {
   "records": [
     {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-03-25",
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-03-24",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
+      "company": "Paychex",
+      "symbol": "PAYX",
       "date": "2026-03-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-03-25",
-      "bmo_amc": "TBD",
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-03-26",
+      "bmo_amc": "11:35 AM\n                    ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_time_label": "11:35 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "TMT"
     },
     {
       "company": "Smithfield Foods",
@@ -65,99 +61,23 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "GameStop",
-      "symbol": "GME",
-      "date": "2026-03-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-03-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-03-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-03-25",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-03-25",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-03-26",
-      "bmo_amc": "11:35 AM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:35 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
-  "count": 12,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-25T21:31:15Z",
+  "generatedAt": "2026-03-26T01:16:01Z",
   "irCompanies": [
-    "AT&T",
-    "Live Nation Entertainment",
-    "MGM Resorts International",
-    "Merck",
-    "Micron",
-    "Morgan Stanley",
-    "Paychex",
-    "Take-Two Interactive"
+    "AT&T"
   ],
   "fallbackCompanies": [
     "Carnival Corp",
     "Cintas Corp",
     "GameStop",
+    "Paychex",
     "Smithfield Foods"
   ],
   "week": {
