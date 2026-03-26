@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-05-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -31,6 +31,56 @@
       "sector": "Consumer"
     },
     {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "VF Corp",
+      "symbol": "VFC",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-05-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-05-19",
@@ -39,21 +89,70 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Snowflake",
+      "symbol": "SNOW",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 4,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T09:56:22Z",
+  "generatedAt": "2026-03-26T12:51:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Baidu",
     "Coca-Cola Europacific",
     "Home Depot Inc",
     "Keysight Technologies Inc",
-    "Palo Alto"
+    "Lowe\u2019s Cos Inc",
+    "Medtronic PLC",
+    "Palo Alto",
+    "Snowflake",
+    "TJX Cos Inc",
+    "Target Corp",
+    "VF Corp",
+    "Xpeng",
+    "Zoom"
   ],
   "week": {
     "id": "2026-05-18",

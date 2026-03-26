@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-26T09:56:21Z",
+  "generatedAt": "2026-03-26T12:51:04Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Medtronic PLC"
+  ],
   "week": {
     "id": "2026-05-18",
     "start_date": "2026-05-18",
