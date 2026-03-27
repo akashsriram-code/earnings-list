@@ -1,16 +1,24 @@
 {
   "records": [
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-03-26",
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-03-24",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-03-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Smithfield Foods",
@@ -33,111 +41,24 @@
       "sector": "Consumer"
     },
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-03-26",
-      "bmo_amc": "8:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-03-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-03-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "GameStop",
-      "symbol": "GME",
-      "date": "2026-03-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-03-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-03-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-03-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-03-26",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
-  "count": 11,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T21:25:15Z",
-  "irCompanies": [
-    "AT&T",
-    "Honeywell",
-    "Huntington Bancshares",
-    "Keurig Dr. Pepper",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-03-27T01:15:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
     "Cintas Corp",

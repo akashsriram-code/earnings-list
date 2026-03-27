@@ -22,10 +22,12 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
     },
     {
       "company": "Amphenol",
@@ -188,13 +190,13 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-26T21:26:04Z",
+  "generatedAt": "2026-03-27T01:16:15Z",
   "irCompanies": [
+    "AT&T",
     "HPE",
     "Juniper Networks"
   ],
   "fallbackCompanies": [
-    "AT&T",
     "Alphabet Inc",
     "Amphenol",
     "Charter Communications",

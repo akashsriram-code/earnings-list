@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-03-31",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "FactSet Research",
@@ -21,16 +23,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
       "date": "2026-03-31",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
       "company": "McCormick & Co",
@@ -71,16 +73,27 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T21:25:26Z",
+  "generatedAt": "2026-03-27T01:15:37Z",
   "irCompanies": [
+    "Keurig Dr. Pepper",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [

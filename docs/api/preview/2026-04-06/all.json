@@ -1,16 +1,24 @@
 {
   "records": [
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Applied Digital",
@@ -37,24 +45,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
+      "company": "Constellation Brands",
+      "symbol": "STZ",
       "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 5,
@@ -63,7 +63,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T21:25:39Z",
+  "generatedAt": "2026-03-27T01:15:51Z",
   "irCompanies": [
     "Applied Digital",
     "BlackBerry",

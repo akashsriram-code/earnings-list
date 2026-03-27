@@ -19,33 +19,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-03-26",
-      "bmo_amc": "8:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-03-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-26T21:25:14Z",
-  "irCompanies": [
-    "Keurig Dr. Pepper"
-  ],
+  "generatedAt": "2026-03-27T01:15:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
     "Cintas Corp",

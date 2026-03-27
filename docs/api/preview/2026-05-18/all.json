@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-05-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-05-20",
@@ -69,6 +59,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-05-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -137,7 +137,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-26T21:26:54Z",
+  "generatedAt": "2026-03-27T01:17:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baidu",

@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-03-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-03-31",
@@ -37,11 +48,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-26T21:25:26Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-27T01:15:36Z",
+  "irCompanies": [
+    "Keurig Dr. Pepper"
+  ],
   "fallbackCompanies": [
     "Conagra Brands",
     "Lamb Weston Holdings",
