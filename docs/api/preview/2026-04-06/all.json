@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-04-08",
@@ -23,26 +43,6 @@
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     },
     {
       "company": "Applied Digital",
@@ -75,7 +75,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-27T15:44:52Z",
+  "generatedAt": "2026-03-27T18:44:47Z",
   "irCompanies": [
     "Applied Digital",
     "BlackBerry",
