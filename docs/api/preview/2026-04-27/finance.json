@@ -64,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-04-29",
@@ -154,13 +163,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-27T09:47:47Z",
+  "generatedAt": "2026-03-27T12:41:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -179,6 +188,7 @@
     "Moody's Corporation",
     "Prudential Financial",
     "Robinhood",
+    "S&P Global Inc",
     "T. Rowe Price Group"
   ],
   "week": {

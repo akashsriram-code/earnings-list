@@ -8,14 +8,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-05-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-27T09:48:26Z",
+  "generatedAt": "2026-03-27T12:42:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Deere",
     "Keysight Technologies Inc"
   ],
   "week": {
