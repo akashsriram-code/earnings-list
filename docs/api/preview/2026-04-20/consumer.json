@@ -40,10 +40,12 @@
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2026-04-23",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00AM",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Procter & Gamble",
@@ -76,12 +78,13 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-27T18:45:08Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-27T21:29:05Z",
+  "irCompanies": [
+    "Keurig Dr. Pepper"
+  ],
   "fallbackCompanies": [
     "Colgate-Palmolive",
     "Hasbro Inc",
-    "Keurig Dr. Pepper",
     "Masco Corp",
     "Philip Morris International",
     "Procter & Gamble",
