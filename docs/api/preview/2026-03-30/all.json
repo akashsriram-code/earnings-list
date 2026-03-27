@@ -1,16 +1,14 @@
 {
   "records": [
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-03-31",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "FactSet Research",
@@ -21,6 +19,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-03-31",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -73,16 +83,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
   "count": 8,
@@ -91,7 +91,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-27T01:15:37Z",
+  "generatedAt": "2026-03-27T05:04:34Z",
   "irCompanies": [
     "Keurig Dr. Pepper",
     "Quanta Services Inc"
