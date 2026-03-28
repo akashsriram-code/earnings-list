@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-04-08",
@@ -69,16 +79,6 @@
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -87,7 +87,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-28T04:50:56Z",
+  "generatedAt": "2026-03-28T06:47:37Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
