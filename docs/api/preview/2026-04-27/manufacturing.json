@@ -153,7 +153,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -249,8 +251,9 @@
   "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-27T21:29:20Z",
+  "generatedAt": "2026-03-28T01:10:19Z",
   "irCompanies": [
+    "MGM Resorts International",
     "UPS"
   ],
   "fallbackCompanies": [
@@ -265,7 +268,6 @@
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "Lockheed Martin",
-    "MGM Resorts International",
     "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
