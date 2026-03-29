@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-04-08",
@@ -69,16 +79,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -87,7 +87,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-28T21:23:52Z",
+  "generatedAt": "2026-03-29T01:18:41Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
