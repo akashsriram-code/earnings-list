@@ -10,17 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-05-04",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-05-04",
@@ -381,13 +370,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-29T18:30:13Z",
-  "irCompanies": [
-    "Magna International"
-  ],
+  "generatedAt": "2026-03-29T21:26:13Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
     "AMETEK Inc",
