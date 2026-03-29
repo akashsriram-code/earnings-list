@@ -58,10 +58,12 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-04-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Spotify",
@@ -202,8 +204,10 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-29T01:19:19Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-29T05:09:11Z",
+  "irCompanies": [
+    "Verizon"
+  ],
   "fallbackCompanies": [
     "ADP",
     "Cadence",
@@ -224,7 +228,6 @@
     "Spotify",
     "Teradyne",
     "Tesla",
-    "Verizon",
     "Western Digital",
     "eBay"
   ],
