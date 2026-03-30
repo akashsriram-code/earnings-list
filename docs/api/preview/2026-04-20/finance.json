@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "W. R. Berkley Corp",
-      "symbol": "WRB",
-      "date": "2026-04-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Zions Bancorporation",
       "symbol": "ZION",
       "date": "2026-04-20",
@@ -55,6 +46,15 @@
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2026-04-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "CME Group Inc",
@@ -162,7 +162,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-30T10:09:35Z",
+  "generatedAt": "2026-03-30T12:53:00Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
