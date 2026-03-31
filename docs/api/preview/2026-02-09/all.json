@@ -1,116 +1,6 @@
 {
   "records": [
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Waters Corp",
-      "symbol": "WAT",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "CVS Health Corp",
-      "symbol": "CVS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Edwards Lifesciences Corp",
-      "symbol": "EW",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Gilead",
-      "symbol": "GILD",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Quest Diagnostics Inc",
-      "symbol": "DGX",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Zimmer Biomet Holdings Inc",
-      "symbol": "ZBH",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Tenet Healthcare",
-      "symbol": "THC",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "West Pharmaceutical Services Inc",
-      "symbol": "WST",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Zoetis",
-      "symbol": "ZTS",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "DuPont",
       "symbol": "DD",
       "date": "2026-02-10",
@@ -234,8 +124,8 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -244,8 +134,8 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -354,8 +244,8 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -364,11 +254,241 @@
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-02-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Edwards Lifesciences Corp",
+      "symbol": "EW",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Quest Diagnostics Inc",
+      "symbol": "DGX",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Tenet Healthcare",
+      "symbol": "THC",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "West Pharmaceutical Services Inc",
+      "symbol": "WST",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Zoetis",
+      "symbol": "ZTS",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Masco Corp",
+      "symbol": "MAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "International Flavours & Fragrances",
+      "symbol": "IFF",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kraft Heinz Co",
+      "symbol": "KHC",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McDonald\u2019s Corp",
+      "symbol": "MCD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Rollins Inc",
+      "symbol": "ROL",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Federal Realty Investment Trust",
+      "symbol": "FRT",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Kyndryl",
@@ -416,16 +536,6 @@
       "date": "2026-02-10",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -554,8 +664,8 @@
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -564,18 +674,8 @@
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -584,8 +684,8 @@
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -594,8 +694,8 @@
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -604,8 +704,8 @@
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -614,8 +714,8 @@
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -624,8 +724,8 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -744,8 +844,8 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -754,8 +854,8 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -764,8 +864,8 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -774,8 +874,8 @@
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -784,8 +884,8 @@
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -794,8 +894,8 @@
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -804,130 +904,20 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Masco Corp",
-      "symbol": "MAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "International Flavours & Fragrances",
-      "symbol": "IFF",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kraft Heinz Co",
-      "symbol": "KHC",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "McDonald\u2019s Corp",
-      "symbol": "MCD",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Rollins Inc",
-      "symbol": "ROL",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Federal Realty Investment Trust",
-      "symbol": "FRT",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kimco Realty Corp",
-      "symbol": "KIM",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 92,
+  "count": 91,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-31T05:05:19Z",
+  "generatedAt": "2026-03-31T07:02:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -967,7 +957,6 @@
     "Generac Holdings Inc",
     "Gilead",
     "GlobalFoundries",
-    "Grab",
     "Harley Davidson",
     "Hasbro Inc",
     "Hilton Worldwide Holdings Inc",
@@ -990,7 +979,6 @@
     "McDonald\u2019s Corp",
     "Motorola",
     "NiSource",
-    "Omnicom",
     "Onsemi",
     "PBF Energy",
     "PG&E Corp",
