@@ -4,20 +4,33 @@
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-03-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-03-31",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-31T12:50:57Z",
-  "irCompanies": [],
+  "generatedAt": "2026-03-31T16:01:13Z",
+  "irCompanies": [
+    "PNC Financial"
+  ],
   "fallbackCompanies": [
     "FactSet Research"
   ],

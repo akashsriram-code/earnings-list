@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-03-31",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-03-31",
@@ -23,11 +34,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-31T12:50:57Z",
+  "generatedAt": "2026-03-31T16:01:12Z",
   "irCompanies": [
+    "Bombardier",
     "Quanta Services Inc",
     "Veralto Corp"
   ],

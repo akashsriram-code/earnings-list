@@ -36,7 +36,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Edwards Lifesciences Corp",
@@ -105,12 +107,12 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-31T12:51:34Z",
+  "generatedAt": "2026-03-31T16:01:58Z",
   "irCompanies": [
+    "Boston Scientific Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
-    "Boston Scientific Corp",
     "Edwards Lifesciences Corp",
     "Gilead",
     "HCA Healthcare Inc",
