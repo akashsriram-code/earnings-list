@@ -195,10 +195,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -260,9 +262,10 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-31T16:02:00Z",
+  "generatedAt": "2026-03-31T18:48:07Z",
   "irCompanies": [
     "DR Horton Inc",
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -273,7 +276,6 @@
     "Dover Corp",
     "GE Aerospace",
     "General Dynamics Corp",
-    "Honeywell",
     "J B Hunt Transport Services Inc",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
