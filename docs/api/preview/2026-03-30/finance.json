@@ -1,36 +1,23 @@
 {
   "records": [
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-03-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-03-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-03-30T21:36:29Z",
-  "irCompanies": [
-    "Huntington Bancshares"
-  ],
+  "generatedAt": "2026-03-31T01:17:10Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FactSet Research"
   ],
