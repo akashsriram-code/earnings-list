@@ -75,6 +75,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Altria Group Inc",
+      "symbol": "MO",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Church & Dwight",
       "symbol": "CHD",
       "date": "2026-05-01",
@@ -88,22 +97,23 @@
       "symbol": "EL",
       "date": "2026-05-01",
       "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-03-31T09:57:56Z",
+  "generatedAt": "2026-03-31T12:51:48Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder"
   ],
   "fallbackCompanies": [
+    "Altria Group Inc",
     "Amcor PLC",
     "Church & Dwight",
     "Domino\u2019s Pizza Inc",

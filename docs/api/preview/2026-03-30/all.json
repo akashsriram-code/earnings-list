@@ -1,24 +1,12 @@
 {
   "records": [
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-03-31",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-03-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -53,16 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-03-31",
@@ -71,6 +49,30 @@
       "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-03-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-03-31",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -79,16 +81,16 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-03-31T09:57:08Z",
+  "generatedAt": "2026-03-31T12:50:58Z",
   "irCompanies": [
-    "Quanta Services Inc"
+    "Quanta Services Inc",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "Conagra Brands",
     "FactSet Research",
     "Lamb Weston Holdings",
     "McCormick & Co",
-    "New Fortress Energy",
     "Nike Inc"
   ],
   "week": {
