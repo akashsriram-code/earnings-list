@@ -1,14 +1,40 @@
 {
   "records": [
     {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-04-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-04-08",
+      "bmo_amc": "5:00 PM ET",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": "5:00 PM ET",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "8:00AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-04-10",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Delta Air",
@@ -19,16 +45,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-04-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Constellation Brands",
@@ -67,40 +83,24 @@
       "sector": "Consumer"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-04-08",
-      "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM ET",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "8:00AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
       "date": "2026-04-10",
-      "bmo_amc": "09:00 AM\n                    ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-04-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 9,
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-01T07:11:10Z",
+  "generatedAt": "2026-04-01T10:01:32Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
