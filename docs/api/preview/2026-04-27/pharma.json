@@ -13,10 +13,12 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Elevance Health Inc",
@@ -114,15 +116,15 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-03-31T21:32:33Z",
+  "generatedAt": "2026-04-01T01:25:06Z",
   "irCompanies": [
+    "Centene Corp",
     "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
-    "Centene Corp",
     "Cigna",
     "Elevance Health Inc",
     "Eli Lilly and Co",

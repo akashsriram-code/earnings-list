@@ -150,10 +150,12 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Meta",
@@ -224,8 +226,9 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-03-31T21:32:33Z",
+  "generatedAt": "2026-04-01T01:25:04Z",
   "irCompanies": [
+    "KLA Corp",
     "SiriusXM",
     "Verizon"
   ],
@@ -238,7 +241,6 @@
     "F5",
     "Garmin",
     "Grab",
-    "KLA Corp",
     "Meta",
     "Microsoft",
     "NXP Semiconductors",

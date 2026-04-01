@@ -153,7 +153,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -228,6 +230,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-04-30",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2026-04-30",
@@ -255,11 +268,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 29,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-03-31T21:32:34Z",
+  "generatedAt": "2026-04-01T01:25:04Z",
   "irCompanies": [
+    "Bombardier",
+    "MGM Resorts International",
     "UPS"
   ],
   "fallbackCompanies": [
@@ -274,7 +289,6 @@
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "Lockheed Martin",
-    "MGM Resorts International",
     "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
