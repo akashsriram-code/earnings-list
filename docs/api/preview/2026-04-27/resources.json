@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "FMC",
       "symbol": "FMC",
       "date": "2026-04-29",
@@ -145,6 +154,15 @@
       "source": "aggregator"
     },
     {
+      "company": "HF Sinclair",
+      "symbol": "DINO",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Imperial Oil",
       "symbol": "IMO",
       "date": "2026-05-01",
@@ -154,13 +172,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-01T10:02:10Z",
+  "generatedAt": "2026-04-01T12:55:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Albemarle",
+    "Bunge",
     "Chevron",
     "ConocoPhillips",
     "DuPont",
@@ -169,6 +188,7 @@
     "Enphase Energy",
     "Exxon Mobil",
     "FMC",
+    "HF Sinclair",
     "Imperial Oil",
     "PBF Energy",
     "PPL Corp",

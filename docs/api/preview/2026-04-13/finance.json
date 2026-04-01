@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-04-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-04-14",
@@ -186,13 +195,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-01T10:01:45Z",
+  "generatedAt": "2026-04-01T12:54:37Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -204,6 +213,7 @@
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
+    "BlackRock Inc",
     "Blackstone",
     "Charles Schwab",
     "Fifth Third Bancorp",
