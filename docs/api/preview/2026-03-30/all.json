@@ -1,64 +1,16 @@
 {
   "records": [
     {
-      "company": "Equinix",
-      "symbol": "EQIX",
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
       "date": "2026-04-01",
-      "bmo_amc": "TBD",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.equinix.com/",
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-04-01",
-      "bmo_amc": "2:00 PM PT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-01",
-      "bmo_amc": "11:44 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:44 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "McCormick & Co",
@@ -101,6 +53,66 @@
       "sector": "Consumer"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-04-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2026-04-01",
+      "bmo_amc": "2:00 PM PT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-04-01",
+      "bmo_amc": "2:24 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:24 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-03-31",
@@ -111,29 +123,30 @@
       "sector": "Finance"
     },
     {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
       "date": "2026-04-01",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-01T16:04:18Z",
+  "generatedAt": "2026-04-01T18:47:26Z",
   "irCompanies": [
     "Centene Corp",
     "Equinix",
     "Intel",
+    "Interactive Brokers",
     "Merck",
     "Old Dominion Freight Line Inc",
     "Take-Two Interactive"

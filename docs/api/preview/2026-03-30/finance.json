@@ -8,16 +8,29 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2026-04-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-01T16:04:17Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-01T18:47:26Z",
+  "irCompanies": [
+    "Interactive Brokers"
+  ],
   "fallbackCompanies": [
     "FactSet Research"
   ],
