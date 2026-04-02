@@ -84,12 +84,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-04-15",
-      "bmo_amc": "10:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Progressive Corporation",
@@ -201,13 +199,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-02T12:48:16Z",
+  "generatedAt": "2026-04-02T15:53:11Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
-    "PNC Financial",
     "Truist Financial",
     "Wells Fargo"
   ],
@@ -221,6 +218,7 @@
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",
+    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
