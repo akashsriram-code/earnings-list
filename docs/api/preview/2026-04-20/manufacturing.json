@@ -195,12 +195,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-04-23",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pool Corp",
@@ -262,10 +260,9 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-02T01:14:08Z",
+  "generatedAt": "2026-04-02T05:01:03Z",
   "irCompanies": [
     "DR Horton Inc",
-    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -276,6 +273,7 @@
     "Dover Corp",
     "GE Aerospace",
     "General Dynamics Corp",
+    "Honeywell",
     "J B Hunt Transport Services Inc",
     "Las Vegas Sands Corp",
     "Norfolk Southern Corp",
