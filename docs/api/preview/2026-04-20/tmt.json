@@ -134,12 +134,10 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-04-23",
-      "bmo_amc": "2:00 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Juniper Networks",
@@ -183,10 +181,9 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-02T18:44:27Z",
+  "generatedAt": "2026-04-02T21:30:32Z",
   "irCompanies": [
     "HPE",
-    "Intel",
     "Juniper Networks",
     "Lam Research"
   ],
@@ -199,6 +196,7 @@
     "Digital Realty",
     "Figma",
     "IBM",
+    "Intel",
     "Mobileye",
     "Omnicom",
     "Rogers Communications",
