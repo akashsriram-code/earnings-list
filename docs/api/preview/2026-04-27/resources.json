@@ -28,6 +28,24 @@
       "source": "aggregator"
     },
     {
+      "company": "PPG Industries",
+      "symbol": "PPG",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Sherwin-Williams",
+      "symbol": "SHW",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-04-29",
@@ -172,10 +190,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-02T09:54:40Z",
+  "generatedAt": "2026-04-02T12:48:46Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Albemarle",
@@ -191,9 +209,11 @@
     "HF Sinclair",
     "Imperial Oil",
     "PBF Energy",
+    "PPG Industries",
     "PPL Corp",
     "Phillips 66",
     "Public Service Enterprise Co",
+    "Sherwin-Williams",
     "Southern Co",
     "Valero Energy Corp",
     "Weyerhaeuser"

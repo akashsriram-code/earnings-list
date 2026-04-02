@@ -68,15 +68,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Thermo Fisher Scientific Inc",
-      "symbol": "TMO",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-04-23",
@@ -91,6 +82,15 @@
       "date": "2026-04-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Thermo Fisher Scientific Inc",
+      "symbol": "TMO",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -116,7 +116,7 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-02T09:54:28Z",
+  "generatedAt": "2026-04-02T12:48:29Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Danaher Corp"

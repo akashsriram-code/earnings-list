@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Lockheed Martin",
-      "symbol": "LMT",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "NVR Inc",
       "symbol": "NVR",
       "date": "2026-04-28",
@@ -198,7 +189,7 @@
       "symbol": "ODFL",
       "date": "2026-04-29",
       "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "10:00 am ET",
       "ir_source_url": "https://ir.odfl.com/",
@@ -306,10 +297,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-02T09:54:41Z",
+  "generatedAt": "2026-04-02T12:48:44Z",
   "irCompanies": [
     "Bombardier",
     "MGM Resorts International",
@@ -331,7 +322,6 @@
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
-    "Lockheed Martin",
     "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
