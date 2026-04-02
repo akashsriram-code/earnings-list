@@ -123,10 +123,12 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Garmin",
@@ -226,8 +228,9 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-01T21:37:14Z",
+  "generatedAt": "2026-04-02T01:14:19Z",
   "irCompanies": [
+    "Equinix",
     "KLA Corp",
     "SiriusXM",
     "Verizon"
@@ -237,7 +240,6 @@
     "Cadence",
     "Cognizant",
     "Crown Castle",
-    "Equinix",
     "F5",
     "Garmin",
     "Grab",

@@ -194,6 +194,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2026-04-29",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-04-29",
@@ -295,13 +306,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-01T21:37:15Z",
+  "generatedAt": "2026-04-02T01:14:19Z",
   "irCompanies": [
     "Bombardier",
     "MGM Resorts International",
+    "Old Dominion Freight Line Inc",
     "UPS"
   ],
   "fallbackCompanies": [

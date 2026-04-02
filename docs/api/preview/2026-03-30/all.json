@@ -1,78 +1,6 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-04-01",
-      "bmo_amc": "2:00 PM PT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-01",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-03-31",
@@ -113,18 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
-      "date": "2026-04-01",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-03-31",
@@ -133,50 +49,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Interactive Brokers",
-      "symbol": "IBKR",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 14,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-01T21:36:24Z",
-  "irCompanies": [
-    "Apollo",
-    "Centene Corp",
-    "Equinix",
-    "Intel",
-    "Interactive Brokers",
-    "Lam Research",
-    "Merck",
-    "Old Dominion Freight Line Inc",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-04-02T01:13:31Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Conagra Brands",
     "FactSet Research",

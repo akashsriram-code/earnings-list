@@ -49,10 +49,12 @@
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-04-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 P.M.",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 p.m. ",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Rogers Communications",
@@ -132,10 +134,12 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-04-23",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Juniper Networks",
@@ -179,10 +183,12 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-01T21:37:00Z",
+  "generatedAt": "2026-04-02T01:14:09Z",
   "irCompanies": [
     "HPE",
-    "Juniper Networks"
+    "Intel",
+    "Juniper Networks",
+    "Lam Research"
   ],
   "fallbackCompanies": [
     "AT&T",
@@ -193,8 +199,6 @@
     "Digital Realty",
     "Figma",
     "IBM",
-    "Intel",
-    "Lam Research",
     "Mobileye",
     "Omnicom",
     "Rogers Communications",
