@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-31",
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-04-03",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "McCormick & Co",
@@ -49,16 +51,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-03T15:36:15Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-03T18:34:51Z",
+  "irCompanies": [
+    "Live Nation Entertainment"
+  ],
   "fallbackCompanies": [
     "Conagra Brands",
     "FactSet Research",

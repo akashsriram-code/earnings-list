@@ -177,10 +177,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -242,9 +244,10 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-03T15:36:50Z",
+  "generatedAt": "2026-04-03T18:35:29Z",
   "irCompanies": [
     "DR Horton Inc",
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -255,7 +258,6 @@
     "Dover Corp",
     "GE Aerospace",
     "General Dynamics Corp",
-    "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "Norfolk Southern Corp",
