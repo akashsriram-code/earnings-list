@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-04-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Steel Dynamics",
       "symbol": "STLD",
       "date": "2026-04-20",
@@ -30,15 +39,6 @@
       "source": "aggregator"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-04-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2026-04-21",
@@ -53,15 +53,6 @@
       "date": "2026-04-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -221,15 +212,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-04-23",
@@ -259,10 +241,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-03T09:46:39Z",
+  "generatedAt": "2026-04-03T12:40:52Z",
   "irCompanies": [
     "DR Horton Inc",
     "Honeywell",
@@ -276,7 +258,6 @@
     "Dover Corp",
     "GE Aerospace",
     "General Dynamics Corp",
-    "J B Hunt Transport Services Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "Norfolk Southern Corp",
@@ -286,7 +267,6 @@
     "Pool Corp",
     "Pultegroup Inc",
     "RTX",
-    "Republic Services Inc",
     "Southwest Airlines Co",
     "Steel Dynamics",
     "TE Connectivity Ltd",

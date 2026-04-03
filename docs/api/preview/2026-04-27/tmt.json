@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-04-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2026-04-27",
@@ -62,6 +53,15 @@
       "date": "2026-04-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -104,6 +104,15 @@
     {
       "company": "ADP",
       "symbol": "ADP",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Amphenol",
+      "symbol": "APH",
       "date": "2026-04-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -245,10 +254,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-03T09:46:50Z",
+  "generatedAt": "2026-04-03T12:41:06Z",
   "irCompanies": [
     "Equinix",
     "KLA Corp",
@@ -259,7 +268,9 @@
   "fallbackCompanies": [
     "ADP",
     "American Tower",
+    "Amphenol",
     "Cadence",
+    "CoStar Group",
     "Cognizant",
     "Crown Castle",
     "F5",
@@ -270,7 +281,6 @@
     "NXP Semiconductors",
     "PTC",
     "Qualcomm",
-    "Roper Technologies",
     "SBA Communications",
     "Spotify",
     "T-Mobile US",

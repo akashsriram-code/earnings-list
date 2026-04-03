@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Caesars Entertainment Inc",
+      "symbol": "CZR",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-04-28",
@@ -134,6 +143,15 @@
       "date": "2026-04-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "IDEX Corp",
+      "symbol": "IEX",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -250,6 +268,15 @@
       "source": "aggregator"
     },
     {
+      "company": "A O Smith Corp",
+      "symbol": "AOS",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bombardier",
       "symbol": "BDRBF",
       "date": "2026-04-30",
@@ -265,7 +292,7 @@
       "symbol": "FTV",
       "date": "2026-04-30",
       "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "12:00 pm ET",
       "ir_source_url": "https://investors.fortive.com/",
@@ -308,10 +335,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-03T09:46:50Z",
+  "generatedAt": "2026-04-03T12:41:06Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
@@ -321,16 +348,19 @@
   ],
   "fallbackCompanies": [
     "3M Co",
+    "A O Smith Corp",
     "Alexandria Real Estate Equities Inc",
     "American Water Works",
     "Booking Holdings Inc",
     "CH Robinson Worldwide Inc",
+    "Caesars Entertainment Inc",
     "Caterpillar",
     "Eaton Corporation PLC",
     "Extra Space Storage Inc",
     "Ford Motor Co",
     "Generac Holdings Inc",
     "Hilton Worldwide Holdings Inc",
+    "IDEX Corp",
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",

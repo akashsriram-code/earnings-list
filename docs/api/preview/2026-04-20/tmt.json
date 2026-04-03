@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Amphenol",
-      "symbol": "APH",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "IBM",
       "symbol": "IBM",
       "date": "2026-04-22",
@@ -50,7 +41,7 @@
       "symbol": "LRCX",
       "date": "2026-04-22",
       "bmo_amc": "2:00 P.M.",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00 p.m. ",
       "ir_source_url": "https://investor.lamresearch.com/",
@@ -162,11 +153,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -183,7 +183,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-03T09:46:38Z",
+  "generatedAt": "2026-04-03T12:40:55Z",
   "irCompanies": [
     "HPE",
     "Intel",
@@ -193,7 +193,6 @@
   "fallbackCompanies": [
     "AT&T",
     "Alphabet Inc",
-    "Amphenol",
     "Charter Communications",
     "Comcast",
     "Digital Realty",
@@ -202,6 +201,7 @@
     "Mobileye",
     "Omnicom",
     "Rogers Communications",
+    "Roper Technologies",
     "ServiceNow",
     "Texas Instruments",
     "Tyler Tech",

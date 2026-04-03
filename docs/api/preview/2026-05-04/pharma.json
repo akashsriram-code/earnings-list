@@ -76,8 +76,8 @@
       "company": "Cencora Inc",
       "symbol": "COR",
       "date": "2026-05-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -143,12 +143,21 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Zoetis",
+      "symbol": "ZTS",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-03T09:47:05Z",
+  "generatedAt": "2026-04-03T12:41:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amgen Inc",
@@ -166,7 +175,8 @@
     "Pfizer Inc",
     "Vertex Pharmaceuticals Inc",
     "Waters Corp",
-    "Zimmer Biomet Holdings Inc"
+    "Zimmer Biomet Holdings Inc",
+    "Zoetis"
   ],
   "week": {
     "id": "2026-05-04",

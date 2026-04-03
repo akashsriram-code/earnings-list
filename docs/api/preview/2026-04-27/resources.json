@@ -19,11 +19,38 @@
       "source": "aggregator"
     },
     {
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Enphase Energy",
       "symbol": "ENPH",
       "date": "2026-04-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "ONEOK",
+      "symbol": "OKE",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,11 +172,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Xcel Energy Inc",
+      "symbol": "XEL",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2026-05-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -190,10 +226,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-03T09:46:50Z",
+  "generatedAt": "2026-04-03T12:41:05Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Albemarle",
@@ -203,11 +239,14 @@
     "DuPont",
     "EQT Corp",
     "Ecolab",
+    "Edison International",
     "Enphase Energy",
     "Exxon Mobil",
     "FMC",
+    "First Energy",
     "HF Sinclair",
     "Imperial Oil",
+    "ONEOK",
     "PBF Energy",
     "PPG Industries",
     "PPL Corp",
@@ -216,7 +255,8 @@
     "Sherwin-Williams",
     "Southern Co",
     "Valero Energy Corp",
-    "Weyerhaeuser"
+    "Weyerhaeuser",
+    "Xcel Energy Inc"
   ],
   "week": {
     "id": "2026-04-27",
