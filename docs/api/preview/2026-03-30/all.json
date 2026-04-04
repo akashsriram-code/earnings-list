@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-03-31",
@@ -49,6 +39,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 5,
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-04T12:32:28Z",
+  "generatedAt": "2026-04-04T15:24:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Conagra Brands",
