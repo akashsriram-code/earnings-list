@@ -1,14 +1,40 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
+      "company": "Applied Digital",
+      "symbol": "APLD",
       "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "5:00 PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM ET",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-09",
+      "bmo_amc": "8:00AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "8:00am ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-04-10",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Constellation Brands",
@@ -47,40 +73,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
+      "company": "Delta Air",
+      "symbol": "DAL",
       "date": "2026-04-08",
-      "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM ET",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-09",
-      "bmo_amc": "8:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00am ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-04-10",
-      "bmo_amc": "09:00 AM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -89,7 +89,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-04T06:49:31Z",
+  "generatedAt": "2026-04-04T09:31:07Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
