@@ -377,13 +377,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-05-08",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-04T09:31:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-04T12:33:29Z",
+  "irCompanies": [
+    "Teradyne"
+  ],
   "fallbackCompanies": [
     "Amazon",
     "AppLovin",
