@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-05-19",
@@ -79,16 +89,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-05-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-04T21:25:51Z",
+  "generatedAt": "2026-04-05T01:20:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
