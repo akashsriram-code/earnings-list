@@ -1,50 +1,16 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-04-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-04-08",
-      "bmo_amc": "11:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 am EDT",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-04-09",
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
+      "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Live Nation Entertainment",
@@ -59,13 +25,25 @@
       "sector": "TMT"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-04-06",
+      "bmo_amc": "4:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 pm EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-04-06",
-      "bmo_amc": "2:21 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:21 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -107,16 +85,50 @@
       "sector": "TMT"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-04-06",
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-04-08",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-04-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
+      "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Huntington Bancshares",
@@ -131,13 +143,13 @@
       "sector": "Finance"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-06T18:44:22Z",
+  "generatedAt": "2026-04-06T21:32:47Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
@@ -147,6 +159,7 @@
     "Home Depot Inc",
     "Huntington Bancshares",
     "Live Nation Entertainment",
+    "Qnity",
     "Take-Two Interactive",
     "Ulta Beauty"
   ],
