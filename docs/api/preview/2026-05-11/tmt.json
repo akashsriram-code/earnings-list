@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-05-12",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-05-12",
@@ -154,11 +165,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-06T21:33:48Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-07T01:19:13Z",
+  "irCompanies": [
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Cisco Systems",
