@@ -121,16 +121,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Seagate",
       "symbol": "STX",
       "date": "2026-05-05",
@@ -293,16 +283,6 @@
     {
       "company": "Amazon",
       "symbol": "AMZN",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Apple",
-      "symbol": "AAPL",
       "date": "2026-05-07",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -698,8 +678,8 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -825,16 +805,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Camden Property Trust",
-      "symbol": "CPT",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-05-07",
@@ -945,14 +915,166 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Celanese",
-      "symbol": "CE",
-      "date": "2026-05-04",
+      "company": "Assurant Inc",
+      "symbol": "AIZ",
+      "date": "2026-05-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Finance"
+    },
+    {
+      "company": "Fair Issac Corp",
+      "symbol": "FICO",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "PayPal Holdings",
+      "symbol": "PYPL",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Visa",
+      "symbol": "V",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-05-06",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Sun Life",
+      "symbol": "SLF",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-05-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Arthur J. Gallagher",
+      "symbol": "AJG",
+      "date": "2026-05-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Mastercard",
+      "symbol": "MA",
+      "date": "2026-05-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-05-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Corterra Energy",
@@ -1000,6 +1122,16 @@
       "date": "2026-05-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Celanese",
+      "symbol": "CE",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -1375,158 +1507,6 @@
       "sector": "Resources"
     },
     {
-      "company": "Assurant Inc",
-      "symbol": "AIZ",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Fair Issac Corp",
-      "symbol": "FICO",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "PayPal Holdings",
-      "symbol": "PYPL",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Visa",
-      "symbol": "V",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-05-06",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Sun Life",
-      "symbol": "SLF",
-      "date": "2026-05-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TPG",
-      "symbol": "TPG",
-      "date": "2026-05-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Arthur J. Gallagher",
-      "symbol": "AJG",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Mastercard",
-      "symbol": "MA",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2026-05-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Henry Schein Inc",
       "symbol": "HSIC",
       "date": "2026-05-04",
@@ -1580,8 +1560,8 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
@@ -1602,6 +1582,16 @@
       "date": "2026-05-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
@@ -1657,16 +1647,6 @@
       "sector": "Pharma"
     },
     {
-      "company": "CVS Health Corp",
-      "symbol": "CVS",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-05-07",
@@ -1697,13 +1677,13 @@
       "sector": "Pharma"
     }
   ],
-  "count": 169,
+  "count": 167,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-07T10:01:59Z",
+  "generatedAt": "2026-04-07T12:58:14Z",
   "irCompanies": [
     "Apollo",
     "Magna International",
@@ -1721,7 +1701,6 @@
     "Ameren",
     "Amgen Inc",
     "AppLovin",
-    "Apple",
     "Aptiv PLC",
     "Archer-Daniels-Midland",
     "Arista Networks",
@@ -1740,7 +1719,6 @@
     "Bumble",
     "CF Industries",
     "CVS Health Corp",
-    "Camden Property Trust",
     "Carlyle",
     "Carrier Global Corp",
     "Celanese",
@@ -1810,6 +1788,7 @@
     "Kraft Heinz Co",
     "Kyndryl",
     "Leidos Holdings Inc",
+    "Lincoln National Corporation",
     "Linde",
     "Live Nation Entertainment",
     "Lucid",
@@ -1842,7 +1821,6 @@
     "Realty Income Corp",
     "Reddit",
     "Republic Services Inc",
-    "Rivian",
     "Roblox",
     "Rockwell Automation Inc",
     "Roku",

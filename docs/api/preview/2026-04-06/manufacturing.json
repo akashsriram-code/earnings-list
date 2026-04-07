@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-04-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-04-08",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-07T10:01:06Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-07T12:57:25Z",
+  "irCompanies": [
+    "MGM Resorts International"
+  ],
   "fallbackCompanies": [
     "Delta Air"
   ],

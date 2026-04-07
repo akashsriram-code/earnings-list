@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-04-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-04-22",
@@ -59,6 +50,15 @@
     {
       "company": "ServiceNow",
       "symbol": "NOW",
+      "date": "2026-04-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tesla",
+      "symbol": "TSLA",
       "date": "2026-04-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -183,7 +183,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-07T10:01:30Z",
+  "generatedAt": "2026-04-07T12:57:50Z",
   "irCompanies": [
     "HPE",
     "Intel",
@@ -199,10 +199,10 @@
     "Figma",
     "IBM",
     "Mobileye",
-    "Omnicom",
     "Rogers Communications",
     "Roper Technologies",
     "ServiceNow",
+    "Tesla",
     "Texas Instruments",
     "Tyler Tech",
     "VeriSign"

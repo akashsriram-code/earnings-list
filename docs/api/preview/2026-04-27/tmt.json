@@ -75,6 +75,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-04-28",
@@ -89,15 +98,6 @@
       "date": "2026-04-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Tesla",
-      "symbol": "TSLA",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -232,11 +232,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://rivian.com/investors",
@@ -254,10 +263,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-07T10:01:43Z",
+  "generatedAt": "2026-04-07T12:58:02Z",
   "irCompanies": [
     "Equinix",
     "KLA Corp",
@@ -269,6 +278,7 @@
     "ADP",
     "American Tower",
     "Amphenol",
+    "Apple",
     "Cadence",
     "CoStar Group",
     "Cognizant",
@@ -279,13 +289,13 @@
     "Meta",
     "Microsoft",
     "NXP Semiconductors",
+    "Omnicom",
     "PTC",
     "Qualcomm",
     "SBA Communications",
     "Spotify",
     "T-Mobile US",
     "Teradyne",
-    "Tesla",
     "Western Digital",
     "eBay"
   ],

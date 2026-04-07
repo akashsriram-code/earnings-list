@@ -180,9 +180,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -197,8 +195,8 @@
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -288,6 +286,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Camden Property Trust",
+      "symbol": "CPT",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-04-30",
@@ -335,14 +342,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-07T10:01:44Z",
+  "generatedAt": "2026-04-07T12:58:02Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
-    "MGM Resorts International",
     "Old Dominion Freight Line Inc",
     "UPS"
   ],
@@ -354,6 +360,7 @@
     "Booking Holdings Inc",
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
+    "Camden Property Trust",
     "Caterpillar",
     "Eaton Corporation PLC",
     "Extra Space Storage Inc",
@@ -364,6 +371,7 @@
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
+    "MGM Resorts International",
     "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",

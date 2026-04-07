@@ -46,11 +46,20 @@
       "source": "aggregator"
     },
     {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "PayPal Holdings",
       "symbol": "PYPL",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -111,11 +120,11 @@
       "source": "aggregator"
     },
     {
-      "company": "KKR",
-      "symbol": "KKR",
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
       "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -138,13 +147,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-07T10:01:59Z",
+  "generatedAt": "2026-04-07T12:58:14Z",
   "irCompanies": [
     "Apollo"
   ],
@@ -157,6 +166,7 @@
     "Global Payments",
     "Jack Henry and Associates",
     "KKR",
+    "Lincoln National Corporation",
     "Manulife",
     "Mastercard",
     "PayPal Holdings",

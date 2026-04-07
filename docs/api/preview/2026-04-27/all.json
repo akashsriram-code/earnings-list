@@ -83,6 +83,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-04-28",
@@ -98,16 +108,6 @@
       "date": "2026-04-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tesla",
-      "symbol": "TSLA",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -257,11 +257,21 @@
       "sector": "TMT"
     },
     {
+      "company": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://rivian.com/investors",
@@ -281,254 +291,138 @@
       "sector": "TMT"
     },
     {
-      "company": "EQT Corp",
-      "symbol": "EQT",
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-04-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
       "date": "2026-04-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Ecolab",
-      "symbol": "ECL",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Edison International",
-      "symbol": "EIX",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Enphase Energy",
-      "symbol": "ENPH",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "First Energy",
-      "symbol": "FE",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "ONEOK",
-      "symbol": "OKE",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "PPG Industries",
-      "symbol": "PPG",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Sherwin-Williams",
-      "symbol": "SHW",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Albemarle",
-      "symbol": "ALB",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Bunge",
-      "symbol": "BG",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "FMC",
-      "symbol": "FMC",
+      "company": "Aflac Inc",
+      "symbol": "AFL",
       "date": "2026-04-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "PPL Corp",
-      "symbol": "PPL",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Phillips 66",
-      "symbol": "PSX",
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
       "date": "2026-04-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Public Service Enterprise Co",
-      "symbol": "PEG",
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "ConocoPhillips",
-      "symbol": "COP",
+      "company": "Bristol Myers-Squibb",
+      "symbol": "BMY",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "PBF Energy",
-      "symbol": "PBF",
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Southern Co",
-      "symbol": "SO",
+      "company": "Cigna",
+      "symbol": "CI",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Valero Energy Corp",
-      "symbol": "VLO",
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Weyerhaeuser",
-      "symbol": "WY",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Xcel Energy Inc",
-      "symbol": "XEL",
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Chevron",
-      "symbol": "CVX",
-      "date": "2026-05-01",
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Tenet Healthcare",
+      "symbol": "THC",
+      "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "DuPont",
-      "symbol": "DD",
-      "date": "2026-05-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Exxon Mobil",
-      "symbol": "XOM",
-      "date": "2026-05-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "HF Sinclair",
-      "symbol": "DINO",
-      "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Imperial Oil",
-      "symbol": "IMO",
-      "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
       "company": "Alexandria Real Estate Equities Inc",
@@ -729,9 +623,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Manufacturing"
     },
     {
@@ -748,8 +640,8 @@
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -849,6 +741,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Camden Property Trust",
+      "symbol": "CPT",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-04-30",
@@ -901,138 +803,264 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-04-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
+      "company": "Ecolab",
+      "symbol": "ECL",
       "date": "2026-04-28",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Enphase Energy",
+      "symbol": "ENPH",
       "date": "2026-04-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Aflac Inc",
-      "symbol": "AFL",
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "ONEOK",
+      "symbol": "OKE",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PPG Industries",
+      "symbol": "PPG",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Sherwin-Williams",
+      "symbol": "SHW",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Albemarle",
+      "symbol": "ALB",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "FMC",
+      "symbol": "FMC",
       "date": "2026-04-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
+      "company": "PPL Corp",
+      "symbol": "PPL",
       "date": "2026-04-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
+      "company": "Phillips 66",
+      "symbol": "PSX",
       "date": "2026-04-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Bristol Myers-Squibb",
-      "symbol": "BMY",
+      "company": "Public Service Enterprise Co",
+      "symbol": "PEG",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Alliant Energy",
+      "symbol": "LNT",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "ConocoPhillips",
+      "symbol": "COP",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
+      "company": "PBF Energy",
+      "symbol": "PBF",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Cigna",
-      "symbol": "CI",
+      "company": "Southern Co",
+      "symbol": "SO",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
+      "company": "Valero Energy Corp",
+      "symbol": "VLO",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
+      "company": "Weyerhaeuser",
+      "symbol": "WY",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Xcel Energy Inc",
+      "symbol": "XEL",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Tenet Healthcare",
-      "symbol": "THC",
-      "date": "2026-04-30",
+      "company": "Chevron",
+      "symbol": "CVX",
+      "date": "2026-05-01",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
+    },
+    {
+      "company": "DuPont",
+      "symbol": "DD",
+      "date": "2026-05-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Exxon Mobil",
+      "symbol": "XOM",
+      "date": "2026-05-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "HF Sinclair",
+      "symbol": "DINO",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Imperial Oil",
+      "symbol": "IMO",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "LyondellBasell",
+      "symbol": "LYB",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Domino\u2019s Pizza Inc",
@@ -1060,8 +1088,8 @@
       "company": "Kimberly Clark Corp",
       "symbol": "KMB",
       "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -1211,6 +1239,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Invesco",
       "symbol": "IVZ",
       "date": "2026-04-28",
@@ -1223,16 +1261,6 @@
     {
       "company": "MSCI Inc",
       "symbol": "MSCI",
-      "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
       "date": "2026-04-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -1343,16 +1371,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Franklin Templeton",
-      "symbol": "BEN",
-      "date": "2026-05-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2026-05-01",
@@ -1363,13 +1381,13 @@
       "sector": "Finance"
     }
   ],
-  "count": 133,
+  "count": 135,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-07T10:01:46Z",
+  "generatedAt": "2026-04-07T12:58:03Z",
   "irCompanies": [
     "Bombardier",
     "Centene Corp",
@@ -1380,7 +1398,6 @@
     "Fortive Corp",
     "Goldman Sachs",
     "KLA Corp",
-    "MGM Resorts International",
     "Merck",
     "Old Dominion Freight Line Inc",
     "Rivian",
@@ -1395,12 +1412,14 @@
     "Aflac Inc",
     "Albemarle",
     "Alexandria Real Estate Equities Inc",
+    "Alliant Energy",
     "Allstate Corp",
     "Altria Group Inc",
     "Amcor PLC",
     "American Tower",
     "American Water Works",
     "Amphenol",
+    "Apple",
     "Arch Capital Group",
     "Booking Holdings Inc",
     "Bristol Myers-Squibb",
@@ -1409,6 +1428,7 @@
     "CH Robinson Worldwide Inc",
     "Cadence",
     "Caesars Entertainment Inc",
+    "Camden Property Trust",
     "Cardinal Health Inc",
     "Caterpillar",
     "Cboe Global Markets",
@@ -1422,7 +1442,6 @@
     "Crown Castle",
     "Domino\u2019s Pizza Inc",
     "DuPont",
-    "EQT Corp",
     "Eaton Corporation PLC",
     "Ecolab",
     "Edison International",
@@ -1456,6 +1475,8 @@
     "Kimberly Clark Corp",
     "L3Harris Technologies Inc",
     "Labcorp Holdings Inc",
+    "LyondellBasell",
+    "MGM Resorts International",
     "MSCI Inc",
     "Magna International",
     "Martin Marietta Materials Inc",
@@ -1463,12 +1484,12 @@
     "Meta",
     "Microsoft",
     "Mid-America Apartment Communities Inc",
-    "Moody's Corporation",
     "NVR Inc",
     "NXP Semiconductors",
     "Norwegian Cruise Line",
     "Nucor Corp",
     "ONEOK",
+    "Omnicom",
     "PBF Energy",
     "PPG Industries",
     "PPL Corp",
@@ -1493,7 +1514,6 @@
     "T. Rowe Price Group",
     "Tenet Healthcare",
     "Teradyne",
-    "Tesla",
     "Textron Inc",
     "Trane Technologies PLC",
     "UDR INC",
