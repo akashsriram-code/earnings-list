@@ -31,8 +31,8 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -82,36 +82,9 @@
       "source": "aggregator"
     },
     {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Hershey Co",
-      "symbol": "HSY",
-      "date": "2026-05-07",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -145,16 +118,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-08T10:03:06Z",
+  "generatedAt": "2026-04-08T12:57:43Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Ball Corp",
     "Clorox Co",
     "DoorDash",
-    "Hershey Co",
     "Instacart",
     "International Flavours & Fragrances",
     "Kimco Realty Corp",
@@ -163,9 +135,7 @@
     "McDonald\u2019s Corp",
     "Mondelez International",
     "Royal Caribbean Group",
-    "Smithfield Foods",
     "Starbucks Corp",
-    "Sysco Corp",
     "Tyson Foods"
   ],
   "week": {

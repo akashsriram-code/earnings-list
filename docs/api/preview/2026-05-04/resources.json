@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Pinnacle West",
+      "symbol": "PNW",
+      "date": "2026-05-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Williams Co",
       "symbol": "WMB",
       "date": "2026-05-04",
@@ -85,8 +94,8 @@
       "company": "Duke Energy",
       "symbol": "DUK",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +112,8 @@
       "company": "Energy Transfer",
       "symbol": "ET",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -195,6 +204,15 @@
       "date": "2026-05-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Albemarle",
+      "symbol": "ALB",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -307,35 +325,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Dominion Energy Inc",
-      "symbol": "D",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Eversource Energy",
       "symbol": "ES",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Linde",
-      "symbol": "LIN",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Pinnacle West",
-      "symbol": "PNW",
       "date": "2026-05-07",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -382,22 +373,23 @@
       "company": "Hawaiian Electric",
       "symbol": "HE",
       "date": "2026-05-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-08T10:03:05Z",
+  "generatedAt": "2026-04-08T12:57:42Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "AES Corp",
     "APA",
     "Air Products",
+    "Albemarle",
     "Ameren",
     "Archer-Daniels-Midland",
     "Atmos Energy",
@@ -411,7 +403,6 @@
     "DTE",
     "Devon Energy",
     "Diamondback Energy",
-    "Dominion Energy Inc",
     "Duke Energy",
     "EOG Resources",
     "Enbridge",
@@ -422,7 +413,6 @@
     "Expand Energy",
     "First Solar",
     "Hawaiian Electric",
-    "Linde",
     "Marathon Petroleum",
     "Mosaic",
     "NiSource",

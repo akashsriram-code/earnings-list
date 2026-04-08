@@ -34,7 +34,7 @@
       "symbol": "SFD",
       "date": "2026-04-28",
       "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://investors.smithfieldfoods.com/",
@@ -44,8 +44,8 @@
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-04-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
@@ -128,8 +128,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Hershey Co",
+      "symbol": "HSY",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "International Paper Co",
       "symbol": "IP",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -166,10 +184,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-08T10:02:51Z",
+  "generatedAt": "2026-04-08T12:57:30Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
@@ -185,8 +203,10 @@
     "Domino\u2019s Pizza Inc",
     "Etsy Inc",
     "Federal Realty Investment Trust",
+    "Hershey Co",
     "International Paper Co",
     "Kimberly Clark Corp",
+    "Molson Coors Beverage Co",
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Yum Brands"
