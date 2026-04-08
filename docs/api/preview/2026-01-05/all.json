@@ -1,24 +1,24 @@
 {
   "records": [
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-01-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-07",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-01-07",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 2,
@@ -27,7 +27,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-07T21:34:44Z",
+  "generatedAt": "2026-04-08T01:16:11Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",

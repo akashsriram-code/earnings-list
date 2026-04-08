@@ -180,7 +180,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -345,10 +347,11 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-07T21:38:33Z",
+  "generatedAt": "2026-04-08T01:19:31Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
+    "MGM Resorts International",
     "Old Dominion Freight Line Inc",
     "UPS"
   ],
@@ -371,7 +374,6 @@
     "Illinois Tool Works Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
