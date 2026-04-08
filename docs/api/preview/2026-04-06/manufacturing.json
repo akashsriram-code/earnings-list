@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-04-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-08T19:04:23Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-08T21:37:55Z",
+  "irCompanies": [
+    "Lennar Corp"
+  ],
   "fallbackCompanies": [
     "Delta Air"
   ],
