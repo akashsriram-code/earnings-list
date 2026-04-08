@@ -55,12 +55,10 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-04-15",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
@@ -181,9 +179,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 19,
@@ -192,17 +188,16 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-08T12:57:02Z",
+  "generatedAt": "2026-04-08T16:11:17Z",
   "irCompanies": [
-    "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
     "PNC Financial",
-    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
+    "Bank of America",
     "Bank of New York Mellon",
     "BlackRock Inc",
     "Charles Schwab",
@@ -214,6 +209,7 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
+    "Truist Financial",
     "US Bancorp"
   ],
   "week": {
