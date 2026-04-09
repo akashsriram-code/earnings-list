@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lowe\u2019s Cos Inc",
@@ -67,11 +69,12 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-09T13:00:54Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-09T16:16:32Z",
+  "irCompanies": [
+    "Home Depot Inc"
+  ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
-    "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "TJX Cos Inc",
     "Target Corp",
