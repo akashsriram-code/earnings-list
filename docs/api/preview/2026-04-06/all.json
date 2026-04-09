@@ -1,40 +1,6 @@
 {
   "records": [
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-08",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-04-09",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-04-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-04-08",
@@ -77,6 +43,40 @@
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-08",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-04-09",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-04-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 7,
@@ -85,7 +85,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-09T01:08:20Z",
+  "generatedAt": "2026-04-09T05:06:47Z",
   "irCompanies": [
     "AT&T",
     "BlackBerry",
