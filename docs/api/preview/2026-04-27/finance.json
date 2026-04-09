@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Arch Capital Group",
@@ -153,8 +155,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-08T21:38:33Z",
+  "generatedAt": "2026-04-09T01:08:57Z",
   "irCompanies": [
+    "Cincinnati Financial",
     "Goldman Sachs"
   ],
   "fallbackCompanies": [
@@ -162,7 +165,6 @@
     "Arch Capital Group",
     "Brown & Brown",
     "Cboe Global Markets",
-    "Cincinnati Financial",
     "Everest",
     "Franklin Templeton",
     "Globe Life",
