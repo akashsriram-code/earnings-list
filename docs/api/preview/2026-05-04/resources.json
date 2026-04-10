@@ -118,15 +118,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Entergy Corp",
-      "symbol": "ETR",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Expand Energy",
       "symbol": "EXE",
       "date": "2026-05-05",
@@ -246,6 +237,15 @@
     {
       "company": "Exelon Corp",
       "symbol": "EXC",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "NRG Energy",
+      "symbol": "NRG",
       "date": "2026-05-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -391,7 +391,7 @@
   "count": 43,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-10T07:18:48Z",
+  "generatedAt": "2026-04-10T10:04:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -416,7 +416,6 @@
     "EOG Resources",
     "Enbridge",
     "Energy Transfer",
-    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "Expand Energy",
@@ -424,6 +423,7 @@
     "Hawaiian Electric",
     "Marathon Petroleum",
     "Mosaic",
+    "NRG Energy",
     "NiSource",
     "NuScale Power",
     "Nutrien",
