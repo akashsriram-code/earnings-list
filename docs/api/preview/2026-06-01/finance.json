@@ -1,14 +1,36 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-10T10:05:32Z",
+  "generatedAt": "2026-04-10T12:47:46Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "CIBC",
+    "Royal Bank of Canada"
+  ],
   "week": {
     "id": "2026-06-01",
     "start_date": "2026-06-01",

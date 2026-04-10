@@ -307,11 +307,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Cheniere Energy",
+      "symbol": "LNG",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -388,10 +397,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-10T10:04:29Z",
+  "generatedAt": "2026-04-10T12:46:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -405,6 +414,7 @@
     "Barrick Mining",
     "CF Industries",
     "Celanese",
+    "Cheniere Energy",
     "Consolidated Edison",
     "Constellation Energy",
     "Corterra Energy",

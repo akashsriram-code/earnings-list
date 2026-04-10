@@ -102,6 +102,15 @@
       "source": "aggregator"
     },
     {
+      "company": "MetLife",
+      "symbol": "MET",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Sun Life",
       "symbol": "SLF",
       "date": "2026-05-06",
@@ -129,6 +138,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-05-07",
@@ -147,19 +165,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-10T10:04:29Z",
+  "generatedAt": "2026-04-10T12:46:50Z",
   "irCompanies": [
     "Apollo"
   ],
   "fallbackCompanies": [
     "Arthur J. Gallagher",
     "Assurant Inc",
+    "Carlyle",
     "Fair Issac Corp",
     "Fidelity National Information Services",
     "Global Payments",
@@ -168,6 +187,7 @@
     "Lincoln National Corporation",
     "Manulife",
     "Mastercard",
+    "MetLife",
     "PayPal Holdings",
     "Prudential Financial",
     "Sun Life",

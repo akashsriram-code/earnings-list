@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "3M Co",
+      "symbol": "MMM",
+      "date": "2026-04-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-04-21",
@@ -71,15 +80,6 @@
       "date": "2026-04-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "General Dynamics Corp",
-      "symbol": "GD",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -141,8 +141,8 @@
       "company": "United Rentals Inc",
       "symbol": "URI",
       "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -159,8 +159,8 @@
       "company": "American Airlines Group Inc",
       "symbol": "AAL",
       "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -210,6 +210,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-04-23",
@@ -239,22 +248,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-10T10:04:02Z",
+  "generatedAt": "2026-04-10T12:46:24Z",
   "irCompanies": [
     "DR Horton Inc",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
+    "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
     "Boeing",
     "CSX Corp",
     "Dover Corp",
     "GE Aerospace",
-    "General Dynamics Corp",
     "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
@@ -265,6 +274,7 @@
     "Pool Corp",
     "Pultegroup Inc",
     "RTX",
+    "Snap-On Inc",
     "Southwest Airlines Co",
     "Steel Dynamics",
     "TE Connectivity Ltd",

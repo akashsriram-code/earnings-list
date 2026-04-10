@@ -213,8 +213,8 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -230,15 +230,6 @@
     {
       "company": "Huntington Ingalls Industries Inc",
       "symbol": "HII",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Ingersoll Rand Inc",
-      "symbol": "IR",
       "date": "2026-05-07",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -282,10 +273,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-10T10:04:29Z",
+  "generatedAt": "2026-04-10T12:46:50Z",
   "irCompanies": [
     "Magna International"
   ],
@@ -305,7 +296,6 @@
     "Howmet Aerospace",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
-    "Ingersoll Rand Inc",
     "Jacobs Solutions Inc",
     "JetBlue",
     "Johnson Controls International PLC",

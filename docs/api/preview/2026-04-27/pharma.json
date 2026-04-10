@@ -21,6 +21,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2026-04-29",
@@ -44,6 +53,15 @@
       "date": "2026-04-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Amgen Inc",
+      "symbol": "AMGN",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -113,16 +131,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-10T10:04:16Z",
+  "generatedAt": "2026-04-10T12:46:36Z",
   "irCompanies": [
     "Centene Corp",
     "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
+    "Amgen Inc",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cigna",
@@ -131,7 +150,8 @@
     "Labcorp Holdings Inc",
     "Regeneron Pharmaceuticals",
     "Revvity",
-    "Tenet Healthcare"
+    "Tenet Healthcare",
+    "Zimmer Biomet Holdings Inc"
   ],
   "week": {
     "id": "2026-04-27",
