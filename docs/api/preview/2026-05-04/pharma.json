@@ -132,10 +132,12 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-05-07",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mckesson Corp",
@@ -159,13 +161,13 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-09T21:41:54Z",
+  "generatedAt": "2026-04-10T01:20:42Z",
   "irCompanies": [
+    "Becton Dickinson and Co",
     "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Amgen Inc",
-    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "CVS Health Corp",
     "Cencora Inc",

@@ -13,56 +13,10 @@
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-04-09",
-      "bmo_amc": "8:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00am ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-04-09",
-      "bmo_amc": "2:00 PM PT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-04-09",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-04-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-09",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "AT&T",
@@ -76,20 +30,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-09T21:41:03Z",
+  "generatedAt": "2026-04-10T01:19:51Z",
   "irCompanies": [
-    "AT&T",
-    "BlackBerry",
-    "Intel",
-    "Intuit",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
+    "AT&T"
   ],
   "fallbackCompanies": [
-    "Applied Digital"
+    "Applied Digital",
+    "BlackBerry"
   ],
   "week": {
     "id": "2026-04-06",
