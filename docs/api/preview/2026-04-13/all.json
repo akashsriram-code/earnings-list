@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-04-15",
@@ -9,6 +19,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -257,16 +277,6 @@
       "sector": "Finance"
     },
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-04-14",
@@ -285,16 +295,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     }
   ],
   "count": 28,
@@ -303,7 +303,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-11T09:34:47Z",
+  "generatedAt": "2026-04-11T12:35:24Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
