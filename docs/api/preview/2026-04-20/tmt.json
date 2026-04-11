@@ -13,10 +13,12 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
     },
     {
       "company": "Crown Castle",
@@ -183,15 +185,15 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-10T21:31:22Z",
+  "generatedAt": "2026-04-11T01:14:50Z",
   "irCompanies": [
+    "AT&T",
     "HPE",
     "Intel",
     "Juniper Networks",
     "Lam Research"
   ],
   "fallbackCompanies": [
-    "AT&T",
     "Charter Communications",
     "Comcast",
     "Crown Castle",
