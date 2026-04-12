@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-05-04",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-05-04",
@@ -262,11 +273,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-11T21:27:29Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-12T01:24:34Z",
+  "irCompanies": [
+    "Magna International"
+  ],
   "fallbackCompanies": [
     "AMETEK Inc",
     "Airbnb Inc",
