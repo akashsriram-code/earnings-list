@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
+      "company": "Netflix",
+      "symbol": "NFLX",
       "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -51,6 +51,26 @@
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Johnson & Johnson",
@@ -275,26 +295,6 @@
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     }
   ],
   "count": 28,
@@ -303,7 +303,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-12T05:19:05Z",
+  "generatedAt": "2026-04-12T07:06:09Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
