@@ -949,15 +949,15 @@
 
   function jsonToCSV(records) {
     if (!records || !records.length) return '';
-    const headers = ['Date', 'Time', 'Ticker', 'Company', 'Sector', 'Source'];
+    const headers = ['Date', 'BMO/AMC', 'Ticker', 'Company', 'Sector', 'Source'];
     const rows = records.map(r => [
-      r.date,
-      r.time,
-      r.ticker,
+      r.date || '',
+      normalizeSessionLabel(r.bmo_amc || r.time),
+      r.symbol || r.ticker || '',
       // Escape quotes in company name
       `"${(r.company || '').replace(/"/g, '""')}"`,
       r.sector || '',
-      r.source
+      r.source || ''
     ]);
     return [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
   }
