@@ -7,7 +7,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "BlackRock Inc",
@@ -192,11 +194,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-13T10:29:40Z",
+  "generatedAt": "2026-04-13T13:01:33Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
+    "Goldman Sachs",
     "JPMorgan",
     "PNC Financial",
     "Truist Financial",
@@ -207,7 +210,6 @@
     "BlackRock Inc",
     "Charles Schwab",
     "Fifth Third Bancorp",
-    "Goldman Sachs",
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",

@@ -183,15 +183,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Illinois Tool Works Inc",
-      "symbol": "ITW",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Invitation Homes Inc",
       "symbol": "INVH",
       "date": "2026-04-29",
@@ -277,6 +268,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-04-29",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-04-29",
@@ -326,6 +328,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Illinois Tool Works Inc",
+      "symbol": "ITW",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
       "date": "2026-04-30",
@@ -371,16 +382,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-13T10:30:05Z",
+  "generatedAt": "2026-04-13T13:02:05Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
     "MGM Resorts International",
     "Old Dominion Freight Line Inc",
-    "UPS"
+    "UPS",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",

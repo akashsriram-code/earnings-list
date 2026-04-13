@@ -66,6 +66,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Visa",
+      "symbol": "V",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-04-29",
@@ -84,15 +93,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Goldman Sachs",
-      "symbol": "GS",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "company": "Arthur J. Gallagher",
+      "symbol": "AJG",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Intercontinental Exchange",
@@ -131,23 +138,32 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-13T10:30:06Z",
+  "generatedAt": "2026-04-13T13:02:07Z",
   "irCompanies": [
     "Aon",
-    "Cincinnati Financial",
-    "Goldman Sachs"
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Allstate Corp",
     "Arch Capital Group",
+    "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
     "Everest",
@@ -156,7 +172,9 @@
     "Invesco",
     "Robinhood",
     "S&P Global Inc",
-    "T. Rowe Price Group"
+    "T. Rowe Price Group",
+    "TPG",
+    "Visa"
   ],
   "week": {
     "id": "2026-04-27",

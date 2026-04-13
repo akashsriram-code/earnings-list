@@ -1,24 +1,6 @@
 {
   "records": [
     {
-      "company": "Clorox Co",
-      "symbol": "CLX",
-      "date": "2026-05-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
-      "date": "2026-05-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-05-04",
@@ -55,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-05-05",
@@ -84,9 +57,9 @@
     {
       "company": "Instacart",
       "symbol": "CART",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,27 +67,24 @@
       "company": "McDonald\u2019s Corp",
       "symbol": "MCD",
       "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-13T10:30:22Z",
+  "generatedAt": "2026-04-13T13:02:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Ball Corp",
-    "Clorox Co",
     "DoorDash",
     "Instacart",
     "International Flavours & Fragrances",
     "Kraft Heinz Co",
-    "Mattel",
     "McDonald\u2019s Corp",
-    "Royal Caribbean Group",
     "Starbucks Corp",
     "Tyson Foods"
   ],

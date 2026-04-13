@@ -252,6 +252,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Atlassian",
+      "symbol": "TEAM",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "GoDaddy",
       "symbol": "GDDY",
       "date": "2026-04-30",
@@ -268,6 +277,15 @@
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Reddit",
+      "symbol": "RDDT",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -303,10 +321,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 32,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-13T10:30:06Z",
+  "generatedAt": "2026-04-13T13:02:07Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -322,6 +340,7 @@
     "American Tower",
     "Amphenol",
     "Apple",
+    "Atlassian",
     "Cadence",
     "CoStar Group",
     "Cognizant",
@@ -335,6 +354,7 @@
     "Omnicom",
     "PTC",
     "Qualcomm",
+    "Reddit",
     "Roblox",
     "SBA Communications",
     "Spotify",

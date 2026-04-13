@@ -1,33 +1,15 @@
 {
   "records": [
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-04-13",
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -245,12 +227,22 @@
       "sector": "Pharma"
     },
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-04-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -295,6 +287,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 28,
@@ -303,11 +305,12 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-13T10:29:41Z",
+  "generatedAt": "2026-04-13T13:01:36Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
+    "Goldman Sachs",
     "JPMorgan",
     "PNC Financial",
     "Prologis Inc",
@@ -322,7 +325,6 @@
     "Charles Schwab",
     "Fastenal Co",
     "Fifth Third Bancorp",
-    "Goldman Sachs",
     "J B Hunt Transport Services Inc",
     "Johnson & Johnson",
     "KeyCorp",
