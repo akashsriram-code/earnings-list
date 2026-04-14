@@ -13,10 +13,32 @@
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-04-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-04-14",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
     },
     {
       "company": "J B Hunt Transport Services Inc",
@@ -39,12 +61,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T10:10:12Z",
+  "generatedAt": "2026-04-14T13:01:15Z",
   "irCompanies": [
-    "Prologis Inc"
+    "MGM Resorts International",
+    "Prologis Inc",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "Carmax Inc",

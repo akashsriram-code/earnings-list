@@ -84,6 +84,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-05-14",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-05-14",
@@ -147,14 +156,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-14T10:11:07Z",
+  "generatedAt": "2026-04-14T13:02:25Z",
   "irCompanies": [
     "Qnity"
   ],
   "fallbackCompanies": [
+    "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "Fox Corp",

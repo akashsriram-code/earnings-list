@@ -1,12 +1,23 @@
 {
   "records": [
     {
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bio-techne.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-04-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-14T10:10:12Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-14T13:01:16Z",
+  "irCompanies": [
+    "Bio-Techne Corp"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Johnson & Johnson"

@@ -133,11 +133,20 @@
       "symbol": "BDX",
       "date": "2026-05-07",
       "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Mckesson Corp",
@@ -145,6 +154,15 @@
       "date": "2026-05-07",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Viatris",
+      "symbol": "VTRS",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -158,10 +176,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-14T10:10:53Z",
+  "generatedAt": "2026-04-14T13:02:11Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "IDEXX Laboratories Inc"
@@ -171,6 +189,7 @@
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
+    "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
     "Hims and Hers",
@@ -180,6 +199,7 @@
     "Pfizer Inc",
     "Revvity",
     "Vertex Pharmaceuticals Inc",
+    "Viatris",
     "Waters Corp",
     "Zoetis"
   ],

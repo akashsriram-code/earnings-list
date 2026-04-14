@@ -127,6 +127,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Air Products",
+      "symbol": "APD",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Alliant Energy",
       "symbol": "LNT",
       "date": "2026-04-30",
@@ -269,14 +278,24 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "TC Energy",
+      "symbol": "TRP",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-14T10:10:39Z",
+  "generatedAt": "2026-04-14T13:01:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Air Products",
     "Alliant Energy",
     "Bunge",
     "CMS Energy Corp",
@@ -304,6 +323,7 @@
     "Public Service Enterprise Co",
     "Sherwin-Williams",
     "Southern Co",
+    "TC Energy",
     "Valero Energy Corp",
     "Weyerhaeuser",
     "Xcel Energy Inc"

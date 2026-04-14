@@ -198,9 +198,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -268,17 +266,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-04-29",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-04-29",
@@ -317,6 +304,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-04-30",
@@ -326,6 +322,15 @@
       "ir_time_label": "12:00 pm ET",
       "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Hubbell Inc",
+      "symbol": "HUBB",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Illinois Tool Works Inc",
@@ -384,18 +389,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 41,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T10:10:38Z",
+  "generatedAt": "2026-04-14T13:01:57Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
-    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
-    "UPS",
-    "Veralto Corp"
+    "UPS"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -406,6 +409,7 @@
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
     "Camden Property Trust",
+    "Carrier Global Corp",
     "Caterpillar",
     "Eaton Corporation PLC",
     "Essex Property Trust Inc",
@@ -414,11 +418,13 @@
     "Generac Holdings Inc",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
+    "Hubbell Inc",
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Ingersoll Rand Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
+    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
