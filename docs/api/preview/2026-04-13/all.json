@@ -1,24 +1,24 @@
 {
   "records": [
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-04-14",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Pharma"
     },
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
       "date": "2026-04-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Goldman Sachs",
@@ -267,6 +267,26 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-04-15",
@@ -275,26 +295,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-04-14",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 28,
@@ -303,7 +303,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-14T01:24:27Z",
+  "generatedAt": "2026-04-14T05:19:00Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",

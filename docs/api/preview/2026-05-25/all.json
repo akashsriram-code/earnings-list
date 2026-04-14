@@ -1,24 +1,14 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Deckers Outdoors",
@@ -49,6 +39,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-05-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "C3.ai",
@@ -151,16 +161,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -197,7 +197,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-14T01:25:53Z",
+  "generatedAt": "2026-04-14T05:20:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
