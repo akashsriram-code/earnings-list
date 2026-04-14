@@ -13,18 +13,18 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-04-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -33,20 +33,18 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-04-14",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-04-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -192,12 +190,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-14T13:01:15Z",
+  "generatedAt": "2026-04-14T16:04:23Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
-    "JPMorgan",
     "PNC Financial",
     "Truist Financial",
     "Wells Fargo"
@@ -208,6 +205,7 @@
     "Charles Schwab",
     "Fifth Third Bancorp",
     "Goldman Sachs",
+    "JPMorgan",
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",

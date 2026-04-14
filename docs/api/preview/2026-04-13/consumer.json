@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-04-14",
+      "bmo_amc": "9:44 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:44 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "PepsiCo Inc",
       "symbol": "PEP",
       "date": "2026-04-16",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-14T13:01:14Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-14T16:04:21Z",
+  "irCompanies": [
+    "Royal Caribbean Group"
+  ],
   "fallbackCompanies": [
     "PepsiCo Inc"
   ],
