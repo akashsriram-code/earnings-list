@@ -30,6 +30,28 @@
       "source": "investor_relations"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-04-14",
+      "bmo_amc": "12:00PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00pm EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-04-14",
@@ -61,13 +83,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T16:04:20Z",
+  "generatedAt": "2026-04-14T19:00:32Z",
   "irCompanies": [
     "MGM Resorts International",
     "Prologis Inc",
+    "Southwest Airlines Co",
+    "UPS",
     "Veralto Corp"
   ],
   "fallbackCompanies": [

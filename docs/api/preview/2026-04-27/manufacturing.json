@@ -103,12 +103,10 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-04-28",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Waste Management Inc",
@@ -392,13 +390,12 @@
   "count": 42,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T16:04:48Z",
+  "generatedAt": "2026-04-14T19:00:59Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
     "Magna International",
-    "Old Dominion Freight Line Inc",
-    "UPS"
+    "Old Dominion Freight Line Inc"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -435,6 +432,7 @@
     "Textron Inc",
     "Trane Technologies PLC",
     "UDR INC",
+    "UPS",
     "VICI Properties Inc",
     "Vulcan Materials Co",
     "Waste Management Inc"
