@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-04-16",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-14T07:19:36Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-14T10:10:13Z",
+  "irCompanies": [
+    "Tencent Music"
+  ],
   "fallbackCompanies": [
     "Netflix"
   ],
