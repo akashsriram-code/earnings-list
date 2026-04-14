@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -14,9 +34,9 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-01-13",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -34,9 +54,9 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-01-14",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -44,9 +64,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-01-14",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -54,9 +74,9 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-01-15",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -119,26 +139,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 14,
@@ -147,7 +147,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-13T21:39:21Z",
+  "generatedAt": "2026-04-14T01:21:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",

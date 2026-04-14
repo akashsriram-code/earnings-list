@@ -7,26 +7,24 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -37,7 +35,7 @@
       "date": "2026-04-14",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations"
@@ -46,9 +44,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -194,12 +192,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-13T21:42:18Z",
+  "generatedAt": "2026-04-14T01:24:26Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
-    "Goldman Sachs",
     "JPMorgan",
     "PNC Financial",
     "Truist Financial",
@@ -210,6 +207,7 @@
     "BlackRock Inc",
     "Charles Schwab",
     "Fifth Third Bancorp",
+    "Goldman Sachs",
     "KeyCorp",
     "M&T Bank Corp",
     "Morgan Stanley",
