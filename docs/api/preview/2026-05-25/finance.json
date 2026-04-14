@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
       "company": "TD Bank",
       "symbol": "TD",
       "date": "2026-05-28",
@@ -28,14 +39,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-14T19:01:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-14T21:46:50Z",
+  "irCompanies": [
+    "Wells Fargo"
+  ],
   "fallbackCompanies": [
     "Bank of Montreal",
     "Scotiabank",

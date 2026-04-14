@@ -21,6 +21,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-04-14",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-04-16",
@@ -30,12 +41,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-14T19:00:32Z",
+  "generatedAt": "2026-04-14T21:45:24Z",
   "irCompanies": [
-    "Bio-Techne Corp"
+    "Bio-Techne Corp",
+    "Solventum Corp"
   ],
   "fallbackCompanies": [
     "Abbott Laboratories",

@@ -1,58 +1,74 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-05-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Palo Alto",
+      "symbol": "PANW",
       "date": "2026-05-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-05-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-05-21",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-05-22",
+      "company": "Snowflake",
+      "symbol": "SNOW",
+      "date": "2026-05-20",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-05-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -127,86 +143,57 @@
       "sector": "Consumer"
     },
     {
-      "company": "Palo Alto",
-      "symbol": "PANW",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2026-05-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Snowflake",
-      "symbol": "SNOW",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zoom",
-      "symbol": "ZM",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alibaba",
-      "symbol": "BABA",
+      "company": "Deere",
+      "symbol": "DE",
       "date": "2026-05-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
       "date": "2026-05-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-14T19:01:40Z",
+  "generatedAt": "2026-04-14T21:46:36Z",
   "irCompanies": [
     "Home Depot Inc",
-    "Honeywell",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [

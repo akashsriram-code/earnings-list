@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2026-05-26",
@@ -29,6 +19,46 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ralph Lauren Corp",
+      "symbol": "RL",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "C3.ai",
@@ -131,36 +161,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ralph Lauren Corp",
-      "symbol": "RL",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -181,6 +181,18 @@
       "sector": "Finance"
     },
     {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "TD Bank",
       "symbol": "TD",
       "date": "2026-05-28",
@@ -191,14 +203,16 @@
       "sector": "Finance"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-14T19:01:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-14T21:46:50Z",
+  "irCompanies": [
+    "Wells Fargo"
+  ],
   "fallbackCompanies": [
     "Agilent",
     "Analog Devices",

@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-04-14",
+      "bmo_amc": "4:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 PM EDT",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-04-14",
@@ -27,6 +38,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-04-14",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
     },
     {
@@ -83,12 +105,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T19:00:32Z",
+  "generatedAt": "2026-04-14T21:45:23Z",
   "irCompanies": [
+    "Emerson Electric Co",
     "MGM Resorts International",
+    "Parker-Hannifin Corp",
     "Prologis Inc",
     "Southwest Airlines Co",
     "UPS",

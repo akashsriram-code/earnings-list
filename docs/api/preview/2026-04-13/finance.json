@@ -45,9 +45,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Bank of America",
@@ -190,14 +188,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-14T19:00:30Z",
+  "generatedAt": "2026-04-14T21:45:24Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "PNC Financial",
-    "Truist Financial",
-    "Wells Fargo"
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
@@ -212,7 +209,8 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
-    "US Bancorp"
+    "US Bancorp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2026-04-13",
