@@ -45,7 +45,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zebra Technologies",
@@ -159,9 +161,10 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-14T21:46:21Z",
+  "generatedAt": "2026-04-15T01:22:23Z",
   "irCompanies": [
-    "Qnity"
+    "Qnity",
+    "Tencent Music"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -176,7 +179,6 @@
     "Pinterest",
     "Sea Limited",
     "Shopify",
-    "Tencent Music",
     "Tower Semiconductor",
     "Trade Desk",
     "Zebra Technologies"

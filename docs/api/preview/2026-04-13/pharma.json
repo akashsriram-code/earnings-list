@@ -1,35 +1,13 @@
 {
   "records": [
     {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bio-techne.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-04-14",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-04-14",
-      "bmo_amc": "4:05 PM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Abbott Laboratories",
@@ -41,14 +19,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-14T21:45:24Z",
-  "irCompanies": [
-    "Bio-Techne Corp",
-    "Solventum Corp"
-  ],
+  "generatedAt": "2026-04-15T01:21:27Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Johnson & Johnson"

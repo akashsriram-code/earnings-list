@@ -103,10 +103,12 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Waste Management Inc",
@@ -196,7 +198,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -262,6 +266,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-04-29",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Vulcan Materials Co",
@@ -387,15 +402,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-14T21:45:52Z",
+  "generatedAt": "2026-04-15T01:21:53Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
+    "MGM Resorts International",
     "Magna International",
-    "Old Dominion Freight Line Inc"
+    "Old Dominion Freight Line Inc",
+    "UPS",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -421,7 +439,6 @@
     "Ingersoll Rand Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
@@ -432,7 +449,6 @@
     "Textron Inc",
     "Trane Technologies PLC",
     "UDR INC",
-    "UPS",
     "VICI Properties Inc",
     "Vulcan Materials Co",
     "Waste Management Inc"

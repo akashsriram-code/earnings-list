@@ -75,6 +75,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-05-05",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Waters Corp",
       "symbol": "WAT",
       "date": "2026-05-05",
@@ -87,10 +98,12 @@
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2026-05-06",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00am EDT",
+      "ir_source_url": "https://investors.bio-techne.com/",
+      "source": "investor_relations"
     },
     {
       "company": "CVS Health Corp",
@@ -176,16 +189,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-14T21:46:07Z",
+  "generatedAt": "2026-04-15T01:22:10Z",
   "irCompanies": [
     "Becton Dickinson and Co",
-    "IDEXX Laboratories Inc"
+    "Bio-Techne Corp",
+    "IDEXX Laboratories Inc",
+    "Solventum Corp"
   ],
   "fallbackCompanies": [
-    "Bio-Techne Corp",
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
