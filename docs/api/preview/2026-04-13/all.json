@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-15",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-04-13",
@@ -61,6 +31,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-04-16",
@@ -71,6 +53,72 @@
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-04-15",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-04-15",
+      "bmo_amc": "11:39 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:39 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-04-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Goldman Sachs",
@@ -126,10 +174,10 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-04-15",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
@@ -138,9 +186,9 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-04-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -148,9 +196,9 @@
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-04-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.morganstanley.com/about-us-ir",
       "source": "investor_relations",
@@ -160,10 +208,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-04-15",
-      "bmo_amc": "10:00 AM EDT",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "10:00 am EDT",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations",
       "sector": "Finance"
@@ -172,9 +220,9 @@
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-04-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -273,6 +321,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "PepsiCo Inc",
       "symbol": "PEP",
       "date": "2026-04-16",
@@ -281,49 +339,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-04-15",
-      "bmo_amc": "6:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     }
   ],
-  "count": 30,
+  "count": 32,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-15T13:01:15Z",
+  "generatedAt": "2026-04-15T16:02:28Z",
   "irCompanies": [
     "Bank of America",
     "Citizens Financial",
@@ -332,6 +356,8 @@
     "PNC Financial",
     "Prologis Inc",
     "Qnity",
+    "Quanta Services Inc",
+    "Take-Two Interactive",
     "Truist Financial"
   ],
   "fallbackCompanies": [
