@@ -122,8 +122,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Mastercard",
+      "symbol": "MA",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Willis Tower Watson",
+      "symbol": "WTW",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -151,6 +169,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Lazard",
+      "symbol": "LAZ",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "TPG",
       "symbol": "TPG",
       "date": "2026-05-01",
@@ -160,13 +187,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-15T10:11:19Z",
+  "generatedAt": "2026-04-15T13:01:48Z",
   "irCompanies": [
     "Aon",
     "Cincinnati Financial",
@@ -182,11 +209,14 @@
     "Franklin Templeton",
     "Intercontinental Exchange",
     "Invesco",
+    "Lazard",
+    "Mastercard",
     "Robinhood",
     "S&P Global Inc",
     "T. Rowe Price Group",
     "TPG",
-    "Visa"
+    "Visa",
+    "Willis Tower Watson"
   ],
   "week": {
     "id": "2026-04-27",

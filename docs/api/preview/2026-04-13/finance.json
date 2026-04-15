@@ -13,8 +13,8 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-04-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -72,7 +72,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations"
     },
     {
       "company": "PNC Financial",
@@ -186,10 +188,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-15T10:10:52Z",
+  "generatedAt": "2026-04-15T13:01:12Z",
   "irCompanies": [
     "Bank of America",
     "Citizens Financial",
+    "Morgan Stanley",
     "PNC Financial",
     "Truist Financial"
   ],
@@ -203,7 +206,6 @@
     "JPMorgan",
     "KeyCorp",
     "M&T Bank Corp",
-    "Morgan Stanley",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

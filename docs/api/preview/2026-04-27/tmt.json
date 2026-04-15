@@ -150,12 +150,10 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-04-29",
-      "bmo_amc": "5:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:30 PM ET",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Garmin",
@@ -190,8 +188,8 @@
       "company": "Meta",
       "symbol": "META",
       "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -225,15 +223,6 @@
       "ir_time_label": "8:30 am EDT",
       "ir_source_url": "https://investors.teradyne.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Western Digital",
-      "symbol": "WDC",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "eBay",
@@ -330,14 +319,22 @@
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investor.siriusxm.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Western Digital",
+      "symbol": "WDC",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-15T10:11:18Z",
+  "generatedAt": "2026-04-15T13:01:49Z",
   "irCompanies": [
-    "Equinix",
     "GoDaddy",
     "KLA Corp",
     "Microsoft",
@@ -357,6 +354,7 @@
     "CoStar Group",
     "Cognizant",
     "Corning",
+    "Equinix",
     "F5",
     "Garmin",
     "Grab",

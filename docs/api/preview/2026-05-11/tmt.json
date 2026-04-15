@@ -22,12 +22,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-05-12",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Sea Limited",
@@ -42,8 +40,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-05-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
@@ -131,24 +129,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Pinterest",
-      "symbol": "PINS",
-      "date": "2026-05-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-05-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2026-05-14",
@@ -158,12 +138,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-15T10:11:46Z",
+  "generatedAt": "2026-04-15T13:02:56Z",
   "irCompanies": [
-    "Qnity",
     "Tencent Music"
   ],
   "fallbackCompanies": [
@@ -176,9 +155,8 @@
     "Match Group",
     "Microchip Tech",
     "News Corp",
-    "Pinterest",
+    "Qnity",
     "Sea Limited",
-    "Shopify",
     "Tower Semiconductor",
     "Trade Desk",
     "Zebra Technologies"

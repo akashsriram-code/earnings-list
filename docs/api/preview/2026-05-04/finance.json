@@ -120,20 +120,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Coinbase",
+      "symbol": "COIN",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-05-07",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Mastercard",
-      "symbol": "MA",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -144,13 +144,14 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-15T10:11:33Z",
+  "generatedAt": "2026-04-15T13:02:09Z",
   "irCompanies": [
     "Apollo"
   ],
   "fallbackCompanies": [
     "Assurant Inc",
     "Carlyle",
+    "Coinbase",
     "Fair Issac Corp",
     "Fidelity National Information Services",
     "Global Payments",
@@ -158,7 +159,6 @@
     "KKR",
     "Lincoln National Corporation",
     "Manulife",
-    "Mastercard",
     "MetLife",
     "PayPal Holdings",
     "Prudential Financial",

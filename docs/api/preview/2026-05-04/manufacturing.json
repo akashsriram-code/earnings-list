@@ -21,15 +21,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Equity Residential",
-      "symbol": "EQR",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2026-05-05",
@@ -39,11 +30,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Ingalls Industries Inc",
+      "symbol": "HII",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -68,15 +68,6 @@
     {
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
       "date": "2026-05-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -210,15 +201,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Huntington Ingalls Industries Inc",
-      "symbol": "HII",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-05-07",
@@ -264,10 +246,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-15T10:11:32Z",
+  "generatedAt": "2026-04-15T13:02:08Z",
   "irCompanies": [
     "Emerson Electric Co"
   ],
@@ -278,7 +260,6 @@
     "Axon Enterprise Inc",
     "Borgwarner Inc",
     "Emerson Electric Co",
-    "Equity Residential",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
@@ -297,7 +278,6 @@
     "Republic Services Inc",
     "Rockwell Automation Inc",
     "TransDigm Group Inc",
-    "Veralto Corp",
     "WW Grainger Inc",
     "Wynn Resorts Ltd"
   ],

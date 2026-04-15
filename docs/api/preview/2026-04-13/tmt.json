@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-04-15",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-04-16",
@@ -10,11 +32,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-15T10:10:51Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-15T13:01:15Z",
+  "irCompanies": [
+    "Equinix",
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "Netflix"
   ],
