@@ -1,210 +1,138 @@
 {
   "records": [
     {
-      "company": "Brown & Brown",
-      "symbol": "BRO",
-      "date": "2026-04-27",
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Aflac Inc",
+      "symbol": "AFL",
+      "date": "2026-04-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-04-27",
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Amgen Inc",
+      "symbol": "AMGN",
+      "date": "2026-04-30",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bristol Myers-Squibb",
+      "symbol": "BMY",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cigna",
+      "symbol": "CI",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.cinfin.com/",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "Arch Capital Group",
-      "symbol": "ACGL",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Franklin Templeton",
-      "symbol": "BEN",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Invesco",
-      "symbol": "IVZ",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "S&P Global Inc",
-      "symbol": "SPGI",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Visa",
-      "symbol": "V",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Allstate Corp",
-      "symbol": "ALL",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Everest",
-      "symbol": "EG",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Goldman Sachs",
-      "symbol": "GS",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Arthur J. Gallagher",
-      "symbol": "AJG",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Intercontinental Exchange",
-      "symbol": "ICE",
+      "company": "Tenet Healthcare",
+      "symbol": "THC",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Mastercard",
-      "symbol": "MA",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "T. Rowe Price Group",
-      "symbol": "TROW",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Willis Tower Watson",
-      "symbol": "WTW",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Aon",
-      "symbol": "AON",
-      "date": "2026-05-01",
-      "bmo_amc": "7:00AM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "7:00am",
-      "ir_source_url": "https://ir.aon.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cboe Global Markets",
-      "symbol": "CBOE",
-      "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Lazard",
-      "symbol": "LAZ",
-      "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TPG",
-      "symbol": "TPG",
-      "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
       "company": "Cadence",
@@ -1061,140 +989,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-04-28",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Zimmer Biomet Holdings Inc",
-      "symbol": "ZBH",
-      "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Aflac Inc",
-      "symbol": "AFL",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
-      "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Amgen Inc",
-      "symbol": "AMGN",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bristol Myers-Squibb",
-      "symbol": "BMY",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cigna",
-      "symbol": "CI",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Tenet Healthcare",
-      "symbol": "THC",
-      "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-04-27",
@@ -1451,6 +1245,212 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Brown & Brown",
+      "symbol": "BRO",
+      "date": "2026-04-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-04-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Invesco",
+      "symbol": "IVZ",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Visa",
+      "symbol": "V",
+      "date": "2026-04-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Allstate Corp",
+      "symbol": "ALL",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Everest",
+      "symbol": "EG",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Goldman Sachs",
+      "symbol": "GS",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Arthur J. Gallagher",
+      "symbol": "AJG",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Intercontinental Exchange",
+      "symbol": "ICE",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Mastercard",
+      "symbol": "MA",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "T. Rowe Price Group",
+      "symbol": "TROW",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Willis Tower Watson",
+      "symbol": "WTW",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Aon",
+      "symbol": "AON",
+      "date": "2026-05-01",
+      "bmo_amc": "7:00AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00am",
+      "ir_source_url": "https://ir.aon.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "symbol": "CBOE",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Lazard",
+      "symbol": "LAZ",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-05-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "CMS Energy Corp",
@@ -1769,7 +1769,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-16T07:21:23Z",
+  "generatedAt": "2026-04-16T10:10:04Z",
   "irCompanies": [
     "Aon",
     "Ball Corp",

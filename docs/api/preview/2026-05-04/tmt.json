@@ -10,11 +10,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Grab",
+      "symbol": "GRAB",
+      "date": "2026-05-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "IAC",
       "symbol": "IAC",
       "date": "2026-05-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -343,10 +352,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-16T07:21:34Z",
+  "generatedAt": "2026-04-16T10:10:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -365,6 +374,7 @@
     "Gartner",
     "Gen Digital",
     "GlobalFoundries",
+    "Grab",
     "IAC",
     "Kyndryl",
     "Live Nation Entertainment",
