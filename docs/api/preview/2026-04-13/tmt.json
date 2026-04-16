@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-04-16",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-16T10:09:38Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-16T13:04:40Z",
+  "irCompanies": [
+    "Teradyne"
+  ],
   "fallbackCompanies": [
     "Netflix"
   ],

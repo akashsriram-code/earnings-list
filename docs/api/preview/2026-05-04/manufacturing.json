@@ -14,7 +14,7 @@
       "symbol": "EMR",
       "date": "2026-05-05",
       "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "4:30 pm EDT",
       "ir_source_url": "https://ir.emerson.com/",
@@ -44,15 +44,6 @@
       "date": "2026-05-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "JetBlue",
-      "symbol": "JBLU",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -89,15 +80,6 @@
       "date": "2026-05-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-05-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -201,24 +183,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-05-07",
@@ -246,10 +210,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-16T10:10:15Z",
+  "generatedAt": "2026-04-16T13:05:20Z",
   "irCompanies": [
     "Emerson Electric Co"
   ],
@@ -259,7 +223,6 @@
     "Aptiv PLC",
     "Axon Enterprise Inc",
     "Borgwarner Inc",
-    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
@@ -268,12 +231,9 @@
     "Howmet Aerospace",
     "Huntington Ingalls Industries Inc",
     "Jacobs Solutions Inc",
-    "JetBlue",
     "Johnson Controls International PLC",
     "Leidos Holdings Inc",
     "Marriott International Inc",
-    "Parker-Hannifin Corp",
-    "Quanta Services Inc",
     "Realty Income Corp",
     "Republic Services Inc",
     "Rockwell Automation Inc",
