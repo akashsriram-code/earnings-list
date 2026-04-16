@@ -143,22 +143,52 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Aon",
+      "symbol": "AON",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-16T01:24:17Z",
+  "generatedAt": "2026-04-16T05:24:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "American Express",
     "Ameriprise Financial Inc",
+    "Aon",
     "Arthur J. Gallagher",
     "Blackstone",
     "Brown & Brown",
     "Fair Issac Corp",
+    "Franklin Templeton",
     "Hartford Financial Services",
     "Invesco",
     "Lazard",
