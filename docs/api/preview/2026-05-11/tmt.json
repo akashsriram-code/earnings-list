@@ -22,10 +22,12 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Sea Limited",
@@ -141,8 +143,9 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-15T21:46:11Z",
+  "generatedAt": "2026-04-16T01:27:42Z",
   "irCompanies": [
+    "Qnity",
     "Tencent Music"
   ],
   "fallbackCompanies": [
@@ -155,7 +158,6 @@
     "Match Group",
     "Microchip Tech",
     "News Corp",
-    "Qnity",
     "Sea Limited",
     "Tower Semiconductor",
     "Trade Desk",

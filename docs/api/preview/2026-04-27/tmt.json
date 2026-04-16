@@ -150,10 +150,12 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Garmin",
@@ -333,8 +335,9 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-15T21:45:44Z",
+  "generatedAt": "2026-04-16T01:27:19Z",
   "irCompanies": [
+    "Equinix",
     "GoDaddy",
     "KLA Corp",
     "Microsoft",
@@ -354,7 +357,6 @@
     "CoStar Group",
     "Cognizant",
     "Corning",
-    "Equinix",
     "F5",
     "Garmin",
     "Grab",
