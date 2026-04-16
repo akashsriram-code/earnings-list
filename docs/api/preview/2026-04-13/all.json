@@ -1,6 +1,138 @@
 {
   "records": [
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-04-16",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-04-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-04-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-16",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-04-16",
+      "bmo_amc": "5:27PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:27pm EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Lyft",
+      "symbol": "LYFT",
+      "date": "2026-04-16",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investor.lyft.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-04-16",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-04-16",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-04-13",
@@ -239,117 +371,24 @@
       "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-04-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-04-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-04-16",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-16",
-      "bmo_amc": "2:37 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:37 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-04-16",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-04-16",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
-  "count": 32,
+  "count": 35,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-16T19:00:04Z",
+  "generatedAt": "2026-04-16T21:38:14Z",
   "irCompanies": [
     "Bank of America",
     "Citizens Financial",
     "Huntington Bancshares",
+    "Live Nation Entertainment",
+    "Lyft",
     "Norwegian Cruise Line",
     "Prologis Inc",
+    "Southwest Airlines Co",
     "Take-Two Interactive",
     "Teradyne",
     "Truist Financial"

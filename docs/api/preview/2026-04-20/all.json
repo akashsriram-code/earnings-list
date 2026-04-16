@@ -1,136 +1,6 @@
 {
   "records": [
     {
-      "company": "EQT Corp",
-      "symbol": "EQT",
-      "date": "2026-04-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-04-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "GE Vernova",
-      "symbol": "GEV",
-      "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Baker Hughes",
-      "symbol": "BKR",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "CenterPoint Energy",
-      "symbol": "CNP",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Dow",
-      "symbol": "DOW",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Newmont Corp",
-      "symbol": "NEM",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "PG&E Corp",
-      "symbol": "PCG",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-04-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-04-20",
@@ -370,18 +240,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-04-23",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -709,6 +567,136 @@
       "sector": "TMT"
     },
     {
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2026-04-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-04-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2026-04-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Baker Hughes",
+      "symbol": "BKR",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Dow",
+      "symbol": "DOW",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PG&E Corp",
+      "symbol": "PCG",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-04-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-04-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Zions Bancorporation",
       "symbol": "ZION",
       "date": "2026-04-20",
@@ -995,13 +983,13 @@
       "sector": "Consumer"
     }
   ],
-  "count": 97,
+  "count": 96,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-16T19:00:17Z",
+  "generatedAt": "2026-04-16T21:38:29Z",
   "irCompanies": [
     "AT&T",
     "Boston Scientific Corp",
@@ -1013,7 +1001,6 @@
     "Keurig Dr. Pepper",
     "Lam Research",
     "PNC Financial",
-    "Southwest Airlines Co",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
