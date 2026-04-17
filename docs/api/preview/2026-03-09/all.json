@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-03-11",
@@ -39,6 +29,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "HPE",
@@ -97,7 +97,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-17T12:55:09Z",
+  "generatedAt": "2026-04-17T15:51:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
