@@ -149,6 +149,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-04-23",
+      "bmo_amc": "9:00 A.M.",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 a.m. ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Hartford Financial Services",
       "symbol": "HIG",
       "date": "2026-04-23",
@@ -161,10 +172,12 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "2:00 PM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 pm EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Nasdaq",
@@ -185,14 +198,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-16T21:38:28Z",
+  "generatedAt": "2026-04-17T01:24:28Z",
   "irCompanies": [
+    "Citizens Financial",
+    "Huntington Bancshares",
     "PNC Financial",
     "Synchrony Financial"
   ],
@@ -205,7 +220,6 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
-    "Huntington Bancshares",
     "Interactive Brokers",
     "MSCI Inc",
     "Moody's Corporation",

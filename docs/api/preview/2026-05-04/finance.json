@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-05-04",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Assurant Inc",
       "symbol": "AIZ",
       "date": "2026-05-05",
@@ -138,15 +149,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-16T21:38:53Z",
+  "generatedAt": "2026-04-17T01:24:53Z",
   "irCompanies": [
-    "Apollo"
+    "Apollo",
+    "Bank of America"
   ],
   "fallbackCompanies": [
     "Assurant Inc",

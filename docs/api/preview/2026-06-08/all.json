@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-06-08",
@@ -39,16 +29,40 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-06-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-16T21:40:05Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-17T01:26:00Z",
+  "irCompanies": [
+    "Norwegian Cruise Line"
+  ],
   "fallbackCompanies": [
     "GameStop",
     "J.M. Smucker Co",

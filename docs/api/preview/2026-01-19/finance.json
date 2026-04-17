@@ -4,9 +4,9 @@
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -22,9 +22,9 @@
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-01-20",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -106,7 +106,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-16T21:35:28Z",
+  "generatedAt": "2026-04-17T01:21:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Capital One Financial",
