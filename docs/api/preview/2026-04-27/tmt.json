@@ -129,6 +129,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Amazon",
+      "symbol": "AMZN",
+      "date": "2026-04-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2026-04-29",
@@ -283,6 +292,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Monolithic Power",
+      "symbol": "MPWR",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Reddit",
       "symbol": "RDDT",
       "date": "2026-04-30",
@@ -341,10 +359,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-17T10:08:37Z",
+  "generatedAt": "2026-04-17T12:56:36Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -358,6 +376,7 @@
   "fallbackCompanies": [
     "ADP",
     "Alphabet Inc",
+    "Amazon",
     "American Tower",
     "Amphenol",
     "Apple",
@@ -370,6 +389,7 @@
     "Garmin",
     "Iron Mountain",
     "Meta",
+    "Monolithic Power",
     "NXP Semiconductors",
     "Omnicom",
     "Qualcomm",

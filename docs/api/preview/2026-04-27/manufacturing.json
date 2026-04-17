@@ -174,15 +174,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Caterpillar",
-      "symbol": "CAT",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2026-04-29",
@@ -295,6 +286,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-04-29",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-04-29",
@@ -306,6 +308,15 @@
     {
       "company": "A O Smith Corp",
       "symbol": "AOS",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "AMETEK Inc",
+      "symbol": "AME",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -335,6 +346,15 @@
     {
       "company": "Carrier Global Corp",
       "symbol": "CARR",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Caterpillar",
+      "symbol": "CAT",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -440,10 +460,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 47,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-17T10:08:36Z",
+  "generatedAt": "2026-04-17T12:56:36Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
@@ -452,10 +472,12 @@
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
-    "UPS"
+    "UPS",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
+    "AMETEK Inc",
     "Alexandria Real Estate Equities Inc",
     "American Water Works",
     "Booking Holdings Inc",

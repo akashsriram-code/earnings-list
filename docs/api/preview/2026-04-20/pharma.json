@@ -50,15 +50,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Edwards Lifesciences Corp",
-      "symbol": "EW",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-04-22",
@@ -71,6 +62,15 @@
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2026-04-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Edwards Lifesciences Corp",
+      "symbol": "EW",
+      "date": "2026-04-23",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
@@ -107,7 +107,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-17T10:08:25Z",
+  "generatedAt": "2026-04-17T12:56:23Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Danaher Corp"
