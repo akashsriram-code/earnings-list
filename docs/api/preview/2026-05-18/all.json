@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-05-19",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-05-19",
@@ -195,6 +183,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-05-19",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
   "count": 19,
@@ -203,7 +203,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-17T18:45:53Z",
+  "generatedAt": "2026-04-17T21:37:25Z",
   "irCompanies": [
     "Home Depot Inc",
     "Honeywell",
