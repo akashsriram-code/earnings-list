@@ -136,32 +136,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-04-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-04-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-04-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -177,25 +166,20 @@
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-04-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-17T21:36:19Z",
-  "irCompanies": [
-    "Bank of America",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-04-18T01:17:08Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "Bank of New York Mellon",
@@ -213,6 +197,7 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
+    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],

@@ -65,7 +65,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Amcor PLC",
@@ -245,7 +247,7 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-17T21:36:45Z",
+  "generatedAt": "2026-04-18T01:17:36Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
@@ -254,7 +256,8 @@
     "Etsy Inc",
     "Kimco Realty Corp",
     "Royal Caribbean Group",
-    "Smithfield Foods"
+    "Smithfield Foods",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -272,7 +275,6 @@
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Starbucks Corp",
-    "Sysco Corp",
     "Yum Brands"
   ],
   "week": {
