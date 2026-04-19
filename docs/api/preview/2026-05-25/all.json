@@ -1,24 +1,14 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-05-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Costco Wholesale Corp",
@@ -61,56 +51,24 @@
       "sector": "Consumer"
     },
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-05-27",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-05-26",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "C3.ai",
@@ -211,6 +169,48 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 21,
@@ -219,7 +219,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-19T05:25:26Z",
+  "generatedAt": "2026-04-19T07:10:24Z",
   "irCompanies": [
     "Wells Fargo"
   ],
