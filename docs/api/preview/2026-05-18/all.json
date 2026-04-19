@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-05-19",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-05-19",
@@ -105,16 +93,16 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-05-22",
-      "bmo_amc": "TBD",
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-05-19",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Palo Alto",
@@ -197,16 +185,15 @@
       "sector": "TMT"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-19T12:39:20Z",
+  "generatedAt": "2026-04-19T15:33:28Z",
   "irCompanies": [
     "Home Depot Inc",
-    "Honeywell",
     "JPMorgan"
   ],
   "fallbackCompanies": [
