@@ -109,15 +109,6 @@
       "source": "aggregator"
     },
     {
-      "company": "PPL Corp",
-      "symbol": "PPL",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Phillips 66",
       "symbol": "PSX",
       "date": "2026-04-29",
@@ -147,6 +138,15 @@
     {
       "company": "ConocoPhillips",
       "symbol": "COP",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "DTE",
+      "symbol": "DTE",
       "date": "2026-04-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -238,8 +238,8 @@
       "company": "Exxon Mobil",
       "symbol": "XOM",
       "date": "2026-05-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,7 +292,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-20T10:30:29Z",
+  "generatedAt": "2026-04-20T13:06:25Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",
@@ -301,6 +301,7 @@
     "CMS Energy Corp",
     "Chevron",
     "ConocoPhillips",
+    "DTE",
     "Dominion Energy Inc",
     "Eastman Chemical",
     "Ecolab",
@@ -319,7 +320,6 @@
     "ONEOK",
     "PBF Energy",
     "PPG Industries",
-    "PPL Corp",
     "Phillips 66",
     "Sherwin-Williams",
     "Southern Co",

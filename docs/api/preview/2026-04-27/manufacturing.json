@@ -230,15 +230,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Martin Marietta Materials Inc",
-      "symbol": "MLM",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2026-04-29",
@@ -400,6 +391,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Martin Marietta Materials Inc",
+      "symbol": "MLM",
+      "date": "2026-04-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-04-30",
@@ -463,7 +463,7 @@
   "count": 49,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-20T10:30:28Z",
+  "generatedAt": "2026-04-20T13:06:26Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",

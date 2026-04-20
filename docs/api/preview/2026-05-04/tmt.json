@@ -31,8 +31,8 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-05-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -289,6 +289,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Datadog",
+      "symbol": "DDOG",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "EPAM",
       "symbol": "EPAM",
       "date": "2026-05-07",
@@ -320,7 +329,7 @@
       "symbol": "LYFT",
       "date": "2026-05-07",
       "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 pm EDT",
       "ir_source_url": "https://investor.lyft.com/",
@@ -336,10 +345,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-20T10:30:39Z",
+  "generatedAt": "2026-04-20T13:06:40Z",
   "irCompanies": [
     "Lyft"
   ],
@@ -349,6 +358,7 @@
     "Arista Networks",
     "Arm Holdings",
     "Bumble",
+    "Datadog",
     "Disney",
     "Duolingo",
     "EPAM",
