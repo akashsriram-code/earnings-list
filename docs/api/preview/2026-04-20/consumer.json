@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-04-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-04-20",
@@ -77,11 +88,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-20T13:06:12Z",
+  "generatedAt": "2026-04-20T16:06:40Z",
   "irCompanies": [
+    "Estee Lauder",
     "Keurig Dr. Pepper",
     "Lululemon Athletica"
   ],
