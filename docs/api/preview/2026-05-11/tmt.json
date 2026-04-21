@@ -70,20 +70,11 @@
       "source": "aggregator"
     },
     {
-      "company": "CoreWeave",
-      "symbol": "CRWV",
-      "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -124,10 +115,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-21T10:14:52Z",
+  "generatedAt": "2026-04-21T13:01:52Z",
   "irCompanies": [
     "Fox Corp",
     "Qnity",
@@ -136,7 +127,6 @@
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
-    "CoreWeave",
     "JD.com",
     "Microchip Tech",
     "News Corp",

@@ -4,8 +4,8 @@
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-04-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Steel Dynamics",
       "symbol": "STLD",
       "date": "2026-04-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,10 +22,12 @@
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2026-04-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.3m.com/",
+      "source": "investor_relations"
     },
     {
       "company": "DR Horton Inc",
@@ -33,7 +35,7 @@
       "date": "2026-04-21",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
       "source": "investor_relations"
@@ -42,9 +44,9 @@
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2026-04-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -251,13 +253,13 @@
   "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-21T10:14:05Z",
+  "generatedAt": "2026-04-21T13:01:13Z",
   "irCompanies": [
+    "3M Co",
     "DR Horton Inc",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
-    "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
     "Boeing",
