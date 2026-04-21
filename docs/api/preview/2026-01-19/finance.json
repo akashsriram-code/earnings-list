@@ -13,9 +13,9 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -40,9 +40,9 @@
       "company": "Zions Bancorporation",
       "symbol": "ZION",
       "date": "2026-01-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-01-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -94,9 +94,9 @@
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-01-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
@@ -106,7 +106,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-20T21:38:27Z",
+  "generatedAt": "2026-04-21T01:21:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Capital One Financial",

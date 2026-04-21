@@ -4,10 +4,12 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-05-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
     },
     {
       "company": "JD.com",
@@ -125,8 +127,9 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-20T21:42:09Z",
+  "generatedAt": "2026-04-21T01:24:59Z",
   "irCompanies": [
+    "Fox Corp",
     "Qnity",
     "Tencent Music"
   ],
@@ -134,7 +137,6 @@
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
-    "Fox Corp",
     "JD.com",
     "Microchip Tech",
     "News Corp",
