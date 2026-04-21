@@ -50,6 +50,17 @@
       "source": "aggregator"
     },
     {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2026-04-21",
@@ -250,13 +261,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-21T18:59:10Z",
+  "generatedAt": "2026-04-21T21:40:16Z",
   "irCompanies": [
     "3M Co",
     "DR Horton Inc",
+    "MGM Resorts International",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [

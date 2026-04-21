@@ -10,13 +10,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-04-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-04-21",
-      "bmo_amc": "2:34 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:34 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -184,16 +195,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-21T18:59:09Z",
+  "generatedAt": "2026-04-21T21:40:18Z",
   "irCompanies": [
     "AT&T",
     "HPE",
     "Intel",
     "Juniper Networks",
     "Lam Research",
+    "Live Nation Entertainment",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [

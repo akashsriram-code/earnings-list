@@ -42,10 +42,12 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-04-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "4:30PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": "4:30pm ET",
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
     },
     {
       "company": "MSCI Inc",
@@ -213,10 +215,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-21T18:59:09Z",
+  "generatedAt": "2026-04-21T21:40:17Z",
   "irCompanies": [
     "Citizens Financial",
     "Huntington Bancshares",
+    "Interactive Brokers",
     "PNC Financial",
     "Synchrony Financial"
   ],
@@ -230,7 +233,6 @@
     "Globe Life",
     "Hartford Financial Services",
     "Huntington Bancshares",
-    "Interactive Brokers",
     "MSCI Inc",
     "Moody's Corporation",
     "Nasdaq",
