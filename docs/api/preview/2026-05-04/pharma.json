@@ -1,18 +1,18 @@
 {
   "records": [
     {
-      "company": "Henry Schein Inc",
-      "symbol": "HSIC",
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
       "date": "2026-05-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
-      "date": "2026-05-04",
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-05-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
@@ -24,6 +24,15 @@
       "date": "2026-05-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Henry Schein Inc",
+      "symbol": "HSIC",
+      "date": "2026-05-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -80,8 +89,8 @@
       "company": "Waters Corp",
       "symbol": "WAT",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -180,10 +189,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-22T10:14:29Z",
+  "generatedAt": "2026-04-22T13:01:48Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
@@ -194,6 +203,7 @@
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
+    "DaVita Inc",
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",

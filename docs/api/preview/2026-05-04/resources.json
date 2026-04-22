@@ -136,15 +136,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Mosaic",
-      "symbol": "MOS",
-      "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-05-05",
@@ -175,8 +166,8 @@
       "company": "WEC Energy Group Inc",
       "symbol": "WEC",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -334,6 +325,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Sempra",
+      "symbol": "SRE",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Targa Resources",
       "symbol": "TRGP",
       "date": "2026-05-07",
@@ -382,7 +382,7 @@
   "count": 42,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-22T10:14:30Z",
+  "generatedAt": "2026-04-22T13:01:47Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -412,7 +412,6 @@
     "Hawaiian Electric",
     "MP Materials",
     "Marathon Petroleum",
-    "Mosaic",
     "NRG Energy",
     "NiSource",
     "NuScale Power",
@@ -421,6 +420,7 @@
     "PPL Corp",
     "Pinnacle West",
     "Public Service Enterprise Co",
+    "Sempra",
     "Suncor Energy",
     "Targa Resources",
     "Texas Pacific Land",
