@@ -162,7 +162,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Super Micro",
@@ -368,10 +370,11 @@
   "count": 40,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-22T19:00:25Z",
+  "generatedAt": "2026-04-22T21:46:22Z",
   "irCompanies": [
     "Live Nation Entertainment",
-    "Lyft"
+    "Lyft",
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -405,7 +408,6 @@
     "Paycom",
     "Pinterest",
     "Qorvo",
-    "Shopify",
     "Skyworks Solutions",
     "Snap",
     "Super Micro",
