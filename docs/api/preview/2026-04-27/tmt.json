@@ -13,12 +13,10 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-04-27",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "American Tower",
@@ -362,7 +360,7 @@
   "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-22T13:01:33Z",
+  "generatedAt": "2026-04-22T16:05:11Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -370,8 +368,7 @@
     "Microsoft",
     "Rivian",
     "SiriusXM",
-    "Teradyne",
-    "Verizon"
+    "Teradyne"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -402,6 +399,7 @@
     "T-Mobile US",
     "Teradyne",
     "Tyler Tech",
+    "Verizon",
     "Western Digital",
     "eBay"
   ],

@@ -13,10 +13,10 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-04-22",
-      "bmo_amc": "08:30 AM\n                    ET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations"
     },
@@ -68,6 +68,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-04-22",
+      "bmo_amc": "11:38 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:38 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-04-22",
@@ -84,6 +95,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-04-22",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Comcast",
@@ -173,16 +195,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-22T13:01:20Z",
+  "generatedAt": "2026-04-22T16:04:59Z",
   "irCompanies": [
     "AT&T",
     "HPE",
     "Intel",
     "Juniper Networks",
-    "Lam Research"
+    "Lam Research",
+    "Take-Two Interactive",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Charter Communications",

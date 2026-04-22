@@ -19,13 +19,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-04-22",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Philip Morris International",
       "symbol": "PM",
       "date": "2026-04-22",
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.pmi.com/investor-relations/overview/",
+      "source": "investor_relations"
     },
     {
       "company": "Rollins Inc",
@@ -66,17 +79,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-22T13:01:19Z",
+  "generatedAt": "2026-04-22T16:05:00Z",
   "irCompanies": [
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Norwegian Cruise Line",
+    "Philip Morris International"
   ],
   "fallbackCompanies": [
     "Hasbro Inc",
     "Masco Corp",
-    "Philip Morris International",
     "Procter & Gamble",
     "Rollins Inc",
     "Tractor Supply Co"

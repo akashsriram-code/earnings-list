@@ -43,8 +43,17 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
+      "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations"
     },
     {
@@ -113,15 +122,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-22T13:01:20Z",
+  "generatedAt": "2026-04-22T16:05:00Z",
   "irCompanies": [
-    "Boston Scientific Corp",
+    "Centene Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
+    "Boston Scientific Corp",
     "Danaher Corp",
     "Edwards Lifesciences Corp",
     "Elevance Health Inc",

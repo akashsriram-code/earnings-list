@@ -91,6 +91,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-04-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-04-22",
@@ -170,12 +181,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "2:00 PM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Nasdaq",
@@ -196,13 +205,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-22T13:01:19Z",
+  "generatedAt": "2026-04-22T16:05:01Z",
   "irCompanies": [
     "Citizens Financial",
     "Huntington Bancshares",
@@ -217,6 +226,7 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "MSCI Inc",
     "Moody's Corporation",
