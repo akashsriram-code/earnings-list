@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-04-21",
-      "bmo_amc": "8:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Tractor Supply Co",
       "symbol": "TSCO",
       "date": "2026-04-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -33,9 +22,9 @@
       "company": "Philip Morris International",
       "symbol": "PM",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -60,10 +49,12 @@
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Procter & Gamble",
@@ -75,16 +66,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-21T21:40:17Z",
+  "generatedAt": "2026-04-22T01:22:28Z",
   "irCompanies": [
     "Keurig Dr. Pepper"
   ],
   "fallbackCompanies": [
     "Hasbro Inc",
-    "Keurig Dr. Pepper",
     "Masco Corp",
     "Philip Morris International",
     "Procter & Gamble",

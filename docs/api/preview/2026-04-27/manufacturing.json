@@ -225,7 +225,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -461,10 +463,11 @@
   "count": 49,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-21T21:40:30Z",
+  "generatedAt": "2026-04-22T01:22:41Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
+    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
@@ -499,7 +502,6 @@
     "Invitation Homes Inc",
     "JetBlue",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",

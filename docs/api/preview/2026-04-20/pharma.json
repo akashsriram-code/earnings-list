@@ -4,47 +4,45 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-04-21",
-      "bmo_amc": "8:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-04-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
       "date": "2026-04-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2026-04-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
@@ -53,9 +51,9 @@
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -95,6 +93,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-04-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2026-04-24",
@@ -104,15 +113,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-21T21:40:17Z",
+  "generatedAt": "2026-04-22T01:22:28Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
+    "Danaher Corp",
     "Edwards Lifesciences Corp",
     "Elevance Health Inc",
     "HCA Healthcare Inc",

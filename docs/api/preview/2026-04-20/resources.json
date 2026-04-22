@@ -4,36 +4,36 @@
       "company": "EQT Corp",
       "symbol": "EQT",
       "date": "2026-04-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Halliburton",
       "symbol": "HAL",
       "date": "2026-04-21",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "GE Vernova",
-      "symbol": "GEV",
-      "date": "2026-04-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2026-04-22",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-21T21:40:17Z",
+  "generatedAt": "2026-04-22T01:22:27Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
