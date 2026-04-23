@@ -1,24 +1,54 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-05-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ralph Lauren Corp",
+      "symbol": "RL",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Bank of Montreal",
@@ -163,54 +193,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-05-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-05-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ralph Lauren Corp",
-      "symbol": "RL",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
   "count": 21,
@@ -219,7 +219,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-23T10:18:23Z",
+  "generatedAt": "2026-04-23T13:02:19Z",
   "irCompanies": [
     "Wells Fargo"
   ],

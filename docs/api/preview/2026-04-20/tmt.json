@@ -22,8 +22,8 @@
       "company": "Crown Castle",
       "symbol": "CCI",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "IBM",
       "symbol": "IBM",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "ServiceNow",
       "symbol": "NOW",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -151,6 +151,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-04-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-04-23",
@@ -169,14 +180,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-23T10:17:17Z",
+  "generatedAt": "2026-04-23T13:01:12Z",
   "irCompanies": [
     "HPE",
     "Intel",
-    "Juniper Networks"
+    "Juniper Networks",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "AT&T",

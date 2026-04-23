@@ -85,8 +85,8 @@
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Raymond James",
       "symbol": "RJF",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -125,6 +125,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-04-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
     },
     {
       "company": "Blackstone",
@@ -159,10 +170,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "2:00 PM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
     },
@@ -170,9 +181,9 @@
       "company": "Nasdaq",
       "symbol": "NDAQ",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -185,14 +196,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T10:17:15Z",
+  "generatedAt": "2026-04-23T13:01:11Z",
   "irCompanies": [
+    "Apollo",
     "Citizens Financial",
     "Huntington Bancshares"
   ],

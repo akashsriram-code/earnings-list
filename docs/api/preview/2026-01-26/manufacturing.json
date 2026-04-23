@@ -220,9 +220,9 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -238,9 +238,9 @@
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2026-01-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -278,12 +278,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-23T10:14:26Z",
+  "generatedAt": "2026-04-23T12:58:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -294,6 +303,7 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
+    "Eaton Corporation PLC",
     "General Dynamics Corp",
     "Honeywell",
     "JetBlue",

@@ -76,8 +76,8 @@
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +121,8 @@
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,8 +148,8 @@
       "company": "United Rentals Inc",
       "symbol": "URI",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -184,18 +184,20 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -258,8 +260,9 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-23T10:17:16Z",
+  "generatedAt": "2026-04-23T13:01:11Z",
   "irCompanies": [
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -271,7 +274,6 @@
     "DR Horton Inc",
     "Dover Corp",
     "GE Aerospace",
-    "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "NVR Inc",

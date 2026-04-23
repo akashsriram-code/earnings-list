@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Amcor PLC",
+      "symbol": "AMCR",
+      "date": "2026-05-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DoorDash",
       "symbol": "DASH",
       "date": "2026-05-06",
@@ -64,12 +73,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-23T10:17:43Z",
+  "generatedAt": "2026-04-23T13:01:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Amcor PLC",
     "Ball Corp",
     "DoorDash",
     "Instacart",

@@ -42,8 +42,8 @@
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -78,12 +78,10 @@
       "company": "Apollo",
       "symbol": "APO",
       "date": "2026-05-06",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Global Payments",
@@ -148,13 +146,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T10:17:43Z",
+  "generatedAt": "2026-04-23T13:01:39Z",
   "irCompanies": [
-    "Apollo",
     "Bank of America",
     "Global Payments"
   ],
   "fallbackCompanies": [
+    "Apollo",
     "Assurant Inc",
     "Carlyle",
     "Coinbase",
