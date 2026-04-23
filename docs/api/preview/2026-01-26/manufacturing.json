@@ -103,9 +103,9 @@
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -211,9 +211,9 @@
       "company": "Dover Corp",
       "symbol": "DOV",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -278,21 +278,12 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Eaton Corporation PLC",
-      "symbol": "ETN",
-      "date": "2026-01-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-23T12:58:22Z",
+  "generatedAt": "2026-04-23T16:26:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -303,7 +294,6 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
-    "Eaton Corporation PLC",
     "General Dynamics Corp",
     "Honeywell",
     "JetBlue",

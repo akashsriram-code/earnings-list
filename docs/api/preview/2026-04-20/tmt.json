@@ -85,9 +85,9 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -154,10 +154,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-04-23",
-      "bmo_amc": "TBD",
+      "bmo_amc": "12:03 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
+      "ir_time_label": "12:03 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -183,7 +183,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-23T13:01:12Z",
+  "generatedAt": "2026-04-23T16:29:07Z",
   "irCompanies": [
     "HPE",
     "Intel",

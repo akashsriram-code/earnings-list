@@ -112,9 +112,9 @@
       "company": "American Express",
       "symbol": "AXP",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -141,9 +141,9 @@
       "company": "Blackstone",
       "symbol": "BX",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -170,9 +170,9 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
@@ -202,7 +202,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T13:01:11Z",
+  "generatedAt": "2026-04-23T16:29:07Z",
   "irCompanies": [
     "Apollo",
     "Citizens Financial",

@@ -175,9 +175,9 @@
       "company": "Dover Corp",
       "symbol": "DOV",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -228,23 +228,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-04-23",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-04-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -257,13 +246,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-23T13:01:11Z",
+  "generatedAt": "2026-04-23T16:29:07Z",
   "irCompanies": [
-    "Honeywell",
-    "Southwest Airlines Co"
+    "Honeywell"
   ],
   "fallbackCompanies": [
     "3M Co",
