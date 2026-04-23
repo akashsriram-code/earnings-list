@@ -99,7 +99,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Borgwarner Inc",
@@ -213,14 +215,14 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-22T21:46:23Z",
+  "generatedAt": "2026-04-23T01:27:45Z",
   "irCompanies": [
+    "Axon Enterprise Inc",
     "Emerson Electric Co"
   ],
   "fallbackCompanies": [
     "Airbnb Inc",
     "Aptiv PLC",
-    "Axon Enterprise Inc",
     "Borgwarner Inc",
     "Eaton Corporation PLC",
     "Expedia Group Inc",

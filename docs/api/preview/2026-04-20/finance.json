@@ -82,17 +82,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-04-22",
-      "bmo_amc": "12:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:30 PM EDT",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-04-22",
@@ -102,17 +91,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-04-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-04-22",
@@ -120,17 +98,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-04-22",
-      "bmo_amc": "11:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Raymond James",
@@ -192,10 +159,12 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "2:00 PM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 pm EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Nasdaq",
@@ -216,18 +185,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-22T21:45:54Z",
+  "generatedAt": "2026-04-23T01:27:20Z",
   "irCompanies": [
     "Citizens Financial",
-    "Global Payments",
-    "Huntington Bancshares",
-    "PNC Financial"
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "American Express",
@@ -238,7 +205,6 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
-    "Huntington Bancshares",
     "Interactive Brokers",
     "MSCI Inc",
     "Moody's Corporation",
