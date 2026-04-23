@@ -40,18 +40,18 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-04-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-04-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -67,18 +67,18 @@
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Thermo Fisher Scientific Inc",
       "symbol": "TMO",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -103,7 +103,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-23T01:27:18Z",
+  "generatedAt": "2026-04-23T05:25:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Boston Scientific Corp",
