@@ -76,8 +76,8 @@
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -159,10 +159,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "2:00 PM EDT",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm EDT",
+      "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
     },
@@ -191,7 +191,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T05:25:24Z",
+  "generatedAt": "2026-04-23T07:25:00Z",
   "irCompanies": [
     "Citizens Financial",
     "Huntington Bancshares"

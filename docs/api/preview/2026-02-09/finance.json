@@ -37,42 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Assurant Inc",
-      "symbol": "AIZ",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "S&P Global Inc",
-      "symbol": "SPGI",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-02-11",
@@ -100,15 +64,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-02-12",
@@ -118,27 +73,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T05:23:12Z",
+  "generatedAt": "2026-04-23T07:22:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
     "Arch Capital Group",
-    "Assurant Inc",
     "Cincinnati Financial",
     "Coinbase",
-    "Fidelity National Information Services",
-    "Global Payments",
     "Lincoln National Corporation",
     "Manulife",
     "Principal Financial Group",
-    "Robinhood",
-    "S&P Global Inc",
     "Sun Life"
   ],
   "week": {

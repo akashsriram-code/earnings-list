@@ -67,8 +67,8 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,11 +91,20 @@
       "source": "aggregator"
     },
     {
+      "company": "NVR Inc",
+      "symbol": "NVR",
+      "date": "2026-04-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +130,8 @@
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -130,8 +139,8 @@
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,8 +157,8 @@
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2026-04-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -246,10 +255,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-23T05:25:23Z",
+  "generatedAt": "2026-04-23T07:24:58Z",
   "irCompanies": [
     "Southwest Airlines Co"
   ],
@@ -265,6 +274,7 @@
     "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
+    "NVR Inc",
     "Norfolk Southern Corp",
     "Northrop Grumman Corp",
     "Otis Worldwide Corp",
