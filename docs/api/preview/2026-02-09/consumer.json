@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Masco Corp",
       "symbol": "MAS",
       "date": "2026-02-10",
@@ -67,8 +76,8 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +85,8 @@
       "company": "Instacart",
       "symbol": "CART",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,20 +94,21 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-24T18:37:25Z",
+  "generatedAt": "2026-04-24T21:40:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Coca-Cola Co",
     "Federal Realty Investment Trust",
+    "Hasbro Inc",
     "Instacart",
     "International Flavours & Fragrances",
     "Kimco Realty Corp",
