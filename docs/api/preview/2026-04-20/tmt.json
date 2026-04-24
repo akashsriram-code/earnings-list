@@ -94,43 +94,19 @@
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-04-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-04-23",
-      "bmo_amc": "2:00 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mobileye",
@@ -151,17 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-04-23",
@@ -174,22 +139,17 @@
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2026-04-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-23T21:40:35Z",
-  "irCompanies": [
-    "Intel",
-    "Juniper Networks",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-04-24T01:27:34Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
     "Charter Communications",
@@ -198,6 +158,7 @@
     "Digital Realty",
     "Figma",
     "IBM",
+    "Intel",
     "Lam Research",
     "Mobileye",
     "Rogers Communications",

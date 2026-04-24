@@ -121,32 +121,10 @@
       "company": "Ameriprise Financial Inc",
       "symbol": "AMP",
       "date": "2026-04-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-04-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Blackstone",
@@ -158,43 +136,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-04-23",
-      "bmo_amc": "9:00 A.M.",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 a.m. ",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
-    },
-    {
       "company": "Hartford Financial Services",
       "symbol": "HIG",
       "date": "2026-04-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-04-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Nasdaq",
       "symbol": "NDAQ",
       "date": "2026-04-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -207,19 +172,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-23T21:40:37Z",
-  "irCompanies": [
-    "Apollo",
-    "Bank of America",
-    "Citizens Financial",
-    "Huntington Bancshares"
-  ],
+  "generatedAt": "2026-04-24T01:27:34Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",
@@ -229,6 +189,7 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "MSCI Inc",
     "Moody's Corporation",
