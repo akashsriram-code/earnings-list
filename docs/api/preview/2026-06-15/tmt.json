@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-24T10:21:26Z",
+  "generatedAt": "2026-04-24T13:00:52Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Accenture"
+  ],
   "week": {
     "id": "2026-06-15",
     "start_date": "2026-06-15",

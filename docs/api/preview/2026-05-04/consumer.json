@@ -5,7 +5,7 @@
       "symbol": "NCLH",
       "date": "2026-05-04",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://www.nclhltd.com/investors",
@@ -82,12 +82,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2026-05-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-24T10:20:09Z",
+  "generatedAt": "2026-04-24T12:59:31Z",
   "irCompanies": [
     "Norwegian Cruise Line"
   ],
@@ -99,6 +108,7 @@
     "International Flavours & Fragrances",
     "Kraft Heinz Co",
     "McDonald\u2019s Corp",
+    "Tapestry Inc",
     "Tyson Foods"
   ],
   "week": {

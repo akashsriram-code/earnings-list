@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Figma",
-      "symbol": "FIG",
-      "date": "2026-04-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-04-22",
@@ -85,8 +76,8 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +85,8 @@
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +94,8 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +103,8 @@
       "company": "Mobileye",
       "symbol": "MBLY",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +112,8 @@
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -130,8 +121,8 @@
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-04-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,10 +136,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-24T10:19:40Z",
+  "generatedAt": "2026-04-24T12:59:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
@@ -156,7 +147,6 @@
     "Comcast",
     "Crown Castle",
     "Digital Realty",
-    "Figma",
     "IBM",
     "Intel",
     "Lam Research",

@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-05-19",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-05-19",
@@ -20,6 +32,16 @@
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
       "sector": "Consumer"
     },
     {
@@ -73,6 +95,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-05-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-05-19",
@@ -95,11 +127,11 @@
       "sector": "TMT"
     },
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
+      "company": "Analog Devices",
+      "symbol": "ADI",
       "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -159,7 +191,7 @@
       "symbol": "TTWO",
       "date": "2026-05-21",
       "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
@@ -197,27 +229,15 @@
       "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-05-19",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 20,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-24T10:20:35Z",
+  "generatedAt": "2026-04-24T12:59:57Z",
   "irCompanies": [
     "Home Depot Inc",
     "Honeywell",
@@ -227,9 +247,11 @@
   ],
   "fallbackCompanies": [
     "Alibaba",
+    "Analog Devices",
     "Baidu",
     "Coca-Cola Europacific",
     "Deere",
+    "Hasbro Inc",
     "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",
     "NVIDIA",
