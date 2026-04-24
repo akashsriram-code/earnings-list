@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-05-19",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-05-19",
@@ -93,6 +81,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-05-19",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Baidu",
@@ -190,12 +190,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -237,13 +235,12 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-24T12:59:57Z",
+  "generatedAt": "2026-04-24T16:02:52Z",
   "irCompanies": [
     "Home Depot Inc",
     "Honeywell",
     "JPMorgan",
-    "Paychex",
-    "Take-Two Interactive"
+    "Paychex"
   ],
   "fallbackCompanies": [
     "Alibaba",
@@ -258,6 +255,7 @@
     "Palo Alto",
     "Snowflake",
     "TJX Cos Inc",
+    "Take-Two Interactive",
     "Target Corp",
     "VF Corp",
     "Walmart Inc",
