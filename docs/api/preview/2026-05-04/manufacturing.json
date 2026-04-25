@@ -22,10 +22,12 @@
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Expeditors International of Washington Inc",
@@ -213,16 +215,16 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-25T01:21:13Z",
+  "generatedAt": "2026-04-25T05:09:29Z",
   "irCompanies": [
-    "Axon Enterprise Inc"
+    "Axon Enterprise Inc",
+    "Emerson Electric Co"
   ],
   "fallbackCompanies": [
     "Airbnb Inc",
     "Aptiv PLC",
     "Borgwarner Inc",
     "Eaton Corporation PLC",
-    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
