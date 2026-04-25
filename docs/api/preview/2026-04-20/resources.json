@@ -112,30 +112,17 @@
       "company": "SLB",
       "symbol": "SLB",
       "date": "2026-04-24",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "XPLR Infrastructure (previously NEP)",
-      "symbol": "XPLR",
-      "date": "2026-04-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-24T21:42:11Z",
-  "irCompanies": [
-    "XPLR Infrastructure (previously NEP)"
-  ],
+  "generatedAt": "2026-04-25T01:20:45Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
     "CenterPoint Energy",

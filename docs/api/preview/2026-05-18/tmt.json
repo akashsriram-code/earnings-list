@@ -87,18 +87,21 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
   "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-24T21:43:05Z",
+  "generatedAt": "2026-04-25T01:21:40Z",
   "irCompanies": [
-    "Paychex"
+    "Paychex",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Alibaba",
@@ -107,7 +110,6 @@
     "NVIDIA",
     "Palo Alto",
     "Snowflake",
-    "Take-Two Interactive",
     "Xpeng",
     "Zoom"
   ],
