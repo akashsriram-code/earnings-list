@@ -93,6 +93,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-04-28",
@@ -120,6 +131,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-04-28",
+      "bmo_amc": "5:00PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00pm EDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-04-28",
@@ -134,10 +156,12 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Waste Management Inc",
@@ -268,17 +292,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-04-29",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Vulcan Materials Co",
@@ -436,26 +449,25 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-05-01",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 47,
+  "count": 48,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-28T19:20:56Z",
+  "generatedAt": "2026-04-28T21:54:31Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "MGM Resorts International",
-    "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
+    "Prologis Inc",
     "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
@@ -485,6 +497,7 @@
     "Invitation Homes Inc",
     "JetBlue",
     "L3Harris Technologies Inc",
+    "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
@@ -495,7 +508,6 @@
     "Trane Technologies PLC",
     "UDR INC",
     "VICI Properties Inc",
-    "Veralto Corp",
     "Vulcan Materials Co",
     "Waste Management Inc"
   ],
