@@ -67,9 +67,9 @@
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-02-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -103,17 +103,8 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,9 +139,9 @@
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -166,22 +157,21 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-27T21:46:19Z",
+  "generatedAt": "2026-04-28T01:47:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",

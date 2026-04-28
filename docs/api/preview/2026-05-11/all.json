@@ -1,34 +1,24 @@
 {
   "records": [
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
       "date": "2026-05-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "STERIS plc",
-      "symbol": "STE",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
+      "company": "Monster Beverage",
+      "symbol": "MNST",
       "date": "2026-05-14",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Constellation Energy",
@@ -91,34 +81,34 @@
       "sector": "Resources"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
       "date": "2026-05-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Monster Beverage",
-      "symbol": "MNST",
+      "company": "STERIS plc",
+      "symbol": "STE",
+      "date": "2026-05-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
       "date": "2026-05-14",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
       "company": "Fox Corp",
@@ -219,6 +209,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-05-13",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-05-14",
@@ -259,21 +261,32 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-27T21:49:10Z",
+  "generatedAt": "2026-04-28T01:50:44Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
     "Intel",
     "Qnity",
-    "Tencent Music"
+    "Tencent Music",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Applied Materials",
