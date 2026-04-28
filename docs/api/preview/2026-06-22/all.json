@@ -1,14 +1,27 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-06-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-28T10:58:53Z",
+  "generatedAt": "2026-04-28T13:30:49Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "FactSet Research"
+  ],
   "week": {
     "id": "2026-06-22",
     "start_date": "2026-06-22",

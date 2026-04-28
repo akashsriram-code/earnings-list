@@ -4,8 +4,8 @@
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-04-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -15,7 +15,7 @@
       "date": "2026-04-28",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.coca-colacompany.com/",
       "source": "investor_relations"
@@ -28,6 +28,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-04-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Mondelez International",
@@ -235,10 +246,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-28T10:57:06Z",
+  "generatedAt": "2026-04-28T13:28:58Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
@@ -246,6 +257,7 @@
     "Estee Lauder",
     "Etsy Inc",
     "Kimco Realty Corp",
+    "Lululemon Athletica",
     "Royal Caribbean Group",
     "Smithfield Foods",
     "Sysco Corp"
