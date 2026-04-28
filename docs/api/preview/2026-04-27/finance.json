@@ -22,21 +22,10 @@
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-04-28",
-      "bmo_amc": "11:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Fair Issac Corp",
@@ -205,16 +194,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-28T13:28:58Z",
+  "generatedAt": "2026-04-28T16:35:57Z",
   "irCompanies": [
     "Aon",
-    "Cincinnati Financial",
     "Goldman Sachs"
   ],
   "fallbackCompanies": [
