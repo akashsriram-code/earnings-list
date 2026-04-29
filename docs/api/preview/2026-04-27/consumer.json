@@ -64,13 +64,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2026-04-29",
+      "bmo_amc": "5:47 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:47 pm EDT",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-04-29",
-      "bmo_amc": "4:30 P.M. ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 p.m. ET",
+      "ir_time_label": null,
       "ir_source_url": "https://ir.chipotle.com/",
       "source": "investor_relations"
     },
@@ -218,11 +229,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-29T19:10:10Z",
+  "generatedAt": "2026-04-29T21:55:21Z",
   "irCompanies": [
+    "Ball Corp",
     "Chipotle Mexican Grill",
     "Estee Lauder",
     "Etsy Inc",

@@ -37,6 +37,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2026-04-29",
@@ -120,12 +131,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-29T19:10:10Z",
+  "generatedAt": "2026-04-29T21:55:23Z",
   "irCompanies": [
-    "Merck"
+    "Merck",
+    "Novavax"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
