@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-06-22",
@@ -9,18 +29,31 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 1,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-29T08:02:55Z",
+  "generatedAt": "2026-04-29T10:53:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "FactSet Research"
+    "BlackBerry",
+    "Carnival Corp",
+    "FactSet Research",
+    "FedEx"
   ],
   "week": {
     "id": "2026-06-22",

@@ -245,7 +245,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.nytco.com/investors/",
+      "source": "investor_relations"
     },
     {
       "company": "PTC",
@@ -388,10 +390,11 @@
   "count": 42,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-29T08:01:23Z",
+  "generatedAt": "2026-04-29T10:51:40Z",
   "irCompanies": [
     "Live Nation Entertainment",
     "Lyft",
+    "NYT",
     "Shopify"
   ],
   "fallbackCompanies": [
@@ -419,7 +422,6 @@
     "Match Group",
     "Microchip Tech",
     "Motorola",
-    "NYT",
     "News Corp",
     "Onsemi",
     "PTC",

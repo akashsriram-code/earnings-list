@@ -88,6 +88,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Regions Financial",
+      "symbol": "RF",
+      "date": "2026-05-06",
+      "bmo_amc": "09:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 A.M",
+      "ir_source_url": "https://ir.regions.com/home/default.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Sun Life",
       "symbol": "SLF",
       "date": "2026-05-06",
@@ -133,17 +144,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-29T08:01:23Z",
+  "generatedAt": "2026-04-29T10:51:40Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
-    "Global Payments"
+    "Global Payments",
+    "Regions Financial"
   ],
   "fallbackCompanies": [
     "Assurant Inc",

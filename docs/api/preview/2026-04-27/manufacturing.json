@@ -160,7 +160,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.chrobinson.com/Home/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Ford Motor Co",
@@ -284,6 +286,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "WW Grainger Inc",
+      "symbol": "GWW",
+      "date": "2026-04-29",
+      "bmo_amc": "10:00 A.M. CT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "A O Smith Corp",
@@ -440,19 +453,21 @@
       "source": "investor_relations"
     }
   ],
-  "count": 47,
+  "count": 48,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-29T08:01:14Z",
+  "generatedAt": "2026-04-29T10:51:25Z",
   "irCompanies": [
     "Bombardier",
+    "CH Robinson Worldwide Inc",
     "Fortive Corp",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
-    "Veralto Corp"
+    "Veralto Corp",
+    "WW Grainger Inc"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -461,7 +476,6 @@
     "American Water Works",
     "Booking Holdings Inc",
     "Boston Properties",
-    "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
     "Camden Property Trust",
     "Carrier Global Corp",
