@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-06-23",
@@ -39,6 +29,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 4,
@@ -47,7 +47,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-04-29T10:53:24Z",
+  "generatedAt": "2026-04-29T13:24:26Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "BlackBerry",

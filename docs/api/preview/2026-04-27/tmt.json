@@ -22,8 +22,8 @@
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "CoStar Group",
       "symbol": "CSGP",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Corning",
       "symbol": "GLW",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "F5",
       "symbol": "FFIV",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "NXP Semiconductors",
       "symbol": "NXPI",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Seagate",
       "symbol": "STX",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2026-04-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -196,6 +196,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-04-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Meta",
       "symbol": "META",
       "date": "2026-04-29",
@@ -232,17 +243,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-04-29",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Tyler Tech",
@@ -371,16 +371,16 @@
   "count": 39,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-29T10:51:25Z",
+  "generatedAt": "2026-04-29T13:22:35Z",
   "irCompanies": [
     "Alibaba",
     "Equinix",
     "GoDaddy",
     "KLA Corp",
+    "Live Nation Entertainment",
     "Microsoft",
     "Rivian",
-    "SiriusXM",
-    "Teradyne"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
