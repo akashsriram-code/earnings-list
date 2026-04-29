@@ -13,9 +13,9 @@
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-02-09",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-02-10",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-02-10",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -115,7 +115,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-28T21:52:01Z",
+  "generatedAt": "2026-04-29T01:50:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",

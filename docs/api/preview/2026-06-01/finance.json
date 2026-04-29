@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "CIBC",
       "symbol": "CM",
       "date": "2026-06-04",
@@ -19,14 +30,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-28T21:55:40Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-29T01:53:42Z",
+  "irCompanies": [
+    "Truist Financial"
+  ],
   "fallbackCompanies": [
     "CIBC",
     "Royal Bank of Canada"

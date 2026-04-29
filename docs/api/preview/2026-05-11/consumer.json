@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-05-12",
+      "bmo_amc": "10:45 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:45 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Monster Beverage",
       "symbol": "MNST",
       "date": "2026-05-14",
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-28T21:54:59Z",
-  "irCompanies": [],
+  "generatedAt": "2026-04-29T01:53:08Z",
+  "irCompanies": [
+    "Smithfield Foods"
+  ],
   "fallbackCompanies": [
     "Monster Beverage",
     "Simon Property Group"
