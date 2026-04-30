@@ -217,10 +217,12 @@
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Wynn Resorts Ltd",
@@ -235,11 +237,12 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-29T21:55:34Z",
+  "generatedAt": "2026-04-30T01:51:59Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Emerson Electric Co",
-    "UPS"
+    "UPS",
+    "WW Grainger Inc"
   ],
   "fallbackCompanies": [
     "Airbnb Inc",
@@ -262,7 +265,6 @@
     "Republic Services Inc",
     "Rockwell Automation Inc",
     "TransDigm Group Inc",
-    "WW Grainger Inc",
     "Wynn Resorts Ltd"
   ],
   "week": {

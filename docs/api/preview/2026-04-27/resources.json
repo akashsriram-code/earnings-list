@@ -94,9 +94,9 @@
       "company": "Entergy Corp",
       "symbol": "ETR",
       "date": "2026-04-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -139,9 +139,9 @@
       "company": "ConocoPhillips",
       "symbol": "COP",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -184,18 +184,18 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -292,7 +292,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-29T21:55:22Z",
+  "generatedAt": "2026-04-30T01:51:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

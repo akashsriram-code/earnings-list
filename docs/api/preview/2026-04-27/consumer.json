@@ -64,37 +64,22 @@
       "source": "aggregator"
     },
     {
-      "company": "Ball Corp",
-      "symbol": "BALL",
-      "date": "2026-04-29",
-      "bmo_amc": "5:47 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:47 pm EDT",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-04-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Etsy Inc",
       "symbol": "ETSY",
       "date": "2026-04-29",
-      "bmo_amc": "7:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 am EDT",
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mattel",
@@ -127,9 +112,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -229,25 +214,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-29T21:55:21Z",
+  "generatedAt": "2026-04-30T01:51:45Z",
   "irCompanies": [
-    "Ball Corp",
-    "Chipotle Mexican Grill",
     "Estee Lauder",
-    "Etsy Inc",
     "Kimco Realty Corp",
     "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
+    "Chipotle Mexican Grill",
     "Church & Dwight",
     "Clorox Co",
     "Coca-Cola Co",
     "Colgate-Palmolive",
     "Domino\u2019s Pizza Inc",
+    "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
     "International Paper Co",

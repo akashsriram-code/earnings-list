@@ -22,9 +22,9 @@
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2026-04-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -37,41 +37,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2026-04-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2026-04-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -87,18 +76,18 @@
       "company": "Cigna",
       "symbol": "CI",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -114,9 +103,9 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
@@ -131,13 +120,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-29T21:55:23Z",
+  "generatedAt": "2026-04-30T01:51:45Z",
   "irCompanies": [
-    "Merck",
-    "Novavax"
+    "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
