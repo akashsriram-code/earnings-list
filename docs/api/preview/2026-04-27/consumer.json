@@ -67,8 +67,8 @@
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Etsy Inc",
       "symbol": "ETSY",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Mattel",
       "symbol": "MAT",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Yum Brands",
       "symbol": "YUM",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,9 +112,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-04-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -148,10 +148,10 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-04-30",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations"
     },
@@ -217,7 +217,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-30T10:49:26Z",
+  "generatedAt": "2026-04-30T13:21:22Z",
   "irCompanies": [
     "Estee Lauder",
     "Kimco Realty Corp",

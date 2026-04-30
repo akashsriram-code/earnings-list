@@ -85,8 +85,8 @@
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Everest",
       "symbol": "EG",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,18 +103,18 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-04-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -189,7 +189,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-04-30T10:49:26Z",
+  "generatedAt": "2026-04-30T13:21:24Z",
   "irCompanies": [
     "Aon"
   ],

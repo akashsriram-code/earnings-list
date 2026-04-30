@@ -85,8 +85,8 @@
       "company": "Bunge",
       "symbol": "BG",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Entergy Corp",
       "symbol": "ETR",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "FMC",
       "symbol": "FMC",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Phillips 66",
       "symbol": "PSX",
       "date": "2026-04-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,9 +121,9 @@
       "company": "Air Products",
       "symbol": "APD",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -139,9 +139,9 @@
       "company": "ConocoPhillips",
       "symbol": "COP",
       "date": "2026-04-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -184,18 +184,18 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-04-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-04-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -211,9 +211,9 @@
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2026-04-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -292,7 +292,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-04-30T10:49:27Z",
+  "generatedAt": "2026-04-30T13:21:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",
