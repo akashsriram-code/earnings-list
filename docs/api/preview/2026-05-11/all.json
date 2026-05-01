@@ -1,38 +1,6 @@
 {
   "records": [
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-05-12",
-      "bmo_amc": "10:45 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:45 am EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Monster Beverage",
-      "symbol": "MNST",
-      "date": "2026-05-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-05-11",
@@ -199,6 +167,38 @@
       "sector": "TMT"
     },
     {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-05-12",
+      "bmo_amc": "10:45 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:45 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Monster Beverage",
+      "symbol": "MNST",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-05-11",
@@ -317,7 +317,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-01T01:55:11Z",
+  "generatedAt": "2026-05-01T06:03:44Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",

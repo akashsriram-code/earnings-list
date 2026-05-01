@@ -91,6 +91,78 @@
       "source": "aggregator"
     },
     {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Airbnb Inc",
+      "symbol": "ABNB",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Expedia Group Inc",
+      "symbol": "EXPE",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Howmet Aerospace",
+      "symbol": "HWM",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ingersoll Rand Inc",
+      "symbol": "IR",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Wynn Resorts Ltd",
+      "symbol": "WYNN",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-02-13",
@@ -100,23 +172,31 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-01T01:52:20Z",
+  "generatedAt": "2026-05-01T06:00:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Air Lease",
+    "Airbnb Inc",
     "Borgwarner Inc",
+    "Deere",
+    "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
+    "Howmet Aerospace",
+    "Ingersoll Rand Inc",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Public Storage",
     "UDR INC",
-    "Wabtec"
+    "Wabtec",
+    "Wynn Resorts Ltd"
   ],
   "week": {
     "id": "2026-02-09",
