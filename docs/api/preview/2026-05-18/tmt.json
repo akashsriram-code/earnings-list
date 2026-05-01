@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-05-18",
+      "bmo_amc": "9:00AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00am ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-05-19",
@@ -95,13 +106,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-01T18:59:57Z",
+  "generatedAt": "2026-05-01T21:47:26Z",
   "irCompanies": [
     "Intuit",
-    "Micron"
+    "Micron",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Analog Devices",
