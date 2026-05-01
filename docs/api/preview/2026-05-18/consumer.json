@@ -66,6 +66,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-05-21",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-05-21",
@@ -75,12 +86,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-30T21:50:40Z",
+  "generatedAt": "2026-05-01T01:55:23Z",
   "irCompanies": [
-    "Home Depot Inc"
+    "Home Depot Inc",
+    "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",

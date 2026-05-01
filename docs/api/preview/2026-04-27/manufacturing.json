@@ -289,28 +289,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2026-04-30",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-04-30",
@@ -323,30 +301,28 @@
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Caterpillar",
       "symbol": "CAT",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-04-30",
-      "bmo_amc": "7:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 AM EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Hubbell Inc",
@@ -376,17 +352,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Martin Marietta Materials Inc",
       "symbol": "MLM",
       "date": "2026-04-30",
@@ -399,23 +364,19 @@
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-04-30",
-      "bmo_amc": "7:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-04-30",
-      "bmo_amc": "6:55 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:55 AM EDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Textron Inc",
@@ -430,9 +391,9 @@
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -441,24 +402,18 @@
       "date": "2026-05-01",
       "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 am EDT",
       "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations"
     }
   ],
-  "count": 48,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-30T21:50:03Z",
+  "generatedAt": "2026-05-01T01:54:44Z",
   "irCompanies": [
-    "Air Lease",
-    "Bombardier",
-    "Fortive Corp",
-    "Lennar Corp",
-    "Magna International",
-    "Parker-Hannifin Corp",
-    "Quanta Services Inc"
+    "Magna International"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -476,6 +431,7 @@
     "Essex Property Trust Inc",
     "Extra Space Storage Inc",
     "Ford Motor Co",
+    "Fortive Corp",
     "Generac Holdings Inc",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
@@ -491,8 +447,10 @@
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
     "Old Dominion Freight Line Inc",
+    "Parker-Hannifin Corp",
     "Pentair PLC",
     "Public Storage",
+    "Quanta Services Inc",
     "Stanley Black & Decker",
     "Textron Inc",
     "Trane Technologies PLC",

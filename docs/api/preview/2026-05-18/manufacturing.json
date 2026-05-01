@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-05-21",
+      "bmo_amc": "8:30 AM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am CDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-05-22",
@@ -30,12 +41,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-04-30T21:50:42Z",
+  "generatedAt": "2026-05-01T01:55:22Z",
   "irCompanies": [
-    "Honeywell"
+    "Honeywell",
+    "Quanta Services Inc"
   ],
   "fallbackCompanies": [
     "Deere",

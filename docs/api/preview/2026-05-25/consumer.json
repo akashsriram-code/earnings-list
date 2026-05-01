@@ -35,13 +35,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-05-28",
+      "bmo_amc": "10:00AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-30T21:50:54Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-01T01:55:35Z",
+  "irCompanies": [
+    "Royal Caribbean Group"
+  ],
   "fallbackCompanies": [
     "Costco Wholesale Corp",
     "Deckers Outdoors",

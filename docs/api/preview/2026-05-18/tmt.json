@@ -39,6 +39,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-05-20",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-05-20",
@@ -89,19 +100,23 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-30T21:50:42Z",
+  "generatedAt": "2026-05-01T01:55:24Z",
   "irCompanies": [
+    "Intuit",
     "Micron",
-    "Paychex"
+    "Paychex",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Analog Devices",
@@ -109,7 +124,6 @@
     "NVIDIA",
     "Palo Alto",
     "Snowflake",
-    "Take-Two Interactive",
     "Xpeng",
     "Zoom"
   ],

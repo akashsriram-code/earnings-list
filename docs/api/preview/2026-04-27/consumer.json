@@ -127,17 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-04-30",
-      "bmo_amc": "2:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Hershey Co",
       "symbol": "HSY",
       "date": "2026-04-30",
@@ -162,9 +151,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Molson Coors Beverage Co",
@@ -179,29 +166,27 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-04-30",
-      "bmo_amc": "10:00AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Church & Dwight",
-      "symbol": "CHD",
-      "date": "2026-05-01",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
+      "company": "Church & Dwight",
+      "symbol": "CHD",
+      "date": "2026-05-01",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -210,7 +195,7 @@
       "date": "2026-05-01",
       "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
@@ -219,21 +204,18 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-05-01",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-30T21:50:02Z",
+  "generatedAt": "2026-05-01T01:54:45Z",
   "irCompanies": [
-    "Coca-Cola Co",
-    "Estee Lauder",
-    "Kimco Realty Corp",
-    "Royal Caribbean Group"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -248,10 +230,12 @@
     "Hershey Co",
     "International Paper Co",
     "Kimberly Clark Corp",
+    "Kimco Realty Corp",
     "Mattel",
     "Molson Coors Beverage Co",
     "Mondelez International",
     "Regency Centers Corp",
+    "Royal Caribbean Group",
     "Smithfield Foods",
     "Starbucks Corp",
     "Sysco Corp",

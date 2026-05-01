@@ -238,9 +238,9 @@
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-04-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -259,20 +259,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-04-30",
-      "bmo_amc": "4:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Iron Mountain",
@@ -284,23 +271,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Monolithic Power",
       "symbol": "MPWR",
       "date": "2026-04-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -319,17 +295,15 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Roblox",
       "symbol": "RBLX",
       "date": "2026-04-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -345,46 +319,26 @@
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-04-30",
-      "bmo_amc": "6:58 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:58 AM EDT",
-      "ir_source_url": "https://investor.siriusxm.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-04-30",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Western Digital",
       "symbol": "WDC",
       "date": "2026-04-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-04-30T21:50:02Z",
-  "irCompanies": [
-    "GoDaddy",
-    "Intuit",
-    "Live Nation Entertainment",
-    "Rivian",
-    "SiriusXM",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-05-01T01:54:45Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "ADP",
     "Alphabet Inc",
@@ -400,6 +354,7 @@
     "Equinix",
     "F5",
     "Garmin",
+    "GoDaddy",
     "Iron Mountain",
     "KLA Corp",
     "Meta",
@@ -409,10 +364,12 @@
     "Omnicom",
     "Qualcomm",
     "Reddit",
+    "Rivian",
     "Roblox",
     "Roku",
     "SBA Communications",
     "Seagate",
+    "SiriusXM",
     "Spotify",
     "T-Mobile US",
     "Teradyne",

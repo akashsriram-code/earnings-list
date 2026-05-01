@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Masco Corp",
-      "symbol": "MAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-02-11",
@@ -76,9 +40,9 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -100,21 +64,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-04-30T21:47:38Z",
+  "generatedAt": "2026-05-01T01:52:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Coca-Cola Co",
     "Federal Realty Investment Trust",
-    "Hasbro Inc",
     "Instacart",
     "International Flavours & Fragrances",
     "Kimco Realty Corp",
     "Kraft Heinz Co",
-    "Masco Corp",
-    "Mattel",
     "McDonald\u2019s Corp",
     "Rollins Inc"
   ],

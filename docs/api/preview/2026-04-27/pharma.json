@@ -49,9 +49,9 @@
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-04-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -67,27 +67,27 @@
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cigna",
       "symbol": "CI",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-04-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -106,9 +106,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tenet Healthcare",
@@ -123,10 +121,8 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-04-30T21:50:04Z",
-  "irCompanies": [
-    "Merck"
-  ],
+  "generatedAt": "2026-05-01T01:54:44Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -137,6 +133,7 @@
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Labcorp Holdings Inc",
+    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "Zimmer Biomet Holdings Inc"
