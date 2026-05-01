@@ -17,16 +17,36 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-06-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Nike Inc",
+      "symbol": "NKE",
+      "date": "2026-06-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-01T08:12:47Z",
+  "generatedAt": "2026-05-01T10:21:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
-    "General Mills"
+    "General Mills",
+    "McCormick & Co",
+    "Nike Inc"
   ],
   "week": {
     "id": "2026-06-22",
