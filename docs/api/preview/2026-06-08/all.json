@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-06-09",
@@ -21,6 +11,16 @@
       "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "VinFast",
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-01T12:57:42Z",
+  "generatedAt": "2026-05-01T15:49:57Z",
   "irCompanies": [
     "Fortive Corp"
   ],
