@@ -165,6 +165,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2026-05-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lazard",
       "symbol": "LAZ",
       "date": "2026-05-01",
@@ -183,15 +194,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-01T15:48:40Z",
+  "generatedAt": "2026-05-01T18:59:16Z",
   "irCompanies": [
-    "Aon"
+    "Aon",
+    "Interactive Brokers"
   ],
   "fallbackCompanies": [
     "Allstate Corp",
