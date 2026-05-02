@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-05-04",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Aptiv PLC",
       "symbol": "APTV",
       "date": "2026-05-05",
@@ -245,14 +256,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-01T21:46:58Z",
+  "generatedAt": "2026-05-02T01:32:28Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
     "Emerson Electric Co",
+    "Magna International",
     "UPS",
     "WW Grainger Inc"
   ],

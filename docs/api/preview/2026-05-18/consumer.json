@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-05-19",
+      "bmo_amc": "4:00 PM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-05-19",
@@ -86,11 +97,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-01T21:47:28Z",
+  "generatedAt": "2026-05-02T01:32:52Z",
   "irCompanies": [
+    "Estee Lauder",
     "Home Depot Inc",
     "Kimco Realty Corp"
   ],
