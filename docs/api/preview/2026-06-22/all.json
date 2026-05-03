@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-06-22",
@@ -31,6 +21,16 @@
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Carnival Corp",
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-02T21:36:07Z",
+  "generatedAt": "2026-05-03T01:37:26Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
