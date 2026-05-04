@@ -46,6 +46,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -157,8 +166,8 @@
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,26 +175,17 @@
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-12",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -194,7 +194,7 @@
       "symbol": "PINS",
       "date": "2026-02-12",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -202,8 +202,8 @@
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,8 +211,8 @@
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -220,8 +220,8 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -229,7 +229,7 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-04T05:56:08Z",
+  "generatedAt": "2026-05-04T08:15:25Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
@@ -240,11 +240,11 @@
     "Equinix",
     "Freshworks",
     "GlobalFoundries",
-    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
     "Motorola",
+    "Omnicom",
     "Onsemi",
     "Paycom",
     "Pinterest",
