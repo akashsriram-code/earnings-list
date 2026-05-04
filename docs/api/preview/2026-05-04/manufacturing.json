@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-05-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-05-04",
@@ -256,14 +267,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-04T13:23:50Z",
+  "generatedAt": "2026-05-04T16:30:47Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
     "Emerson Electric Co",
+    "Lennar Corp",
     "Magna International",
     "UPS",
     "WW Grainger Inc"
