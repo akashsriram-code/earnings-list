@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -63,6 +53,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Autozone Inc",
@@ -145,26 +157,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Workday",
-      "symbol": "WDAY",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2026-05-28",
@@ -217,14 +209,15 @@
       "sector": "Consumer"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-04T10:59:37Z",
+  "generatedAt": "2026-05-04T13:24:27Z",
   "irCompanies": [
+    "Boston Scientific Corp",
     "JPMorgan",
     "Royal Caribbean Group",
     "Wells Fargo"
@@ -239,15 +232,13 @@
     "Deckers Outdoors",
     "Dell",
     "HP Inc",
-    "Intuit",
     "Ralph Lauren Corp",
     "Ross Stores",
     "Salesforce",
     "Scotiabank",
     "SentinelOne",
     "Synopsys",
-    "TD Bank",
-    "Workday"
+    "TD Bank"
   ],
   "week": {
     "id": "2026-05-25",
