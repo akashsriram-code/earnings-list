@@ -44,17 +44,27 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-05T01:32:19Z",
+  "generatedAt": "2026-05-05T05:34:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Danaher Corp",
     "Elevance Health Inc",
     "HCA Healthcare Inc",
+    "Regeneron Pharmaceuticals",
     "Thermo Fisher Scientific Inc",
     "UnitedHealth Group"
   ],

@@ -1,48 +1,6 @@
 {
   "records": [
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-05-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "STERIS plc",
-      "symbol": "STE",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-05-11",
@@ -91,6 +49,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Fox Corp",
@@ -255,6 +235,26 @@
       "ir_source_url": "https://investors.smithfieldfoods.com/",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-05-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "STERIS plc",
+      "symbol": "STE",
+      "date": "2026-05-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 24,
@@ -263,7 +263,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-05T01:35:50Z",
+  "generatedAt": "2026-05-05T05:38:11Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",

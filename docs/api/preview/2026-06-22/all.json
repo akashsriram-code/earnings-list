@@ -1,34 +1,36 @@
 {
   "records": [
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-06-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-06-24",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
       "date": "2026-06-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
       "company": "Carnival Corp",
@@ -71,36 +73,34 @@
       "sector": "Consumer"
     },
     {
-      "company": "FedEx",
-      "symbol": "FDX",
+      "company": "BlackBerry",
+      "symbol": "BB",
       "date": "2026-06-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-06-22",
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-06-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
+      "company": "Paychex",
+      "symbol": "PAYX",
       "date": "2026-06-24",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 10,
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-05T01:37:13Z",
+  "generatedAt": "2026-05-05T05:39:33Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
