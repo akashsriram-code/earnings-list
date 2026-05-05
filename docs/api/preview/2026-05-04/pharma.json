@@ -27,7 +27,20 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-05-05",
+      "bmo_amc": "8:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Dentsply Sirona",
@@ -98,10 +111,10 @@
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-05-05",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "4:05 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
+      "ir_time_label": "4:05 PM EDT",
       "ir_source_url": "https://investors.solventum.com/",
       "source": "investor_relations"
     },
@@ -229,14 +242,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-05T19:07:18Z",
+  "generatedAt": "2026-05-05T21:56:07Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "Centene Corp",
+    "DaVita Inc",
+    "Danaher Corp",
     "IDEXX Laboratories Inc",
     "Novavax",
     "Solventum Corp"
@@ -245,7 +260,6 @@
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
-    "DaVita Inc",
     "Dentsply Sirona",
     "Gilead",
     "Healthpeak Properties",
