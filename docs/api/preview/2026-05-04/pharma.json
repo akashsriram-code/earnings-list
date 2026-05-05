@@ -4,10 +4,21 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-05-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     },
     {
       "company": "DaVita Inc",
@@ -49,10 +60,10 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-05-05",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "6:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "6:30 am EDT",
       "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations"
     },
@@ -69,9 +80,9 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-05-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -218,13 +229,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-05T10:32:44Z",
+  "generatedAt": "2026-05-05T13:11:10Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Centene Corp",
     "IDEXX Laboratories Inc",
     "Novavax",
     "Solventum Corp"

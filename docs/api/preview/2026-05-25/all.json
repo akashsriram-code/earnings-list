@@ -1,6 +1,60 @@
 {
   "records": [
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-05-27",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Agilent",
       "symbol": "A",
       "date": "2026-05-27",
@@ -21,6 +75,58 @@
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ralph Lauren Corp",
+      "symbol": "RL",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-05-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-05-28",
+      "bmo_amc": "10:00AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Autozone Inc",
@@ -113,112 +219,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-05-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ralph Lauren Corp",
-      "symbol": "RL",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-05-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-05-28",
-      "bmo_amc": "10:00AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-05-27",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
   "count": 21,
@@ -227,7 +227,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-05T10:33:23Z",
+  "generatedAt": "2026-05-05T13:11:58Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "JPMorgan",
