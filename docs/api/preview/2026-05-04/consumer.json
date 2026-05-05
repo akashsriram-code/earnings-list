@@ -4,20 +4,18 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-05-04",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-05-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -107,10 +105,9 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-04T21:56:41Z",
+  "generatedAt": "2026-05-05T01:35:34Z",
   "irCompanies": [
-    "Ball Corp",
-    "Norwegian Cruise Line"
+    "Ball Corp"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
@@ -120,6 +117,7 @@
     "Kraft Heinz Co",
     "McDonald\u2019s Corp",
     "Monster Beverage",
+    "Norwegian Cruise Line",
     "Tapestry Inc",
     "Tyson Foods"
   ],

@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-05-27",
+      "bmo_amc": "1:45 PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:45 pm PDT",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-05-27",
@@ -64,11 +75,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-04T21:57:21Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-05T01:36:14Z",
+  "irCompanies": [
+    "Marvell"
+  ],
   "fallbackCompanies": [
     "Autodesk",
     "C3.ai",

@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-05-04",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-05-04",
-      "bmo_amc": "9:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Assurant Inc",
       "symbol": "AIZ",
       "date": "2026-05-05",
@@ -44,9 +22,9 @@
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -166,17 +144,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-04T21:56:38Z",
+  "generatedAt": "2026-05-05T01:35:35Z",
   "irCompanies": [
     "Apollo",
-    "Bank of America",
-    "Cincinnati Financial",
     "Citigroup",
     "Global Payments",
     "Regions Financial"

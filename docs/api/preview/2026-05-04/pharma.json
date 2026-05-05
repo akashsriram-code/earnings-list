@@ -4,9 +4,9 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-05-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -69,9 +69,9 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -221,7 +221,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-04T21:56:40Z",
+  "generatedAt": "2026-05-05T01:35:33Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",

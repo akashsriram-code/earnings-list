@@ -13,9 +13,9 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-02-09",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -130,9 +130,9 @@
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-02-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -175,9 +175,9 @@
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -193,9 +193,9 @@
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -229,7 +229,7 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-04T21:53:57Z",
+  "generatedAt": "2026-05-05T01:32:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
