@@ -44,12 +44,10 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-05-20",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Micron",
@@ -72,26 +70,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Snowflake",
-      "symbol": "SNOW",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Xpeng",
       "symbol": "XPEV",
-      "date": "2026-05-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Zoom",
-      "symbol": "ZM",
       "date": "2026-05-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -117,14 +97,22 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-05-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-06T11:00:10Z",
+  "generatedAt": "2026-05-06T13:30:59Z",
   "irCompanies": [
-    "Intuit",
     "Micron",
     "Paychex",
     "Take-Two Interactive",
@@ -133,8 +121,8 @@
   "fallbackCompanies": [
     "Analog Devices",
     "Baidu",
+    "Intuit",
     "NVIDIA",
-    "Snowflake",
     "Workday",
     "Xpeng",
     "Zoom"

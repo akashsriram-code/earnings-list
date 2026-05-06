@@ -41,16 +41,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-06-04",
@@ -74,8 +64,8 @@
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-06-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -126,18 +116,8 @@
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -185,16 +165,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-06-03",
@@ -217,13 +187,13 @@
       "sector": "Pharma"
     }
   ],
-  "count": 21,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-06T11:00:39Z",
+  "generatedAt": "2026-05-06T13:31:33Z",
   "irCompanies": [
     "Medtronic PLC",
     "Truist Financial",
@@ -241,11 +211,8 @@
     "Dollar General",
     "Dollar Tree",
     "HPE",
-    "Hormel Foods",
     "Lululemon Athletica",
-    "Marvell",
     "Palo Alto",
-    "Royal Bank of Canada",
     "Ulta Beauty",
     "Zscaler"
   ],

@@ -13,8 +13,8 @@
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Dentsply Sirona",
       "symbol": "XRAY",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,10 +103,10 @@
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2026-05-06",
-      "bmo_amc": "9:00AM EDT",
+      "bmo_amc": "9:20AM PDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am EDT",
+      "ir_time_label": "9:20am PDT",
       "ir_source_url": "https://investors.bio-techne.com/",
       "source": "investor_relations"
     },
@@ -114,18 +114,18 @@
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2026-05-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Cencora Inc",
       "symbol": "COR",
       "date": "2026-05-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -135,7 +135,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Novavax",
@@ -217,10 +219,11 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-06T10:59:39Z",
+  "generatedAt": "2026-05-06T13:30:29Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Insulet",
     "Novavax"
   ],
   "fallbackCompanies": [
@@ -234,7 +237,6 @@
     "Henry Schein Inc",
     "IDEXX Laboratories Inc",
     "IQVIA Holdings Inc",
-    "Insulet",
     "Kenvue",
     "Mckesson Corp",
     "Pfizer Inc",
