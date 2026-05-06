@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2026-05-13",
@@ -46,12 +55,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-06T13:30:44Z",
+  "generatedAt": "2026-05-06T16:27:46Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AES Corp",
     "Constellation Energy",
     "Mosaic",
     "New Fortress Energy",

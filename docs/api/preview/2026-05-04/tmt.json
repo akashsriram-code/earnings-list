@@ -226,6 +226,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-05-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-05-06",
@@ -282,6 +293,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-06",
+      "bmo_amc": "12:03 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:03 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trimble",
@@ -394,14 +416,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-06T13:30:29Z",
+  "generatedAt": "2026-05-06T16:27:34Z",
   "irCompanies": [
+    "Fox Corp",
     "Intuit",
     "Lyft",
-    "NYT"
+    "NYT",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
