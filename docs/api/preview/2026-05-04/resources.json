@@ -58,9 +58,9 @@
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2026-05-05",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Corteva",
       "symbol": "CTVA",
       "date": "2026-05-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -103,18 +103,18 @@
       "company": "Duke Energy",
       "symbol": "DUK",
       "date": "2026-05-05",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "EOG Resources",
       "symbol": "EOG",
       "date": "2026-05-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -130,18 +130,18 @@
       "company": "Marathon Petroleum",
       "symbol": "MPC",
       "date": "2026-05-05",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-05-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -157,9 +157,9 @@
       "company": "Suncor Energy",
       "symbol": "SU",
       "date": "2026-05-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -220,9 +220,9 @@
       "company": "Cenovus Energy",
       "symbol": "CVE",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -238,18 +238,18 @@
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "NRG Energy",
       "symbol": "NRG",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -265,9 +265,9 @@
       "company": "Nutrien",
       "symbol": "NTR",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -411,7 +411,7 @@
   "count": 45,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-05T21:56:09Z",
+  "generatedAt": "2026-05-06T01:33:43Z",
   "irCompanies": [
     "XPLR Infrastructure (previously NEP)"
   ],

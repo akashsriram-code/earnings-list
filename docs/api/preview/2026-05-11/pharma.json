@@ -17,13 +17,38 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-05-12",
+      "bmo_amc": "1:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 pm EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-05-15",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-05T21:56:20Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-06T01:33:56Z",
+  "irCompanies": [
+    "IDEXX Laboratories Inc",
+    "Solventum Corp"
+  ],
   "fallbackCompanies": [
     "Hims and Hers",
     "STERIS plc"

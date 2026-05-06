@@ -102,10 +102,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Workday",
@@ -120,11 +122,12 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-05T21:56:32Z",
+  "generatedAt": "2026-05-06T01:34:09Z",
   "irCompanies": [
     "Intuit",
     "Micron",
     "Paychex",
+    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -132,7 +135,6 @@
     "Baidu",
     "NVIDIA",
     "Snowflake",
-    "Take-Two Interactive",
     "Workday",
     "Xpeng",
     "Zoom"

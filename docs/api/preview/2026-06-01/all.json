@@ -1,60 +1,6 @@
 {
   "records": [
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-06-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-06-01",
@@ -157,6 +103,28 @@
       "sector": "Consumer"
     },
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-06-02",
@@ -187,16 +155,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Broadcom",
-      "symbol": "AVGO",
-      "date": "2026-06-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-06-04",
@@ -215,15 +173,47 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-05T21:56:58Z",
+  "generatedAt": "2026-05-06T01:34:38Z",
   "irCompanies": [
     "Medtronic PLC",
     "Truist Financial",
@@ -232,7 +222,6 @@
   "fallbackCompanies": [
     "Bath & Body Works",
     "Best Buy Co Inc",
-    "Broadcom",
     "Brown-Forman Corp",
     "CIBC",
     "Campbell Soup Co",

@@ -16,7 +16,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Hasbro Inc",
@@ -87,14 +89,14 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-05T21:56:33Z",
+  "generatedAt": "2026-05-06T01:34:10Z",
   "irCompanies": [
+    "Home Depot Inc",
     "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
     "Hasbro Inc",
-    "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "TJX Cos Inc",
     "Target Corp",

@@ -1,6 +1,72 @@
 {
   "records": [
     {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-05-19",
+      "bmo_amc": "10:55 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:55 am EDT",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-05-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-05-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-05-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-05-21",
+      "bmo_amc": "8:30 AM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am CDT",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-05-22",
+      "bmo_amc": "10:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-05-18",
@@ -112,10 +178,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -145,7 +213,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -219,72 +289,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-05-19",
-      "bmo_amc": "10:55 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:55 am EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-05-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2026-05-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-05-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-05-21",
-      "bmo_amc": "8:30 AM CDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am CDT",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-05-22",
-      "bmo_amc": "10:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30 AM EDT",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 27,
@@ -293,15 +297,17 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-05T21:56:33Z",
+  "generatedAt": "2026-05-06T01:34:10Z",
   "irCompanies": [
     "Fortive Corp",
+    "Home Depot Inc",
     "Honeywell",
     "Intuit",
     "Kimco Realty Corp",
     "Micron",
     "Paychex",
     "Quanta Services Inc",
+    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -310,14 +316,12 @@
     "Coca-Cola Europacific",
     "Deere",
     "Hasbro Inc",
-    "Home Depot Inc",
     "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",
     "NVIDIA",
     "Nordson Corp",
     "Snowflake",
     "TJX Cos Inc",
-    "Take-Two Interactive",
     "Target Corp",
     "VF Corp",
     "Walmart Inc",

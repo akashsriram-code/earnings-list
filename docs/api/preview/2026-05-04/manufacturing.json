@@ -13,21 +13,19 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-05-05",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-05-05",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Expeditors International of Washington Inc",
@@ -87,9 +85,9 @@
       "company": "Rockwell Automation Inc",
       "symbol": "ROK",
       "date": "2026-05-05",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -134,27 +132,27 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-05-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -248,11 +246,10 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-05T21:56:07Z",
+  "generatedAt": "2026-05-06T01:33:44Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
-    "Emerson Electric Co",
     "UPS",
     "WW Grainger Inc"
   ],
@@ -261,6 +258,7 @@
     "Aptiv PLC",
     "Borgwarner Inc",
     "Eaton Corporation PLC",
+    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
