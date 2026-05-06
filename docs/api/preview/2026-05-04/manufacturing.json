@@ -22,8 +22,8 @@
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-05-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -156,6 +156,17 @@
       "source": "aggregator"
     },
     {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-05-06",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Air Lease",
       "symbol": "AL",
       "date": "2026-05-07",
@@ -212,17 +223,6 @@
       "source": "aggregator"
     },
     {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-05-07",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-05-07",
@@ -246,7 +246,7 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-06T19:23:09Z",
+  "generatedAt": "2026-05-06T21:56:18Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
