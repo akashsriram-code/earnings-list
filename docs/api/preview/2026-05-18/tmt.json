@@ -72,8 +72,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Snowflake",
+      "symbol": "SNOW",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
       "date": "2026-05-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -110,10 +128,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-07T08:16:04Z",
+  "generatedAt": "2026-05-07T11:04:07Z",
   "irCompanies": [
     "Intuit",
     "Micron",
@@ -125,6 +143,7 @@
     "Analog Devices",
     "Baidu",
     "NVIDIA",
+    "Snowflake",
     "Workday",
     "Xpeng",
     "Zoom"
