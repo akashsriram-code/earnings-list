@@ -22,8 +22,8 @@
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,12 +103,10 @@
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-05-06",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Borgwarner Inc",
@@ -132,39 +130,28 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-05-06",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-05-06",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-05-06",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-05-06",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Air Lease",
@@ -181,9 +168,9 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -199,9 +186,9 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -217,10 +204,21 @@
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-05-07",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
     },
     {
       "company": "WW Grainger Inc",
@@ -228,7 +226,7 @@
       "date": "2026-05-07",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -246,16 +244,16 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-06T21:56:18Z",
+  "generatedAt": "2026-05-07T01:51:31Z",
   "irCompanies": [
     "Air Lease",
-    "Axon Enterprise Inc",
     "UPS",
     "WW Grainger Inc"
   ],
   "fallbackCompanies": [
     "Airbnb Inc",
     "Aptiv PLC",
+    "Axon Enterprise Inc",
     "Borgwarner Inc",
     "Eaton Corporation PLC",
     "Emerson Electric Co",

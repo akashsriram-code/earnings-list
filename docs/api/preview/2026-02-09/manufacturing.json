@@ -10,11 +10,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Carrier Global Corp",
-      "symbol": "CARR",
+      "company": "Ford Motor Co",
+      "symbol": "F",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,9 +31,9 @@
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-02-10",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -94,9 +103,9 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -112,9 +121,9 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -154,19 +163,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-06T21:53:27Z",
+  "generatedAt": "2026-05-07T01:48:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Carrier Global Corp",
     "Expedia Group Inc",
+    "Ford Motor Co",
     "Frontier Holdings",
     "Generac Holdings Inc",
+    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",

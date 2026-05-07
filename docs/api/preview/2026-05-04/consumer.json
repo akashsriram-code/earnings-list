@@ -31,8 +31,8 @@
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-05-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,9 +49,9 @@
       "company": "DoorDash",
       "symbol": "DASH",
       "date": "2026-05-06",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -73,32 +73,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-05-06",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "McDonald\u2019s Corp",
       "symbol": "MCD",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Monster Beverage",
       "symbol": "MNST",
       "date": "2026-05-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -111,13 +100,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-06T21:56:17Z",
-  "irCompanies": [
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2026-05-07T01:51:32Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
     "Ball Corp",

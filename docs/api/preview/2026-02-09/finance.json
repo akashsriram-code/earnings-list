@@ -85,18 +85,18 @@
       "company": "Sun Life",
       "symbol": "SLF",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -115,7 +115,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-06T21:53:28Z",
+  "generatedAt": "2026-05-07T01:48:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
