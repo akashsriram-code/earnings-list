@@ -157,9 +157,9 @@
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -193,9 +193,9 @@
       "company": "Targa Resources",
       "symbol": "TRGP",
       "date": "2026-02-19",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -220,7 +220,7 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-07T13:27:15Z",
+  "generatedAt": "2026-05-07T16:33:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
