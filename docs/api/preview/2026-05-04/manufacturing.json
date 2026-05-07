@@ -183,12 +183,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-05-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.hilton.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-05-07",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -241,12 +252,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-07T11:03:41Z",
+  "generatedAt": "2026-05-07T13:29:48Z",
   "irCompanies": [
     "Air Lease",
+    "Hilton Worldwide Holdings Inc",
     "UPS",
     "WW Grainger Inc"
   ],
