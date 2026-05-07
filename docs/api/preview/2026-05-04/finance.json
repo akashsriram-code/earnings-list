@@ -102,17 +102,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-05-07",
@@ -140,16 +129,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-07T16:36:00Z",
+  "generatedAt": "2026-05-07T19:28:23Z",
   "irCompanies": [
-    "Apollo",
-    "Citigroup"
+    "Apollo"
   ],
   "fallbackCompanies": [
     "Apollo",
