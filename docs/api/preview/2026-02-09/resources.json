@@ -4,8 +4,8 @@
       "company": "DuPont",
       "symbol": "DD",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -24,15 +24,6 @@
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Eversource Energy",
-      "symbol": "ES",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,25 +112,25 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-08T13:07:14Z",
+  "generatedAt": "2026-05-08T16:10:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
