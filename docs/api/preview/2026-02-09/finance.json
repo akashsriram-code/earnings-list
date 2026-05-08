@@ -37,6 +37,42 @@
       "source": "aggregator"
     },
     {
+      "company": "Assurant Inc",
+      "symbol": "AIZ",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
+      "date": "2026-02-10",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-02-11",
@@ -58,9 +94,9 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -73,22 +109,26 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-07T21:47:11Z",
+  "generatedAt": "2026-05-08T01:52:21Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
     "Arch Capital Group",
+    "Assurant Inc",
     "Cincinnati Financial",
     "Coinbase",
+    "Fidelity National Information Services",
     "Lincoln National Corporation",
     "Manulife",
     "Principal Financial Group",
+    "Robinhood",
+    "S&P Global Inc",
     "Sun Life"
   ],
   "week": {

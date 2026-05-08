@@ -10,6 +10,33 @@
       "source": "aggregator"
     },
     {
+      "company": "Ford Motor Co",
+      "symbol": "F",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Marriott International Inc",
+      "symbol": "MAR",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Borgwarner Inc",
       "symbol": "BWA",
       "date": "2026-02-11",
@@ -76,27 +103,27 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -136,22 +163,25 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-07T21:47:11Z",
+  "generatedAt": "2026-05-08T01:52:21Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
     "Expedia Group Inc",
+    "Ford Motor Co",
     "Frontier Holdings",
     "Generac Holdings Inc",
+    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
     "Magna International",
+    "Marriott International Inc",
     "Martin Marietta Materials Inc",
     "Public Storage",
     "UDR INC",

@@ -1,6 +1,33 @@
 {
   "records": [
     {
+      "company": "DuPont",
+      "symbol": "DD",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Duke Energy",
+      "symbol": "DUK",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ecolab",
+      "symbol": "ECL",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-02-11",
@@ -85,9 +112,9 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -100,15 +127,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-07T21:47:12Z",
+  "generatedAt": "2026-05-08T01:52:21Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
+    "DuPont",
+    "Duke Energy",
+    "Ecolab",
     "Enbridge",
     "Entergy Corp",
     "Eversource Energy",

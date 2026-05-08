@@ -127,35 +127,125 @@
       "source": "aggregator"
     },
     {
+      "company": "Alliant Energy",
+      "symbol": "LNT",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cenovus Energy",
+      "symbol": "CVE",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Consolidated Edison",
+      "symbol": "ED",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Evergy",
+      "symbol": "EVRG",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Southern Co",
+      "symbol": "SO",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "PPL Corp",
       "symbol": "PPL",
       "date": "2026-02-20",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-07T21:47:27Z",
+  "generatedAt": "2026-05-08T01:52:37Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Alliant Energy",
     "CF Industries",
     "Celanese",
+    "Cenovus Energy",
+    "CenterPoint Energy",
+    "Consolidated Edison",
     "Constellation Energy",
     "DTE",
     "Devon Energy",
     "EQT Corp",
     "Edison International",
     "Energy Transfer",
+    "Evergy",
     "Expand Energy",
     "First Energy",
     "HF Sinclair",
+    "Newmont Corp",
     "Nutrien",
     "Occidental Petroleum",
     "PPL Corp",
+    "Southern Co",
+    "Targa Resources",
+    "Teck Resources",
     "Texas Pacific Land"
   ],
   "week": {

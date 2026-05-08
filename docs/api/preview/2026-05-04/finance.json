@@ -82,17 +82,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations"
-    },
-    {
       "company": "Carlyle",
       "symbol": "CG",
       "date": "2026-05-07",
@@ -105,9 +94,9 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-05-07",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -123,22 +112,20 @@
       "company": "Fidelity National Information Services",
       "symbol": "FIS",
       "date": "2026-05-08",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-07T21:50:00Z",
-  "irCompanies": [
-    "Apollo"
-  ],
+  "generatedAt": "2026-05-08T01:55:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
     "Assurant Inc",

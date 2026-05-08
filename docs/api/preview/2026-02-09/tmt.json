@@ -19,6 +19,60 @@
       "source": "aggregator"
     },
     {
+      "company": "Datadog",
+      "symbol": "DDOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Freshworks",
+      "symbol": "FRSH",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lyft",
+      "symbol": "LYFT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Spotify",
+      "symbol": "SPOT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Trimble",
+      "symbol": "TRMB",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-02-11",
@@ -58,9 +112,9 @@
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -172,29 +226,35 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-07T21:47:11Z",
+  "generatedAt": "2026-05-08T01:52:21Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
     "Arista Networks",
     "Cisco Systems",
+    "Datadog",
     "Equinix",
+    "Freshworks",
     "GlobalFoundries",
     "Iron Mountain",
     "Kyndryl",
+    "Lyft",
     "Motorola",
+    "Omnicom",
     "Onsemi",
     "Paycom",
     "Pinterest",
     "Rivian",
     "Roku",
     "Shopify",
+    "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trimble",
     "Tyler Tech",
     "Zebra Technologies"
   ],

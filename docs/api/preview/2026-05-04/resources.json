@@ -292,9 +292,9 @@
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-05-07",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -352,23 +352,12 @@
       "source": "aggregator"
     },
     {
-      "company": "XPLR Infrastructure (previously NEP)",
-      "symbol": "XPLR",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-05-08",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -384,19 +373,17 @@
       "company": "PPL Corp",
       "symbol": "PPL",
       "date": "2026-05-08",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-07T21:49:57Z",
-  "irCompanies": [
-    "XPLR Infrastructure (previously NEP)"
-  ],
+  "generatedAt": "2026-05-08T01:55:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "APA",

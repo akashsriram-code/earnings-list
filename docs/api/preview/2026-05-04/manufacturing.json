@@ -154,52 +154,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-05-07",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-05-07",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
-      "date": "2026-05-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.hilton.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-05-07",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -215,43 +193,19 @@
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-05-07",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-05-07",
-      "bmo_amc": "4:00 PM CDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 pm CDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-05-07",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
     },
     {
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-05-07",
-      "bmo_amc": "10:00 A.M. CT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 a.m. CT",
-      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wynn Resorts Ltd",
@@ -263,17 +217,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-07T21:49:57Z",
-  "irCompanies": [
-    "Air Lease",
-    "Hilton Worldwide Holdings Inc",
-    "Southwest Airlines Co",
-    "UPS",
-    "WW Grainger Inc"
-  ],
+  "generatedAt": "2026-05-08T01:55:02Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Airbnb Inc",
     "Aptiv PLC",
@@ -297,6 +245,7 @@
     "Republic Services Inc",
     "Rockwell Automation Inc",
     "TransDigm Group Inc",
+    "WW Grainger Inc",
     "Wynn Resorts Ltd"
   ],
   "week": {
