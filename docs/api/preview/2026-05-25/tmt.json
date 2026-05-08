@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-05-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2026-05-27",
@@ -33,8 +42,8 @@
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -60,8 +69,8 @@
       "company": "Synopsys",
       "symbol": "SNPS",
       "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -84,10 +93,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-08T10:20:59Z",
+  "generatedAt": "2026-05-08T13:10:46Z",
   "irCompanies": [
     "Marvell"
   ],
@@ -99,7 +108,8 @@
     "Salesforce",
     "SentinelOne",
     "Snowflake",
-    "Synopsys"
+    "Synopsys",
+    "Zscaler"
   ],
   "week": {
     "id": "2026-05-25",

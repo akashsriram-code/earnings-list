@@ -1,6 +1,24 @@
 {
   "records": [
     {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2026-05-28",
@@ -46,12 +64,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-08T10:20:58Z",
+  "generatedAt": "2026-05-08T13:10:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Bath & Body Works",
+    "Best Buy Co Inc",
     "Costco Wholesale Corp",
     "Deckers Outdoors",
     "Hormel Foods",

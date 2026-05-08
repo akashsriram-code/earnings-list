@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2026-06-24",
@@ -28,12 +37,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-08T10:21:56Z",
+  "generatedAt": "2026-05-08T13:11:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Carnival Corp",
     "General Mills",
     "McCormick & Co",
     "Nike Inc"
