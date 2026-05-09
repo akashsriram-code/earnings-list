@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-04-13",
@@ -201,6 +191,26 @@
       "sector": "Finance"
     },
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-04-14",
@@ -219,16 +229,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -277,7 +277,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-09T10:04:17Z",
+  "generatedAt": "2026-05-09T12:52:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
