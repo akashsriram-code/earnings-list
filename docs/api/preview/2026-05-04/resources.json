@@ -346,9 +346,9 @@
       "company": "Vistra Corp",
       "symbol": "VST",
       "date": "2026-05-07",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -364,9 +364,9 @@
       "company": "Hawaiian Electric",
       "symbol": "HE",
       "date": "2026-05-08",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -382,7 +382,7 @@
   "count": 42,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-08T21:52:18Z",
+  "generatedAt": "2026-05-09T01:51:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
