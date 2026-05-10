@@ -1,14 +1,34 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
+      "company": "BlackBerry",
+      "symbol": "BB",
       "date": "2026-06-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-06-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-06-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "FactSet Research",
@@ -31,6 +51,16 @@
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Carnival Corp",
@@ -71,36 +101,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     }
   ],
   "count": 10,
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-10T18:49:35Z",
+  "generatedAt": "2026-05-10T21:43:50Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
