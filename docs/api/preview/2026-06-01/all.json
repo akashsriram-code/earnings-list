@@ -1,26 +1,26 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
+      "company": "CIBC",
+      "symbol": "CM",
       "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
       "company": "Campbell Soup Co",
@@ -85,38 +85,26 @@
       "sector": "Consumer"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-06-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "CIBC",
-      "symbol": "CM",
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
       "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "HPE",
@@ -169,6 +157,18 @@
       "ir_source_url": "https://investor.lyft.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 16,
@@ -177,7 +177,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-10T01:52:22Z",
+  "generatedAt": "2026-05-10T06:00:22Z",
   "irCompanies": [
     "Air Lease",
     "Lyft",
