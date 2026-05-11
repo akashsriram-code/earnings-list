@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2026-05-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ameren",
       "symbol": "AEE",
       "date": "2026-05-05",
@@ -379,13 +388,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-05-11T19:29:43Z",
+  "generatedAt": "2026-05-11T22:04:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
+    "AES Corp",
     "APA",
     "Albemarle",
     "Ameren",

@@ -61,28 +61,6 @@
       "sector": "Resources"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-05-12",
-      "bmo_amc": "10:45 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:45 am EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-05-11",
@@ -151,59 +129,23 @@
       "sector": "Pharma"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-05-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-05-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-11",
-      "bmo_amc": "3:04 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:04 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -337,30 +279,124 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-05-11",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm EDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-05-12",
+      "bmo_amc": "10:45 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:45 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
-  "count": 31,
+  "count": 34,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T19:29:57Z",
+  "generatedAt": "2026-05-11T22:05:08Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Deckers Outdoors",
     "Equinix",
-    "Fox Corp",
     "Huntington Bancshares",
     "IDEXX Laboratories Inc",
+    "Lennar Corp",
     "Morgan Stanley",
     "Qnity",
     "Smithfield Foods",
     "Solventum Corp",
     "Take-Two Interactive",
-    "Tencent Music"
+    "Tencent Music",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "AES Corp",
@@ -368,6 +404,7 @@
     "Cisco Systems",
     "Constellation Energy",
     "Figma",
+    "Fox Corp",
     "Hims and Hers",
     "JD.com",
     "Manulife",

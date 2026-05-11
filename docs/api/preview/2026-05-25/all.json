@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -179,6 +157,28 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-05-26",
@@ -287,7 +287,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T19:30:24Z",
+  "generatedAt": "2026-05-11T22:05:32Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "JPMorgan",

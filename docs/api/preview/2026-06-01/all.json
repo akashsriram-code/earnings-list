@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-06-01",
@@ -163,48 +151,36 @@
       "sector": "TMT"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-06-01",
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-06-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "ir_source_url": "https://sumisho.aero/investors",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T19:30:39Z",
+  "generatedAt": "2026-05-11T22:05:42Z",
   "irCompanies": [
     "Air Lease",
     "HPE",
     "Juniper Networks",
     "Lyft",
     "Medtronic PLC",
-    "Truist Financial",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Broadcom",
     "Brown-Forman Corp",
-    "CIBC",
     "Campbell Soup Co",
     "Cooper Companies Inc",
     "Crowdstrike",
