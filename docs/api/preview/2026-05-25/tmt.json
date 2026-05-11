@@ -48,15 +48,6 @@
       "source": "aggregator"
     },
     {
-      "company": "SentinelOne",
-      "symbol": "S",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Snowflake",
       "symbol": "SNOW",
       "date": "2026-05-27",
@@ -91,12 +82,21 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-11T06:32:37Z",
+  "generatedAt": "2026-05-11T12:01:19Z",
   "irCompanies": [
     "Marvell"
   ],
