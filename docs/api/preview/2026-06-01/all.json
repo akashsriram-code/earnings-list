@@ -1,56 +1,26 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
+      "company": "Truist Financial",
+      "symbol": "TFC",
       "date": "2026-06-01",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-06-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-06-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
+      "company": "CIBC",
+      "symbol": "CM",
       "date": "2026-06-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
       "company": "HPE",
@@ -129,16 +99,66 @@
       "sector": "TMT"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
       "date": "2026-06-01",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-06-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-06-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Medtronic PLC",
@@ -175,13 +195,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T12:01:35Z",
+  "generatedAt": "2026-05-11T14:27:21Z",
   "irCompanies": [
     "Air Lease",
     "HPE",
@@ -194,10 +214,12 @@
   "fallbackCompanies": [
     "Broadcom",
     "Brown-Forman Corp",
+    "CIBC",
     "Campbell Soup Co",
     "Cooper Companies Inc",
     "Crowdstrike",
     "Dollar General",
+    "Dollar Tree",
     "HPE",
     "Lululemon Athletica",
     "Palo Alto"
