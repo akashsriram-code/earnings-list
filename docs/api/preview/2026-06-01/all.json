@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-06-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-01",
@@ -99,6 +77,52 @@
       "sector": "TMT"
     },
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-06-01",
@@ -131,16 +155,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-06-04",
@@ -159,49 +173,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T14:27:21Z",
+  "generatedAt": "2026-05-11T17:22:38Z",
   "irCompanies": [
     "Air Lease",
     "HPE",
@@ -214,12 +194,10 @@
   "fallbackCompanies": [
     "Broadcom",
     "Brown-Forman Corp",
-    "CIBC",
     "Campbell Soup Co",
     "Cooper Companies Inc",
     "Crowdstrike",
     "Dollar General",
-    "Dollar Tree",
     "HPE",
     "Lululemon Athletica",
     "Palo Alto"

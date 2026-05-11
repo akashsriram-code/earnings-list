@@ -1,66 +1,6 @@
 {
   "records": [
     {
-      "company": "Constellation Energy",
-      "symbol": "CEG",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Mosaic",
-      "symbol": "MOS",
-      "date": "2026-05-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Ovintiv",
-      "symbol": "OVV",
-      "date": "2026-05-11",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "AES Corp",
-      "symbol": "AES",
-      "date": "2026-05-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-05-13",
@@ -83,26 +23,158 @@
       "sector": "Finance"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
+      "company": "Fox Corp",
+      "symbol": "FOXA",
       "date": "2026-05-11",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Consumer"
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-05-12",
-      "bmo_amc": "10:45 AM EDT",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-11",
+      "bmo_amc": "12:56 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:45 am EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "ir_time_label": "12:56 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-05-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-05-12",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-05-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-05-12",
+      "bmo_amc": "7:00AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00am EDT",
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zebra Technologies",
+      "symbol": "ZBRA",
+      "date": "2026-05-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-05-13",
+      "bmo_amc": "10:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am PDT",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-05-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-05-14",
+      "bmo_amc": "04:30 PM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "04:30 PM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-05-14",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Figma",
+      "symbol": "FIG",
+      "date": "2026-05-14",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Hims and Hers",
@@ -173,158 +245,86 @@
       "sector": "Pharma"
     },
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
+      "company": "Constellation Energy",
+      "symbol": "CEG",
       "date": "2026-05-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
+      "company": "Mosaic",
+      "symbol": "MOS",
       "date": "2026-05-11",
-      "bmo_amc": "10:04 AM ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:04 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
-      "company": "JD.com",
-      "symbol": "JD",
+      "company": "Ovintiv",
+      "symbol": "OVV",
+      "date": "2026-05-11",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
       "date": "2026-05-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     },
     {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-05-12",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-05-12",
-      "bmo_amc": "7:00AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "7:00am EDT",
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zebra Technologies",
-      "symbol": "ZBRA",
-      "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-05-13",
-      "bmo_amc": "7:30 PM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30 PM",
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cisco Systems",
-      "symbol": "CSCO",
+      "company": "AES Corp",
+      "symbol": "AES",
       "date": "2026-05-13",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     },
     {
-      "company": "Equinix",
-      "symbol": "EQIX",
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
       "date": "2026-05-13",
-      "bmo_amc": "10:00 AM PDT",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-05-12",
+      "bmo_amc": "10:45 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am PDT",
-      "ir_source_url": "https://investor.equinix.com/",
+      "ir_time_label": "10:45 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2026-05-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-05-14",
-      "bmo_amc": "04:30 PM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "04:30 PM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Applied Materials",
-      "symbol": "AMAT",
-      "date": "2026-05-14",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Figma",
-      "symbol": "FIG",
-      "date": "2026-05-14",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     }
   ],
   "count": 30,
@@ -333,7 +333,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-11T14:26:39Z",
+  "generatedAt": "2026-05-11T17:22:00Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
