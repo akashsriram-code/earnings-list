@@ -66,6 +66,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-05-21",
+      "bmo_amc": "1:30 PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:30 pm PDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-05-21",
@@ -75,15 +86,6 @@
       "ir_time_label": "10:00 am EDT",
       "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Walmart Inc",
@@ -98,8 +100,9 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-11T22:05:16Z",
+  "generatedAt": "2026-05-12T01:54:27Z",
   "irCompanies": [
+    "Deckers Outdoors",
     "Home Depot Inc",
     "Kimco Realty Corp"
   ],
@@ -107,7 +110,6 @@
     "Coca-Cola Europacific",
     "Hasbro Inc",
     "Lowe\u2019s Cos Inc",
-    "Ross Stores",
     "TJX Cos Inc",
     "Target Corp",
     "VF Corp",

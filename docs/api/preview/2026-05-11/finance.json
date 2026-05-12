@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-05-13",
@@ -43,17 +21,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-11T22:05:08Z",
+  "generatedAt": "2026-05-12T01:54:16Z",
   "irCompanies": [
-    "Huntington Bancshares",
-    "Morgan Stanley",
-    "Truist Financial"
+    "Morgan Stanley"
   ],
   "fallbackCompanies": [
     "Manulife"

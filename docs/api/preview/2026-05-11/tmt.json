@@ -10,23 +10,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-05-11",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -35,7 +24,7 @@
       "date": "2026-05-12",
       "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 am EDT",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
@@ -44,9 +33,9 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -55,7 +44,7 @@
       "date": "2026-05-12",
       "bmo_amc": "7:00AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:00am EDT",
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
@@ -64,9 +53,9 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -98,6 +87,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "10:00 am PDT",
       "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-05-13",
+      "bmo_amc": "10:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM EDT",
+      "ir_source_url": "https://investor.foxcorporation.com/",
       "source": "investor_relations"
     },
     {
@@ -142,13 +142,13 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-11T22:05:07Z",
+  "generatedAt": "2026-05-12T01:54:14Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
     "Equinix",
+    "Fox Corp",
     "Qnity",
-    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [
