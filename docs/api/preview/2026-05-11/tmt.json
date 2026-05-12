@@ -23,8 +23,8 @@
       "symbol": "Q",
       "date": "2026-05-12",
       "bmo_amc": "6:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
       "ir_time_label": "6:00 am EDT",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
@@ -37,6 +37,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-12",
+      "bmo_amc": "12:43 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:43 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Tencent Music",
@@ -139,16 +150,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-12T13:53:07Z",
+  "generatedAt": "2026-05-12T17:07:21Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
     "Equinix",
     "Fox Corp",
     "Qnity",
+    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [

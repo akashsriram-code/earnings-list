@@ -23,6 +23,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-06-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-06-02",
@@ -61,10 +70,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-12T13:53:50Z",
+  "generatedAt": "2026-05-12T17:08:04Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
@@ -73,6 +82,7 @@
   "fallbackCompanies": [
     "Broadcom",
     "Crowdstrike",
+    "HPE",
     "Palo Alto"
   ],
   "week": {
