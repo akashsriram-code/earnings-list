@@ -4,8 +4,8 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-05-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -42,10 +42,10 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-05-12",
-      "bmo_amc": "7:00AM EDT",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "ir_time_label": "7:00am EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
     },
@@ -142,7 +142,7 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-12T08:27:27Z",
+  "generatedAt": "2026-05-12T11:15:05Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
