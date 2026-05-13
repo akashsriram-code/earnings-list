@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-05-27",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -70,14 +81,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-13T11:29:23Z",
+  "generatedAt": "2026-05-13T14:07:00Z",
   "irCompanies": [
+    "Bank of America",
     "JPMorgan",
     "Royal Bank of Canada",
     "Wells Fargo"

@@ -1,14 +1,26 @@
 {
   "records": [
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Constellation Energy",
@@ -44,8 +56,8 @@
       "company": "Venture Global",
       "symbol": "VG",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -93,26 +105,14 @@
       "sector": "Pharma"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-05-14",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fox Corp",
@@ -128,8 +128,18 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-05-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -138,8 +148,8 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -148,8 +158,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -158,8 +168,8 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -170,7 +180,7 @@
       "date": "2026-05-13",
       "bmo_amc": "7:30 PM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "7:30 PM",
       "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
       "source": "investor_relations",
@@ -211,12 +221,36 @@
       "sector": "TMT"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-05-13",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-13",
+      "bmo_amc": "9:44 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:44 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-05-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -253,20 +287,22 @@
       "sector": "TMT"
     }
   ],
-  "count": 24,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-13T11:28:58Z",
+  "generatedAt": "2026-05-13T14:06:34Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
     "Equinix",
     "Fox Corp",
+    "Intuit",
     "Morgan Stanley",
-    "Solventum Corp"
+    "Solventum Corp",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -280,6 +316,7 @@
     "Mosaic",
     "New Fortress Energy",
     "Ovintiv",
+    "Qnity",
     "STERIS plc",
     "Sea Limited",
     "Simon Property Group",

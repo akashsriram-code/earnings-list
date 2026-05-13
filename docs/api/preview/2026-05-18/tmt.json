@@ -55,12 +55,10 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-05-20",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Micron",
@@ -106,12 +104,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "8:30 PM UTC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 PM UTC",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Workday",
@@ -135,20 +131,20 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-13T11:29:09Z",
+  "generatedAt": "2026-05-13T14:06:47Z",
   "irCompanies": [
-    "Intuit",
     "Micron",
     "NYT",
     "Paychex",
     "Qnity",
-    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [
     "Analog Devices",
     "Baidu",
+    "Intuit",
     "NVIDIA",
+    "Take-Two Interactive",
     "Workday",
     "Xpeng",
     "Zoom"

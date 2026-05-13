@@ -13,8 +13,17 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-05-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +31,8 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +40,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +49,8 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-05-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -51,7 +60,7 @@
       "date": "2026-05-13",
       "bmo_amc": "7:30 PM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "7:30 PM",
       "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
       "source": "investor_relations"
@@ -88,12 +97,34 @@
       "source": "investor_relations"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-05-13",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-13",
+      "bmo_amc": "9:44 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:44 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-05-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -126,15 +157,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-13T11:28:58Z",
+  "generatedAt": "2026-05-13T14:06:34Z",
   "irCompanies": [
     "AT&T",
     "Alibaba",
     "Equinix",
-    "Fox Corp"
+    "Fox Corp",
+    "Intuit",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -142,6 +175,7 @@
     "Figma",
     "Fox Corp",
     "JD.com",
+    "Qnity",
     "Sea Limited",
     "Tencent Music",
     "Tower Semiconductor",

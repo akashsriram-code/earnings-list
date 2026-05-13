@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-07-14",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-07-14",
@@ -23,15 +12,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-13T11:30:56Z",
+  "generatedAt": "2026-05-13T14:08:43Z",
   "irCompanies": [
-    "Bank of America",
     "Citigroup"
   ],
   "fallbackCompanies": [],
