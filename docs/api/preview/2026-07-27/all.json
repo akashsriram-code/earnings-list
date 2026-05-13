@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-07-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-07-31",
@@ -13,14 +25,15 @@
       "sector": "Pharma"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-12T22:08:54Z",
+  "generatedAt": "2026-05-13T02:02:09Z",
   "irCompanies": [
+    "Centene Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [],

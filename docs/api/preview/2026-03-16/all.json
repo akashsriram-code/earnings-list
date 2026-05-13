@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-03-16",
@@ -34,9 +14,9 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-03-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -64,9 +44,9 @@
       "company": "Alibaba",
       "symbol": "BABA",
       "date": "2026-03-19",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -119,6 +99,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-03-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-12T22:04:51Z",
+  "generatedAt": "2026-05-13T01:57:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
