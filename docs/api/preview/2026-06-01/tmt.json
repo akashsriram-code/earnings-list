@@ -41,6 +41,15 @@
       "source": "aggregator"
     },
     {
+      "company": "C3.ai",
+      "symbol": "AI",
+      "date": "2026-06-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-06-03",
@@ -61,10 +70,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-13T06:21:57Z",
+  "generatedAt": "2026-05-13T11:29:34Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
@@ -72,6 +81,7 @@
   ],
   "fallbackCompanies": [
     "Broadcom",
+    "C3.ai",
     "Crowdstrike",
     "Palo Alto"
   ],
