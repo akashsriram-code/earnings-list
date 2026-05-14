@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-05-14",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-05-11",
@@ -19,6 +31,50 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-05-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Fox Corp",
@@ -155,38 +211,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
       "date": "2026-05-14",
-      "bmo_amc": "TBD",
+      "bmo_amc": "12:36 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "ir_time_label": "12:36 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-05-14",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
       "company": "Constellation Energy",
@@ -237,30 +271,22 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 24,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-14T13:29:54Z",
+  "generatedAt": "2026-05-14T17:01:12Z",
   "irCompanies": [
     "AT&T",
     "Equinix",
     "Morgan Stanley",
-    "Veralto Corp"
+    "Take-Two Interactive",
+    "Veralto Corp",
+    "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Alibaba",

@@ -120,15 +120,27 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-14",
+      "bmo_amc": "12:36 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:36 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-14T13:29:53Z",
+  "generatedAt": "2026-05-14T17:01:12Z",
   "irCompanies": [
     "AT&T",
-    "Equinix"
+    "Equinix",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Alibaba",
