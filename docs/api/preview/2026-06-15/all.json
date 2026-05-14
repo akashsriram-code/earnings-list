@@ -1,26 +1,24 @@
 {
   "records": [
     {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-06-16",
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-19",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Lennar Corp",
@@ -53,24 +51,26 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-19",
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-06-16",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     }
   ],
   "count": 7,
@@ -79,7 +79,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-14T02:03:38Z",
+  "generatedAt": "2026-05-14T06:20:11Z",
   "irCompanies": [
     "Shopify"
   ],
