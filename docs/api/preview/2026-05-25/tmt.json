@@ -82,12 +82,21 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-05-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-14T06:19:30Z",
+  "generatedAt": "2026-05-14T11:12:53Z",
   "irCompanies": [
     "Marvell"
   ],
@@ -99,6 +108,7 @@
     "SentinelOne",
     "Snowflake",
     "Synopsys",
+    "Xpeng",
     "Zscaler"
   ],
   "week": {
