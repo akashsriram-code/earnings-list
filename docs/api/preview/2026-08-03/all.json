@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "WW Grainger Inc",
-      "symbol": "GWW",
-      "date": "2026-08-04",
-      "bmo_amc": "10:00 A.M. CT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 a.m. CT",
-      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-08-04",
@@ -23,6 +11,18 @@
       "ir_source_url": "https://investors.zebra.com/overview/default.aspx",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "WW Grainger Inc",
+      "symbol": "GWW",
+      "date": "2026-08-04",
+      "bmo_amc": "10:00 A.M. CT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 2,
@@ -31,7 +31,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-16T01:55:30Z",
+  "generatedAt": "2026-05-16T05:51:16Z",
   "irCompanies": [
     "WW Grainger Inc",
     "Zebra Technologies"
