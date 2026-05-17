@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Kenvue",
       "symbol": "KVUE",
       "date": "2026-02-17",
@@ -311,54 +291,134 @@
       "sector": "Resources"
     },
     {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
+      "company": "Cadence",
+      "symbol": "CDNS",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "DoorDash",
-      "symbol": "DASH",
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Analog Devices",
+      "symbol": "ADI",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Molson Coors Beverage Co",
-      "symbol": "TAP",
+      "company": "Figma",
+      "symbol": "FIG",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
+      "company": "Garmin",
+      "symbol": "GRMN",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "eBay",
+      "symbol": "EBAY",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Akamai Technologies",
+      "symbol": "AKAM",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "EPAM",
+      "symbol": "EPAM",
       "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Caesars Entertainment Inc",
@@ -491,114 +551,54 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Cadence",
-      "symbol": "CDNS",
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Palo Alto",
-      "symbol": "PANW",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Analog Devices",
-      "symbol": "ADI",
+      "company": "DoorDash",
+      "symbol": "DASH",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Figma",
-      "symbol": "FIG",
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Garmin",
-      "symbol": "GRMN",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "eBay",
-      "symbol": "EBAY",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Akamai Technologies",
-      "symbol": "AKAM",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "EPAM",
-      "symbol": "EPAM",
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
       "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
+      "company": "Walmart Inc",
+      "symbol": "WMT",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     }
   ],
   "count": 60,
@@ -607,7 +607,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-17T06:13:59Z",
+  "generatedAt": "2026-05-17T10:18:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
