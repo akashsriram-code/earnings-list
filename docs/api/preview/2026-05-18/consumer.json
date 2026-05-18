@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-05-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-05-19",
@@ -108,14 +119,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-18T06:47:47Z",
+  "generatedAt": "2026-05-18T12:24:44Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Home Depot Inc",
     "Kimco Realty Corp",
+    "Lululemon Athletica",
     "Walmart Inc"
   ],
   "fallbackCompanies": [
