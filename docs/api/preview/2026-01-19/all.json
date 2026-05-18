@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2026-01-20",
@@ -89,56 +119,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Fifth Third Bancorp",
@@ -281,6 +261,26 @@
       "sector": "TMT"
     },
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Halliburton",
       "symbol": "HAL",
       "date": "2026-01-21",
@@ -327,7 +327,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-18T19:22:42Z",
+  "generatedAt": "2026-05-18T21:59:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
