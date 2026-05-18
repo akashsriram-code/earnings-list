@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-06-22",
@@ -101,6 +91,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 10,
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-18T17:30:15Z",
+  "generatedAt": "2026-05-18T19:27:24Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
