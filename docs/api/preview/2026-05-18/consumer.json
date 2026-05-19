@@ -13,11 +13,22 @@
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-05-19",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-05-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
       "source": "investor_relations"
     },
     {
@@ -108,14 +119,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-19T11:58:55Z",
+  "generatedAt": "2026-05-19T14:35:35Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Home Depot Inc",
     "Kimco Realty Corp",
+    "Target Corp",
     "Walmart Inc"
   ],
   "fallbackCompanies": [

@@ -54,6 +54,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-05-19",
+      "bmo_amc": "10:12 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:12 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-05-20",
@@ -119,12 +130,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "8:30 PM UTC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 PM UTC",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Workday",
@@ -145,10 +154,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-19T11:58:53Z",
+  "generatedAt": "2026-05-19T14:35:38Z",
   "irCompanies": [
     "AT&T",
     "Intuit",
@@ -164,6 +173,7 @@
     "Analog Devices",
     "Baidu",
     "NVIDIA",
+    "Take-Two Interactive",
     "Workday",
     "Zoom"
   ],
