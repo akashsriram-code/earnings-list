@@ -44,10 +44,12 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-06-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm ET",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     },
     {
       "company": "Brown-Forman Corp",
@@ -71,17 +73,17 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-19T22:10:03Z",
+  "generatedAt": "2026-05-20T02:06:46Z",
   "irCompanies": [
     "Estee Lauder",
-    "Smithfield Foods"
+    "Smithfield Foods",
+    "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Campbell Soup Co",
     "Dollar General",
-    "Lululemon Athletica",
-    "Ulta Beauty"
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2026-06-01",
