@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-06-10",
-      "bmo_amc": "11:15 AM EST",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-06-09",
+      "bmo_amc": "3:00 PM PDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:15 AM EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "ir_time_label": "3:00 pm PDT",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
       "company": "Campbell Soup Co",
@@ -43,6 +43,18 @@
       "ir_source_url": "https://www.nclhltd.com/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-06-10",
+      "bmo_amc": "11:15 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15 AM EST",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "VinFast",
@@ -83,18 +95,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-06-09",
-      "bmo_amc": "3:00 PM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:00 pm PDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 9,
@@ -103,7 +103,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-20T17:55:45Z",
+  "generatedAt": "2026-05-20T20:06:28Z",
   "irCompanies": [
     "Citizens Financial",
     "Fortive Corp",
