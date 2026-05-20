@@ -13,14 +13,38 @@
       "sector": "Finance"
     },
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-06-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Dollar General",
@@ -75,18 +99,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     },
     {
       "company": "HPE",
@@ -175,37 +187,15 @@
       "ir_source_url": "https://investor.lyft.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-20T14:35:39Z",
+  "generatedAt": "2026-05-20T17:55:30Z",
   "irCompanies": [
     "Air Lease",
     "HPE",
@@ -221,7 +211,6 @@
     "Broadcom",
     "Brown-Forman Corp",
     "C3.ai",
-    "Campbell Soup Co",
     "Cooper Companies Inc",
     "Crowdstrike",
     "Dollar General",

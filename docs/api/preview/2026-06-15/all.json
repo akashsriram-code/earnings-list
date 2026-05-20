@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-06-15",
@@ -29,60 +59,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-06-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-20T14:36:06Z",
-  "irCompanies": [
-    "Shopify"
-  ],
+  "generatedAt": "2026-05-20T17:56:01Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
     "Carmax Inc",

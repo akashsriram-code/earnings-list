@@ -61,14 +61,36 @@
       "source": "aggregator"
     },
     {
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-05-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-20",
-      "bmo_amc": "10:08 AM ET",
+      "bmo_amc": "1:32 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:08 AM ET",
+      "ir_time_label": "1:32 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-05-20",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations"
     },
     {
@@ -110,16 +132,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-20T14:35:10Z",
+  "generatedAt": "2026-05-20T17:54:59Z",
   "irCompanies": [
     "Alibaba",
     "Intuit",
     "Micron",
     "Qnity",
-    "Take-Two Interactive"
+    "Shopify",
+    "Take-Two Interactive",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Analog Devices",
