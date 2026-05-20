@@ -53,6 +53,28 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-06-10",
+      "bmo_amc": "11:15 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15 AM EST",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-06-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-06-09",
@@ -73,27 +95,15 @@
       "ir_source_url": "https://www.nclhltd.com/investors",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-06-10",
-      "bmo_amc": "11:15 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:15 AM EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-20T06:43:49Z",
+  "generatedAt": "2026-05-20T11:47:50Z",
   "irCompanies": [
     "Citizens Financial",
     "Fortive Corp",
@@ -101,6 +111,7 @@
   ],
   "fallbackCompanies": [
     "Adobe",
+    "Campbell Soup Co",
     "GameStop",
     "J.M. Smucker Co",
     "Oracle",

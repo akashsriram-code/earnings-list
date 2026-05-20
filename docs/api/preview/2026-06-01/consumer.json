@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-06-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-06-02",
@@ -17,17 +8,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-06-02",
-      "bmo_amc": "09:15 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "09:15 AM ",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations"
     },
     {
       "company": "Smithfield Foods",
@@ -70,18 +50,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-20T06:43:37Z",
+  "generatedAt": "2026-05-20T11:47:37Z",
   "irCompanies": [
-    "Estee Lauder",
     "Smithfield Foods",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
-    "Campbell Soup Co",
     "Dollar General",
     "Lululemon Athletica"
   ],
