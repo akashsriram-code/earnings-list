@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-06-23",
@@ -81,6 +71,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-06-22",
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-20T20:06:57Z",
+  "generatedAt": "2026-05-20T22:25:12Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
