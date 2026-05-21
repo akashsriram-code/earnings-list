@@ -75,28 +75,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-05-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Kimco Realty Corp",
-      "symbol": "KIM",
-      "date": "2026-05-21",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-05-21",
@@ -111,9 +89,9 @@
       "company": "Ralph Lauren Corp",
       "symbol": "RL",
       "date": "2026-05-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -129,22 +107,20 @@
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-05-21",
-      "bmo_amc": "7:00 A.M. US",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "7:00 a.m. US",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
       "ir_source_url": "https://stock.walmart.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 14,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-21T12:05:57Z",
+  "generatedAt": "2026-05-21T15:31:07Z",
   "irCompanies": [
     "Deckers Outdoors",
-    "Home Depot Inc",
-    "Kimco Realty Corp",
     "Lululemon Athletica",
     "Walmart Inc"
   ],
