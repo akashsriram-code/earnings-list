@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-21T19:46:43Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-21T22:14:58Z",
+  "irCompanies": [
+    "Quanta Services Inc"
+  ],
   "fallbackCompanies": [
     "Autozone Inc"
   ],
