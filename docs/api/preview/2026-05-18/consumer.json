@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-05-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-05-19",
@@ -67,8 +58,8 @@
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +67,8 @@
       "company": "Ralph Lauren Corp",
       "symbol": "RL",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +76,8 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,19 +85,31 @@
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-05-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-05-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
     }
   ],
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-22T06:43:02Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-22T11:42:28Z",
+  "irCompanies": [
+    "Lululemon Athletica"
+  ],
   "fallbackCompanies": [
-    "Coca-Cola Europacific",
     "Deckers Outdoors",
     "Hasbro Inc",
     "Home Depot Inc",
