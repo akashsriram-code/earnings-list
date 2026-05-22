@@ -37,48 +37,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-05-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-05-21",
-      "bmo_amc": "1:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:00 pm EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-21",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-05-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Workday",
@@ -99,21 +64,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-21T22:14:45Z",
-  "irCompanies": [
-    "Lam Research",
-    "Qnity",
-    "Take-Two Interactive",
-    "Verizon"
-  ],
+  "generatedAt": "2026-05-22T02:06:59Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Analog Devices",
     "Baidu",
     "Intuit",
     "NVIDIA",
+    "Take-Two Interactive",
     "Workday",
     "Zoom"
   ],
