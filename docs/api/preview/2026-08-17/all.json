@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-08-19",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    }
+  ],
+  "count": 2,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB"
+  ],
+  "tickerCount": 568,
+  "generatedAt": "2026-05-25T07:08:12Z",
+  "irCompanies": [
+    "Estee Lauder",
+    "Home Depot Inc"
+  ],
+  "fallbackCompanies": [],
+  "week": {
+    "id": "2026-08-17",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-21",
+    "label": "Week of Aug 17 to Aug 21"
+  },
+  "sector": "All sectors",
+  "sectorSlug": "all",
+  "downloadPath": "downloads/2026-08-17/earnings_all_2026-08-17.csv"
+}
