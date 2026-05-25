@@ -100,28 +100,78 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Charles Schwab",
+      "symbol": "SCHW",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Regions Financial",
+      "symbol": "RF",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-25T07:07:08Z",
+  "generatedAt": "2026-05-25T12:24:30Z",
   "irCompanies": [
     "Citigroup"
   ],
   "fallbackCompanies": [
+    "American Express",
     "Bank of America",
+    "Charles Schwab",
     "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "M&T Bank Corp",
     "Morgan Stanley",
     "PNC Financial",
     "Progressive Corporation",
+    "Regions Financial",
+    "Truist Financial",
     "US Bancorp"
   ],
   "week": {
