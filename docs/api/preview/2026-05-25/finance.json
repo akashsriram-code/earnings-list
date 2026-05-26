@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-05-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
@@ -70,15 +81,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-26T19:58:08Z",
+  "generatedAt": "2026-05-26T22:20:29Z",
   "irCompanies": [
     "Bank of America",
+    "Huntington Bancshares",
     "Royal Bank of Canada",
     "Wells Fargo"
   ],
