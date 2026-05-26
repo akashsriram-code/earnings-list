@@ -1,13 +1,59 @@
 {
   "records": [
     {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-05-26",
+      "bmo_amc": "7:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-05-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-26",
-      "bmo_amc": "1:30 PM ET",
+      "bmo_amc": "3:31 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:30 PM ET",
+      "ir_time_label": "3:31 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -203,28 +249,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-05-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-05-26",
@@ -309,50 +333,26 @@
       "sector": "Consumer"
     },
     {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
       "date": "2026-05-26",
-      "bmo_amc": "7:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:00 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
       "date": "2026-05-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
+      "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     }
   ],
   "count": 33,
@@ -361,7 +361,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-26T17:56:19Z",
+  "generatedAt": "2026-05-26T19:58:09Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
