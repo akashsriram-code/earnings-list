@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-06-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-06-02",
@@ -35,12 +44,10 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-06-02",
-      "bmo_amc": "4:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm ET",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -72,20 +79,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-27T06:58:43Z",
+  "generatedAt": "2026-05-27T17:55:40Z",
   "irCompanies": [
     "Keurig Dr. Pepper",
     "Smithfield Foods",
-    "Sysco Corp",
-    "Ulta Beauty"
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
+    "Coca-Cola Europacific",
     "Dollar General",
-    "Lululemon Athletica"
+    "Lululemon Athletica",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2026-06-01",

@@ -1,6 +1,86 @@
 {
   "records": [
     {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2026-07-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2026-07-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-07-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "NXP Semiconductors",
       "symbol": "NXPI",
       "date": "2026-07-20",
@@ -31,24 +111,14 @@
       "sector": "TMT"
     },
     {
-      "company": "W. R. Berkley Corp",
-      "symbol": "WRB",
-      "date": "2026-07-20",
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-07-21",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Zions Bancorporation",
-      "symbol": "ZION",
-      "date": "2026-07-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
       "company": "Alexandria Real Estate Equities Inc",
@@ -75,7 +145,7 @@
       "symbol": "DHI",
       "date": "2026-07-21",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
@@ -83,34 +153,41 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-07-20",
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-07-21",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 9,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-27T07:00:11Z",
+  "generatedAt": "2026-05-27T17:57:12Z",
   "irCompanies": [
     "DR Horton Inc"
   ],
   "fallbackCompanies": [
     "Alexandria Real Estate Equities Inc",
+    "BlackRock Inc",
+    "Citigroup",
     "Domino\u2019s Pizza Inc",
+    "J B Hunt Transport Services Inc",
+    "JPMorgan",
     "NXP Semiconductors",
+    "Omnicom",
     "Roper Technologies",
+    "State Street Corp",
     "Steel Dynamics",
     "Verizon",
     "W. R. Berkley Corp",
+    "Wells Fargo",
     "Zions Bancorporation"
   ],
   "week": {
