@@ -1,45 +1,12 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-05-26",
-      "bmo_amc": "7:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:00 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Agilent",
       "symbol": "A",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -52,17 +19,26 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-05-27",
+      "bmo_amc": "10:55 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:55 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 5,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-26T22:20:28Z",
+  "generatedAt": "2026-05-27T02:11:28Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Centene Corp",
-    "IDEXX Laboratories Inc",
-    "Merck"
+    "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Agilent"
