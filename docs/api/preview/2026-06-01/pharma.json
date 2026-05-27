@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-06-03",
+      "bmo_amc": "9:55 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:55 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-06-04",
@@ -21,12 +32,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-05-27T20:02:19Z",
+  "generatedAt": "2026-05-27T22:30:56Z",
   "irCompanies": [
-    "Medtronic PLC"
+    "Medtronic PLC",
+    "Solventum Corp"
   ],
   "fallbackCompanies": [
     "Cooper Companies Inc"

@@ -22,48 +22,59 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-05-27",
-      "bmo_amc": "1:45 PM PDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "1:45 pm PDT",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
       "source": "investor_relations"
     },
     {
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-05-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Snowflake",
       "symbol": "SNOW",
       "date": "2026-05-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Synopsys",
       "symbol": "SNPS",
       "date": "2026-05-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-05-27",
-      "bmo_amc": "3:36 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:36 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -115,12 +126,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-27T20:02:09Z",
+  "generatedAt": "2026-05-27T22:30:44Z",
   "irCompanies": [
     "Marvell",
+    "Micron",
     "SiriusXM",
     "Take-Two Interactive"
   ],

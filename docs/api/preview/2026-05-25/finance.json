@@ -21,6 +21,28 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-05-27",
+      "bmo_amc": "7:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-05-27",
@@ -28,6 +50,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
@@ -70,16 +103,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-27T20:02:08Z",
+  "generatedAt": "2026-05-27T22:30:45Z",
   "irCompanies": [
     "Bank of America",
+    "Huntington Bancshares",
+    "Morgan Stanley",
     "Royal Bank of Canada",
+    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
