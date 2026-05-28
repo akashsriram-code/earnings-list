@@ -4,8 +4,8 @@
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,9 +13,9 @@
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2026-05-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -25,20 +25,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Salesforce",
@@ -68,41 +55,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-05-27",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -120,26 +96,24 @@
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-05-27T22:30:44Z",
+  "generatedAt": "2026-05-28T01:55:19Z",
   "irCompanies": [
-    "Marvell",
-    "Micron",
-    "SiriusXM",
-    "Take-Two Interactive"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "Autodesk",
     "Dell",
     "HP Inc",
+    "Marvell",
     "Salesforce",
     "SentinelOne",
     "Snowflake",

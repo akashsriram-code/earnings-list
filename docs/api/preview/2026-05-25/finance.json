@@ -1,94 +1,39 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-05-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-05-27",
-      "bmo_amc": "7:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations"
     },
     {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-05-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-05-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations"
     },
     {
       "company": "CIBC",
       "symbol": "CM",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Royal Bank of Canada",
       "symbol": "RY",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.rbc.com/investor-relations/",
       "source": "investor_relations"
@@ -97,26 +42,21 @@
       "company": "TD Bank",
       "symbol": "TD",
       "date": "2026-05-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-27T22:30:45Z",
+  "generatedAt": "2026-05-28T01:55:20Z",
   "irCompanies": [
-    "Bank of America",
-    "Huntington Bancshares",
-    "Morgan Stanley",
-    "Royal Bank of Canada",
-    "Truist Financial",
-    "Wells Fargo"
+    "Royal Bank of Canada"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",

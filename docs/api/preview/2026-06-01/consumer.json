@@ -44,10 +44,12 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-06-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm ET",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -82,18 +84,18 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-27T22:30:59Z",
+  "generatedAt": "2026-05-28T01:55:36Z",
   "irCompanies": [
     "Keurig Dr. Pepper",
     "Smithfield Foods",
-    "Sysco Corp"
+    "Sysco Corp",
+    "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Coca-Cola Europacific",
     "Dollar General",
-    "Lululemon Athletica",
-    "Ulta Beauty"
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2026-06-01",
