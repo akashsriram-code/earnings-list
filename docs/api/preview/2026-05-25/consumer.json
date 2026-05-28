@@ -13,10 +13,21 @@
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-05-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2026-05-28",
+      "bmo_amc": "2:30 P.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:30 p.m",
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Costco Wholesale Corp",
@@ -31,26 +42,28 @@
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2026-05-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Hormel Foods",
       "symbol": "HRL",
       "date": "2026-05-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-05-28T12:24:00Z",
-  "irCompanies": [],
+  "generatedAt": "2026-05-28T18:00:10Z",
+  "irCompanies": [
+    "Chipotle Mexican Grill"
+  ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Best Buy Co Inc",

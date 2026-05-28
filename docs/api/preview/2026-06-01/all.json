@@ -1,64 +1,6 @@
 {
   "records": [
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-06-03",
-      "bmo_amc": "8:45 A.M. EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:45 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-06-03",
-      "bmo_amc": "9:55 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:55 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-06-02",
@@ -147,6 +89,40 @@
       "sector": "Consumer"
     },
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-06-03",
+      "bmo_amc": "9:55 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:55 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-01",
@@ -167,18 +143,6 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-06-02",
-      "bmo_amc": "7:00AM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:00am PDT",
-      "ir_source_url": "https://investor.lamresearch.com/",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -257,6 +221,42 @@
       "ir_source_url": "https://investor.lyft.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-06-03",
+      "bmo_amc": "8:45 A.M. EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 a.m. EDT",
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-06-03",
+      "bmo_amc": "1:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 PM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 23,
@@ -265,15 +265,15 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-28T12:24:14Z",
+  "generatedAt": "2026-05-28T18:00:23Z",
   "irCompanies": [
     "Air Lease",
     "Alaska Air",
     "HPE",
+    "Honeywell",
     "Juniper Networks",
     "KLA Corp",
     "Keurig Dr. Pepper",
-    "Lam Research",
     "Lyft",
     "Medtronic PLC",
     "Smithfield Foods",
