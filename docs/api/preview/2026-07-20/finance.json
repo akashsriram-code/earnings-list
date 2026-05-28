@@ -62,20 +62,70 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "CME Group Inc",
+      "symbol": "CME",
+      "date": "2026-07-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Globe Life",
+      "symbol": "GL",
+      "date": "2026-07-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-07-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
+      "date": "2026-07-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Raymond James",
+      "symbol": "RJF",
+      "date": "2026-07-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-28T06:49:30Z",
+  "generatedAt": "2026-05-28T12:25:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "BlackRock Inc",
+    "CME Group Inc",
     "Citigroup",
+    "Globe Life",
     "JPMorgan",
+    "Moody's Corporation",
+    "Northern Trust",
+    "Raymond James",
     "State Street Corp",
     "W. R. Berkley Corp",
     "Wells Fargo",

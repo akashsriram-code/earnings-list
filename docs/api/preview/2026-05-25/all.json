@@ -1,6 +1,118 @@
 {
   "records": [
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-05-28",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.rbc.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-05-28",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-05-26",
@@ -14,8 +126,8 @@
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -24,8 +136,8 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -34,8 +146,8 @@
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -44,8 +156,8 @@
       "company": "Snowflake",
       "symbol": "SNOW",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -54,8 +166,8 @@
       "company": "Synopsys",
       "symbol": "SNPS",
       "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -113,118 +225,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.rbc.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bath & Body Works",
-      "symbol": "BBWI",
-      "date": "2026-05-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-05-28",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
-      "date": "2026-05-28",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2026-05-26",
@@ -241,7 +241,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-28T06:47:44Z",
+  "generatedAt": "2026-05-28T12:24:00Z",
   "irCompanies": [
     "Royal Bank of Canada",
     "SiriusXM"
