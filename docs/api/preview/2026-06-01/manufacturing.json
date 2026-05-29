@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-06-02",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Air Lease",
       "symbol": "AL",
       "date": "2026-06-03",
@@ -34,14 +45,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-05-28T22:30:58Z",
+  "generatedAt": "2026-05-29T02:03:57Z",
   "irCompanies": [
     "Air Lease",
     "Alaska Air",
-    "Honeywell"
+    "Honeywell",
+    "Prologis Inc"
   ],
   "fallbackCompanies": [],
   "week": {

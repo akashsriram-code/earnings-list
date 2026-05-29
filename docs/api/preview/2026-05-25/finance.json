@@ -22,29 +22,27 @@
       "company": "CIBC",
       "symbol": "CM",
       "date": "2026-05-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Royal Bank of Canada",
       "symbol": "RY",
       "date": "2026-05-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.rbc.com/investor-relations/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "TD Bank",
       "symbol": "TD",
       "date": "2026-05-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
@@ -54,13 +52,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-05-28T22:30:47Z",
-  "irCompanies": [
-    "Royal Bank of Canada"
-  ],
+  "generatedAt": "2026-05-29T02:03:45Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",
+    "Royal Bank of Canada",
     "Scotiabank",
     "TD Bank"
   ],
