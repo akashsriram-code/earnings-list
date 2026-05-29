@@ -1,36 +1,68 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
+      "company": "VinFast",
+      "symbol": "VFS",
       "date": "2026-06-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
+      "company": "AT&T",
+      "symbol": "T",
       "date": "2026-06-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-06-11",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "09:00 AM\n                    ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2026-06-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2026-06-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Aon",
@@ -117,68 +149,36 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "VinFast",
-      "symbol": "VFS",
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
       "date": "2026-06-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "AT&T",
-      "symbol": "T",
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
       "date": "2026-06-09",
-      "bmo_amc": "09:00 AM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "GameStop",
-      "symbol": "GME",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Oracle",
-      "symbol": "ORCL",
-      "date": "2026-06-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Adobe",
-      "symbol": "ADBE",
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2026-06-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 16,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-29T20:11:23Z",
+  "generatedAt": "2026-05-29T22:29:01Z",
   "irCompanies": [
     "AT&T",
     "Aon",
