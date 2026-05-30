@@ -1,68 +1,60 @@
 {
   "records": [
     {
-      "company": "VinFast",
-      "symbol": "VFS",
-      "date": "2026-06-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
       "date": "2026-06-09",
-      "bmo_amc": "09:00 AM\n                    ET",
+      "bmo_amc": "3:00 PM PDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "ir_time_label": "3:00 pm PDT",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "GameStop",
-      "symbol": "GME",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-06-09",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-06-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
+      "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Oracle",
-      "symbol": "ORCL",
-      "date": "2026-06-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-06-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Adobe",
-      "symbol": "ADBE",
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-06-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2026-06-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Aon",
@@ -125,60 +117,68 @@
       "sector": "Finance"
     },
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
+      "company": "VinFast",
+      "symbol": "VFS",
       "date": "2026-06-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
+      "company": "AT&T",
+      "symbol": "T",
       "date": "2026-06-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-06-11",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
+      "company": "Shopify",
+      "symbol": "SHOP",
       "date": "2026-06-09",
-      "bmo_amc": "3:00 PM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:00 pm PDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
+      "ir_source_url": "https://www.shopify.com/investors",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2026-06-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2026-06-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 16,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-05-30T01:59:03Z",
+  "generatedAt": "2026-05-30T06:19:08Z",
   "irCompanies": [
     "AT&T",
     "Aon",
