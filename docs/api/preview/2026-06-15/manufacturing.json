@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-06-16",
@@ -32,24 +23,23 @@
     {
       "company": "Carmax Inc",
       "symbol": "KMX",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "date": "2026-06-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-01T08:26:55Z",
+  "generatedAt": "2026-06-01T14:52:23Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
     "Carmax Inc",
-    "Jabil Inc",
-    "Lennar Corp"
+    "Jabil Inc"
   ],
   "week": {
     "id": "2026-06-15",

@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-06-25",
@@ -28,13 +37,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-01T08:27:08Z",
+  "generatedAt": "2026-06-01T14:52:35Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carnival Corp",
+    "Darden Restaurants",
     "General Mills",
     "McCormick & Co"
   ],

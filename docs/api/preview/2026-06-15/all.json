@@ -11,16 +11,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-06-18",
@@ -29,16 +19,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     },
     {
       "company": "Jabil Inc",
@@ -65,31 +45,29 @@
     {
       "company": "Carmax Inc",
       "symbol": "KMX",
-      "date": "2026-06-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "date": "2026-06-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-01T08:26:56Z",
+  "generatedAt": "2026-06-01T14:52:24Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
     "Accenture",
     "Carmax Inc",
-    "Darden Restaurants",
     "Jabil Inc",
-    "Kroger Co",
-    "Lennar Corp"
+    "Kroger Co"
   ],
   "week": {
     "id": "2026-06-15",
