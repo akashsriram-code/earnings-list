@@ -16,9 +16,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Paychex",
@@ -33,12 +31,11 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-01T19:56:46Z",
-  "irCompanies": [
-    "Micron"
-  ],
+  "generatedAt": "2026-06-01T23:02:39Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "BlackBerry",
+    "Micron",
     "Paychex"
   ],
   "week": {
