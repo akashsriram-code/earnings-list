@@ -21,56 +21,23 @@
       "source": "investor_relations"
     },
     {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-06-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-06-02",
-      "bmo_amc": "3:50 PM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:50 pm PDT",
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-06-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-06-02",
-      "bmo_amc": "2:07 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:07 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-06-02",
-      "bmo_amc": "1:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:30 pm EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
       "source": "investor_relations"
     },
     {
@@ -134,18 +101,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 13,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-02T18:35:39Z",
+  "generatedAt": "2026-06-02T23:01:55Z",
   "irCompanies": [
     "HPE",
-    "Juniper Networks",
     "KLA Corp",
     "Lyft",
-    "Marvell",
     "Take-Two Interactive",
-    "Teradyne",
     "Verizon"
   ],
   "fallbackCompanies": [
