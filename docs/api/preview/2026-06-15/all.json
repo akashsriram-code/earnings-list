@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-06-18",
@@ -33,28 +43,29 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-06-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-02T02:22:25Z",
+  "generatedAt": "2026-06-02T07:21:26Z",
   "irCompanies": [
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
     "Accenture",
+    "Carmax Inc",
     "Jabil Inc",
     "Kroger Co"
   ],
