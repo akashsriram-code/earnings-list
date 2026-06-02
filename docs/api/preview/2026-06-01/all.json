@@ -1,6 +1,40 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-06-03",
+      "bmo_amc": "9:55 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:55 am EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-06-02",
@@ -33,6 +67,18 @@
       "yahoo_time_label": null,
       "ir_time_label": "8:45 a.m. EDT",
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-06-03",
+      "bmo_amc": "1:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 PM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
     },
@@ -137,40 +183,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-06-03",
-      "bmo_amc": "9:55 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:55 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-01",
@@ -239,6 +251,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-06-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2026-06-03",
@@ -293,17 +317,18 @@
       "sector": "TMT"
     }
   ],
-  "count": 26,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-02T07:20:57Z",
+  "generatedAt": "2026-06-02T12:39:00Z",
   "irCompanies": [
     "Air Lease",
     "Alaska Air",
     "HPE",
+    "Honeywell",
     "Juniper Networks",
     "KLA Corp",
     "Keurig Dr. Pepper",
@@ -316,7 +341,8 @@
     "Solventum Corp",
     "Sysco Corp",
     "Teradyne",
-    "Ulta Beauty"
+    "Ulta Beauty",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Broadcom",

@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-07-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-07-14",
@@ -12,20 +21,20 @@
       "source": "investor_relations"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Goldman Sachs",
+      "symbol": "GS",
+      "date": "2026-07-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Goldman Sachs",
-      "symbol": "GS",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-07-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -42,8 +51,8 @@
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -51,8 +60,8 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -132,8 +141,8 @@
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-07-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -147,13 +156,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-02T07:22:19Z",
+  "generatedAt": "2026-06-02T12:40:16Z",
   "irCompanies": [
     "Citigroup"
   ],
@@ -172,7 +181,8 @@
     "Progressive Corporation",
     "Regions Financial",
     "Truist Financial",
-    "US Bancorp"
+    "US Bancorp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2026-07-13",
