@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-07-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-07-21",
@@ -136,6 +127,15 @@
       "source": "aggregator"
     },
     {
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-07-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Aon",
       "symbol": "AON",
       "date": "2026-07-24",
@@ -151,15 +151,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-03T07:36:34Z",
+  "generatedAt": "2026-06-03T13:11:51Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "American Express",
     "Ameriprise Financial Inc",
     "Aon",
     "BlackRock Inc",
     "Blackstone",
     "CME Group Inc",
-    "Citigroup",
     "Globe Life",
     "JPMorgan",
     "Lazard",

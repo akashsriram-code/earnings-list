@@ -21,6 +21,51 @@
       "source": "investor_relations"
     },
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "IQVIA Holdings Inc",
+      "symbol": "IQV",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Quest Diagnostics Inc",
+      "symbol": "DGX",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tenet Healthcare",
+      "symbol": "THC",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-07-29",
@@ -43,17 +88,22 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-03T07:36:46Z",
+  "generatedAt": "2026-06-03T13:12:08Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
-    "Revvity"
+    "Danaher Corp",
+    "IQVIA Holdings Inc",
+    "Intuitive Surgical Inc",
+    "Quest Diagnostics Inc",
+    "Revvity",
+    "Tenet Healthcare"
   ],
   "week": {
     "id": "2026-07-27",
