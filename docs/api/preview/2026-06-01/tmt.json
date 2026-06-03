@@ -31,28 +31,39 @@
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2026-06-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2026-06-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-06-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-06-03",
+      "bmo_amc": "4:01 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:01 PM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "KLA Corp",
@@ -80,19 +91,20 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-06-03",
-      "bmo_amc": "2:21 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:21 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-03T18:45:35Z",
+  "generatedAt": "2026-06-03T23:02:38Z",
   "irCompanies": [
+    "Intuit",
     "KLA Corp",
     "Lyft",
     "Take-Two Interactive"

@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-06-03",
@@ -32,11 +43,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-03T18:45:35Z",
+  "generatedAt": "2026-06-03T23:02:38Z",
   "irCompanies": [
+    "Insulet",
     "Medtronic PLC",
     "Solventum Corp"
   ],
