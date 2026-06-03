@@ -10,11 +10,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Carrier Global Corp",
-      "symbol": "CARR",
+      "company": "Ford Motor Co",
+      "symbol": "F",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,18 +154,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-03T13:06:35Z",
+  "generatedAt": "2026-06-03T18:41:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Carrier Global Corp",
     "Expedia Group Inc",
+    "Ford Motor Co",
     "Frontier Holdings",
     "Generac Holdings Inc",
+    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",

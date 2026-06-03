@@ -1,64 +1,38 @@
 {
   "records": [
     {
-      "company": "Aon",
-      "symbol": "AON",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
       "date": "2026-06-09",
-      "bmo_amc": "9:00AM EDT",
+      "bmo_amc": "3:00 PM PDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am EDT",
-      "ir_source_url": "https://ir.aon.com/",
+      "ir_time_label": "3:00 pm PDT",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-06-09",
-      "bmo_amc": "10:30 AM ET",
-      "nasdaq_time_label": null,
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-06-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 am ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-06-09",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-06-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-06-09",
-      "bmo_amc": "9:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
       "company": "VinFast",
@@ -157,38 +131,64 @@
       "sector": "Consumer"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
+      "company": "Aon",
+      "symbol": "AON",
       "date": "2026-06-09",
-      "bmo_amc": "3:00 PM PDT",
+      "bmo_amc": "9:00AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:00 pm PDT",
-      "ir_source_url": "https://investors.fortive.com/",
+      "ir_time_label": "9:00am EDT",
+      "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-06-09",
+      "bmo_amc": "10:30 AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "10:30 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-12",
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-06-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
+      "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-06-09",
+      "bmo_amc": "9:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
   "count": 17,
@@ -197,7 +197,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-03T13:10:27Z",
+  "generatedAt": "2026-06-03T18:45:49Z",
   "irCompanies": [
     "AT&T",
     "Aon",
