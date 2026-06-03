@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Chipotle Mexican Grill",
-      "symbol": "CMG",
-      "date": "2026-06-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-06-02",
@@ -30,26 +19,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-06-02",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-06-02",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -60,6 +36,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "5:15am EDT",
       "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-06-03",
+      "bmo_amc": "2:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 pm EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations"
     },
     {
@@ -79,23 +66,34 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-06-04",
+      "bmo_amc": "12:20 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:20 pm EDT",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     }
   ],
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-02T23:01:54Z",
+  "generatedAt": "2026-06-03T02:39:26Z",
   "irCompanies": [
-    "Chipotle Mexican Grill",
     "Keurig Dr. Pepper",
-    "Smithfield Foods",
+    "Kimco Realty Corp",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Coca-Cola Europacific",
     "Dollar General",
-    "Lululemon Athletica"
+    "Lululemon Athletica",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2026-06-01",
