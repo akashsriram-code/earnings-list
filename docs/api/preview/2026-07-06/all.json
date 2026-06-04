@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-07-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-07-09",
@@ -19,6 +9,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 2,
@@ -27,7 +27,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-04T11:50:25Z",
+  "generatedAt": "2026-06-04T14:36:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Conagra Brands",
