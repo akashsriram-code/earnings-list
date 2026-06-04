@@ -19,28 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-06-03",
-      "bmo_amc": "5:15AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:15am EDT",
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Kimco Realty Corp",
-      "symbol": "KIM",
-      "date": "2026-06-03",
-      "bmo_amc": "2:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm EDT",
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-06-04",
@@ -53,9 +31,9 @@
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -70,13 +48,11 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-03T23:02:37Z",
+  "generatedAt": "2026-06-04T02:36:16Z",
   "irCompanies": [
-    "Keurig Dr. Pepper",
-    "Kimco Realty Corp",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [

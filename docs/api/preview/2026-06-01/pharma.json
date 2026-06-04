@@ -1,59 +1,32 @@
 {
   "records": [
     {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-06-03",
-      "bmo_amc": "5:45 AM CT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-06-03",
-      "bmo_amc": "9:55 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:55 am EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-06-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-03T23:02:38Z",
-  "irCompanies": [
-    "Insulet",
-    "Medtronic PLC",
-    "Solventum Corp"
-  ],
+  "generatedAt": "2026-06-04T02:36:15Z",
+  "irCompanies": [],
   "fallbackCompanies": [
-    "Cooper Companies Inc"
+    "Cooper Companies Inc",
+    "Medtronic PLC"
   ],
   "week": {
     "id": "2026-06-01",
