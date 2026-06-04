@@ -28,6 +28,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-06-09",
+      "bmo_amc": "10:00 AM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am CDT",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
+    },
+    {
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-06-11",
@@ -39,12 +50,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-04T14:35:17Z",
+  "generatedAt": "2026-06-04T17:43:24Z",
   "irCompanies": [
-    "Norwegian Cruise Line"
+    "Norwegian Cruise Line",
+    "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Campbell Soup Co",
