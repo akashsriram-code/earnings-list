@@ -4,8 +4,8 @@
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-06-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -17,13 +17,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-04T07:19:45Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-04T11:49:13Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Cooper Companies Inc",
     "Medtronic PLC"

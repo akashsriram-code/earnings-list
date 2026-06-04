@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2026-07-16",
@@ -145,13 +154,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-04T07:21:04Z",
+  "generatedAt": "2026-06-04T11:50:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
@@ -167,6 +176,7 @@
     "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
+    "State Street Corp",
     "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
