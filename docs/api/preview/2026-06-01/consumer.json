@@ -34,33 +34,18 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.lululemon.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://stock.walmart.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-04T22:21:14Z",
-  "irCompanies": [
-    "Lululemon Athletica",
-    "Walmart Inc"
-  ],
+  "generatedAt": "2026-06-05T02:10:30Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Dollar General",
+    "Lululemon Athletica",
     "Ulta Beauty"
   ],
   "week": {
