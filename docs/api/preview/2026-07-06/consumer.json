@@ -8,15 +8,25 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-07-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-05T07:02:55Z",
+  "generatedAt": "2026-06-05T12:01:47Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Conagra Brands"
+    "Conagra Brands",
+    "PepsiCo Inc"
   ],
   "week": {
     "id": "2026-07-06",
