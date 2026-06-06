@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-06-24",
@@ -73,6 +63,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -81,7 +81,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-06T16:06:42Z",
+  "generatedAt": "2026-06-06T19:08:20Z",
   "irCompanies": [
     "BlackBerry",
     "Micron"
