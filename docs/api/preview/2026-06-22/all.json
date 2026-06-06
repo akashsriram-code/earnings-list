@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-06-23",
@@ -73,6 +43,36 @@
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 7,
@@ -81,7 +81,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-06T13:09:16Z",
+  "generatedAt": "2026-06-06T16:06:42Z",
   "irCompanies": [
     "BlackBerry",
     "Micron"
