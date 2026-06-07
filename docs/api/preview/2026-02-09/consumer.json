@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Masco Corp",
       "symbol": "MAS",
       "date": "2026-02-10",
@@ -67,8 +76,8 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +85,8 @@
       "company": "Instacart",
       "symbol": "CART",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,17 +94,8 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -103,12 +103,12 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-06T21:56:27Z",
+  "generatedAt": "2026-06-07T02:13:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Coca-Cola Co",
-    "Coca-Cola Europacific",
     "Federal Realty Investment Trust",
+    "Hasbro Inc",
     "Instacart",
     "International Flavours & Fragrances",
     "Kimco Realty Corp",
