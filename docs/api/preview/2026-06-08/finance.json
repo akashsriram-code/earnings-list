@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-06-08",
+      "bmo_amc": "7:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-06-08",
@@ -78,17 +89,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-08T20:04:09Z",
+  "generatedAt": "2026-06-08T22:23:55Z",
   "irCompanies": [
     "Aon",
     "Bank of America",
     "Citigroup",
+    "Huntington Bancshares",
     "JPMorgan",
     "PNC Financial",
     "Truist Financial",
