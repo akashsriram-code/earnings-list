@@ -69,7 +69,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     }
   ],
@@ -79,12 +81,12 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-08T13:01:37Z",
+  "generatedAt": "2026-06-08T17:48:13Z",
   "irCompanies": [
+    "BlackBerry",
     "Micron"
   ],
   "fallbackCompanies": [
-    "BlackBerry",
     "Carnival Corp",
     "Darden Restaurants",
     "FedEx",
