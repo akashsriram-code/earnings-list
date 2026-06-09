@@ -34,6 +34,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-06-09",
@@ -43,17 +54,6 @@
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-06-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations"
     }
   ],
   "count": 5,
@@ -62,13 +62,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T19:59:03Z",
+  "generatedAt": "2026-06-09T22:23:06Z",
   "irCompanies": [
     "Aon",
     "Bank of America",
     "Citigroup",
-    "Truist Financial",
-    "Wells Fargo"
+    "Huntington Bancshares",
+    "Truist Financial"
   ],
   "fallbackCompanies": [],
   "week": {

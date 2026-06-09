@@ -4,11 +4,22 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-06-09",
-      "bmo_amc": "3:00 PM PDT",
+      "bmo_amc": "4:00PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:00 pm PDT",
+      "ir_time_label": "4:00pm EDT",
       "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-06-11",
+      "bmo_amc": "1:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 PM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations"
     },
     {
@@ -32,12 +43,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-09T19:59:04Z",
+  "generatedAt": "2026-06-09T22:23:05Z",
   "irCompanies": [
     "Fortive Corp",
+    "Honeywell",
     "Lennar Corp"
   ],
   "fallbackCompanies": [

@@ -45,7 +45,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "M&T Bank Corp",
@@ -164,10 +166,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T20:00:00Z",
+  "generatedAt": "2026-06-09T22:24:06Z",
   "irCompanies": [
     "JPMorgan",
-    "PNC Financial"
+    "PNC Financial",
+    "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Bank of America",
@@ -183,8 +186,7 @@
     "Regions Financial",
     "State Street Corp",
     "Truist Financial",
-    "US Bancorp",
-    "Wells Fargo"
+    "US Bancorp"
   ],
   "week": {
     "id": "2026-07-13",
