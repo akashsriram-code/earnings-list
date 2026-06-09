@@ -31,10 +31,12 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
@@ -160,8 +162,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T14:22:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-09T17:22:15Z",
+  "irCompanies": [
+    "JPMorgan"
+  ],
   "fallbackCompanies": [
     "Bank of America",
     "Charles Schwab",
@@ -170,7 +174,6 @@
     "Fifth Third Bancorp",
     "Goldman Sachs",
     "Interactive Brokers",
-    "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
     "PNC Financial",
