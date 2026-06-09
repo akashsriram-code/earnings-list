@@ -13,8 +13,8 @@
       "company": "Zions Bancorporation",
       "symbol": "ZION",
       "date": "2026-07-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -96,6 +96,15 @@
       "date": "2026-07-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-07-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -136,13 +145,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T06:45:06Z",
+  "generatedAt": "2026-06-09T11:59:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
@@ -152,6 +161,7 @@
     "Blackstone",
     "CME Group Inc",
     "Globe Life",
+    "Huntington Bancshares",
     "KeyCorp",
     "Lazard",
     "Moody's Corporation",
