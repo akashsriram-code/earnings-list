@@ -56,6 +56,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-06-09",
@@ -67,19 +78,20 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T11:57:55Z",
+  "generatedAt": "2026-06-09T14:21:56Z",
   "irCompanies": [
     "Aon",
     "Bank of America",
     "Citigroup",
     "JPMorgan",
     "PNC Financial",
+    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [],
