@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-07-16",
@@ -10,13 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-10T17:55:36Z",
+  "generatedAt": "2026-06-10T20:12:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Cintas Corp"
+    "Cintas Corp",
+    "Conagra Brands"
   ],
   "week": {
     "id": "2026-07-13",
