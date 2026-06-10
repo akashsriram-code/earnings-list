@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-06-16",
@@ -43,6 +33,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-16",
@@ -67,6 +67,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-06-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-06-18",
@@ -77,17 +89,18 @@
       "sector": "TMT"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-09T22:23:18Z",
+  "generatedAt": "2026-06-10T02:10:30Z",
   "irCompanies": [
     "HPE",
     "Juniper Networks",
-    "Quanta Services Inc"
+    "Quanta Services Inc",
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Accenture",

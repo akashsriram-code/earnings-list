@@ -4,10 +4,12 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:30 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Citigroup",
@@ -16,7 +18,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Goldman Sachs",
@@ -166,16 +170,16 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-09T22:24:06Z",
+  "generatedAt": "2026-06-10T02:11:18Z",
   "irCompanies": [
+    "Bank of America",
+    "Citigroup",
     "JPMorgan",
     "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
-    "Bank of America",
     "Charles Schwab",
-    "Citigroup",
     "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",

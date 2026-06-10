@@ -40,10 +40,12 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-07-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
     },
     {
       "company": "Alphabet Inc",
@@ -179,13 +181,13 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-09T22:24:19Z",
+  "generatedAt": "2026-06-10T02:11:29Z",
   "irCompanies": [
+    "AT&T",
     "IBM",
     "Verizon"
   ],
   "fallbackCompanies": [
-    "AT&T",
     "Alphabet Inc",
     "Amphenol",
     "Charter Communications",
