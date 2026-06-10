@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "MSCI Inc",
+      "symbol": "MSCI",
+      "date": "2026-07-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-07-22",
@@ -145,13 +154,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-10T07:02:07Z",
+  "generatedAt": "2026-06-10T12:19:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
@@ -164,6 +173,7 @@
     "Huntington Bancshares",
     "KeyCorp",
     "Lazard",
+    "MSCI Inc",
     "Moody's Corporation",
     "Nasdaq",
     "Northern Trust",
