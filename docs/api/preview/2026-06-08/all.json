@@ -21,34 +21,40 @@
       "sector": "Consumer"
     },
     {
-      "company": "VinFast",
-      "symbol": "VFS",
-      "date": "2026-06-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Oracle",
-      "symbol": "ORCL",
-      "date": "2026-06-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Adobe",
-      "symbol": "ADBE",
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2026-06-11",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "TMT"
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-06-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-06-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Honeywell",
@@ -83,18 +89,51 @@
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-06-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2026-06-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2026-06-11",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 8,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-11T07:27:30Z",
+  "generatedAt": "2026-06-11T12:41:25Z",
   "irCompanies": [
     "Honeywell",
-    "Lennar Corp"
+    "Lennar Corp",
+    "Merck",
+    "Norwegian Cruise Line",
+    "Target Corp"
   ],
   "fallbackCompanies": [
     "Adobe",

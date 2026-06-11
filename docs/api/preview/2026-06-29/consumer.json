@@ -4,10 +4,12 @@
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-06-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Nike Inc",
@@ -31,10 +33,11 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-11T07:28:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-11T12:41:57Z",
+  "irCompanies": [
+    "Constellation Brands"
+  ],
   "fallbackCompanies": [
-    "Constellation Brands",
     "General Mills",
     "Nike Inc"
   ],

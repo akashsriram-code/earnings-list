@@ -17,13 +17,38 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-06-11",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-06-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-11T07:27:29Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-11T12:41:24Z",
+  "irCompanies": [
+    "Norwegian Cruise Line",
+    "Target Corp"
+  ],
   "fallbackCompanies": [
     "Campbell Soup Co",
     "J.M. Smucker Co"
