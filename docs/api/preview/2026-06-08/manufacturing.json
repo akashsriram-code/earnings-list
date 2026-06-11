@@ -15,34 +15,23 @@
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-06-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-12",
-      "bmo_amc": "11:00 AM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:00 AM ET",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-11T20:23:45Z",
+  "generatedAt": "2026-06-11T22:51:44Z",
   "irCompanies": [
     "Honeywell",
     "Lennar Corp"
   ],
-  "fallbackCompanies": [
-    "Lennar Corp"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-06-08",
     "start_date": "2026-06-08",

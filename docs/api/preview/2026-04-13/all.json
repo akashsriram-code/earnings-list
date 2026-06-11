@@ -1,14 +1,24 @@
 {
   "records": [
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Fastenal Co",
@@ -51,24 +61,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Netflix",
+      "symbol": "NFLX",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
     },
     {
       "company": "Goldman Sachs",
@@ -251,14 +251,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
       "date": "2026-04-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     }
   ],
   "count": 26,
@@ -267,7 +267,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-11T20:22:17Z",
+  "generatedAt": "2026-06-11T22:50:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
