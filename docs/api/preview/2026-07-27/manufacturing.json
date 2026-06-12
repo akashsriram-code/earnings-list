@@ -64,6 +64,17 @@
       "source": "aggregator"
     },
     {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-07-28",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "American Water Works",
       "symbol": "AWK",
       "date": "2026-07-29",
@@ -307,11 +318,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-12T19:56:44Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-12T22:24:14Z",
+  "irCompanies": [
+    "UPS"
+  ],
   "fallbackCompanies": [
     "AMETEK Inc",
     "American Water Works",
