@@ -17,13 +17,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-06-12",
+      "bmo_amc": "12:01 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:01 PM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-12T12:15:42Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-12T17:35:29Z",
+  "irCompanies": [
+    "Norwegian Cruise Line"
+  ],
   "fallbackCompanies": [
     "Campbell Soup Co",
     "J.M. Smucker Co"
