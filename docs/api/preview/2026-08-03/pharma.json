@@ -79,7 +79,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -166,8 +168,10 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-11T22:53:22Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-12T02:18:35Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -179,7 +183,6 @@
     "Hims and Hers",
     "IDEXX Laboratories Inc",
     "Mckesson Corp",
-    "Merck",
     "Novavax",
     "Pfizer Inc",
     "STERIS plc",

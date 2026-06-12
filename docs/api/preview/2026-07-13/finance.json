@@ -4,10 +4,12 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:30 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Citigroup",
@@ -168,15 +170,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-11T22:52:45Z",
+  "generatedAt": "2026-06-12T02:18:00Z",
   "irCompanies": [
+    "Bank of America",
     "Citigroup",
     "JPMorgan",
     "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
-    "Bank of America",
     "Charles Schwab",
     "Citizens Financial",
     "Fifth Third Bancorp",
