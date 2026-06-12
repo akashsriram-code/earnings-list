@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-07-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Freeport McMoRan",
       "symbol": "FCX",
       "date": "2026-07-22",
@@ -100,16 +109,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-06-12T07:17:11Z",
+  "generatedAt": "2026-06-12T12:16:46Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CenterPoint Energy",
     "Dow",
     "Freeport McMoRan",
     "GE Vernova",
+    "Halliburton",
     "Newmont Corp",
     "NextEra Energy",
     "Ovintiv",
