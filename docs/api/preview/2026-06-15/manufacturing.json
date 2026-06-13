@@ -28,13 +28,25 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-06-18",
+      "bmo_amc": "8:50 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-13T06:50:21Z",
+  "generatedAt": "2026-06-13T11:13:05Z",
   "irCompanies": [
+    "Magna International",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
