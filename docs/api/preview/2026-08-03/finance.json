@@ -107,27 +107,57 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "symbol": "CBOE",
+      "date": "2026-08-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2026-08-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "T. Rowe Price Group",
+      "symbol": "TROW",
+      "date": "2026-08-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-15T08:52:54Z",
+  "generatedAt": "2026-06-15T15:00:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
     "Arch Capital Group",
     "Assurant Inc",
     "Carlyle",
+    "Cboe Global Markets",
     "Fidelity National Information Services",
+    "Franklin Templeton",
     "Global Payments",
     "Manulife",
     "MetLife",
     "PayPal Holdings",
     "Sun Life",
+    "T. Rowe Price Group",
     "TPG",
     "Visa"
   ],
