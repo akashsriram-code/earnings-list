@@ -1,30 +1,6 @@
 {
   "records": [
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-06-15",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-06-15",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-16",
@@ -71,6 +47,26 @@
       "sector": "TMT"
     },
     {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-06-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-06-16",
@@ -113,56 +109,21 @@
       "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-06-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-06-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 13,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-15T22:59:04Z",
+  "generatedAt": "2026-06-16T02:40:07Z",
   "irCompanies": [
-    "Fox Corp",
     "HPE",
     "Juniper Networks",
     "Magna International",
     "Quanta Services Inc",
-    "Shopify",
-    "Take-Two Interactive",
-    "Truist Financial"
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Accenture",
