@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Celanese",
+      "symbol": "CE",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-08-13",
@@ -13,17 +33,20 @@
       "sector": "Pharma"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-16T08:44:04Z",
+  "generatedAt": "2026-06-16T13:28:25Z",
   "irCompanies": [
     "IDEXX Laboratories Inc"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Celanese",
+    "Venture Global"
+  ],
   "week": {
     "id": "2026-08-10",
     "start_date": "2026-08-10",
