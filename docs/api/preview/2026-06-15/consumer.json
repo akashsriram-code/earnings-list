@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-06-17",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-06-17",
@@ -21,11 +32,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-17T20:01:51Z",
+  "generatedAt": "2026-06-17T22:33:52Z",
   "irCompanies": [
+    "Kimco Realty Corp",
     "Norwegian Cruise Line"
   ],
   "fallbackCompanies": [

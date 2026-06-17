@@ -1,6 +1,40 @@
 {
   "records": [
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-06-17",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-06-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-06-17",
@@ -45,16 +79,16 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-06-18",
-      "bmo_amc": "8:50 AM ET",
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-06-17",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:50 am ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
       "company": "Norwegian Cruise Line",
@@ -77,40 +111,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-06-17",
-      "bmo_amc": "3:38 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:38 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-06-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     }
   ],
   "count": 10,
@@ -119,9 +119,9 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-17T20:01:51Z",
+  "generatedAt": "2026-06-17T22:33:52Z",
   "irCompanies": [
-    "Magna International",
+    "Kimco Realty Corp",
     "Norwegian Cruise Line",
     "Quanta Services Inc",
     "Southwest Airlines Co",
