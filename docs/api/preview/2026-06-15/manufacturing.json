@@ -4,18 +4,18 @@
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-06-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-06-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -28,14 +28,38 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-06-17",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-06-18",
+      "bmo_amc": "8:50 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-17T12:50:13Z",
+  "generatedAt": "2026-06-17T17:48:39Z",
   "irCompanies": [
-    "Quanta Services Inc"
+    "Magna International",
+    "Quanta Services Inc",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "Carmax Inc",
