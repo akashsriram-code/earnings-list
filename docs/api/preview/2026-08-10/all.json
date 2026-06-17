@@ -21,6 +21,26 @@
       "sector": "Resources"
     },
     {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-08-13",
@@ -31,20 +51,66 @@
       "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 3,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-17T08:27:05Z",
+  "generatedAt": "2026-06-17T12:51:56Z",
   "irCompanies": [
     "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
+    "Cardinal Health Inc",
     "Celanese",
+    "CoreWeave",
+    "Qnity",
+    "Sea Limited",
+    "Smithfield Foods",
+    "Tencent Music",
     "Venture Global"
   ],
   "week": {

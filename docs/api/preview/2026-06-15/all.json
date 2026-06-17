@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-06-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-06-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-06-17",
@@ -63,33 +33,52 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Magna International",
-      "symbol": "MGA",
+      "company": "Kroger Co",
+      "symbol": "KR",
       "date": "2026-06-18",
-      "bmo_amc": "8:50 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-06-17",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:50 am ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-06-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-17T08:25:33Z",
+  "generatedAt": "2026-06-17T12:50:14Z",
   "irCompanies": [
-    "Magna International",
-    "Quanta Services Inc"
+    "Quanta Services Inc",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Accenture",
     "Carmax Inc",
-    "Coca-Cola Europacific",
     "Jabil Inc",
     "Kroger Co"
   ],

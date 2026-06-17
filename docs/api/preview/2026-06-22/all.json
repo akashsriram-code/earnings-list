@@ -13,6 +13,46 @@
       "sector": "Finance"
     },
     {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-06-23",
@@ -57,45 +97,15 @@
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-06-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-17T08:25:44Z",
+  "generatedAt": "2026-06-17T12:50:26Z",
   "irCompanies": [
     "BlackBerry",
     "Micron",
@@ -104,6 +114,7 @@
   ],
   "fallbackCompanies": [
     "Carnival Corp",
+    "Coca-Cola Europacific",
     "Darden Restaurants",
     "FedEx",
     "McCormick & Co"
