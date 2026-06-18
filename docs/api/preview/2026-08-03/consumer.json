@@ -37,6 +37,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
+      "date": "2026-08-04",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Molson Coors Beverage Co",
       "symbol": "TAP",
       "date": "2026-08-04",
@@ -181,11 +192,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-17T22:35:09Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-18T02:23:22Z",
+  "irCompanies": [
+    "Kimco Realty Corp"
+  ],
   "fallbackCompanies": [
     "Ball Corp",
     "Church & Dwight",
