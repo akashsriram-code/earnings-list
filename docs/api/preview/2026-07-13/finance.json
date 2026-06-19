@@ -161,7 +161,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 17,
@@ -170,12 +172,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-18T22:57:00Z",
+  "generatedAt": "2026-06-19T02:51:17Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "JPMorgan",
     "PNC Financial",
+    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -189,7 +192,6 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
-    "Truist Financial",
     "US Bancorp"
   ],
   "week": {
