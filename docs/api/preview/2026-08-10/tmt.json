@@ -44,16 +44,36 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-19T17:16:42Z",
+  "generatedAt": "2026-06-19T19:29:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
+    "JD.com",
     "Qnity",
     "Sea Limited",
     "Tencent Music"
