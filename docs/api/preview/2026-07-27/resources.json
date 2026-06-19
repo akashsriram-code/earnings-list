@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ecolab",
+      "symbol": "ECL",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Enphase Energy",
       "symbol": "ENPH",
       "date": "2026-07-28",
@@ -271,10 +280,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-06-19T08:30:37Z",
+  "generatedAt": "2026-06-19T12:46:33Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -289,6 +298,7 @@
     "Corteva",
     "EQT Corp",
     "Eastman Chemical",
+    "Ecolab",
     "Edison International",
     "Enphase Energy",
     "Entergy Corp",
