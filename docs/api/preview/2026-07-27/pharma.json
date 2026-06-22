@@ -13,12 +13,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-07-28",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Danaher Corp",
@@ -118,15 +116,15 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-22T14:30:05Z",
+  "generatedAt": "2026-06-22T18:46:11Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Centene Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "CVS Health Corp",
+    "Centene Corp",
     "Cigna",
     "Danaher Corp",
     "GE HealthCare Technologies Inc",
