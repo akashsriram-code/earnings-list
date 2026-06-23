@@ -1,6 +1,80 @@
 {
   "records": [
     {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-06-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-06-24",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-06-24",
@@ -35,79 +109,18 @@
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-06-23",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-06-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
-      "date": "2026-06-24",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-23T02:05:12Z",
+  "generatedAt": "2026-06-23T06:43:26Z",
   "irCompanies": [
     "BlackBerry",
+    "Keurig Dr. Pepper",
     "Micron",
     "Paychex",
     "Synchrony Financial"
