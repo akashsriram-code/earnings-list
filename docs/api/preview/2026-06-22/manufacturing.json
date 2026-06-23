@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-23T11:57:08Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-23T14:22:45Z",
+  "irCompanies": [
+    "MGM Resorts International"
+  ],
   "fallbackCompanies": [
     "FedEx"
   ],
