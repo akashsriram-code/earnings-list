@@ -1,6 +1,76 @@
 {
   "records": [
     {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-06-24",
+      "bmo_amc": "2:27AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:27am EDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-06-24",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-06-24",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-06-24",
+      "bmo_amc": "12:38 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:38 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-06-25",
+      "bmo_amc": "8:00AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-06-23",
@@ -29,76 +99,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-06-24",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-06-24",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-06-24",
-      "bmo_amc": "9:42 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:42 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-06-25",
-      "bmo_amc": "8:00AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-06-24",
-      "bmo_amc": "2:27AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:27am EDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 9,
@@ -107,7 +107,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-24T14:07:51Z",
+  "generatedAt": "2026-06-24T17:04:24Z",
   "irCompanies": [
     "BlackBerry",
     "Micron",
