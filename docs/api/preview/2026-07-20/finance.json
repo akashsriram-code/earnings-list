@@ -46,6 +46,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-07-21",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-07-22",
@@ -154,14 +165,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-24T11:44:00Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-24T14:08:42Z",
+  "irCompanies": [
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",

@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-08-18",
@@ -9,26 +19,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Palo Alto",
-      "symbol": "PANW",
-      "date": "2026-08-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     },
     {
       "company": "Home Depot Inc",
@@ -55,6 +45,26 @@
       "sector": "Consumer"
     },
     {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-08-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-08-18",
@@ -63,16 +73,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
   "count": 7,
@@ -81,7 +81,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-24T11:44:54Z",
+  "generatedAt": "2026-06-24T14:09:33Z",
   "irCompanies": [
     "Estee Lauder",
     "Home Depot Inc"
