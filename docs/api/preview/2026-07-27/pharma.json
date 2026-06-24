@@ -13,12 +13,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-07-28",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IQVIA Holdings Inc",
@@ -89,14 +87,14 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-06-24T19:31:57Z",
+  "generatedAt": "2026-06-24T22:13:04Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Centene Corp"
+    "Boston Scientific Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "CVS Health Corp",
+    "Centene Corp",
     "Cigna",
     "GE HealthCare Technologies Inc",
     "IQVIA Holdings Inc",
