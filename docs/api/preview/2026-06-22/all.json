@@ -1,28 +1,58 @@
 {
   "records": [
     {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-06-25",
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-06-23",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
-      "company": "PNC Financial",
-      "symbol": "PNC",
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-06-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-06-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
       "date": "2026-06-25",
-      "bmo_amc": "10:00 AM EDT",
+      "bmo_amc": "8:00AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "8:00am ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-06-25",
+      "bmo_amc": "3:26 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
+      "ir_time_label": "3:26 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
       "company": "Carnival Corp",
@@ -55,58 +85,28 @@
       "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-06-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
+      "company": "Apollo",
+      "symbol": "APO",
       "date": "2026-06-25",
-      "bmo_amc": "8:00AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00am ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-06-25",
-      "bmo_amc": "12:42 PM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "12:42 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-06-25",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
   "count": 10,
@@ -115,7 +115,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-25T17:09:07Z",
+  "generatedAt": "2026-06-25T19:49:24Z",
   "irCompanies": [
     "Apollo",
     "BlackBerry",

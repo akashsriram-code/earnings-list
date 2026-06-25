@@ -73,6 +73,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-07-29",
+      "bmo_amc": "10:00 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM",
+      "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Everest",
       "symbol": "EG",
       "date": "2026-07-29",
@@ -181,14 +192,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-25T17:10:03Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-25T19:50:19Z",
+  "irCompanies": [
+    "Arch Capital Group"
+  ],
   "fallbackCompanies": [
     "Allstate Corp",
     "Arthur J. Gallagher",
