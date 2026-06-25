@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-06-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-06-25",
@@ -21,18 +32,31 @@
       "ir_time_label": "10:00 am EDT",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-06-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-25T19:49:24Z",
+  "generatedAt": "2026-06-25T22:20:43Z",
   "irCompanies": [
     "Apollo",
-    "PNC Financial"
+    "Huntington Bancshares",
+    "PNC Financial",
+    "Truist Financial"
   ],
   "fallbackCompanies": [],
   "week": {
