@@ -49,10 +49,12 @@
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2026-07-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     },
     {
       "company": "CME Group Inc",
@@ -169,8 +171,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-24T22:12:51Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-25T02:08:45Z",
+  "irCompanies": [
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",
@@ -187,7 +191,6 @@
     "Nasdaq",
     "Northern Trust",
     "Raymond James",
-    "Synchrony Financial",
     "W. R. Berkley Corp",
     "Zions Bancorporation"
   ],

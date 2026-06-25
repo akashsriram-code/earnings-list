@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-07-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-07-14",
@@ -82,10 +102,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -181,40 +203,6 @@
       "sector": "Finance"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-07-13",
@@ -238,10 +226,12 @@
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-07-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -315,24 +305,38 @@
       "sector": "Pharma"
     },
     {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
+      "company": "HPE",
+      "symbol": "HPE",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
-      "date": "2026-07-16",
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
+      "date": "2026-07-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     }
   ],
   "count": 32,
@@ -341,13 +345,15 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-24T22:12:42Z",
+  "generatedAt": "2026-06-25T02:08:34Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "HPE",
     "JPMorgan",
     "Juniper Networks",
+    "PNC Financial",
+    "Prologis Inc",
     "Truist Financial",
     "Wells Fargo"
   ],
@@ -369,9 +375,7 @@
     "M&T Bank Corp",
     "Morgan Stanley",
     "Netflix",
-    "PNC Financial",
     "Progressive Corporation",
-    "Prologis Inc",
     "Regions Financial",
     "Snap-On Inc",
     "State Street Corp",

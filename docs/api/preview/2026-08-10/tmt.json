@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Sea Limited",
@@ -67,14 +69,15 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-24T22:13:27Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-25T02:09:23Z",
+  "irCompanies": [
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "JD.com",
-    "Qnity",
     "Sea Limited",
     "Tencent Music"
   ],
