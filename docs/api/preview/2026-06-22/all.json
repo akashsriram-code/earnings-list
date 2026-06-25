@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-06-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-06-25",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-06-25",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-06-23",
@@ -36,52 +66,61 @@
       "date": "2026-06-25",
       "bmo_amc": "8:00AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "8:00am ET",
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations",
       "sector": "TMT"
     },
     {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-06-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-06-25",
+      "bmo_amc": "9:38 AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "9:38 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
+      "company": "Apollo",
+      "symbol": "APO",
       "date": "2026-06-25",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
+      "company": "PNC Financial",
+      "symbol": "PNC",
       "date": "2026-06-25",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
-  "count": 7,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-25T11:37:21Z",
+  "generatedAt": "2026-06-25T14:04:53Z",
   "irCompanies": [
-    "BlackBerry"
+    "Apollo",
+    "BlackBerry",
+    "PNC Financial",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Carnival Corp",
