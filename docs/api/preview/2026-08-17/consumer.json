@@ -16,22 +16,53 @@
       "symbol": "EL",
       "date": "2026-08-19",
       "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-25T06:45:27Z",
+  "generatedAt": "2026-06-25T11:38:49Z",
   "irCompanies": [
     "Estee Lauder",
     "Home Depot Inc"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Lowe\u2019s Cos Inc",
+    "TJX Cos Inc",
+    "Target Corp"
+  ],
   "week": {
     "id": "2026-08-17",
     "start_date": "2026-08-17",

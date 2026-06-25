@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-08-17",
@@ -31,14 +21,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-08-18",
+      "company": "Analog Devices",
+      "symbol": "ADI",
+      "date": "2026-08-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Home Depot Inc",
@@ -57,12 +57,72 @@
       "symbol": "EL",
       "date": "2026-08-19",
       "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-08-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Medtronic PLC",
@@ -75,22 +135,28 @@
       "sector": "Pharma"
     }
   ],
-  "count": 7,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-06-25T06:45:27Z",
+  "generatedAt": "2026-06-25T11:38:50Z",
   "irCompanies": [
     "Estee Lauder",
     "Home Depot Inc"
   ],
   "fallbackCompanies": [
+    "Analog Devices",
+    "Baidu",
     "Jack Henry and Associates",
     "Keysight Technologies Inc",
+    "Lowe\u2019s Cos Inc",
     "Medtronic PLC",
+    "Nordson Corp",
     "Palo Alto",
+    "TJX Cos Inc",
+    "Target Corp",
     "Xpeng"
   ],
   "week": {

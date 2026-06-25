@@ -55,11 +55,29 @@
       "source": "aggregator"
     },
     {
+      "company": "DuPont",
+      "symbol": "DD",
+      "date": "2026-08-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Duke Energy",
       "symbol": "DUK",
       "date": "2026-08-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "EOG Resources",
+      "symbol": "EOG",
+      "date": "2026-08-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -262,15 +280,6 @@
       "source": "aggregator"
     },
     {
-      "company": "EOG Resources",
-      "symbol": "EOG",
-      "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Evergy",
       "symbol": "EVRG",
       "date": "2026-08-06",
@@ -388,10 +397,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-06-25T06:45:03Z",
+  "generatedAt": "2026-06-25T11:38:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "APA",
@@ -409,6 +418,7 @@
     "Devon Energy",
     "Diamondback Energy",
     "Dominion Energy Inc",
+    "DuPont",
     "Duke Energy",
     "EOG Resources",
     "Enbridge",

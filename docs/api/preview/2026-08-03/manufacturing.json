@@ -190,15 +190,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Stanley Black & Decker",
-      "symbol": "SWK",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2026-08-04",
@@ -233,6 +224,15 @@
       "date": "2026-08-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Borgwarner Inc",
+      "symbol": "BWA",
+      "date": "2026-08-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -321,7 +321,7 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-06-25T06:45:02Z",
+  "generatedAt": "2026-06-25T11:38:31Z",
   "irCompanies": [
     "WW Grainger Inc"
   ],
@@ -331,6 +331,7 @@
     "Axon Enterprise Inc",
     "Boeing",
     "Booking Holdings Inc",
+    "Borgwarner Inc",
     "Boston Properties",
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
@@ -356,7 +357,6 @@
     "Realty Income Corp",
     "Republic Services Inc",
     "Rockwell Automation Inc",
-    "Stanley Black & Decker",
     "TransDigm Group Inc",
     "UPS",
     "Wynn Resorts Ltd"

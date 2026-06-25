@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "HF Sinclair",
+      "symbol": "DINO",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-07-28",
@@ -208,20 +217,11 @@
       "source": "aggregator"
     },
     {
-      "company": "HF Sinclair",
-      "symbol": "DINO",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "PBF Energy",
       "symbol": "PBF",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,7 +292,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-06-25T06:44:51Z",
+  "generatedAt": "2026-06-25T11:38:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
