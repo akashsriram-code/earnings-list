@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-05-11",
@@ -89,6 +79,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Fox Corp",
@@ -206,8 +206,8 @@
     "CDPQ",
     "CPPIB"
   ],
-  "tickerCount": 568,
-  "generatedAt": "2026-06-26T14:00:58Z",
+  "tickerCount": 570,
+  "generatedAt": "2026-06-26T16:59:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
