@@ -4,10 +4,12 @@
       "company": "Apollo",
       "symbol": "APO",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
     },
     {
       "company": "Arch Capital Group",
@@ -142,10 +144,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-25T22:21:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-26T02:10:44Z",
+  "irCompanies": [
+    "Apollo"
+  ],
   "fallbackCompanies": [
-    "Apollo",
     "Arch Capital Group",
     "Assurant Inc",
     "Carlyle",

@@ -75,10 +75,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Progressive Corporation",
@@ -159,7 +161,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 17,
@@ -168,11 +172,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-25T22:21:19Z",
+  "generatedAt": "2026-06-26T02:10:11Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "JPMorgan",
+    "PNC Financial",
+    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -183,11 +189,9 @@
     "Interactive Brokers",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
-    "Truist Financial",
     "US Bancorp"
   ],
   "week": {
