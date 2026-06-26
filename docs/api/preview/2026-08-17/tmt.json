@@ -35,18 +35,48 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-26T06:48:40Z",
+  "generatedAt": "2026-06-26T11:44:39Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Analog Devices",
     "Baidu",
+    "Intuit",
     "Palo Alto",
-    "Xpeng"
+    "Workday",
+    "Xpeng",
+    "Zoom"
   ],
   "week": {
     "id": "2026-08-17",

@@ -102,6 +102,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Church & Dwight",
+      "symbol": "CHD",
+      "date": "2026-07-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-07-31",
@@ -111,15 +120,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-26T06:48:06Z",
+  "generatedAt": "2026-06-26T11:44:03Z",
   "irCompanies": [
     "Chipotle Mexican Grill"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
+    "Church & Dwight",
     "Clorox Co",
     "Coca-Cola Co",
     "Etsy Inc",

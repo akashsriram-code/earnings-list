@@ -48,20 +48,40 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-26T06:48:42Z",
+  "generatedAt": "2026-06-26T11:44:38Z",
   "irCompanies": [
     "Estee Lauder",
     "Home Depot Inc"
   ],
   "fallbackCompanies": [
     "Lowe\u2019s Cos Inc",
+    "Ross Stores",
     "TJX Cos Inc",
-    "Target Corp"
+    "Target Corp",
+    "Walmart Inc"
   ],
   "week": {
     "id": "2026-08-17",
