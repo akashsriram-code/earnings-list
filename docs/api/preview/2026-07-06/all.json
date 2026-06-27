@@ -1,16 +1,14 @@
 {
   "records": [
     {
-      "company": "AT&T",
-      "symbol": "T",
+      "company": "Delta Air",
+      "symbol": "DAL",
       "date": "2026-07-10",
-      "bmo_amc": "09:00 AM\n                    ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "PepsiCo Inc",
@@ -23,14 +21,16 @@
       "sector": "Consumer"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
+      "company": "AT&T",
+      "symbol": "T",
       "date": "2026-07-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 3,
@@ -39,7 +39,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-27T19:06:24Z",
+  "generatedAt": "2026-06-27T21:58:57Z",
   "irCompanies": [
     "AT&T"
   ],
