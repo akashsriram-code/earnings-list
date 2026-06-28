@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-07-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-07-10",
@@ -31,6 +21,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-07-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 3,
@@ -39,7 +39,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-28T02:14:26Z",
+  "generatedAt": "2026-06-28T06:58:21Z",
   "irCompanies": [
     "AT&T"
   ],
