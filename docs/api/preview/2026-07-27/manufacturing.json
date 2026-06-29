@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2026-07-28",
@@ -64,6 +55,15 @@
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "American Water Works",
@@ -159,8 +159,8 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.mgmresorts.com/",
@@ -224,8 +224,8 @@
       "company": "VICI Properties Inc",
       "symbol": "VICI",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -316,7 +316,7 @@
   "count": 34,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-06-29T07:26:36Z",
+  "generatedAt": "2026-06-29T13:01:57Z",
   "irCompanies": [
     "MGM Resorts International",
     "Magna International",

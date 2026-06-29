@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-06-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
@@ -65,16 +77,17 @@
       "sector": "Consumer"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-29T07:25:50Z",
+  "generatedAt": "2026-06-29T13:01:10Z",
   "irCompanies": [
     "Constellation Brands",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "PNC Financial"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",

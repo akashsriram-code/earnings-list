@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Baker Hughes",
-      "symbol": "BKR",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "EQT Corp",
       "symbol": "EQT",
       "date": "2026-07-28",
@@ -76,8 +67,8 @@
       "company": "Bunge",
       "symbol": "BG",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -226,15 +217,6 @@
       "source": "aggregator"
     },
     {
-      "company": "PG&E Corp",
-      "symbol": "PCG",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "PPL Corp",
       "symbol": "PPL",
       "date": "2026-07-30",
@@ -271,6 +253,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Weyerhaeuser",
+      "symbol": "WY",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2026-07-30",
@@ -289,10 +280,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-06-29T07:26:39Z",
+  "generatedAt": "2026-06-29T13:01:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -300,7 +291,6 @@
     "Air Products",
     "Albemarle",
     "Ameren",
-    "Baker Hughes",
     "Bunge",
     "CMS Energy Corp",
     "Cenovus Energy",
@@ -319,13 +309,13 @@
     "HF Sinclair",
     "Imperial Oil",
     "PBF Energy",
-    "PG&E Corp",
     "PPL Corp",
     "Sherwin-Williams",
     "Southern Co",
     "TC Energy",
     "Valero Energy Corp",
     "WEC Energy Group Inc",
+    "Weyerhaeuser",
     "Xcel Energy Inc"
   ],
   "week": {
