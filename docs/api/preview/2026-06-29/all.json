@@ -1,26 +1,28 @@
 {
   "records": [
     {
-      "company": "PNC Financial",
-      "symbol": "PNC",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
       "date": "2026-06-29",
-      "bmo_amc": "10:00 AM EDT",
+      "bmo_amc": "1:10 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
+      "ir_time_label": "1:10 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-07-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-06-29",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -75,19 +77,43 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-06-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-07-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 7,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-29T13:01:10Z",
+  "generatedAt": "2026-06-29T17:32:27Z",
   "irCompanies": [
+    "Coca-Cola Co",
     "Constellation Brands",
     "Keurig Dr. Pepper",
-    "PNC Financial"
+    "PNC Financial",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
