@@ -4,10 +4,12 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-07-28",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Chipotle Mexican Grill",
@@ -132,15 +134,15 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-06-29T22:09:33Z",
+  "generatedAt": "2026-06-30T02:10:21Z",
   "irCompanies": [
-    "Chipotle Mexican Grill"
+    "Chipotle Mexican Grill",
+    "Coca-Cola Co"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Church & Dwight",
     "Clorox Co",
-    "Coca-Cola Co",
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",

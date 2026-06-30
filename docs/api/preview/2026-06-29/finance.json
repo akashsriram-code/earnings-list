@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-06-29",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
@@ -21,16 +10,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-29T22:08:43Z",
-  "irCompanies": [
-    "PNC Financial"
-  ],
+  "generatedAt": "2026-06-30T02:09:32Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FactSet Research"
   ],

@@ -1,30 +1,6 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-06-29",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-06-29",
-      "bmo_amc": "4:15 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 PM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-06-30",
@@ -40,7 +16,7 @@
       "date": "2026-06-30",
       "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 PM EDT",
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
@@ -62,9 +38,9 @@
       "company": "Nike Inc",
       "symbol": "NKE",
       "date": "2026-06-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -79,18 +55,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-06-29",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
@@ -99,47 +63,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-06-29",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 11,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-29T22:08:44Z",
+  "generatedAt": "2026-06-30T02:09:33Z",
   "irCompanies": [
-    "Coca-Cola Co",
     "Constellation Brands",
-    "Keurig Dr. Pepper",
-    "Lennar Corp",
-    "Norwegian Cruise Line",
-    "PNC Financial",
-    "Take-Two Interactive"
+    "Keurig Dr. Pepper"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
