@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-06-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-07-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-06-30",
@@ -53,28 +75,19 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-07-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-06-30T06:49:16Z",
+  "generatedAt": "2026-06-30T11:43:43Z",
   "irCompanies": [
     "Constellation Brands",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Tencent Music"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",

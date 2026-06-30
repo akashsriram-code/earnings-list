@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Hartford Financial Services",
-      "symbol": "HIG",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2026-07-27",
@@ -141,8 +132,8 @@
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -192,13 +183,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-30T06:49:54Z",
+  "generatedAt": "2026-06-30T11:44:28Z",
   "irCompanies": [
     "Arch Capital Group"
   ],
@@ -212,7 +203,6 @@
     "Coinbase",
     "Everest",
     "Fair Issac Corp",
-    "Hartford Financial Services",
     "Intercontinental Exchange",
     "Invesco",
     "KKR",

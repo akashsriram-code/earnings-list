@@ -4,8 +4,8 @@
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -132,8 +132,8 @@
       "company": "IDEX Corp",
       "symbol": "IEX",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -316,7 +316,7 @@
   "count": 34,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-06-30T06:49:54Z",
+  "generatedAt": "2026-06-30T11:44:28Z",
   "irCompanies": [
     "MGM Resorts International",
     "Magna International",

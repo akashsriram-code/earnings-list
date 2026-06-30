@@ -40,8 +40,17 @@
       "company": "ADP",
       "symbol": "ADP",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Amphenol",
+      "symbol": "APH",
+      "date": "2026-07-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -262,14 +271,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-30T06:49:54Z",
+  "generatedAt": "2026-06-30T11:44:27Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "ADP",
     "Amazon",
+    "Amphenol",
     "Apple",
     "Applied Digital",
     "Arm Holdings",
