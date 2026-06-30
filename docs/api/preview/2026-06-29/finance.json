@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-06-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
@@ -10,14 +21,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-30T11:43:42Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-30T13:57:10Z",
+  "irCompanies": [
+    "Bank of America"
+  ],
   "fallbackCompanies": [
     "FactSet Research"
   ],
