@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2026-06-30",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-06-30",
@@ -15,10 +26,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-06-30",
-      "bmo_amc": "3:11 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:11 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -34,11 +45,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-30T19:35:03Z",
+  "generatedAt": "2026-06-30T22:12:59Z",
   "irCompanies": [
+    "Intel",
     "Micron",
     "Take-Two Interactive",
     "Tencent Music"
