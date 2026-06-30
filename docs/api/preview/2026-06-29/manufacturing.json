@@ -1,10 +1,36 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-06-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.hilton.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-06-30",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-06-30T17:06:09Z",
-  "irCompanies": [],
+  "generatedAt": "2026-06-30T19:35:03Z",
+  "irCompanies": [
+    "Hilton Worldwide Holdings Inc",
+    "Southwest Airlines Co"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-06-29",
