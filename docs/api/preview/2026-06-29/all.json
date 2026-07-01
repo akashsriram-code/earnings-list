@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-07-01",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2026-07-01",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-07-01",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-07-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-06-30",
@@ -34,10 +80,10 @@
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-07-01",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
+      "ir_time_label": "8:00 am ET",
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
       "sector": "Consumer"
@@ -46,58 +92,51 @@
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2026-07-01",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Consumer"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-07-01",
-      "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm ET",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-07-01",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
+      "company": "Equinix",
+      "symbol": "EQIX",
       "date": "2026-07-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_source_url": "https://investor.equinix.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-07-01",
+      "bmo_amc": "9:43 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:43 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 8,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-01T11:55:02Z",
+  "generatedAt": "2026-07-01T14:08:36Z",
   "irCompanies": [
     "Constellation Brands",
+    "Equinix",
     "Fortive Corp",
-    "Merck"
+    "Merck",
+    "Old Dominion Freight Line Inc",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
