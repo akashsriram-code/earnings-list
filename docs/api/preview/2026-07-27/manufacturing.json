@@ -19,6 +19,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Boston Properties",
+      "symbol": "BXP",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2026-07-28",
@@ -30,15 +48,6 @@
     {
       "company": "Pentair PLC",
       "symbol": "PNR",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "RTX",
-      "symbol": "RTX",
       "date": "2026-07-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -313,10 +322,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-01T07:08:44Z",
+  "generatedAt": "2026-07-01T11:55:43Z",
   "irCompanies": [
     "MGM Resorts International",
     "Magna International",
@@ -326,6 +335,7 @@
     "AMETEK Inc",
     "American Water Works",
     "Aptiv PLC",
+    "Boston Properties",
     "CH Robinson Worldwide Inc",
     "Camden Property Trust",
     "Extra Space Storage Inc",
@@ -333,6 +343,7 @@
     "Fortive Corp",
     "Generac Holdings Inc",
     "Harley Davidson",
+    "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
@@ -346,7 +357,6 @@
     "Pentair PLC",
     "Public Storage",
     "Quanta Services Inc",
-    "RTX",
     "Stanley Black & Decker",
     "Trane Technologies PLC",
     "UDR INC",

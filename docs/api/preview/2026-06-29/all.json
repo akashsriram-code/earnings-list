@@ -14,8 +14,8 @@
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-06-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -24,8 +24,8 @@
       "company": "Nike Inc",
       "symbol": "NKE",
       "date": "2026-06-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -53,6 +53,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-07-01",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
@@ -61,17 +73,31 @@
       "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-07-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-01T07:07:56Z",
+  "generatedAt": "2026-07-01T11:55:02Z",
   "irCompanies": [
-    "Constellation Brands"
+    "Constellation Brands",
+    "Fortive Corp",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",

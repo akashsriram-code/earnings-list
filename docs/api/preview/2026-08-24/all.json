@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-08-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-08-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-08-27",
@@ -13,17 +33,20 @@
       "sector": "Consumer"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-01T07:09:30Z",
+  "generatedAt": "2026-07-01T11:56:31Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Bank of Montreal",
+    "Scotiabank"
+  ],
   "week": {
     "id": "2026-08-24",
     "start_date": "2026-08-24",
