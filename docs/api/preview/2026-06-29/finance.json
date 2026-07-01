@@ -1,48 +1,23 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-06-30",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Morgan Stanley",
-      "symbol": "MS",
-      "date": "2026-06-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-07-01",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-06-30T22:12:59Z",
-  "irCompanies": [
-    "Bank of America",
-    "Morgan Stanley"
-  ],
+  "generatedAt": "2026-07-01T02:15:00Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FactSet Research"
   ],

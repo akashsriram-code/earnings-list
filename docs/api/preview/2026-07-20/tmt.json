@@ -105,10 +105,12 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-07-23",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 PM PDT",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mobileye",
@@ -161,9 +163,10 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-06-30T22:13:30Z",
+  "generatedAt": "2026-07-01T02:15:34Z",
   "irCompanies": [
     "IBM",
+    "Intel",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -173,7 +176,6 @@
     "Comcast",
     "Crown Castle",
     "Digital Realty",
-    "Intel",
     "Mobileye",
     "Omnicom",
     "Rogers Communications",
