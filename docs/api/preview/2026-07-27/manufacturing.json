@@ -114,10 +114,12 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Generac Holdings Inc",
@@ -188,10 +190,12 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Public Storage",
@@ -323,9 +327,11 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-01T22:18:24Z",
+  "generatedAt": "2026-07-02T02:08:12Z",
   "irCompanies": [
+    "Fortive Corp",
     "MGM Resorts International",
+    "Old Dominion Freight Line Inc",
     "UPS"
   ],
   "fallbackCompanies": [
@@ -337,7 +343,6 @@
     "Camden Property Trust",
     "Extra Space Storage Inc",
     "Ford Motor Co",
-    "Fortive Corp",
     "Generac Holdings Inc",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
@@ -351,7 +356,6 @@
     "Magna International",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
-    "Old Dominion Freight Line Inc",
     "Pentair PLC",
     "Public Storage",
     "Quanta Services Inc",

@@ -82,13 +82,26 @@
       "source": "aggregator"
     },
     {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-08-04",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-08-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -244,11 +257,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-01T22:18:36Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-02T02:08:23Z",
+  "irCompanies": [
+    "IDEXX Laboratories Inc",
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -267,7 +283,6 @@
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
-    "Merck",
     "Novavax",
     "Pfizer Inc",
     "STERIS plc",
