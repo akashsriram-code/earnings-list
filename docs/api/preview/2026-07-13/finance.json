@@ -54,6 +54,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-07-15",
@@ -148,13 +157,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-02T06:34:35Z",
+  "generatedAt": "2026-07-02T11:31:24Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -164,6 +173,7 @@
     "Wells Fargo"
   ],
   "fallbackCompanies": [
+    "BlackRock Inc",
     "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",

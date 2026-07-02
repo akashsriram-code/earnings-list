@@ -17,18 +17,28 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-02T06:35:44Z",
+  "generatedAt": "2026-07-02T11:32:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
+    "Royal Bank of Canada",
     "Scotiabank"
   ],
   "week": {

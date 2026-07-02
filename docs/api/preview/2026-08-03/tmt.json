@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Kyndryl",
-      "symbol": "KD",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-08-03",
@@ -40,15 +31,6 @@
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "American Tower",
-      "symbol": "AMT",
-      "date": "2026-08-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -102,15 +84,6 @@
     {
       "company": "Gartner",
       "symbol": "IT",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "GlobalFoundries",
-      "symbol": "GFS",
       "date": "2026-08-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -282,11 +255,29 @@
       "source": "aggregator"
     },
     {
+      "company": "GlobalFoundries",
+      "symbol": "GFS",
+      "date": "2026-08-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-08-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2026-08-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -453,16 +444,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 50,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-02T06:35:09Z",
+  "generatedAt": "2026-07-02T11:32:01Z",
   "irCompanies": [
     "Zebra Technologies"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
-    "American Tower",
     "AppLovin",
     "Arista Networks",
     "Atlassian",

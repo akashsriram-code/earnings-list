@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-07-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-07-21",
@@ -40,8 +31,8 @@
       "company": "Crown Castle",
       "symbol": "CCI",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -69,8 +60,8 @@
       "company": "ServiceNow",
       "symbol": "NOW",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -80,6 +71,15 @@
       "date": "2026-07-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
+      "date": "2026-07-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -96,8 +96,8 @@
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-07-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -106,7 +106,7 @@
       "symbol": "INTC",
       "date": "2026-07-23",
       "bmo_amc": "2:00 PM PDT",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00 PM PDT",
       "ir_source_url": "https://www.intc.com/",
@@ -118,6 +118,15 @@
       "date": "2026-07-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-07-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -160,10 +169,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-02T06:34:47Z",
+  "generatedAt": "2026-07-02T11:31:36Z",
   "irCompanies": [
     "IBM",
     "Intel",
@@ -183,6 +192,7 @@
     "ServiceNow",
     "T-Mobile US",
     "Tesla",
+    "Texas Instruments",
     "VeriSign"
   ],
   "week": {

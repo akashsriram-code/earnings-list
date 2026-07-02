@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-08-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-08-04",
@@ -167,16 +176,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-02T06:35:12Z",
+  "generatedAt": "2026-07-02T11:32:01Z",
   "irCompanies": [
     "Keurig Dr. Pepper",
     "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Ball Corp",
+    "Coca-Cola Europacific",
     "DoorDash",
     "Instacart",
     "International Flavours & Fragrances",
