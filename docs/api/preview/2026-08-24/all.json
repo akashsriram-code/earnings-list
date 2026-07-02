@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-08-26",
@@ -21,26 +41,6 @@
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Bank of Montreal",
@@ -119,7 +119,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-02T16:51:23Z",
+  "generatedAt": "2026-07-02T19:13:16Z",
   "irCompanies": [
     "Ulta Beauty"
   ],

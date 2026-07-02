@@ -1,14 +1,24 @@
 {
   "records": [
     {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-08-13",
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-08-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Resources"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Smithfield Foods",
@@ -41,14 +51,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-08-10",
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-08-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Manufacturing"
     },
     {
       "company": "CoreWeave",
@@ -121,16 +131,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-08-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 13,
@@ -139,7 +139,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-02T16:51:03Z",
+  "generatedAt": "2026-07-02T19:12:54Z",
   "irCompanies": [
     "Qnity"
   ],
