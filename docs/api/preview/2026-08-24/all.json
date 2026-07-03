@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-08-26",
@@ -71,26 +41,94 @@
       "sector": "TMT"
     },
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
+      "company": "Autodesk",
+      "symbol": "ADSK",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Dell",
+      "symbol": "DELL",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-08-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-08-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
       "date": "2026-08-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
+      "company": "CIBC",
+      "symbol": "CM",
       "date": "2026-08-27",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Agilent",
@@ -111,29 +149,112 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 11,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-03T06:27:07Z",
+  "generatedAt": "2026-07-03T11:31:11Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Agilent",
+    "Autodesk",
     "Bank of Montreal",
+    "Bath & Body Works",
+    "Best Buy Co Inc",
+    "Brown-Forman Corp",
+    "CIBC",
     "Cooper Companies Inc",
     "Crowdstrike",
+    "Dell",
+    "Dollar General",
     "HP Inc",
+    "Hormel Foods",
     "J.M. Smucker Co",
+    "Marvell",
     "NVIDIA",
     "Royal Bank of Canada",
     "Scotiabank",
-    "Snowflake"
+    "SentinelOne",
+    "Snowflake",
+    "TD Bank"
   ],
   "week": {
     "id": "2026-08-24",

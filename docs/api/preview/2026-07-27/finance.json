@@ -96,8 +96,8 @@
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -132,8 +132,8 @@
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -172,15 +172,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2026-07-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-03T06:26:27Z",
+  "generatedAt": "2026-07-03T11:30:30Z",
   "irCompanies": [
     "Arch Capital Group"
   ],
@@ -193,6 +202,7 @@
     "Coinbase",
     "Everest",
     "Fair Issac Corp",
+    "Franklin Templeton",
     "Intercontinental Exchange",
     "Invesco",
     "KKR",

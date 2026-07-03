@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Corning",
-      "symbol": "GLW",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Electronic Arts",
       "symbol": "EA",
       "date": "2026-08-04",
@@ -120,15 +111,6 @@
     {
       "company": "Qorvo",
       "symbol": "QRVO",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Rivian",
-      "symbol": "RIVN",
       "date": "2026-08-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -213,8 +195,8 @@
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -239,15 +221,6 @@
     {
       "company": "Duolingo",
       "symbol": "DUOL",
-      "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
       "date": "2026-08-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -339,8 +312,8 @@
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -444,10 +417,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 49,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-03T06:26:38Z",
+  "generatedAt": "2026-07-03T11:30:39Z",
   "irCompanies": [
     "Zebra Technologies"
   ],
@@ -457,13 +430,11 @@
     "Arista Networks",
     "Atlassian",
     "Bumble",
-    "Corning",
     "Datadog",
     "Disney",
     "Duolingo",
     "EPAM",
     "Electronic Arts",
-    "Fortinet",
     "Fox Corp",
     "Freshworks",
     "Gartner",
@@ -485,7 +456,6 @@
     "Paycom",
     "Pinterest",
     "Qorvo",
-    "Rivian",
     "SBA Communications",
     "Seagate",
     "Shopify",

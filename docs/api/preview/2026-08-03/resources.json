@@ -49,8 +49,8 @@
       "company": "Devon Energy",
       "symbol": "DVN",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -352,15 +352,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Chevron",
-      "symbol": "CVX",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Dominion Energy Inc",
       "symbol": "D",
       "date": "2026-08-07",
@@ -379,10 +370,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-03T06:26:37Z",
+  "generatedAt": "2026-07-03T11:30:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "APA",
@@ -393,7 +384,6 @@
     "Canadian Natural Resources",
     "Celanese",
     "Cheniere Energy",
-    "Chevron",
     "ConocoPhillips",
     "Consolidated Edison",
     "Constellation Energy",

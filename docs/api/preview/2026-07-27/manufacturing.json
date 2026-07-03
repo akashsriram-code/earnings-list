@@ -190,8 +190,8 @@
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -248,6 +248,15 @@
       "date": "2026-07-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "A O Smith Corp",
+      "symbol": "AOS",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -311,8 +320,8 @@
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -346,10 +355,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-03T06:26:27Z",
+  "generatedAt": "2026-07-03T11:30:28Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
@@ -359,6 +368,7 @@
     "UPS"
   ],
   "fallbackCompanies": [
+    "A O Smith Corp",
     "AMETEK Inc",
     "American Water Works",
     "Aptiv PLC",

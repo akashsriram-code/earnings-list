@@ -17,14 +17,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-08-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-03T06:26:57Z",
+  "generatedAt": "2026-07-03T11:31:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Deere",
     "Keysight Technologies Inc",
     "Nordson Corp"
   ],

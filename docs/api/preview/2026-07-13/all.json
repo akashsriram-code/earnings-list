@@ -1,38 +1,24 @@
 {
   "records": [
     {
-      "company": "HPE",
-      "symbol": "HPE",
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fastenal Co",
@@ -40,6 +26,16 @@
       "date": "2026-07-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -85,6 +81,40 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Bank of America",
@@ -307,35 +337,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
-      "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-03T06:26:02Z",
+  "generatedAt": "2026-07-03T11:30:08Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -359,6 +369,7 @@
     "Fifth Third Bancorp",
     "GE Aerospace",
     "Goldman Sachs",
+    "J B Hunt Transport Services Inc",
     "Johnson & Johnson",
     "Kinder Morgan",
     "M&T Bank Corp",

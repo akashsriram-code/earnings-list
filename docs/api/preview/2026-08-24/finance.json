@@ -4,8 +4,8 @@
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -26,20 +26,40 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-03T06:27:06Z",
+  "generatedAt": "2026-07-03T11:31:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
+    "CIBC",
     "Royal Bank of Canada",
-    "Scotiabank"
+    "Scotiabank",
+    "TD Bank"
   ],
   "week": {
     "id": "2026-08-24",
