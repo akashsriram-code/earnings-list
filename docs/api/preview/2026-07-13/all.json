@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-07-15",
@@ -33,26 +43,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
-      "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     },
     {
       "company": "Fastenal Co",
@@ -115,16 +105,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Bank of America",
@@ -337,6 +317,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 32,
@@ -345,7 +345,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-04T18:59:23Z",
+  "generatedAt": "2026-07-04T21:51:37Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
