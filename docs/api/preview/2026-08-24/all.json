@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-08-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-08-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-08-26",
@@ -171,56 +221,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-08-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-08-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-08-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
   "count": 22,
@@ -229,7 +229,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-05T06:36:01Z",
+  "generatedAt": "2026-07-05T11:04:22Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
