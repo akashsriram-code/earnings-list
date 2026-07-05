@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-07-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-07-10",
@@ -21,16 +31,6 @@
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-07-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 3,
@@ -39,7 +39,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-05T11:03:04Z",
+  "generatedAt": "2026-07-05T13:08:50Z",
   "irCompanies": [
     "AT&T"
   ],
