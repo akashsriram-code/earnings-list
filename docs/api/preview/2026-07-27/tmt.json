@@ -281,9 +281,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Roblox",
@@ -307,20 +305,22 @@
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 34,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-06T19:42:03Z",
+  "generatedAt": "2026-07-06T22:12:04Z",
   "irCompanies": [
     "Equinix",
     "KLA Corp",
-    "Rivian"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -348,9 +348,9 @@
     "PTC",
     "Qualcomm",
     "Reddit",
+    "Rivian",
     "Roblox",
     "Roku",
-    "SiriusXM",
     "Tyler Tech",
     "Western Digital",
     "eBay"

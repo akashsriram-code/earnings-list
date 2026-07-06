@@ -1,13 +1,24 @@
 {
   "records": [
     {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-07-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-07-06",
-      "bmo_amc": "3:19 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:19 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -23,12 +34,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-06T19:41:26Z",
+  "generatedAt": "2026-07-06T22:11:32Z",
   "irCompanies": [
     "AT&T",
+    "Rivian",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
