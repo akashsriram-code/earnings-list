@@ -187,9 +187,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.zebra.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "AppLovin",
@@ -420,10 +418,8 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-07T11:43:10Z",
-  "irCompanies": [
-    "Zebra Technologies"
-  ],
+  "generatedAt": "2026-07-07T14:08:54Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
     "AppLovin",
@@ -469,7 +465,8 @@
     "Trade Desk",
     "Trimble",
     "Uber",
-    "Wolfspeed"
+    "Wolfspeed",
+    "Zebra Technologies"
   ],
   "week": {
     "id": "2026-08-03",
