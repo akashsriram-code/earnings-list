@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-08-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Amcor PLC",
+      "symbol": "AMCR",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-08-11",
@@ -17,9 +67,7 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -73,46 +121,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-08-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-08-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
-      "date": "2026-08-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tapestry Inc",
-      "symbol": "TPR",
-      "date": "2026-08-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-08-11",
@@ -121,16 +129,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-08-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
   "count": 13,
@@ -139,10 +137,8 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-07T06:41:09Z",
-  "irCompanies": [
-    "Qnity"
-  ],
+  "generatedAt": "2026-07-07T11:43:23Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
     "Applied Materials",
@@ -150,6 +146,7 @@
     "Cisco Systems",
     "CoreWeave",
     "JD.com",
+    "Qnity",
     "Sea Limited",
     "Simon Property Group",
     "Smithfield Foods",

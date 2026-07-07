@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-07-07",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-07-10",
@@ -12,12 +23,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-07T06:40:06Z",
+  "generatedAt": "2026-07-07T11:42:24Z",
   "irCompanies": [
-    "AT&T"
+    "AT&T",
+    "Qnity"
   ],
   "fallbackCompanies": [],
   "week": {

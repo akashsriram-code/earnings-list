@@ -46,6 +46,24 @@
       "source": "aggregator"
     },
     {
+      "company": "PayPal Holdings",
+      "symbol": "PYPL",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-07-29",
@@ -156,15 +174,6 @@
       "source": "aggregator"
     },
     {
-      "company": "S&P Global Inc",
-      "symbol": "SPGI",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Willis Tower Watson",
       "symbol": "WTW",
       "date": "2026-07-30",
@@ -181,15 +190,24 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "T. Rowe Price Group",
+      "symbol": "TROW",
+      "date": "2026-07-31",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-07T06:40:45Z",
+  "generatedAt": "2026-07-07T11:43:00Z",
   "irCompanies": [
     "Arch Capital Group"
   ],
@@ -208,10 +226,12 @@
     "KKR",
     "Lincoln National Corporation",
     "Mastercard",
+    "PayPal Holdings",
     "Principal Financial Group",
     "Prudential Financial",
     "Robinhood",
     "S&P Global Inc",
+    "T. Rowe Price Group",
     "Willis Tower Watson"
   ],
   "week": {
