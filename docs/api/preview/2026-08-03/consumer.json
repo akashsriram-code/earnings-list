@@ -13,10 +13,12 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -170,13 +172,13 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-06T22:12:17Z",
+  "generatedAt": "2026-07-07T01:58:29Z",
   "irCompanies": [
+    "Ball Corp",
     "Keurig Dr. Pepper",
     "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
-    "Ball Corp",
     "Coca-Cola Europacific",
     "DoorDash",
     "Instacart",
