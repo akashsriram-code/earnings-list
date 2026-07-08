@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-07-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-07-10",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-08T19:08:43Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-08T22:03:21Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [
     "Delta Air"
   ],
