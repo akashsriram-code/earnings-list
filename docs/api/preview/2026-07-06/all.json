@@ -1,16 +1,14 @@
 {
   "records": [
     {
-      "company": "AT&T",
-      "symbol": "T",
+      "company": "Delta Air",
+      "symbol": "DAL",
       "date": "2026-07-10",
-      "bmo_amc": "09:00 AM\n                    ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "PepsiCo Inc",
@@ -23,25 +21,53 @@
       "sector": "Consumer"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-07-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-07-08",
+      "bmo_amc": "11:00AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "11:00am EDT",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-07-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-07-10",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-08T10:59:23Z",
+  "generatedAt": "2026-07-08T13:30:40Z",
   "irCompanies": [
-    "AT&T"
+    "AT&T",
+    "Cincinnati Financial",
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Delta Air",
