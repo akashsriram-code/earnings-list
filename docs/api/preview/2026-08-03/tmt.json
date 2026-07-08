@@ -109,6 +109,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-08-04",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Qorvo",
       "symbol": "QRVO",
       "date": "2026-08-04",
@@ -415,11 +426,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-07T22:10:38Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-08T01:29:57Z",
+  "irCompanies": [
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "Akamai Technologies",
     "AppLovin",
