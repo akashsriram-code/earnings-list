@@ -361,110 +361,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-07-28",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "IQVIA Holdings Inc",
-      "symbol": "IQV",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bristol Myers-Squibb",
-      "symbol": "BMY",
-      "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cigna",
-      "symbol": "CI",
-      "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
-      "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-07-27",
@@ -1070,12 +966,10 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-07-31",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Manufacturing"
     },
     {
@@ -1429,6 +1323,110 @@
       "sector": "Resources"
     },
     {
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-07-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-07-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IQVIA Holdings Inc",
+      "symbol": "IQV",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-07-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-07-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bristol Myers-Squibb",
+      "symbol": "BMY",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cigna",
+      "symbol": "CI",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-07-28",
@@ -1599,7 +1597,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-08T01:29:48Z",
+  "generatedAt": "2026-07-08T05:47:06Z",
   "irCompanies": [
     "Arch Capital Group",
     "Bombardier",
@@ -1612,7 +1610,6 @@
     "GoDaddy",
     "KLA Corp",
     "MGM Resorts International",
-    "Magna International",
     "Old Dominion Freight Line Inc",
     "Rivian",
     "SiriusXM",
@@ -1709,6 +1706,7 @@
     "Linde",
     "Lumen Tech",
     "LyondellBasell",
+    "Magna International",
     "Masco Corp",
     "Mastercard",
     "Meta",

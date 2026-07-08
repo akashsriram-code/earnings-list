@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-05-11",
@@ -79,6 +69,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fox Corp",
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-08T01:27:40Z",
+  "generatedAt": "2026-07-08T05:45:05Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
