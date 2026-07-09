@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-07-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-07-09",
+      "bmo_amc": "10:07 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:07 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-07-10",
@@ -13,26 +37,16 @@
       "sector": "TMT"
     },
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-07-09",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
       "date": "2026-07-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
       "company": "Bombardier",
@@ -55,19 +69,31 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-07-09",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-09T11:54:30Z",
+  "generatedAt": "2026-07-09T14:31:37Z",
   "irCompanies": [
     "AT&T",
     "Bombardier",
-    "Centene Corp"
+    "Centene Corp",
+    "Huntington Bancshares",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Delta Air",

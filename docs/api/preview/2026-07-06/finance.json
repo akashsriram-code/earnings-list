@@ -1,13 +1,27 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-07-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-09T11:54:28Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-09T14:31:36Z",
+  "irCompanies": [
+    "Huntington Bancshares"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-07-06",
