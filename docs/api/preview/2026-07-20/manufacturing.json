@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "3M Co",
+      "symbol": "MMM",
+      "date": "2026-07-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-07-21",
@@ -165,6 +174,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-07-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-07-23",
@@ -232,21 +250,23 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-09T06:49:04Z",
+  "generatedAt": "2026-07-09T11:54:52Z",
   "irCompanies": [
     "DR Horton Inc",
     "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
+    "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
     "CSX Corp",
     "Dover Corp",
     "General Dynamics Corp",
+    "Harley Davidson",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "NVR Inc",

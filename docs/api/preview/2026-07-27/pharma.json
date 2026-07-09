@@ -1,24 +1,13 @@
 {
   "records": [
     {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-07-28",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IQVIA Holdings Inc",
@@ -53,8 +42,8 @@
       "company": "GE HealthCare Technologies Inc",
       "symbol": "GEHC",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -95,23 +84,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-09T06:49:15Z",
+  "generatedAt": "2026-07-09T11:55:06Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Centene Corp"
+    "Boston Scientific Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
+    "Centene Corp",
     "Cigna",
     "GE HealthCare Technologies Inc",
     "IQVIA Holdings Inc",
     "Intuitive Surgical Inc",
     "Labcorp Holdings Inc",
-    "Regeneron Pharmaceuticals",
-    "Revvity"
+    "Regeneron Pharmaceuticals"
   ],
   "week": {
     "id": "2026-07-27",

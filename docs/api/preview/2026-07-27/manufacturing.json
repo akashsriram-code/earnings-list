@@ -46,6 +46,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-07-28",
@@ -142,15 +151,6 @@
     {
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Harley Davidson",
-      "symbol": "HOG",
       "date": "2026-07-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -288,31 +288,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Aptiv PLC",
-      "symbol": "APTV",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2026-07-30",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -373,12 +353,11 @@
       "source": "investor_relations"
     }
   ],
-  "count": 40,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-09T06:49:14Z",
+  "generatedAt": "2026-07-09T11:55:04Z",
   "irCompanies": [
-    "Bombardier",
     "Fortive Corp",
     "MGM Resorts International",
     "Magna International",
@@ -389,16 +368,15 @@
     "A O Smith Corp",
     "AMETEK Inc",
     "American Water Works",
-    "Aptiv PLC",
     "Boeing",
     "Boston Properties",
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
     "Camden Property Trust",
+    "Carrier Global Corp",
     "Extra Space Storage Inc",
     "Ford Motor Co",
     "Generac Holdings Inc",
-    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Huntington Ingalls Industries Inc",

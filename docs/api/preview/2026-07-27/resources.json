@@ -1,6 +1,24 @@
 {
   "records": [
     {
+      "company": "CMS Energy Corp",
+      "symbol": "CMS",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ecolab",
       "symbol": "ECL",
       "date": "2026-07-28",
@@ -51,15 +69,6 @@
       "date": "2026-07-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Albemarle",
-      "symbol": "ALB",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -127,17 +136,17 @@
       "source": "aggregator"
     },
     {
-      "company": "Ameren",
-      "symbol": "AEE",
+      "company": "Alliant Energy",
+      "symbol": "LNT",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "CMS Energy Corp",
-      "symbol": "CMS",
+      "company": "Ameren",
+      "symbol": "AEE",
       "date": "2026-07-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -166,8 +175,8 @@
       "company": "Eastman Chemical",
       "symbol": "EMN",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -316,20 +325,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-09T06:49:14Z",
+  "generatedAt": "2026-07-09T11:55:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "AES Corp",
     "Air Products",
-    "Albemarle",
+    "Alliant Energy",
     "Ameren",
     "Bunge",
     "CMS Energy Corp",
     "Cenovus Energy",
+    "CenterPoint Energy",
     "Chevron",
     "Corteva",
     "Eastman Chemical",
