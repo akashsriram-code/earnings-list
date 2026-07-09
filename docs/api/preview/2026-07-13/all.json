@@ -1,24 +1,38 @@
 {
   "records": [
     {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
+      "company": "HPE",
+      "symbol": "HPE",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
       "company": "Elevance Health Inc",
@@ -61,66 +75,24 @@
       "sector": "Pharma"
     },
     {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-07-14",
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-07-15",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
+      "company": "Conagra Brands",
+      "symbol": "CAG",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "GE Aerospace",
-      "symbol": "GE",
-      "date": "2026-07-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-07-16",
-      "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 PM ET",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
-      "date": "2026-07-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
       "company": "Bank of America",
@@ -295,38 +267,66 @@
       "sector": "Finance"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
       "date": "2026-07-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-07-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-07-16",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2026-07-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 31,
@@ -335,7 +335,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-09T14:31:49Z",
+  "generatedAt": "2026-07-09T17:16:22Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",

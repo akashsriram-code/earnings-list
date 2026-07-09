@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-07-09",
+      "bmo_amc": "10:14 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:14 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-09T14:31:37Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-09T17:16:11Z",
+  "irCompanies": [
+    "Royal Caribbean Group"
+  ],
   "fallbackCompanies": [
     "PepsiCo Inc"
   ],
