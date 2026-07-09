@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Principal Financial Group",
@@ -207,16 +209,16 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-08T22:03:53Z",
+  "generatedAt": "2026-07-09T01:37:47Z",
   "irCompanies": [
-    "Arch Capital Group"
+    "Arch Capital Group",
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
-    "Cincinnati Financial",
     "Coinbase",
     "Everest",
     "Fair Issac Corp",
