@@ -159,10 +159,12 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lazard",
@@ -207,8 +209,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-09T22:19:04Z",
+  "generatedAt": "2026-07-10T01:35:33Z",
   "irCompanies": [
+    "Huntington Bancshares",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
@@ -222,7 +225,6 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
-    "Huntington Bancshares",
     "Interactive Brokers",
     "KeyCorp",
     "Lazard",
