@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "UDR INC",
+      "symbol": "UDR",
+      "date": "2026-07-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-07-27",
@@ -82,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Illinois Tool Works Inc",
+      "symbol": "ITW",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Pentair PLC",
       "symbol": "PNR",
       "date": "2026-07-28",
@@ -123,14 +141,23 @@
       "company": "American Water Works",
       "symbol": "AWK",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "CH Robinson Worldwide Inc",
       "symbol": "CHRW",
+      "date": "2026-07-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Essex Property Trust Inc",
+      "symbol": "ESS",
       "date": "2026-07-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -167,20 +194,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Illinois Tool Works Inc",
-      "symbol": "ITW",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Invitation Homes Inc",
       "symbol": "INVH",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -228,8 +246,8 @@
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -239,24 +257,6 @@
       "date": "2026-07-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Trane Technologies PLC",
-      "symbol": "TT",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "UDR INC",
-      "symbol": "UDR",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -308,15 +308,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Howmet Aerospace",
-      "symbol": "HWM",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Huntington Ingalls Industries Inc",
       "symbol": "HII",
       "date": "2026-07-30",
@@ -344,6 +335,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Trane Technologies PLC",
+      "symbol": "TT",
+      "date": "2026-07-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-07-30",
@@ -367,7 +367,7 @@
   "count": 39,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-10T06:38:19Z",
+  "generatedAt": "2026-07-10T11:47:32Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
@@ -386,11 +386,11 @@
     "Caesars Entertainment Inc",
     "Camden Property Trust",
     "Carrier Global Corp",
+    "Essex Property Trust Inc",
     "Extra Space Storage Inc",
     "Ford Motor Co",
     "Generac Holdings Inc",
     "Hilton Worldwide Holdings Inc",
-    "Howmet Aerospace",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
     "Illinois Tool Works Inc",

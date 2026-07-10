@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Equity Residential",
-      "symbol": "EQR",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Aptiv PLC",
       "symbol": "APTV",
       "date": "2026-08-04",
@@ -57,15 +48,6 @@
     {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Essex Property Trust Inc",
-      "symbol": "ESS",
       "date": "2026-08-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -210,6 +192,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Expedia Group Inc",
+      "symbol": "EXPE",
+      "date": "2026-08-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Host Hotels & Resorts Inc",
       "symbol": "HST",
       "date": "2026-08-05",
@@ -237,11 +228,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Expedia Group Inc",
-      "symbol": "EXPE",
+      "company": "Howmet Aerospace",
+      "symbol": "HWM",
       "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -282,10 +273,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-10T06:38:32Z",
+  "generatedAt": "2026-07-10T11:47:44Z",
   "irCompanies": [
     "WW Grainger Inc"
   ],
@@ -299,12 +290,11 @@
     "Caterpillar",
     "Eaton Corporation PLC",
     "Emerson Electric Co",
-    "Equity Residential",
-    "Essex Property Trust Inc",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
     "Host Hotels & Resorts Inc",
+    "Howmet Aerospace",
     "Hubbell Inc",
     "Jacobs Solutions Inc",
     "JetBlue",

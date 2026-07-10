@@ -157,8 +157,8 @@
       "company": "APA",
       "symbol": "APA",
       "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,8 +292,8 @@
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -373,7 +373,7 @@
   "count": 41,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-10T06:38:34Z",
+  "generatedAt": "2026-07-10T11:47:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "APA",

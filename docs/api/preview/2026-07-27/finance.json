@@ -104,15 +104,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Prudential Financial",
-      "symbol": "PRU",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-07-29",
@@ -170,8 +161,8 @@
       "company": "Mastercard",
       "symbol": "MA",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -212,13 +203,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-10T06:38:18Z",
+  "generatedAt": "2026-07-10T11:47:32Z",
   "irCompanies": [
     "Arch Capital Group",
     "Cincinnati Financial"
@@ -239,7 +230,6 @@
     "Mastercard",
     "PayPal Holdings",
     "Principal Financial Group",
-    "Prudential Financial",
     "Robinhood",
     "S&P Global Inc",
     "T. Rowe Price Group",
