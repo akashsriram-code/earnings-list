@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "DuPont",
-      "symbol": "DD",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Duke Energy",
-      "symbol": "DUK",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Ecolab",
-      "symbol": "ECL",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Eversource Energy",
-      "symbol": "ES",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-02-11",
@@ -136,18 +100,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-10T01:30:51Z",
+  "generatedAt": "2026-07-10T06:33:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
-    "DuPont",
-    "Duke Energy",
-    "Ecolab",
     "Enbridge",
     "Entergy Corp",
     "Eversource Energy",
