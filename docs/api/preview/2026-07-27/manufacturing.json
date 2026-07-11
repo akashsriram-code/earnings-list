@@ -340,10 +340,12 @@
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Trane Technologies PLC",
@@ -378,13 +380,14 @@
   "count": 40,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-10T21:55:45Z",
+  "generatedAt": "2026-07-11T01:28:41Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
+    "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
   ],
@@ -413,7 +416,6 @@
     "Nucor Corp",
     "Pentair PLC",
     "Public Storage",
-    "Quanta Services Inc",
     "Stanley Black & Decker",
     "Textron Inc",
     "Trane Technologies PLC",
