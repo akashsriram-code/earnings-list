@@ -43,44 +43,48 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
+      "company": "HPE",
+      "symbol": "HPE",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Netflix",
+      "symbol": "NFLX",
       "date": "2026-07-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
     },
     {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-07-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
       "company": "Bank of America",
@@ -275,48 +279,44 @@
       "sector": "Consumer"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
       "date": "2026-07-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 30,
@@ -325,7 +325,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-13T06:03:29Z",
+  "generatedAt": "2026-07-13T08:54:29Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
