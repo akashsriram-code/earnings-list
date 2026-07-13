@@ -36,7 +36,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "GE HealthCare Technologies Inc",
@@ -87,12 +89,12 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-13T08:54:50Z",
+  "generatedAt": "2026-07-13T11:55:48Z",
   "irCompanies": [
+    "Boston Scientific Corp",
     "Centene Corp"
   ],
   "fallbackCompanies": [
-    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cigna",
     "GE HealthCare Technologies Inc",

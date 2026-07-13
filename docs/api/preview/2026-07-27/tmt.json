@@ -50,7 +50,7 @@
       "symbol": "KLAC",
       "date": "2026-07-28",
       "bmo_amc": "2:00 PM PT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://ir.kla.com/",
@@ -263,15 +263,6 @@
       "source": "aggregator"
     },
     {
-      "company": "KLA Corp",
-      "symbol": "KLAC",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lumen Tech",
       "symbol": "LUMN",
       "date": "2026-07-30",
@@ -293,8 +284,8 @@
       "company": "Reddit",
       "symbol": "RDDT",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -339,10 +330,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 36,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-13T08:54:51Z",
+  "generatedAt": "2026-07-13T11:55:48Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -368,7 +359,6 @@
     "Fortinet",
     "Garmin",
     "Grab",
-    "KLA Corp",
     "Lumen Tech",
     "Meta",
     "Monolithic Power",

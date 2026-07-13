@@ -165,15 +165,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Airbnb Inc",
-      "symbol": "ABNB",
-      "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Borgwarner Inc",
       "symbol": "BWA",
       "date": "2026-08-05",
@@ -228,20 +219,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Airbnb Inc",
+      "symbol": "ABNB",
+      "date": "2026-08-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-08-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Martin Marietta Materials Inc",
-      "symbol": "MLM",
-      "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -273,10 +264,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 29,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-13T08:55:01Z",
+  "generatedAt": "2026-07-13T11:56:03Z",
   "irCompanies": [
     "WW Grainger Inc"
   ],
@@ -301,7 +292,6 @@
     "Johnson Controls International PLC",
     "Leidos Holdings Inc",
     "Marriott International Inc",
-    "Martin Marietta Materials Inc",
     "Parker-Hannifin Corp",
     "Peloton",
     "Realty Income Corp",
