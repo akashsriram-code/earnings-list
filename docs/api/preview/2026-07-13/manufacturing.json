@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-07-13",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-07-14",
@@ -39,12 +50,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-13T11:55:23Z",
+  "generatedAt": "2026-07-13T14:04:27Z",
   "irCompanies": [
-    "Prologis Inc"
+    "Prologis Inc",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "Fastenal Co",
