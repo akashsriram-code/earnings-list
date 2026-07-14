@@ -159,12 +159,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-07-23",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lazard",
@@ -192,32 +190,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Aon",
-      "symbol": "AON",
-      "date": "2026-07-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-14T10:34:46Z",
+  "generatedAt": "2026-07-14T13:08:45Z",
   "irCompanies": [
-    "Huntington Bancshares",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",
-    "Aon",
     "Blackstone",
     "CME Group Inc",
     "Capital One Financial",
@@ -225,6 +212,7 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "KeyCorp",
     "Lazard",
