@@ -186,12 +186,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-07-23",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lockheed Martin",
@@ -239,6 +237,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-07-23",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-07-23",
@@ -248,13 +257,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-13T21:49:42Z",
+  "generatedAt": "2026-07-14T01:21:30Z",
   "irCompanies": [
     "DR Horton Inc",
-    "Honeywell"
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "3M Co",
@@ -264,6 +273,7 @@
     "Dover Corp",
     "Equity Residential",
     "Harley Davidson",
+    "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "NVR Inc",
