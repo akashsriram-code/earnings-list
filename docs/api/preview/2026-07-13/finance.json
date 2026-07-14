@@ -4,9 +4,9 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-07-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
@@ -15,9 +15,9 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-07-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -48,12 +48,10 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-07-14",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "PNC Financial",
@@ -70,9 +68,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-07-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -185,13 +183,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-14T13:08:32Z",
+  "generatedAt": "2026-07-14T16:13:58Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Goldman Sachs",
     "Huntington Bancshares",
-    "JPMorgan",
     "PNC Financial",
     "Truist Financial",
     "Wells Fargo"
@@ -200,6 +197,7 @@
     "BlackRock Inc",
     "Citizens Financial",
     "Fifth Third Bancorp",
+    "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
     "PNC Financial",
