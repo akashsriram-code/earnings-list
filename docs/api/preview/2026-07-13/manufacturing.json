@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-07-14",
+      "bmo_amc": "4:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 PM EDT",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-07-14",
@@ -18,6 +29,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-07-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
     },
     {
@@ -50,13 +72,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-14T19:04:40Z",
+  "generatedAt": "2026-07-14T21:51:05Z",
   "irCompanies": [
+    "Emerson Electric Co",
     "MGM Resorts International",
-    "Prologis Inc"
+    "Prologis Inc",
+    "UPS"
   ],
   "fallbackCompanies": [
     "Fastenal Co",

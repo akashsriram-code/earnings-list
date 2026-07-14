@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-08-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Amcor PLC",
+      "symbol": "AMCR",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-08-11",
@@ -69,56 +119,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-08-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-08-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
-      "date": "2026-08-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tapestry Inc",
-      "symbol": "TPR",
-      "date": "2026-08-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-14T19:05:26Z",
+  "generatedAt": "2026-07-14T21:51:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
