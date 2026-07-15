@@ -1,42 +1,29 @@
 {
   "records": [
     {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-14T21:51:03Z",
-  "irCompanies": [
-    "Sysco Corp"
-  ],
+  "generatedAt": "2026-07-15T01:18:23Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Cintas Corp",
     "Conagra Brands"

@@ -1,36 +1,38 @@
 {
   "records": [
     {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-07-14",
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-07-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
+      "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
+      "company": "Juniper Networks",
+      "symbol": "JNPR",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
       "company": "Bank of America",
@@ -39,9 +41,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -51,9 +51,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -63,21 +61,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -88,18 +72,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-07-14",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -116,9 +88,9 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -126,9 +98,9 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -136,9 +108,9 @@
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -146,19 +118,21 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
+      "yahoo_time_label": "BMO",
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -228,23 +202,31 @@
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-07-15",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Resources"
     },
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-07-14",
-      "bmo_amc": "4:15 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 PM EDT",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-07-15",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fastenal Co",
@@ -257,36 +239,12 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -313,82 +271,12 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-14",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-07-14",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Pharma"
     },
@@ -396,9 +284,9 @@
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Pharma"
     },
@@ -423,41 +311,33 @@
       "sector": "Pharma"
     }
   ],
-  "count": 39,
+  "count": 30,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-14T21:51:05Z",
+  "generatedAt": "2026-07-15T01:18:24Z",
   "irCompanies": [
-    "Bank of America",
-    "Citigroup",
-    "Emerson Electric Co",
-    "Goldman Sachs",
     "HPE",
-    "Huntington Bancshares",
     "Juniper Networks",
-    "MGM Resorts International",
     "PNC Financial",
     "Prologis Inc",
-    "Sysco Corp",
-    "Take-Two Interactive",
-    "Tencent Music",
-    "Teradyne",
-    "Truist Financial",
-    "UPS"
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Abbott Laboratories",
+    "Bank of America",
     "BlackRock Inc",
     "Cintas Corp",
+    "Citigroup",
     "Citizens Financial",
     "Conagra Brands",
     "Elevance Health Inc",
     "Fastenal Co",
     "Fifth Third Bancorp",
     "GE Aerospace",
+    "Goldman Sachs",
     "J B Hunt Transport Services Inc",
     "JPMorgan",
     "Johnson & Johnson",
@@ -465,7 +345,6 @@
     "M&T Bank Corp",
     "Morgan Stanley",
     "Netflix",
-    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

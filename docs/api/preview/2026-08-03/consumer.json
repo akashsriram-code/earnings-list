@@ -101,7 +101,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     },
     {
       "company": "DoorDash",
@@ -172,11 +174,12 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-14T21:51:41Z",
+  "generatedAt": "2026-07-15T01:19:00Z",
   "irCompanies": [
     "Ball Corp",
     "Keurig Dr. Pepper",
-    "Kimco Realty Corp"
+    "Kimco Realty Corp",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
@@ -192,7 +195,6 @@
     "Monster Beverage",
     "Ralph Lauren Corp",
     "Starbucks Corp",
-    "Sysco Corp",
     "Tyson Foods"
   ],
   "week": {

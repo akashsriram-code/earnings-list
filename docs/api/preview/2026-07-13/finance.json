@@ -7,9 +7,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Citigroup",
@@ -18,9 +16,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
@@ -29,20 +25,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-07-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "JPMorgan",
@@ -52,17 +35,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-07-14",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
@@ -77,45 +49,47 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "BMO",
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -175,29 +149,27 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-14T21:51:03Z",
+  "generatedAt": "2026-07-15T01:18:23Z",
   "irCompanies": [
-    "Bank of America",
-    "Citigroup",
-    "Goldman Sachs",
-    "Huntington Bancshares",
     "PNC Financial",
     "Truist Financial"
   ],
   "fallbackCompanies": [
+    "Bank of America",
     "BlackRock Inc",
+    "Citigroup",
     "Citizens Financial",
     "Fifth Third Bancorp",
+    "Goldman Sachs",
     "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

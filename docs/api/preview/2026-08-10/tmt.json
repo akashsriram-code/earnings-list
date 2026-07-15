@@ -25,7 +25,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cisco Systems",
@@ -58,15 +60,16 @@
   "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-14T21:51:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-15T01:19:12Z",
+  "irCompanies": [
+    "Tencent Music"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "JD.com",
-    "Sea Limited",
-    "Tencent Music"
+    "Sea Limited"
   ],
   "week": {
     "id": "2026-08-10",

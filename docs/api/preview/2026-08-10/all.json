@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-08-10",
@@ -51,6 +41,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-08-11",
@@ -77,7 +77,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -127,8 +129,10 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-14T21:51:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-15T01:19:12Z",
+  "irCompanies": [
+    "Tencent Music"
+  ],
   "fallbackCompanies": [
     "Amcor PLC",
     "Applied Materials",
@@ -140,7 +144,6 @@
     "Simon Property Group",
     "Smithfield Foods",
     "Tapestry Inc",
-    "Tencent Music",
     "Venture Global"
   ],
   "week": {

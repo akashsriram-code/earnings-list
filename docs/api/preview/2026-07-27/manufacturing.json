@@ -112,10 +112,12 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Veralto Corp",
@@ -234,7 +236,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -412,13 +416,15 @@
   "count": 44,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-14T21:51:29Z",
+  "generatedAt": "2026-07-15T01:18:46Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
+    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
+    "UPS",
     "Veralto Corp"
   ],
   "fallbackCompanies": [
@@ -445,7 +451,6 @@
     "Invitation Homes Inc",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
@@ -455,7 +460,6 @@
     "Textron Inc",
     "Trane Technologies PLC",
     "UDR INC",
-    "UPS",
     "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",

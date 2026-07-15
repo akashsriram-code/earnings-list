@@ -46,6 +46,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-08-04",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2026-08-04",
@@ -237,11 +248,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-14T21:51:40Z",
+  "generatedAt": "2026-07-15T01:18:58Z",
   "irCompanies": [
+    "Emerson Electric Co",
     "WW Grainger Inc"
   ],
   "fallbackCompanies": [
