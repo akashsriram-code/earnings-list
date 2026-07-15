@@ -4,10 +4,21 @@
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-07-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-07-15",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Conagra Brands",
@@ -41,11 +52,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-15T16:18:59Z",
+  "generatedAt": "2026-07-15T18:58:06Z",
   "irCompanies": [
+    "Coca-Cola Co",
     "Deckers Outdoors",
     "Norwegian Cruise Line"
   ],
