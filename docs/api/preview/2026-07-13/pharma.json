@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-07-15",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-07-16",
@@ -37,11 +48,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-15T18:58:08Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-15T21:51:56Z",
+  "irCompanies": [
+    "Solventum Corp"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Elevance Health Inc",
