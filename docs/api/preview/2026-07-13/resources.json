@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "XPLR Infrastructure (previously NEP)",
+      "symbol": "XPLR",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-15T07:53:35Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-15T10:47:32Z",
+  "irCompanies": [
+    "XPLR Infrastructure (previously NEP)"
+  ],
   "fallbackCompanies": [
     "Kinder Morgan"
   ],
