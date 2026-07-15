@@ -51,12 +51,10 @@
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-07-23",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://ir.deckers.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tractor Supply Co",
@@ -80,12 +78,12 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-15T10:47:41Z",
+  "generatedAt": "2026-07-15T13:11:51Z",
   "irCompanies": [
-    "Constellation Brands",
-    "Deckers Outdoors"
+    "Constellation Brands"
   ],
   "fallbackCompanies": [
+    "Deckers Outdoors",
     "Domino\u2019s Pizza Inc",
     "Hasbro Inc",
     "Lamb Weston Holdings",

@@ -17,13 +17,38 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-07-15",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-07-15",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-15T10:47:31Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-15T13:11:40Z",
+  "irCompanies": [
+    "Deckers Outdoors",
+    "Norwegian Cruise Line"
+  ],
   "fallbackCompanies": [
     "Cintas Corp",
     "Conagra Brands"

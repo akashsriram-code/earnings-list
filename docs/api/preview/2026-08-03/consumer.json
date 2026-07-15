@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Clorox Co",
+      "symbol": "CLX",
+      "date": "2026-08-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-08-03",
@@ -98,8 +107,8 @@
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
@@ -171,10 +180,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-15T10:48:04Z",
+  "generatedAt": "2026-07-15T13:12:16Z",
   "irCompanies": [
     "Ball Corp",
     "Keurig Dr. Pepper",
@@ -182,6 +191,7 @@
     "Sysco Corp"
   ],
   "fallbackCompanies": [
+    "Clorox Co",
     "Coca-Cola Europacific",
     "DoorDash",
     "Instacart",

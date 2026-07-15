@@ -4,8 +4,8 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-07-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,28 +49,30 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-07-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-07-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-07-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations"
     },
     {
       "company": "PNC Financial",
@@ -78,7 +80,7 @@
       "date": "2026-07-15",
       "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "10:00 am EDT",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations"
@@ -155,8 +157,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-15T10:47:33Z",
+  "generatedAt": "2026-07-15T13:11:39Z",
   "irCompanies": [
+    "Morgan Stanley",
     "PNC Financial",
     "Truist Financial"
   ],
@@ -169,7 +172,6 @@
     "Goldman Sachs",
     "JPMorgan",
     "M&T Bank Corp",
-    "Morgan Stanley",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

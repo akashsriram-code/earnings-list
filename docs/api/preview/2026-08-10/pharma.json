@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-08-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-08-11",
@@ -10,13 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-15T10:48:16Z",
+  "generatedAt": "2026-07-15T13:12:25Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Cardinal Health Inc"
+    "Cardinal Health Inc",
+    "Hims and Hers"
   ],
   "week": {
     "id": "2026-08-10",
