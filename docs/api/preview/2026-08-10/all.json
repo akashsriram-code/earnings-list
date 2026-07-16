@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-08-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-08-10",
@@ -135,6 +115,26 @@
       "sector": "Consumer"
     },
     {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-08-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Venture Global",
       "symbol": "VG",
       "date": "2026-08-11",
@@ -151,7 +151,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-16T16:16:32Z",
+  "generatedAt": "2026-07-16T19:00:47Z",
   "irCompanies": [
     "Micron",
     "Tencent Music"

@@ -63,9 +63,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pfizer Inc",
@@ -273,11 +271,10 @@
   "count": 29,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-16T16:16:18Z",
+  "generatedAt": "2026-07-16T19:00:35Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "IDEXX Laboratories Inc",
-    "Merck",
     "Solventum Corp"
   ],
   "fallbackCompanies": [
@@ -296,6 +293,7 @@
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
+    "Merck",
     "Novavax",
     "Pfizer Inc",
     "Revvity",

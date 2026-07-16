@@ -165,6 +165,40 @@
       "sector": "Finance"
     },
     {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-07-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-07-16",
+      "bmo_amc": "2:31 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:31 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-07-15",
@@ -195,68 +229,6 @@
       "ir_source_url": "https://www.nclhltd.com/investors",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-16",
-      "bmo_amc": "11:50 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:50 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-07-16",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-07-16",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Fastenal Co",
@@ -299,17 +271,58 @@
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-07-16",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-07-16",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-16T16:15:43Z",
+  "generatedAt": "2026-07-16T18:59:57Z",
   "irCompanies": [
     "Citizens Financial",
+    "Fox Corp",
     "Norwegian Cruise Line",
     "Prologis Inc",
     "Take-Two Interactive",
