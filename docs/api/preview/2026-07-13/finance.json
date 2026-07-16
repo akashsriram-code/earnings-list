@@ -97,7 +97,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "State Street Corp",
@@ -153,15 +155,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-16T07:58:14Z",
+  "generatedAt": "2026-07-16T10:55:02Z",
   "irCompanies": [
+    "Citizens Financial",
     "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Citigroup",
-    "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",
     "JPMorgan",
