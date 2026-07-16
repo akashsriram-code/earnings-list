@@ -1,81 +1,20 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-07-15",
-      "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM ET",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "GoDaddy",
-      "symbol": "GDDY",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-15",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-07-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-15T21:51:56Z",
-  "irCompanies": [
-    "Applied Digital",
-    "GoDaddy",
-    "HPE",
-    "Juniper Networks",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-07-16T01:27:13Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Netflix"
   ],

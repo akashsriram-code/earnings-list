@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-07-27",
+      "bmo_amc": "5:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM ET",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-07-27",
@@ -251,7 +262,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Grab",
@@ -321,12 +334,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-15T21:52:19Z",
+  "generatedAt": "2026-07-16T01:27:34Z",
   "irCompanies": [
+    "Applied Digital",
     "Equinix",
+    "GoDaddy",
     "KLA Corp",
     "Lam Research",
     "Microsoft",
@@ -349,7 +364,6 @@
     "F5",
     "Fortinet",
     "Garmin",
-    "GoDaddy",
     "Grab",
     "Meta",
     "Monolithic Power",
