@@ -86,15 +86,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Mondelez International",
-      "symbol": "MDLZ",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-08-04",
@@ -136,8 +127,8 @@
       "company": "Instacart",
       "symbol": "CART",
       "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -180,10 +171,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-16T10:55:38Z",
+  "generatedAt": "2026-07-16T13:21:01Z",
   "irCompanies": [
     "Ball Corp",
     "Keurig Dr. Pepper",
@@ -201,7 +192,6 @@
     "Mattel",
     "McDonald\u2019s Corp",
     "Molson Coors Beverage Co",
-    "Mondelez International",
     "Monster Beverage",
     "Ralph Lauren Corp",
     "Starbucks Corp",

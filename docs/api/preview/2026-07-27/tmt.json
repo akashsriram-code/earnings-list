@@ -86,6 +86,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Seagate",
+      "symbol": "STX",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "ADP",
       "symbol": "ADP",
       "date": "2026-07-29",
@@ -174,8 +192,8 @@
       "company": "Meta",
       "symbol": "META",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -203,8 +221,8 @@
       "company": "Qualcomm",
       "symbol": "QCOM",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -223,8 +241,8 @@
       "company": "Tyler Tech",
       "symbol": "TYL",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -279,8 +297,8 @@
       "company": "Monolithic Power",
       "symbol": "MPWR",
       "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -334,10 +352,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 35,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-16T10:55:25Z",
+  "generatedAt": "2026-07-16T13:20:49Z",
   "irCompanies": [
     "Applied Digital",
     "Equinix",
@@ -374,6 +392,8 @@
     "Reddit",
     "Roblox",
     "Roku",
+    "Seagate",
+    "Teradyne",
     "Tyler Tech",
     "eBay"
   ],

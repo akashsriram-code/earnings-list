@@ -100,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "JetBlue",
+      "symbol": "JBLU",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Pentair PLC",
       "symbol": "PNR",
       "date": "2026-07-28",
@@ -188,8 +197,8 @@
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -308,6 +317,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Vulcan Materials Co",
+      "symbol": "VMC",
+      "date": "2026-07-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "A O Smith Corp",
       "symbol": "AOS",
       "date": "2026-07-30",
@@ -393,15 +411,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Vulcan Materials Co",
-      "symbol": "VMC",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-07-31",
@@ -422,10 +431,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-16T10:55:26Z",
+  "generatedAt": "2026-07-16T13:20:50Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
@@ -459,6 +468,7 @@
     "Illinois Tool Works Inc",
     "Ingersoll Rand Inc",
     "Invitation Homes Inc",
+    "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Martin Marietta Materials Inc",
