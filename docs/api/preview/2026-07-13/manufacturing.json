@@ -22,8 +22,8 @@
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2026-07-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,17 +31,30 @@
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-07-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-07-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-17T07:56:00Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-17T10:35:44Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [
     "Fastenal Co",
     "GE Aerospace",
