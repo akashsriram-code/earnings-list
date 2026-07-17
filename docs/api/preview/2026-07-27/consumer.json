@@ -79,6 +79,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-07-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "VF Corp",
       "symbol": "VFC",
       "date": "2026-07-29",
@@ -119,7 +128,7 @@
       "symbol": "NCLH",
       "date": "2026-07-30",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://www.nclhltd.com/investors",
@@ -162,10 +171,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-17T10:36:04Z",
+  "generatedAt": "2026-07-17T13:05:53Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
@@ -184,6 +193,7 @@
     "Mondelez International",
     "Procter & Gamble",
     "Regency Centers Corp",
+    "Starbucks Corp",
     "VF Corp",
     "Yum Brands"
   ],

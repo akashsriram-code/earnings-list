@@ -5,7 +5,7 @@
       "symbol": "APLD",
       "date": "2026-07-27",
       "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 PM ET",
       "ir_source_url": "https://ir.applieddigital.com/",
@@ -86,8 +86,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Qorvo",
+      "symbol": "QRVO",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Seagate",
       "symbol": "STX",
+      "date": "2026-07-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
       "date": "2026-07-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -118,15 +136,6 @@
       "date": "2026-07-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -247,15 +256,6 @@
       "source": "aggregator"
     },
     {
-      "company": "eBay",
-      "symbol": "EBAY",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2026-07-30",
@@ -366,7 +366,7 @@
   "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-17T10:36:05Z",
+  "generatedAt": "2026-07-17T13:05:52Z",
   "irCompanies": [
     "Applied Digital",
     "Equinix",
@@ -385,7 +385,6 @@
     "American Tower",
     "Amphenol",
     "Apple",
-    "Applied Digital",
     "Arm Holdings",
     "Cadence",
     "CoStar Group",
@@ -400,14 +399,15 @@
     "NXP Semiconductors",
     "Omnicom",
     "PTC",
+    "Qorvo",
     "Qualcomm",
     "Reddit",
     "Roblox",
     "Roku",
     "Seagate",
+    "Skyworks Solutions",
     "Teradyne",
-    "Tyler Tech",
-    "eBay"
+    "Tyler Tech"
   ],
   "week": {
     "id": "2026-07-27",
