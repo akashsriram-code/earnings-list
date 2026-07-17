@@ -94,56 +94,54 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-07-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-07-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2026-07-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-07-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-07-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-07-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
@@ -155,15 +153,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-16T22:00:30Z",
+  "generatedAt": "2026-07-17T01:30:51Z",
   "irCompanies": [
-    "Citizens Financial",
     "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Citigroup",
+    "Citizens Financial",
     "Fifth Third Bancorp",
     "Goldman Sachs",
     "JPMorgan",

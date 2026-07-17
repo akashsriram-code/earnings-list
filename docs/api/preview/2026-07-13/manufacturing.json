@@ -22,34 +22,31 @@
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2026-07-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-07-16",
-      "bmo_amc": "12:00 PM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "12:00 pm EDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 4,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-16T22:00:31Z",
-  "irCompanies": [
-    "Prologis Inc"
-  ],
+  "generatedAt": "2026-07-17T01:30:53Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Fastenal Co",
     "GE Aerospace",
-    "J B Hunt Transport Services Inc"
+    "J B Hunt Transport Services Inc",
+    "Prologis Inc"
   ],
   "week": {
     "id": "2026-07-13",
