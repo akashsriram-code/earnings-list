@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-08-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-09-01",
@@ -64,11 +75,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-19T12:53:57Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-19T15:51:46Z",
+  "irCompanies": [
+    "BlackBerry"
+  ],
   "fallbackCompanies": [
     "Alibaba",
     "Broadcom",
