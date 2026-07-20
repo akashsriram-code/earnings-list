@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-07-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "W. R. Berkley Corp",
       "symbol": "WRB",
       "date": "2026-07-20",
@@ -159,12 +170,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-07-23",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lazard",
@@ -194,13 +203,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-20T13:49:56Z",
+  "generatedAt": "2026-07-20T16:25:44Z",
   "irCompanies": [
     "Huntington Bancshares",
     "Synchrony Financial"
@@ -215,6 +224,7 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "KeyCorp",
     "Lazard",
