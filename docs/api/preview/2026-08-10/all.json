@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-08-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-08-10",
@@ -59,16 +69,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Micron",
@@ -151,7 +151,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-20T08:51:07Z",
+  "generatedAt": "2026-07-20T11:40:57Z",
   "irCompanies": [
     "Micron",
     "Tencent Music"
