@@ -31,10 +31,12 @@
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-07-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investor.drhorton.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Northrop Grumman Corp",
@@ -271,9 +273,10 @@
   "count": 29,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-20T19:28:09Z",
+  "generatedAt": "2026-07-20T22:01:20Z",
   "irCompanies": [
     "Alaska Air",
+    "DR Horton Inc",
     "Honeywell",
     "Southwest Airlines Co"
   ],
@@ -282,7 +285,6 @@
     "Alaska Air",
     "American Airlines Group Inc",
     "CSX Corp",
-    "DR Horton Inc",
     "Dover Corp",
     "Equity Residential",
     "Harley Davidson",
