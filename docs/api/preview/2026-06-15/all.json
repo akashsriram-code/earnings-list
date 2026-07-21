@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-06-18",
@@ -39,6 +29,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 4,
@@ -47,7 +47,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-21T05:44:49Z",
+  "generatedAt": "2026-07-21T08:09:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
