@@ -49,10 +49,12 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-07-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "4:30PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": "4:30pm ET",
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
     },
     {
       "company": "KeyCorp",
@@ -200,9 +202,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-21T19:08:07Z",
+  "generatedAt": "2026-07-21T21:59:39Z",
   "irCompanies": [
     "Huntington Bancshares",
+    "Interactive Brokers",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
@@ -215,7 +218,6 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
-    "Interactive Brokers",
     "KeyCorp",
     "Lazard",
     "MSCI Inc",

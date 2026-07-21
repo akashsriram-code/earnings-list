@@ -366,7 +366,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Lyft",
@@ -419,9 +421,10 @@
   "count": 45,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-21T19:08:32Z",
+  "generatedAt": "2026-07-21T21:59:58Z",
   "irCompanies": [
     "Fox Corp",
+    "Gen Digital",
     "Lyft",
     "NYT",
     "Qnity",
@@ -441,7 +444,6 @@
     "Figma",
     "Freshworks",
     "Gartner",
-    "Gen Digital",
     "GlobalFoundries",
     "Iron Mountain",
     "Kyndryl",

@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-07-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-07-21",
@@ -86,11 +97,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-21T19:08:06Z",
+  "generatedAt": "2026-07-21T21:59:40Z",
   "irCompanies": [
+    "DaVita Inc",
     "Danaher Corp",
     "Mckesson Corp"
   ],
