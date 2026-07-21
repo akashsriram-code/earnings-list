@@ -31,9 +31,9 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-07-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-07-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2026-07-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -78,7 +78,7 @@
       "date": "2026-07-21",
       "bmo_amc": "6:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "6:00 AM EDT",
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations"
@@ -200,7 +200,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-21T13:17:45Z",
+  "generatedAt": "2026-07-21T16:19:52Z",
   "irCompanies": [
     "Huntington Bancshares",
     "Synchrony Financial"
