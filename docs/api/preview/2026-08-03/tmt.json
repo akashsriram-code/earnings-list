@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Grab",
+      "symbol": "GRAB",
+      "date": "2026-08-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-08-03",
@@ -420,10 +429,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-22T11:04:17Z",
+  "generatedAt": "2026-07-22T13:24:16Z",
   "irCompanies": [
     "Fox Corp",
     "Gen Digital",
@@ -448,6 +457,7 @@
     "Freshworks",
     "Gartner",
     "GlobalFoundries",
+    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lucid",
