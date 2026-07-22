@@ -13,10 +13,12 @@
       "company": "Smithfield Foods",
       "symbol": "SFD",
       "date": "2026-08-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Amcor PLC",
@@ -40,12 +42,13 @@
   "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-21T22:00:12Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-22T01:27:41Z",
+  "irCompanies": [
+    "Smithfield Foods"
+  ],
   "fallbackCompanies": [
     "Amcor PLC",
     "Simon Property Group",
-    "Smithfield Foods",
     "Tapestry Inc"
   ],
   "week": {

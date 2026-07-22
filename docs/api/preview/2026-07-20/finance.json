@@ -22,76 +22,72 @@
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-07-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Chubb",
       "symbol": "CB",
       "date": "2026-07-21",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-07-21",
-      "bmo_amc": "4:30PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30pm ET",
-      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2026-07-21",
-      "bmo_amc": "6:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:00 AM EDT",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-07-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -107,27 +103,27 @@
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-07-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-07-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Raymond James",
       "symbol": "RJF",
       "date": "2026-07-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -202,11 +198,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-21T21:59:39Z",
+  "generatedAt": "2026-07-22T01:27:05Z",
   "irCompanies": [
-    "Huntington Bancshares",
-    "Interactive Brokers",
-    "Synchrony Financial"
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "American Express",
@@ -218,6 +212,7 @@
     "Chubb",
     "Globe Life",
     "Hartford Financial Services",
+    "Interactive Brokers",
     "KeyCorp",
     "Lazard",
     "MSCI Inc",
@@ -225,6 +220,7 @@
     "Nasdaq",
     "Northern Trust",
     "Raymond James",
+    "Synchrony Financial",
     "W. R. Berkley Corp",
     "Zions Bancorporation"
   ],
