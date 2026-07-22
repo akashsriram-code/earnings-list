@@ -58,8 +58,8 @@
       "company": "Caterpillar",
       "symbol": "CAT",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -104,6 +104,15 @@
     {
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
+      "date": "2026-08-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Rockwell Automation Inc",
+      "symbol": "ROK",
       "date": "2026-08-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -239,10 +248,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-22T08:11:47Z",
+  "generatedAt": "2026-07-22T11:04:18Z",
   "irCompanies": [
     "Emerson Electric Co",
     "WW Grainger Inc"

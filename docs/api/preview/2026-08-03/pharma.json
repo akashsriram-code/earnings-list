@@ -40,8 +40,8 @@
       "company": "Henry Schein Inc",
       "symbol": "HSIC",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -206,12 +206,10 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-08-06",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Dentsply Sirona",
@@ -262,15 +260,15 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-22T08:11:50Z",
+  "generatedAt": "2026-07-22T11:04:19Z",
   "irCompanies": [
-    "Becton Dickinson and Co",
     "IDEXX Laboratories Inc",
     "Solventum Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "CVS Health Corp",
     "Cencora Inc",
