@@ -22,18 +22,18 @@
       "company": "GE Vernova",
       "symbol": "GEV",
       "date": "2026-07-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-07-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,18 +49,18 @@
       "company": "Freeport McMoRan",
       "symbol": "FCX",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Newmont Corp",
       "symbol": "NEM",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -112,7 +112,7 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-22T22:00:43Z",
+  "generatedAt": "2026-07-23T01:35:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Dow",

@@ -19,26 +19,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-07-22",
-      "bmo_amc": "11:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 a.m",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Philip Morris International",
       "symbol": "PM",
       "date": "2026-07-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.pmi.com/investor-relations/overview",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Rollins Inc",
@@ -79,19 +66,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-22T22:00:43Z",
+  "generatedAt": "2026-07-23T01:35:03Z",
   "irCompanies": [
-    "Constellation Brands",
-    "Deckers Outdoors",
-    "Philip Morris International"
+    "Deckers Outdoors"
   ],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc",
     "Hasbro Inc",
     "Lamb Weston Holdings",
+    "Philip Morris International",
     "Rollins Inc",
     "Tractor Supply Co"
   ],

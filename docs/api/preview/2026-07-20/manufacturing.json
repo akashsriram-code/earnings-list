@@ -46,34 +46,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-07-22",
-      "bmo_amc": "11:30 A.M. EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-07-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-07-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -89,9 +67,9 @@
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2026-07-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -134,47 +112,45 @@
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-07-22",
-      "bmo_amc": "4:15PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:15pm EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-07-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2026-07-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "United Rentals Inc",
       "symbol": "URI",
       "date": "2026-07-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2026-07-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -210,7 +186,7 @@
       "date": "2026-07-23",
       "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM EDT",
       "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations"
@@ -219,18 +195,18 @@
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
       "symbol": "NSC",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -246,9 +222,9 @@
       "company": "RTX",
       "symbol": "RTX",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -261,22 +237,31 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-07-23",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-07-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-22T22:00:43Z",
+  "generatedAt": "2026-07-23T01:35:02Z",
   "irCompanies": [
-    "Alaska Air",
-    "Axon Enterprise Inc",
     "Honeywell",
     "Southwest Airlines Co"
   ],
@@ -300,6 +285,7 @@
     "Pultegroup Inc",
     "RTX",
     "Snap-On Inc",
+    "Southwest Airlines Co",
     "Steel Dynamics",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc",
