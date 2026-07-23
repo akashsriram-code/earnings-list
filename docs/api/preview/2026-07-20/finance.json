@@ -162,7 +162,9 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Huntington Bancshares",
@@ -209,9 +211,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-23T19:03:18Z",
+  "generatedAt": "2026-07-23T22:01:24Z",
   "irCompanies": [
     "Global Payments",
+    "Hartford Financial Services",
     "Huntington Bancshares"
   ],
   "fallbackCompanies": [
@@ -223,7 +226,6 @@
     "Charles Schwab",
     "Chubb",
     "Globe Life",
-    "Hartford Financial Services",
     "Interactive Brokers",
     "KeyCorp",
     "Lazard",

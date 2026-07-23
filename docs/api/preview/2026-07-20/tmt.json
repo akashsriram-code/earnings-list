@@ -94,10 +94,10 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-07-23",
-      "bmo_amc": "2:00 PM PDT",
+      "bmo_amc": "4:01 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00 PM PDT",
+      "ir_time_label": "4:01 PM EDT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
     },
@@ -122,6 +122,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-07-23",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2026-07-23",
@@ -143,10 +154,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-07-23",
-      "bmo_amc": "2:37 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:37 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -180,13 +191,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-23T19:03:17Z",
+  "generatedAt": "2026-07-23T22:01:25Z",
   "irCompanies": [
     "Intel",
     "Live Nation Entertainment",
+    "Qnity",
     "Take-Two Interactive",
     "Verizon"
   ],
