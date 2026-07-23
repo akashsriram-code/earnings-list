@@ -130,9 +130,9 @@
       "company": "Ameriprise Financial Inc",
       "symbol": "AMP",
       "date": "2026-07-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -168,9 +168,9 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
@@ -209,7 +209,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-23T13:26:33Z",
+  "generatedAt": "2026-07-23T16:25:33Z",
   "irCompanies": [
     "Global Payments",
     "Huntington Bancshares"

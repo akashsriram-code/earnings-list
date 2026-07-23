@@ -49,9 +49,9 @@
       "company": "Freeport McMoRan",
       "symbol": "FCX",
       "date": "2026-07-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -85,9 +85,9 @@
       "company": "Teck Resources",
       "symbol": "TECK",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -112,7 +112,7 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-23T13:26:33Z",
+  "generatedAt": "2026-07-23T16:25:35Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Dow",
