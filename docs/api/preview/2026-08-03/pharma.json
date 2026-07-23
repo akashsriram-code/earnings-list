@@ -22,8 +22,17 @@
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2026-08-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -217,17 +226,8 @@
       "company": "Dentsply Sirona",
       "symbol": "XRAY",
       "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Gilead",
-      "symbol": "GILD",
-      "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -262,7 +262,7 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-23T11:04:03Z",
+  "generatedAt": "2026-07-23T13:26:55Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "IDEXX Laboratories Inc",

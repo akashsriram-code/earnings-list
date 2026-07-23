@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-08-03",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
+    },
+    {
       "company": "Grab",
       "symbol": "GRAB",
       "date": "2026-08-03",
@@ -109,15 +120,6 @@
       "source": "aggregator"
     },
     {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2026-08-04",
@@ -143,15 +145,6 @@
       "date": "2026-08-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Super Micro",
-      "symbol": "SMCI",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -264,6 +257,15 @@
       "ir_time_label": null,
       "ir_source_url": "https://www.nytco.com/investors/",
       "source": "investor_relations"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Paycom",
@@ -432,8 +434,9 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-23T11:04:05Z",
+  "generatedAt": "2026-07-23T13:26:56Z",
   "irCompanies": [
+    "AT&T",
     "Fox Corp",
     "Gen Digital",
     "Lyft",
@@ -473,7 +476,6 @@
     "SBA Communications",
     "Snap",
     "Spotify",
-    "Super Micro",
     "Tower Semiconductor",
     "Trade Desk",
     "Trimble",

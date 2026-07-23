@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-09-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-09-15",
@@ -13,17 +23,19 @@
       "sector": "Finance"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-23T11:05:16Z",
+  "generatedAt": "2026-07-23T13:28:03Z",
   "irCompanies": [
     "Wells Fargo"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "General Mills"
+  ],
   "week": {
     "id": "2026-09-14",
     "start_date": "2026-09-14",
