@@ -184,10 +184,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-07-23",
-      "bmo_amc": "BMO",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -258,8 +260,9 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-23T05:50:10Z",
+  "generatedAt": "2026-07-23T08:14:15Z",
   "irCompanies": [
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -271,7 +274,6 @@
     "Dover Corp",
     "Equity Residential",
     "Harley Davidson",
-    "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "NVR Inc",
