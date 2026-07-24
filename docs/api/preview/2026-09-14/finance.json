@@ -10,19 +10,30 @@
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-24T11:02:53Z",
+  "generatedAt": "2026-07-24T13:22:30Z",
   "irCompanies": [
     "Wells Fargo"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "FactSet Research"
+  ],
   "week": {
     "id": "2026-09-14",
     "start_date": "2026-09-14",
