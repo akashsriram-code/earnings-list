@@ -132,10 +132,12 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Spotify",
@@ -419,22 +421,26 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-08-07",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
   "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-23T22:01:47Z",
+  "generatedAt": "2026-07-24T01:31:05Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
     "Lyft",
     "NYT",
-    "Shopify"
+    "Qnity",
+    "Shopify",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -465,11 +471,9 @@
     "Palantir",
     "Paycom",
     "Pinterest",
-    "Qnity",
     "SBA Communications",
     "Snap",
     "Spotify",
-    "Take-Two Interactive",
     "Tower Semiconductor",
     "Trade Desk",
     "Trimble",

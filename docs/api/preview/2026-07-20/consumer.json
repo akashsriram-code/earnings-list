@@ -40,23 +40,10 @@
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-07-23",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 pm EDT",
-      "ir_source_url": "https://ir.deckers.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-07-23",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tractor Supply Co",
@@ -71,21 +58,19 @@
       "company": "Lamb Weston Holdings",
       "symbol": "LW",
       "date": "2026-07-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-23T22:01:23Z",
-  "irCompanies": [
-    "Deckers Outdoors",
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2026-07-24T01:30:42Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Deckers Outdoors",
     "Domino\u2019s Pizza Inc",
     "Hasbro Inc",
     "Lamb Weston Holdings",

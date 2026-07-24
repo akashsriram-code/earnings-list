@@ -280,10 +280,12 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Public Storage",
@@ -432,12 +434,13 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-23T22:01:37Z",
+  "generatedAt": "2026-07-24T01:30:55Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
     "MGM Resorts International",
     "Magna International",
+    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
@@ -471,7 +474,6 @@
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
-    "Old Dominion Freight Line Inc",
     "Pentair PLC",
     "Public Storage",
     "Stanley Black & Decker",

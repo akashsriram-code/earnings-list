@@ -76,41 +76,28 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-07-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-07-23",
-      "bmo_amc": "4:01 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:01 PM EDT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-07-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mobileye",
@@ -120,17 +107,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-07-23",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Roper Technologies",
@@ -145,21 +121,10 @@
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "VeriSign",
@@ -174,9 +139,9 @@
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2026-07-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -185,21 +150,17 @@
       "date": "2026-07-24",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations"
     }
   ],
-  "count": 20,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-23T22:01:25Z",
+  "generatedAt": "2026-07-24T01:30:43Z",
   "irCompanies": [
-    "Intel",
-    "Live Nation Entertainment",
-    "Qnity",
-    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -210,6 +171,7 @@
     "Crown Castle",
     "Digital Realty",
     "IBM",
+    "Intel",
     "Mobileye",
     "Rogers Communications",
     "Roper Technologies",

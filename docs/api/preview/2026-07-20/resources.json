@@ -49,18 +49,18 @@
       "company": "Freeport McMoRan",
       "symbol": "FCX",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Newmont Corp",
       "symbol": "NEM",
       "date": "2026-07-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "PG&E Corp",
       "symbol": "PCG",
       "date": "2026-07-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -94,25 +94,25 @@
       "company": "NextEra Energy",
       "symbol": "NEE",
       "date": "2026-07-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "SLB",
       "symbol": "SLB",
       "date": "2026-07-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
   "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-23T22:01:23Z",
+  "generatedAt": "2026-07-24T01:30:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Dow",

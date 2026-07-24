@@ -118,10 +118,12 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Yum Brands",
@@ -163,10 +165,11 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-23T22:01:37Z",
+  "generatedAt": "2026-07-24T01:30:53Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
+    "Norwegian Cruise Line",
     "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
@@ -178,7 +181,6 @@
     "International Paper Co",
     "Masco Corp",
     "Mondelez International",
-    "Norwegian Cruise Line",
     "Procter & Gamble",
     "Regency Centers Corp",
     "Starbucks Corp",
