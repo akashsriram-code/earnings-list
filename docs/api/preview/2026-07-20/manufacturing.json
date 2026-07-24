@@ -242,13 +242,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-07-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-24T13:20:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-24T19:15:22Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
