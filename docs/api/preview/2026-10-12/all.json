@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-10-13",
@@ -37,28 +25,27 @@
       "sector": "Finance"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
+      "company": "Accenture",
+      "symbol": "ACN",
       "date": "2026-10-14",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "TMT"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-24T08:13:17Z",
+  "generatedAt": "2026-07-24T11:03:53Z",
   "irCompanies": [
     "Accenture",
-    "Bank of America",
     "Citigroup",
     "JPMorgan"
   ],

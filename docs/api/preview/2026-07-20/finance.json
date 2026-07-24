@@ -188,16 +188,29 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-07-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-24T08:10:44Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-24T11:00:48Z",
+  "irCompanies": [
+    "Bank of America"
+  ],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",
