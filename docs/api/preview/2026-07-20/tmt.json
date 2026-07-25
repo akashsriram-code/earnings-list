@@ -139,42 +139,26 @@
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2026-07-24",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-24",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-07-24",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-24T22:00:06Z",
-  "irCompanies": [
-    "Take-Two Interactive",
-    "Verizon"
-  ],
+  "generatedAt": "2026-07-25T01:31:09Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
     "Alphabet Inc",
@@ -191,7 +175,8 @@
     "T-Mobile US",
     "Tesla",
     "Texas Instruments",
-    "VeriSign"
+    "VeriSign",
+    "Verizon"
   ],
   "week": {
     "id": "2026-07-20",
