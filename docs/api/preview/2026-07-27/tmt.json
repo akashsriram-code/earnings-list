@@ -4,10 +4,10 @@
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-07-27",
-      "bmo_amc": "5:00 PM ET",
+      "bmo_amc": "4:05 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 PM ET",
+      "ir_time_label": "4:05 PM EDT",
       "ir_source_url": "https://ir.applieddigital.com/",
       "source": "investor_relations"
     },
@@ -21,6 +21,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-07-27",
+      "bmo_amc": "5:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30 pm EDT",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "F5",
       "symbol": "FFIV",
       "date": "2026-07-27",
@@ -28,6 +39,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-07-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qnity",
@@ -44,10 +66,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-07-27",
-      "bmo_amc": "2:46 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:46 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -183,12 +205,10 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-07-29",
-      "bmo_amc": "5:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:30 pm EDT",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Fortinet",
@@ -312,12 +332,10 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-07-30",
-      "bmo_amc": "2:00PM PDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00pm PDT",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Monolithic Power",
@@ -369,10 +387,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 38,
+  "count": 40,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-27T19:15:16Z",
+  "generatedAt": "2026-07-27T22:01:51Z",
   "irCompanies": [
     "Applied Digital",
     "Equinix",
@@ -399,9 +417,11 @@
     "CoStar Group",
     "Cognizant",
     "Corning",
+    "Equinix",
     "F5",
     "Fortinet",
     "Garmin",
+    "Live Nation Entertainment",
     "Meta",
     "Monolithic Power",
     "NXP Semiconductors",
