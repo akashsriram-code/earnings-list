@@ -4,41 +4,28 @@
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-07-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-07-27",
-      "bmo_amc": "11:00AM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "11:00am EDT",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2026-07-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Arch Capital Group",
@@ -48,6 +35,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-07-28",
+      "bmo_amc": "11:00AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am EDT",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Invesco",
@@ -71,18 +69,18 @@
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Visa",
       "symbol": "V",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -231,18 +229,18 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-27T22:01:51Z",
+  "generatedAt": "2026-07-28T01:26:19Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
-    "Cincinnati Financial",
-    "Truist Financial"
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
+    "Cincinnati Financial",
     "Coinbase",
     "Everest",
     "Fair Issac Corp",

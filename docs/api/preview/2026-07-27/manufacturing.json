@@ -1,74 +1,30 @@
 {
   "records": [
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-07-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-07-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-07-27",
-      "bmo_amc": "11:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 am ET",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-07-27",
-      "bmo_amc": "12:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm EDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations"
     },
     {
       "company": "UDR INC",
       "symbol": "UDR",
       "date": "2026-07-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -111,18 +67,18 @@
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -138,9 +94,9 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -176,7 +132,7 @@
       "date": "2026-07-28",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
@@ -194,9 +150,9 @@
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -307,7 +263,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -473,19 +431,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 50,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-27T22:01:50Z",
+  "generatedAt": "2026-07-28T01:26:20Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
-    "Honeywell",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
-    "Parker-Hannifin Corp",
-    "Prologis Inc",
     "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
@@ -516,7 +471,6 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
