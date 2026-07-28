@@ -4,11 +4,22 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-07-28",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-07-28",
+      "bmo_amc": "7:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations"
     },
     {
@@ -77,13 +88,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-28T08:17:36Z",
+  "generatedAt": "2026-07-28T11:14:35Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Centene Corp"
+    "Centene Corp",
+    "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",

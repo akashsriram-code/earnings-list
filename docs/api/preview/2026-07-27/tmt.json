@@ -4,8 +4,8 @@
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-07-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-07-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "F5",
       "symbol": "FFIV",
       "date": "2026-07-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -82,6 +82,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-07-28",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qorvo",
@@ -345,10 +356,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 36,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-28T08:17:35Z",
+  "generatedAt": "2026-07-28T11:14:37Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -356,6 +367,7 @@
     "Lam Research",
     "Live Nation Entertainment",
     "Microsoft",
+    "Qnity",
     "Qualcomm",
     "Rivian",
     "SiriusXM",
