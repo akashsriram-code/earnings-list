@@ -31,9 +31,9 @@
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "Corning",
       "symbol": "GLW",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -125,9 +125,9 @@
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -359,7 +359,7 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-28T11:14:37Z",
+  "generatedAt": "2026-07-28T13:32:41Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",

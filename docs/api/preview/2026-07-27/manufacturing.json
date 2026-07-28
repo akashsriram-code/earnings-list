@@ -22,9 +22,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,18 +49,18 @@
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.hilton.com/",
       "source": "investor_relations"
@@ -143,10 +143,10 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-07-28",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "6:00 AM  ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 AM  ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
     },
@@ -445,7 +445,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-28T11:14:36Z",
+  "generatedAt": "2026-07-28T13:32:43Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",

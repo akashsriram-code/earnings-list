@@ -13,9 +13,9 @@
       "company": "CenterPoint Energy",
       "symbol": "CNP",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -31,9 +31,9 @@
       "company": "Ecolab",
       "symbol": "ECL",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,9 +58,9 @@
       "company": "First Energy",
       "symbol": "FE",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -85,9 +85,9 @@
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -366,7 +366,7 @@
   "count": 40,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-28T11:14:35Z",
+  "generatedAt": "2026-07-28T13:32:41Z",
   "irCompanies": [
     "XPLR Infrastructure (previously NEP)"
   ],
