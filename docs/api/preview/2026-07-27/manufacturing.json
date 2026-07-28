@@ -22,9 +22,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -58,9 +58,9 @@
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2026-07-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -96,9 +96,9 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-07-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -145,7 +145,7 @@
       "date": "2026-07-28",
       "bmo_amc": "6:00 AM  ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "ir_time_label": "6:00 AM  ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
@@ -445,7 +445,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-28T13:32:43Z",
+  "generatedAt": "2026-07-28T16:34:20Z",
   "irCompanies": [
     "Bombardier",
     "Fortive Corp",
