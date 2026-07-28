@@ -46,10 +46,12 @@
       "company": "GE HealthCare Technologies Inc",
       "symbol": "GEHC",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.gehealthcare.com/news-events/events",
+      "source": "investor_relations"
     },
     {
       "company": "Bristol Myers-Squibb",
@@ -76,34 +78,38 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.labcorp.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.regeneron.com/events-and-presentations/events-and-recent",
+      "source": "investor_relations"
     }
   ],
   "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-28T19:10:00Z",
+  "generatedAt": "2026-07-28T22:00:52Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp",
-    "IDEXX Laboratories Inc"
+    "GE HealthCare Technologies Inc",
+    "IDEXX Laboratories Inc",
+    "Labcorp Holdings Inc",
+    "Regeneron Pharmaceuticals"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "Cigna",
-    "GE HealthCare Technologies Inc",
-    "IQVIA Holdings Inc",
-    "Labcorp Holdings Inc",
-    "Regeneron Pharmaceuticals"
+    "IQVIA Holdings Inc"
   ],
   "week": {
     "id": "2026-07-27",

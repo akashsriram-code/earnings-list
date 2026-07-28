@@ -24,10 +24,12 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-08-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "10:30 AM MDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:30 AM MDT",
+      "ir_source_url": "https://investor.onsemi.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Palantir",
@@ -93,6 +95,17 @@
       "source": "aggregator"
     },
     {
+      "company": "IAC",
+      "symbol": "IAC",
+      "date": "2026-08-04",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://ir.people-incorporated.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lucid",
       "symbol": "LCID",
       "date": "2026-08-04",
@@ -118,6 +131,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Paramount",
+      "symbol": "PARA",
+      "date": "2026-08-04",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://ir.paramount.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Pinterest",
@@ -150,10 +174,12 @@
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://ir.towersemi.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Wolfspeed",
@@ -207,7 +233,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.duolingo.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Figma",
@@ -222,10 +250,12 @@
       "company": "GlobalFoundries",
       "symbol": "GFS",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investors.gf.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Iron Mountain",
@@ -319,7 +349,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.wdc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "eBay",
@@ -334,10 +366,12 @@
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://akamai.gcs-web.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Atlassian",
@@ -352,10 +386,12 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.datadoghq.com/",
+      "source": "investor_relations"
     },
     {
       "company": "EPAM",
@@ -434,33 +470,38 @@
       "source": "aggregator"
     }
   ],
-  "count": 47,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-28T19:10:10Z",
+  "generatedAt": "2026-07-28T22:01:04Z",
   "irCompanies": [
     "AT&T",
+    "Akamai Technologies",
+    "Datadog",
+    "Duolingo",
     "Fox Corp",
+    "GlobalFoundries",
+    "IAC",
     "Lyft",
     "NYT",
-    "Shopify"
+    "Onsemi",
+    "Paramount",
+    "Shopify",
+    "Tower Semiconductor",
+    "Western Digital"
   ],
   "fallbackCompanies": [
-    "Akamai Technologies",
     "AppLovin",
     "Arista Networks",
     "Atlassian",
     "Bumble",
-    "Datadog",
     "Disney",
-    "Duolingo",
     "EPAM",
     "Electronic Arts",
     "Figma",
     "Freshworks",
     "Gartner",
     "Gen Digital",
-    "GlobalFoundries",
     "Grab",
     "Iron Mountain",
     "Kyndryl",
@@ -470,7 +511,6 @@
     "Microchip Tech",
     "Motorola",
     "News Corp",
-    "Onsemi",
     "Palantir",
     "Paycom",
     "Pinterest",
@@ -480,11 +520,9 @@
     "Snap",
     "Spotify",
     "Take-Two Interactive",
-    "Tower Semiconductor",
     "Trade Desk",
     "Trimble",
     "Uber",
-    "Western Digital",
     "Wolfspeed",
     "Zebra Technologies",
     "eBay"

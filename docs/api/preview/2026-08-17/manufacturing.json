@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Wabtec",
+      "symbol": "WAB",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.wabteccorp.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Nordson Corp",
       "symbol": "NDSN",
       "date": "2026-08-19",
@@ -28,11 +39,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-28T19:10:32Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-28T22:01:27Z",
+  "irCompanies": [
+    "Wabtec"
+  ],
   "fallbackCompanies": [
     "Deere",
     "Keysight Technologies Inc",

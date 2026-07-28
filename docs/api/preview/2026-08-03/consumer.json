@@ -45,16 +45,20 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.iff.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Kimberly Clark Corp",
       "symbol": "KMB",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://www.investor.kimberly-clark.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Kimco Realty Corp",
@@ -132,7 +136,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.instacart.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -167,36 +173,38 @@
       "company": "Ralph Lauren Corp",
       "symbol": "RL",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investor.ralphlauren.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-28T19:10:09Z",
+  "generatedAt": "2026-07-28T22:01:05Z",
   "irCompanies": [
     "Ball Corp",
     "Etsy Inc",
+    "Instacart",
+    "International Flavours & Fragrances",
     "Keurig Dr. Pepper",
+    "Kimberly Clark Corp",
     "Kimco Realty Corp",
+    "Ralph Lauren Corp",
     "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Clorox Co",
     "Coca-Cola Europacific",
     "DoorDash",
-    "Instacart",
-    "International Flavours & Fragrances",
-    "Kimberly Clark Corp",
     "Kraft Heinz Co",
     "Mattel",
     "McDonald\u2019s Corp",
     "Molson Coors Beverage Co",
     "Monster Beverage",
-    "Ralph Lauren Corp",
     "Tyson Foods"
   ],
   "week": {

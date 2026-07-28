@@ -65,7 +65,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.appliedmaterials.com/",
+      "source": "investor_relations"
     },
     {
       "company": "JD.com",
@@ -80,13 +82,13 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-28T19:10:22Z",
+  "generatedAt": "2026-07-28T22:01:16Z",
   "irCompanies": [
+    "Applied Materials",
     "Micron",
     "Tencent Music"
   ],
   "fallbackCompanies": [
-    "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "JD.com",

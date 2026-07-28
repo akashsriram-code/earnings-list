@@ -49,10 +49,12 @@
       "company": "Expand Energy",
       "symbol": "EXE",
       "date": "2026-07-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investors.expandenergy.com/",
+      "source": "investor_relations"
     },
     {
       "company": "First Energy",
@@ -366,8 +368,9 @@
   "count": 40,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-28T19:09:58Z",
+  "generatedAt": "2026-07-28T22:00:53Z",
   "irCompanies": [
+    "Expand Energy",
     "XPLR Infrastructure (previously NEP)"
   ],
   "fallbackCompanies": [
@@ -392,7 +395,6 @@
     "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
-    "Expand Energy",
     "Exxon Mobil",
     "FMC",
     "First Energy",

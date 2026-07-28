@@ -48,6 +48,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.factset.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Invesco",
       "symbol": "IVZ",
       "date": "2026-07-28",
@@ -64,6 +75,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Principal Financial Group",
+      "symbol": "PFG",
+      "date": "2026-07-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.principal.com/",
+      "source": "investor_relations"
     },
     {
       "company": "S&P Global Inc",
@@ -129,19 +151,23 @@
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investors.fico.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investors.robinhood.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Arthur J. Gallagher",
@@ -234,17 +260,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-28T19:10:00Z",
+  "generatedAt": "2026-07-28T22:00:51Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
+    "FactSet Research",
+    "Fair Issac Corp",
+    "Principal Financial Group",
+    "Robinhood",
     "Truist Financial"
   ],
   "fallbackCompanies": [
@@ -255,7 +285,6 @@
     "Cincinnati Financial",
     "Coinbase",
     "Everest",
-    "Fair Issac Corp",
     "Franklin Templeton",
     "Intercontinental Exchange",
     "Invesco",
@@ -264,7 +293,6 @@
     "Mastercard",
     "PayPal Holdings",
     "Principal Financial Group",
-    "Robinhood",
     "S&P Global Inc",
     "T. Rowe Price Group",
     "Visa",

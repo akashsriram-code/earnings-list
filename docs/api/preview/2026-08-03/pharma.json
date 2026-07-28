@@ -4,10 +4,12 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-08-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investors.vrtx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Amgen Inc",
@@ -139,10 +141,12 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investor.lilly.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Insulet",
@@ -224,10 +228,12 @@
       "company": "Dentsply Sirona",
       "symbol": "XRAY",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investors.dentsplysirona.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Kenvue",
@@ -245,7 +251,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.viatris.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zoetis",
@@ -260,10 +268,14 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-28T19:10:09Z",
+  "generatedAt": "2026-07-28T22:01:05Z",
   "irCompanies": [
     "Becton Dickinson and Co",
-    "Solventum Corp"
+    "Dentsply Sirona",
+    "Eli Lilly and Co",
+    "Solventum Corp",
+    "Vertex Pharmaceuticals Inc",
+    "Viatris"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -273,8 +285,6 @@
     "Cencora Inc",
     "Charles River Labs",
     "DaVita Inc",
-    "Dentsply Sirona",
-    "Eli Lilly and Co",
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
@@ -287,8 +297,6 @@
     "Pfizer Inc",
     "Revvity",
     "STERIS plc",
-    "Vertex Pharmaceuticals Inc",
-    "Viatris",
     "Waters Corp",
     "Zimmer Biomet Holdings Inc",
     "Zoetis"

@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-01",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-09-02",
@@ -105,6 +93,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Dell",
+      "symbol": "DELL",
+      "date": "2026-09-03",
+      "bmo_amc": "3:30 PM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:30 PM CDT",
+      "ir_source_url": "https://investors.delltechnologies.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-09-03",
@@ -133,17 +133,30 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-09-01",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-28T19:10:57Z",
+  "generatedAt": "2026-07-28T22:01:54Z",
   "irCompanies": [
     "BlackBerry",
+    "Dell",
     "Medtronic PLC"
   ],
   "fallbackCompanies": [
