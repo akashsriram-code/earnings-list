@@ -31,9 +31,9 @@
       "company": "Ecolab",
       "symbol": "ECL",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,12 +49,10 @@
       "company": "Expand Energy",
       "symbol": "EXE",
       "date": "2026-07-28",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.expandenergy.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "First Energy",
@@ -87,21 +85,10 @@
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "XPLR Infrastructure (previously NEP)",
-      "symbol": "XPLR",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Bunge",
@@ -129,6 +116,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Expand Energy",
+      "symbol": "EXE",
+      "date": "2026-07-29",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investors.expandenergy.com/",
+      "source": "investor_relations"
     },
     {
       "company": "FMC",
@@ -368,10 +366,9 @@
   "count": 40,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-28T22:00:53Z",
+  "generatedAt": "2026-07-29T01:27:28Z",
   "irCompanies": [
-    "Expand Energy",
-    "XPLR Infrastructure (previously NEP)"
+    "Expand Energy"
   ],
   "fallbackCompanies": [
     "AEP",
@@ -395,6 +392,7 @@
     "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
+    "Expand Energy",
     "Exxon Mobil",
     "FMC",
     "First Energy",

@@ -87,10 +87,12 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.leidos.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Rockwell Automation Inc",
@@ -252,11 +254,12 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-28T22:01:04Z",
+  "generatedAt": "2026-07-29T01:27:38Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Emerson Electric Co",
     "Host Hotels & Resorts Inc",
+    "Leidos Holdings Inc",
     "Parker-Hannifin Corp",
     "Peloton",
     "Republic Services Inc",
@@ -276,7 +279,6 @@
     "Host Hotels & Resorts Inc",
     "Howmet Aerospace",
     "Jacobs Solutions Inc",
-    "Leidos Holdings Inc",
     "Marriott International Inc",
     "Realty Income Corp",
     "Rockwell Automation Inc",

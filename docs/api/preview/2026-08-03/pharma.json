@@ -60,10 +60,12 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Merck",
@@ -268,11 +270,12 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-28T22:01:05Z",
+  "generatedAt": "2026-07-29T01:27:38Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Dentsply Sirona",
     "Eli Lilly and Co",
+    "IDEXX Laboratories Inc",
     "Solventum Corp",
     "Vertex Pharmaceuticals Inc",
     "Viatris"
@@ -288,7 +291,6 @@
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
-    "IDEXX Laboratories Inc",
     "Insulet",
     "Kenvue",
     "Mckesson Corp",

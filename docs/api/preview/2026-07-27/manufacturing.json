@@ -22,9 +22,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -34,9 +34,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bxp.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Caesars Entertainment Inc",
@@ -45,17 +43,15 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.caesars.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -71,21 +67,19 @@
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2026-07-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.hilton.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hubbell Inc",
@@ -100,9 +94,9 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -113,28 +107,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Pentair PLC",
@@ -158,34 +130,28 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-07-28",
-      "bmo_amc": "6:00 AM  ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:00 AM  ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-07-28",
-      "bmo_amc": "7:30AM",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-07-28",
-      "bmo_amc": "4:00 PM CDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:00 PM CDT",
-      "ir_source_url": "https://investors.wm.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "American Water Works",
@@ -195,6 +161,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Boston Properties",
+      "symbol": "BXP",
+      "date": "2026-07-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investors.bxp.com/",
+      "source": "investor_relations"
     },
     {
       "company": "CH Robinson Worldwide Inc",
@@ -247,9 +224,9 @@
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -274,9 +251,9 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -295,7 +272,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -321,9 +300,9 @@
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -345,6 +324,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-07-29",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-07-29",
@@ -352,6 +342,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-07-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investors.wm.com/",
+      "source": "investor_relations"
     },
     {
       "company": "A O Smith Corp",
@@ -461,22 +462,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 48,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-28T22:00:51Z",
+  "generatedAt": "2026-07-29T01:27:27Z",
   "irCompanies": [
     "Bombardier",
     "Boston Properties",
-    "Caesars Entertainment Inc",
     "Fortive Corp",
-    "Hilton Worldwide Holdings Inc",
-    "Leidos Holdings Inc",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
-    "UPS",
     "VICI Properties Inc",
     "Veralto Corp",
     "Waste Management Inc"
@@ -485,7 +482,9 @@
     "A O Smith Corp",
     "American Water Works",
     "Boeing",
+    "Boston Properties",
     "CH Robinson Worldwide Inc",
+    "Caesars Entertainment Inc",
     "Camden Property Trust",
     "Carrier Global Corp",
     "Eaton Corporation PLC",
@@ -495,6 +494,7 @@
     "Frontier Holdings",
     "Generac Holdings Inc",
     "General Dynamics Corp",
+    "Hilton Worldwide Holdings Inc",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
@@ -504,7 +504,6 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
@@ -514,8 +513,11 @@
     "Textron Inc",
     "Trane Technologies PLC",
     "UDR INC",
+    "UPS",
     "VICI Properties Inc",
-    "Vulcan Materials Co"
+    "Veralto Corp",
+    "Vulcan Materials Co",
+    "Waste Management Inc"
   ],
   "week": {
     "id": "2026-07-27",

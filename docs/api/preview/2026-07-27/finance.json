@@ -37,28 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-07-28",
-      "bmo_amc": "11:00AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am EDT",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.factset.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Invesco",
       "symbol": "IVZ",
       "date": "2026-07-28",
@@ -77,43 +55,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Principal Financial Group",
-      "symbol": "PFG",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.principal.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Visa",
       "symbol": "V",
       "date": "2026-07-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -122,7 +78,7 @@
       "date": "2026-07-29",
       "bmo_amc": "8:30AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30am",
       "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations"
@@ -164,7 +120,7 @@
       "date": "2026-07-29",
       "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://investors.robinhood.com/",
       "source": "investor_relations"
@@ -260,22 +216,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-28T22:00:51Z",
+  "generatedAt": "2026-07-29T01:27:28Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
-    "Cincinnati Financial",
-    "FactSet Research",
     "Fair Issac Corp",
-    "Principal Financial Group",
-    "Robinhood",
-    "Truist Financial"
+    "Robinhood"
   ],
   "fallbackCompanies": [
     "Arch Capital Group",

@@ -31,9 +31,9 @@
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -43,60 +43,34 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.costargroup.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Corning",
       "symbol": "GLW",
       "date": "2026-07-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-07-28",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "NXP Semiconductors",
       "symbol": "NXPI",
       "date": "2026-07-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Omnicom",
@@ -108,34 +82,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-07-28",
-      "bmo_amc": "6:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Qorvo",
       "symbol": "QRVO",
       "date": "2026-07-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.qorvo.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Seagate",
       "symbol": "STX",
       "date": "2026-07-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -145,79 +106,42 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.skyworksinc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-28",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2026-07-28",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "VeriSign",
-      "symbol": "VRSN",
-      "date": "2026-07-28",
-      "bmo_amc": "4:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investor.verisign.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Zoom",
-      "symbol": "ZM",
-      "date": "2026-07-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.zoom.us/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "ADP",
       "symbol": "ADP",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Arm Holdings",
       "symbol": "ARM",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investors.arm.com/",
       "source": "investor_relations"
@@ -237,7 +161,7 @@
       "date": "2026-07-29",
       "bmo_amc": "5:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:30 pm EDT",
       "ir_source_url": "https://investor.equinix.com/",
       "source": "investor_relations"
@@ -246,10 +170,12 @@
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "AMC",
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Garmin",
@@ -266,7 +192,7 @@
       "date": "2026-07-29",
       "bmo_amc": "2:00 P.M.",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00 p.m. ",
       "ir_source_url": "https://investor.lamresearch.com/",
       "source": "investor_relations"
@@ -275,18 +201,18 @@
       "company": "Meta",
       "symbol": "META",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
       "source": "investor_relations"
@@ -306,9 +232,20 @@
       "date": "2026-07-29",
       "bmo_amc": "1:45 PM PT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "1:45 PM PT",
       "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-07-29",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
       "source": "investor_relations"
     },
     {
@@ -432,33 +369,24 @@
       "source": "investor_relations"
     }
   ],
-  "count": 43,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-28T22:00:51Z",
+  "generatedAt": "2026-07-29T01:27:26Z",
   "irCompanies": [
     "Arm Holdings",
-    "CoStar Group",
     "Equinix",
     "Fortinet",
     "GoDaddy",
-    "KLA Corp",
     "Kyndryl",
     "Lam Research",
     "Live Nation Entertainment",
     "Microsoft",
-    "News Corp",
-    "Qnity",
-    "Qorvo",
     "Qualcomm",
     "Rivian",
     "SiriusXM",
-    "Skyworks Solutions",
-    "Take-Two Interactive",
     "Teradyne",
-    "Texas Instruments",
-    "VeriSign",
-    "Zoom"
+    "Texas Instruments"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -468,19 +396,23 @@
     "Apple",
     "Applied Digital",
     "Cadence",
+    "CoStar Group",
     "Cognizant",
     "Corning",
     "F5",
-    "Fortinet",
     "Garmin",
+    "KLA Corp",
     "Meta",
     "Monolithic Power",
     "NXP Semiconductors",
     "Omnicom",
     "PTC",
+    "Qorvo",
     "Reddit",
     "Roblox",
     "Seagate",
+    "Skyworks Solutions",
+    "Teradyne",
     "Tyler Tech"
   ],
   "week": {
