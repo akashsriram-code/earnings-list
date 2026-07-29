@@ -22,12 +22,10 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-07-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": "TAS",
+      "source": "aggregator"
     },
     {
       "company": "GE HealthCare Technologies Inc",
@@ -84,14 +82,14 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-29T11:18:56Z",
+  "generatedAt": "2026-07-29T13:46:46Z",
   "irCompanies": [
-    "Boston Scientific Corp",
     "GE HealthCare Technologies Inc",
     "Labcorp Holdings Inc",
     "Regeneron Pharmaceuticals"
   ],
   "fallbackCompanies": [
+    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Centene Corp",
     "Cigna",

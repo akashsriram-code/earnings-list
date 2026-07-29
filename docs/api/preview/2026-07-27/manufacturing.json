@@ -224,9 +224,9 @@
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2026-07-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -251,19 +251,30 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-07-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Leidos Holdings Inc",
+      "symbol": "LDOS",
+      "date": "2026-07-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.leidos.com/",
+      "source": "investor_relations"
     },
     {
       "company": "MGM Resorts International",
@@ -462,14 +473,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 49,
+  "count": 50,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-29T11:18:54Z",
+  "generatedAt": "2026-07-29T13:46:48Z",
   "irCompanies": [
     "Bombardier",
     "Boston Properties",
     "Fortive Corp",
+    "Leidos Holdings Inc",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
