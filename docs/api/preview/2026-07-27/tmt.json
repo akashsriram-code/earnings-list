@@ -130,9 +130,9 @@
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2026-07-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -271,6 +271,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-07-29",
+      "bmo_amc": "11:55 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:55 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2026-07-29",
@@ -402,10 +413,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 41,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-29T13:46:47Z",
+  "generatedAt": "2026-07-29T16:20:26Z",
   "irCompanies": [
     "Arm Holdings",
     "Equinix",
@@ -421,6 +432,7 @@
     "Qualcomm",
     "Rivian",
     "SiriusXM",
+    "Take-Two Interactive",
     "Teradyne",
     "Texas Instruments"
   ],
