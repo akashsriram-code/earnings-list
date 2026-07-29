@@ -147,6 +147,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-07-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.costargroup.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cognizant",
       "symbol": "CTSH",
       "date": "2026-07-29",
@@ -201,10 +212,10 @@
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-07-29",
-      "bmo_amc": "2:00 P.M.",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00 p.m. ",
+      "ir_time_label": null,
       "ir_source_url": "https://investor.lamresearch.com/",
       "source": "investor_relations"
     },
@@ -274,10 +285,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-07-29",
-      "bmo_amc": "2:31 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:31 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -300,6 +311,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-07-29",
+      "bmo_amc": "5:04 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:04 PM EDT",
+      "ir_source_url": "https://investor.verisign.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Amazon",
@@ -413,12 +435,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 42,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-29T18:56:34Z",
+  "generatedAt": "2026-07-29T21:51:11Z",
   "irCompanies": [
     "Arm Holdings",
+    "CoStar Group",
     "Equinix",
     "Fortinet",
     "GlobalFoundries",
@@ -434,7 +457,8 @@
     "SiriusXM",
     "Take-Two Interactive",
     "Teradyne",
-    "Texas Instruments"
+    "Texas Instruments",
+    "VeriSign"
   ],
   "fallbackCompanies": [
     "ADP",

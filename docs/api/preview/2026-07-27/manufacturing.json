@@ -332,7 +332,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.viciproperties.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Veralto Corp",
@@ -442,17 +444,6 @@
       "source": "aggregator"
     },
     {
-      "company": "VICI Properties Inc",
-      "symbol": "VICI",
-      "date": "2026-07-30",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EDT",
-      "ir_source_url": "https://investors.viciproperties.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-07-31",
@@ -473,10 +464,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 50,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-29T18:56:34Z",
+  "generatedAt": "2026-07-29T21:51:10Z",
   "irCompanies": [
     "Bombardier",
     "Boston Properties",
@@ -526,7 +517,6 @@
     "Trane Technologies PLC",
     "UDR INC",
     "UPS",
-    "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",
     "Waste Management Inc"
