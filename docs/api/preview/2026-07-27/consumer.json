@@ -28,26 +28,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Ball Corp",
-      "symbol": "BALL",
-      "date": "2026-07-29",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-07-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Masco Corp",
@@ -62,9 +49,9 @@
       "company": "Procter & Gamble",
       "symbol": "PG",
       "date": "2026-07-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -74,17 +61,15 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.regencycenters.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-07-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -100,9 +85,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -132,6 +117,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Regency Centers Corp",
+      "symbol": "REG",
+      "date": "2026-07-30",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM EDT",
+      "ir_source_url": "https://investors.regencycenters.com/",
       "source": "investor_relations"
     },
     {
@@ -174,15 +170,14 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-29T21:51:12Z",
+  "generatedAt": "2026-07-30T01:20:56Z",
   "irCompanies": [
-    "Ball Corp",
-    "Chipotle Mexican Grill",
     "Norwegian Cruise Line",
     "Regency Centers Corp"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
+    "Chipotle Mexican Grill",
     "Church & Dwight",
     "Coca-Cola Co",
     "Colgate-Palmolive",
@@ -192,6 +187,7 @@
     "Masco Corp",
     "Mondelez International",
     "Procter & Gamble",
+    "Regency Centers Corp",
     "Royal Caribbean Group",
     "Starbucks Corp",
     "VF Corp",

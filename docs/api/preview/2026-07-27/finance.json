@@ -76,23 +76,10 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2026-07-29",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://ir.aon.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Arch Capital Group",
-      "symbol": "ACGL",
-      "date": "2026-07-29",
-      "bmo_amc": "10:00 AM",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM",
-      "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Everest",
@@ -107,23 +94,19 @@
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2026-07-29",
-      "bmo_amc": "5:00 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investors.fico.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-07-29",
-      "bmo_amc": "5:00 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investors.robinhood.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Arthur J. Gallagher",
@@ -147,18 +130,18 @@
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -174,9 +157,9 @@
       "company": "Mastercard",
       "symbol": "MA",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -216,20 +199,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-29T21:51:10Z",
-  "irCompanies": [
-    "Aon",
-    "Arch Capital Group",
-    "Fair Issac Corp",
-    "Robinhood"
-  ],
+  "generatedAt": "2026-07-30T01:20:56Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Aon",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",
@@ -237,6 +216,7 @@
     "Cincinnati Financial",
     "Coinbase",
     "Everest",
+    "Fair Issac Corp",
     "Franklin Templeton",
     "Intercontinental Exchange",
     "Invesco",
@@ -245,6 +225,7 @@
     "Mastercard",
     "PayPal Holdings",
     "Principal Financial Group",
+    "Robinhood",
     "S&P Global Inc",
     "T. Rowe Price Group",
     "Visa",

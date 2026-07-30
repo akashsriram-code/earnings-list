@@ -103,30 +103,19 @@
       "company": "Cenovus Energy",
       "symbol": "CVE",
       "date": "2026-07-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Entergy Corp",
       "symbol": "ETR",
       "date": "2026-07-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Expand Energy",
-      "symbol": "EXE",
-      "date": "2026-07-29",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.expandenergy.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "FMC",
@@ -150,9 +139,9 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -258,27 +247,27 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -363,13 +352,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-29T21:51:10Z",
-  "irCompanies": [
-    "Expand Energy"
-  ],
+  "generatedAt": "2026-07-30T01:20:56Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "AES Corp",

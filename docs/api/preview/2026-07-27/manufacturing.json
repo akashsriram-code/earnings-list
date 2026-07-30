@@ -163,17 +163,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Boston Properties",
-      "symbol": "BXP",
-      "date": "2026-07-29",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EDT",
-      "ir_source_url": "https://investors.bxp.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "CH Robinson Worldwide Inc",
       "symbol": "CHRW",
       "date": "2026-07-29",
@@ -195,12 +184,10 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-07-29",
-      "bmo_amc": "7:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 AM EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Frontier Holdings",
@@ -224,9 +211,9 @@
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2026-07-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -251,30 +238,19 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-07-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
       "date": "2026-07-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-07-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "MGM Resorts International",
@@ -283,9 +259,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -300,20 +274,18 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-07-29",
-      "bmo_amc": "7:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 AM EDT",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-07-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -332,20 +304,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.viciproperties.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-07-29",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Vulcan Materials Co",
@@ -355,17 +314,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
-      "date": "2026-07-29",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EDT",
-      "ir_source_url": "https://investors.wm.com/",
-      "source": "investor_relations"
     },
     {
       "company": "A O Smith Corp",
@@ -429,7 +377,7 @@
       "date": "2026-07-30",
       "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 AM ET",
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations"
@@ -438,10 +386,21 @@
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "VICI Properties Inc",
+      "symbol": "VICI",
+      "date": "2026-07-30",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investors.viciproperties.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Eaton Corporation PLC",
@@ -464,22 +423,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 49,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-29T21:51:10Z",
+  "generatedAt": "2026-07-30T01:20:56Z",
   "irCompanies": [
     "Bombardier",
-    "Boston Properties",
-    "Fortive Corp",
-    "Leidos Holdings Inc",
-    "MGM Resorts International",
     "Magna International",
-    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
-    "VICI Properties Inc",
-    "Veralto Corp",
-    "Waste Management Inc"
+    "VICI Properties Inc"
   ],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -494,6 +446,7 @@
     "Essex Property Trust Inc",
     "Extra Space Storage Inc",
     "Ford Motor Co",
+    "Fortive Corp",
     "Frontier Holdings",
     "Generac Holdings Inc",
     "General Dynamics Corp",
@@ -507,9 +460,11 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
+    "MGM Resorts International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
+    "Old Dominion Freight Line Inc",
     "Pentair PLC",
     "Public Storage",
     "Stanley Black & Decker",
@@ -517,6 +472,7 @@
     "Trane Technologies PLC",
     "UDR INC",
     "UPS",
+    "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",
     "Waste Management Inc"

@@ -22,10 +22,12 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -182,8 +184,9 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-29T21:51:24Z",
+  "generatedAt": "2026-07-30T01:21:09Z",
   "irCompanies": [
+    "Ball Corp",
     "Etsy Inc",
     "Instacart",
     "International Flavours & Fragrances",
@@ -194,7 +197,6 @@
     "Sysco Corp"
   ],
   "fallbackCompanies": [
-    "Ball Corp",
     "Clorox Co",
     "Coca-Cola Europacific",
     "DoorDash",
