@@ -94,10 +94,10 @@
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-07-30",
-      "bmo_amc": "2:52 PM EDT",
+      "bmo_amc": "2:57 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:52 PM EDT",
+      "ir_time_label": "2:57 PM EDT",
       "ir_source_url": "https://investor.colgatepalmolive.com/",
       "source": "investor_relations"
     },
@@ -131,6 +131,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-07-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.investor.kimberly-clark.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Monster Beverage",
       "symbol": "MNST",
       "date": "2026-07-30",
@@ -161,6 +172,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "12:40 AM EDT",
       "ir_source_url": "https://investors.regencycenters.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-07-30",
+      "bmo_amc": "4:21 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:21 pm EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
       "source": "investor_relations"
     },
     {
@@ -211,16 +233,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-30T19:12:22Z",
+  "generatedAt": "2026-07-30T22:03:02Z",
   "irCompanies": [
     "Colgate-Palmolive",
     "Etsy Inc",
+    "Kimberly Clark Corp",
     "Monster Beverage",
     "Norwegian Cruise Line",
     "Regency Centers Corp",
+    "Smithfield Foods",
     "Tapestry Inc"
   ],
   "fallbackCompanies": [

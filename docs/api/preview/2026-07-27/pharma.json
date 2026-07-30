@@ -55,6 +55,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-07-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.coopercos.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Labcorp Holdings Inc",
       "symbol": "LH",
       "date": "2026-07-30",
@@ -88,11 +99,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-30T19:12:22Z",
+  "generatedAt": "2026-07-30T22:03:04Z",
   "irCompanies": [
+    "Cooper Companies Inc",
     "Labcorp Holdings Inc",
     "Novavax",
     "Regeneron Pharmaceuticals"
