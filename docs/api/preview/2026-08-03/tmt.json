@@ -388,12 +388,10 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-08-06",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://investors.datadoghq.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "EPAM",
@@ -477,11 +475,10 @@
   "count": 49,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-30T01:21:07Z",
+  "generatedAt": "2026-07-30T05:36:11Z",
   "irCompanies": [
     "AT&T",
     "Akamai Technologies",
-    "Datadog",
     "Duolingo",
     "Fox Corp",
     "GlobalFoundries",
@@ -501,6 +498,7 @@
     "Arista Networks",
     "Atlassian",
     "Bumble",
+    "Datadog",
     "Disney",
     "EPAM",
     "Electronic Arts",
