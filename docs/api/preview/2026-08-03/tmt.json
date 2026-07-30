@@ -24,12 +24,10 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-08-03",
-      "bmo_amc": "10:30 AM MDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 AM MDT",
-      "ir_source_url": "https://investor.onsemi.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Palantir",
@@ -156,12 +154,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-08-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Spotify",
@@ -475,7 +471,7 @@
   "count": 49,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-30T08:09:36Z",
+  "generatedAt": "2026-07-30T11:03:32Z",
   "irCompanies": [
     "AT&T",
     "Akamai Technologies",
@@ -485,9 +481,7 @@
     "IAC",
     "Lyft",
     "NYT",
-    "Onsemi",
     "Paramount",
-    "Qnity",
     "Shopify",
     "Take-Two Interactive",
     "Tower Semiconductor",
@@ -515,9 +509,11 @@
     "Microchip Tech",
     "Motorola",
     "News Corp",
+    "Onsemi",
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Qnity",
     "Roku",
     "SBA Communications",
     "Snap",
