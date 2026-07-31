@@ -53,80 +53,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-08-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-08-19",
-      "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lowe\u2019s Cos Inc",
-      "symbol": "LOW",
-      "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
-      "date": "2026-08-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Target Corp",
-      "symbol": "TGT",
-      "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-08-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-08-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-08-17",
@@ -189,23 +115,87 @@
       "sector": "TMT"
     },
     {
-      "company": "Zoom",
-      "symbol": "ZM",
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-08-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-08-19",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
       "date": "2026-08-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-08-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-31T08:35:55Z",
+  "generatedAt": "2026-07-31T11:22:50Z",
   "irCompanies": [
     "Analog Devices",
     "Estee Lauder",
@@ -226,8 +216,7 @@
     "Target Corp",
     "Walmart Inc",
     "Workday",
-    "Xpeng",
-    "Zoom"
+    "Xpeng"
   ],
   "week": {
     "id": "2026-08-17",

@@ -85,8 +85,8 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Hershey Co",
       "symbol": "HSY",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "International Paper Co",
       "symbol": "IP",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +121,8 @@
       "company": "Yum Brands",
       "symbol": "YUM",
       "date": "2026-07-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -139,10 +139,12 @@
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-07-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "7:10 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": "7:10 AM EDT",
+      "ir_source_url": "https://investor.colgatepalmolive.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Federal Realty Investment Trust",
@@ -157,14 +159,15 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-07-31T08:35:17Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-31T11:22:12Z",
+  "irCompanies": [
+    "Colgate-Palmolive"
+  ],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Chipotle Mexican Grill",
     "Church & Dwight",
     "Coca-Cola Co",
-    "Colgate-Palmolive",
     "Federal Realty Investment Trust",
     "Hershey Co",
     "International Paper Co",
