@@ -8,14 +8,34 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-09-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-09-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-31T11:23:51Z",
+  "generatedAt": "2026-07-31T13:34:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Accenture",
+    "BlackBerry",
     "Micron"
   ],
   "week": {

@@ -175,27 +175,27 @@
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-07-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2026-07-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.troweprice.com/",
       "source": "investor_relations"
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-07-31T11:22:12Z",
+  "generatedAt": "2026-07-31T13:32:33Z",
   "irCompanies": [
     "T. Rowe Price Group"
   ],
