@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-09-04",
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-09-01",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Campbell Soup Co",
@@ -41,16 +43,26 @@
       "sector": "Consumer"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-09-01",
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-09-04",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-09-01",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
       "company": "BlackBerry",
@@ -145,18 +157,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-01",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
   "count": 15,
@@ -165,7 +165,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-31T01:35:02Z",
+  "generatedAt": "2026-07-31T06:01:26Z",
   "irCompanies": [
     "BlackBerry",
     "Dell",
