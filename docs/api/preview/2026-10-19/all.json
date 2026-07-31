@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-10-22",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2026-10-20",
@@ -13,15 +25,16 @@
       "sector": "Finance"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-07-30T22:05:31Z",
+  "generatedAt": "2026-07-31T01:36:27Z",
   "irCompanies": [
-    "MSCI Inc"
+    "MSCI Inc",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [],
   "week": {

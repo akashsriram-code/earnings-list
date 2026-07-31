@@ -40,82 +40,53 @@
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cigna",
       "symbol": "CI",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.coopercos.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Labcorp Holdings Inc",
       "symbol": "LH",
       "date": "2026-07-30",
-      "bmo_amc": "9:24 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:24 AM EDT",
-      "ir_source_url": "https://ir.labcorp.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2026-07-30",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investor.regeneron.com/events-and-presentations/events-and-recent",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-07-30T22:03:04Z",
-  "irCompanies": [
-    "Cooper Companies Inc",
-    "Labcorp Holdings Inc",
-    "Novavax",
-    "Regeneron Pharmaceuticals"
-  ],
+  "generatedAt": "2026-07-31T01:34:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Centene Corp",
     "Cigna",
     "GE HealthCare Technologies Inc",
-    "IQVIA Holdings Inc"
+    "IQVIA Holdings Inc",
+    "Labcorp Holdings Inc",
+    "Regeneron Pharmaceuticals"
   ],
   "week": {
     "id": "2026-07-27",

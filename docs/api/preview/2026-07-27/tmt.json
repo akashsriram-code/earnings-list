@@ -238,52 +238,19 @@
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2026-07-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-07-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Datadog",
-      "symbol": "DDOG",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.datadoghq.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-07-30",
-      "bmo_amc": "12:55 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:55 AM EDT",
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Gartner",
-      "symbol": "IT",
-      "date": "2026-07-30",
-      "bmo_amc": "12:56 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:56 AM EDT",
-      "ir_source_url": "https://investor.gartner.com/",
-      "source": "investor_relations"
     },
     {
       "company": "GoDaddy",
@@ -292,53 +259,16 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-07-30",
-      "bmo_amc": "4:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Kyndryl",
-      "symbol": "KD",
-      "date": "2026-07-30",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investors.kyndryl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-07-30",
-      "bmo_amc": "2:00PM PDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00pm PDT",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Mobileye",
-      "symbol": "MBLY",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.mobileye.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Monolithic Power",
@@ -348,39 +278,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Onsemi",
-      "symbol": "ON",
-      "date": "2026-07-30",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.onsemi.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-07-30",
-      "bmo_amc": "6:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Reddit",
@@ -398,9 +295,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Roblox",
@@ -415,23 +310,10 @@
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-07-30",
-      "bmo_amc": "6:58 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:58 AM EDT",
-      "ir_source_url": "https://investor.siriusxm.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-07-30",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Texas Instruments",
@@ -445,25 +327,11 @@
       "source": "investor_relations"
     }
   ],
-  "count": 46,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-30T22:03:02Z",
+  "generatedAt": "2026-07-31T01:34:04Z",
   "irCompanies": [
-    "Datadog",
-    "Fortinet",
-    "Gartner",
-    "GoDaddy",
-    "Intuit",
-    "Kyndryl",
-    "Live Nation Entertainment",
-    "Mobileye",
-    "News Corp",
-    "Onsemi",
-    "Qnity",
-    "Rivian",
-    "SiriusXM",
-    "Take-Two Interactive",
     "Texas Instruments"
   ],
   "fallbackCompanies": [
@@ -482,8 +350,10 @@
     "F5",
     "Fortinet",
     "Garmin",
+    "GoDaddy",
     "KLA Corp",
     "Lam Research",
+    "Live Nation Entertainment",
     "Meta",
     "Microsoft",
     "Monolithic Power",
@@ -493,8 +363,10 @@
     "Qorvo",
     "Qualcomm",
     "Reddit",
+    "Rivian",
     "Roblox",
     "Seagate",
+    "SiriusXM",
     "Skyworks Solutions",
     "Teradyne",
     "Tyler Tech"

@@ -139,9 +139,9 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -157,9 +157,9 @@
       "company": "Air Products",
       "symbol": "APD",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -226,17 +226,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Expand Energy",
-      "symbol": "EXE",
-      "date": "2026-07-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.expandenergy.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "First Solar",
       "symbol": "FSLR",
       "date": "2026-07-30",
@@ -258,9 +247,9 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -276,9 +265,9 @@
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -303,73 +292,71 @@
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Dominion Energy Inc",
       "symbol": "D",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Exxon Mobil",
       "symbol": "XOM",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Imperial Oil",
       "symbol": "IMO",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Linde",
       "symbol": "LIN",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "LyondellBasell",
       "symbol": "LYB",
       "date": "2026-07-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-07-30T22:03:02Z",
-  "irCompanies": [
-    "Expand Energy"
-  ],
+  "generatedAt": "2026-07-31T01:34:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "AES Corp",
