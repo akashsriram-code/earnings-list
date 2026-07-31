@@ -391,17 +391,21 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-07-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     }
   ],
   "count": 44,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-31T06:00:28Z",
-  "irCompanies": [],
+  "generatedAt": "2026-07-31T08:35:15Z",
+  "irCompanies": [
+    "Magna International"
+  ],
   "fallbackCompanies": [
     "A O Smith Corp",
     "American Water Works",
@@ -430,7 +434,6 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "MGM Resorts International",
-    "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
