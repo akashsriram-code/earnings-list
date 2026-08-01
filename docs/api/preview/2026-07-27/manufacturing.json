@@ -382,54 +382,26 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-07-31",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-07-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-07-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-07-31",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 46,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-07-31T22:01:48Z",
-  "irCompanies": [
-    "Honeywell",
-    "Leidos Holdings Inc",
-    "Magna International"
-  ],
+  "generatedAt": "2026-08-01T01:35:11Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
     "American Water Works",
@@ -458,6 +430,7 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "MGM Resorts International",
+    "Magna International",
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",

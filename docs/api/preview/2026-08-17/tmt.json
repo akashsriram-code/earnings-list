@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.baidu.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-08-18",
@@ -57,12 +68,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-07-31T22:02:26Z",
+  "generatedAt": "2026-08-01T01:35:46Z",
   "irCompanies": [
-    "Analog Devices"
+    "Analog Devices",
+    "Baidu"
   ],
   "fallbackCompanies": [
     "Baidu",
