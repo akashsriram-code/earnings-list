@@ -43,14 +43,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-09-09",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investor.coopercos.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Barrick Mining",
@@ -63,16 +65,14 @@
       "sector": "Resources"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-09-09",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.coopercos.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 7,
@@ -81,7 +81,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-02T05:52:54Z",
+  "generatedAt": "2026-08-02T08:07:48Z",
   "irCompanies": [
     "Cooper Companies Inc",
     "Fortinet"
