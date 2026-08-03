@@ -31,8 +31,8 @@
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -77,16 +77,25 @@
       "symbol": "VRTX",
       "date": "2026-02-12",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
+      "source": "aggregator"
+    },
+    {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,16 +103,16 @@
       "company": "Zoetis",
       "symbol": "ZTS",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-03T19:16:44Z",
+  "generatedAt": "2026-08-03T21:58:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",

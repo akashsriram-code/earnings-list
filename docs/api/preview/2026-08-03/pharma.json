@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-08-03",
+      "bmo_amc": "8:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-08-03",
@@ -280,12 +291,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-03T19:22:15Z",
+  "generatedAt": "2026-08-03T22:03:03Z",
   "irCompanies": [
     "Becton Dickinson and Co",
+    "Danaher Corp",
     "Dentsply Sirona",
     "Eli Lilly and Co",
     "IDEXX Laboratories Inc",

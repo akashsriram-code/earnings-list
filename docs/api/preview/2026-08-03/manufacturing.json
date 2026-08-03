@@ -21,6 +21,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-08-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-08-03",
@@ -293,14 +304,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 30,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-03T19:22:16Z",
+  "generatedAt": "2026-08-03T22:03:03Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
     "Emerson Electric Co",
+    "Honeywell",
     "Host Hotels & Resorts Inc",
     "Leidos Holdings Inc",
     "Northrop Grumman Corp",
