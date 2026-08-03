@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Colgate-Palmolive",
+      "symbol": "CL",
+      "date": "2026-08-03",
+      "bmo_amc": "12:58 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:58 PM EDT",
+      "ir_source_url": "https://investor.colgatepalmolive.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-08-03",
@@ -24,9 +35,9 @@
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-08-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -194,12 +205,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-03T12:16:33Z",
+  "generatedAt": "2026-08-03T17:10:02Z",
   "irCompanies": [
     "Ball Corp",
+    "Colgate-Palmolive",
     "Domino\u2019s Pizza Inc",
     "Etsy Inc",
     "Instacart",

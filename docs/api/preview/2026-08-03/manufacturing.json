@@ -1,21 +1,43 @@
 {
   "records": [
     {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-08-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-08-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Leidos Holdings Inc",
+      "symbol": "LDOS",
+      "date": "2026-08-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.leidos.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-08-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -98,12 +120,10 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-08-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Rockwell Automation Inc",
@@ -262,11 +282,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 27,
+  "count": 29,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-03T12:16:33Z",
+  "generatedAt": "2026-08-03T17:10:03Z",
   "irCompanies": [
+    "Air Lease",
     "Axon Enterprise Inc",
     "Emerson Electric Co",
     "Host Hotels & Resorts Inc",
@@ -291,6 +312,7 @@
     "Host Hotels & Resorts Inc",
     "Howmet Aerospace",
     "Jacobs Solutions Inc",
+    "Leidos Holdings Inc",
     "Marriott International Inc",
     "Realty Income Corp",
     "Rockwell Automation Inc",
