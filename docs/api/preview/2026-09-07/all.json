@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-09-09",
@@ -21,6 +11,16 @@
       "ir_source_url": "https://investor.coopercos.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fortinet",
@@ -81,7 +81,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-04T05:43:52Z",
+  "generatedAt": "2026-08-04T08:24:12Z",
   "irCompanies": [
     "Cooper Companies Inc",
     "Fortinet"
