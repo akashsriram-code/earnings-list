@@ -25,7 +25,9 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Gilead",
@@ -281,9 +283,10 @@
   "count": 29,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-04T19:22:30Z",
+  "generatedAt": "2026-08-04T22:07:41Z",
   "irCompanies": [
     "Becton Dickinson and Co",
+    "DaVita Inc",
     "Dentsply Sirona",
     "Eli Lilly and Co",
     "IDEXX Laboratories Inc",
@@ -299,7 +302,6 @@
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
-    "DaVita Inc",
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
