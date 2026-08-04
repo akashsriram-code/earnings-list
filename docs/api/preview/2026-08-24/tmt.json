@@ -115,12 +115,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-04T11:20:36Z",
+  "generatedAt": "2026-08-04T13:48:15Z",
   "irCompanies": [
     "Intuit",
     "Marvell",
@@ -135,7 +144,8 @@
     "NVIDIA",
     "SentinelOne",
     "Snowflake",
-    "Synopsys"
+    "Synopsys",
+    "Workday"
   ],
   "week": {
     "id": "2026-08-24",

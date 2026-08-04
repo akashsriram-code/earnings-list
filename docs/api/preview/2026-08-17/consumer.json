@@ -7,9 +7,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Estee Lauder",
@@ -71,12 +69,12 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-04T11:20:24Z",
+  "generatedAt": "2026-08-04T13:48:01Z",
   "irCompanies": [
-    "Estee Lauder",
-    "Home Depot Inc"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
+    "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
     "TJX Cos Inc",

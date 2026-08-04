@@ -22,10 +22,10 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-08-04",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "6:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
+      "ir_time_label": "6:00 am EDT",
       "ir_source_url": "https://investors.ball.com/",
       "source": "investor_relations"
     },
@@ -39,12 +39,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-08-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://ir.iff.com/",
       "source": "investor_relations"
@@ -64,10 +75,10 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-08-04",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations"
     },
@@ -84,18 +95,18 @@
       "company": "McDonald\u2019s Corp",
       "symbol": "MCD",
       "date": "2026-08-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
@@ -183,13 +194,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-04T11:20:02Z",
+  "generatedAt": "2026-08-04T13:47:38Z",
   "irCompanies": [
     "Ball Corp",
     "Etsy Inc",
+    "Home Depot Inc",
     "Instacart",
     "International Flavours & Fragrances",
     "Keurig Dr. Pepper",

@@ -49,9 +49,9 @@
       "company": "Caterpillar",
       "symbol": "CAT",
       "date": "2026-08-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -69,18 +69,18 @@
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -92,6 +92,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.leidos.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2026-08-04",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://ir.odfl.com/",
       "source": "investor_relations"
     },
     {
@@ -107,9 +118,9 @@
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2026-08-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -118,7 +129,7 @@
       "date": "2026-08-04",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -251,15 +262,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-04T11:20:02Z",
+  "generatedAt": "2026-08-04T13:47:37Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Emerson Electric Co",
     "Host Hotels & Resorts Inc",
     "Leidos Holdings Inc",
+    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Peloton",
     "Republic Services Inc",
