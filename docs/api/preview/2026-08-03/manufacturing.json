@@ -1,46 +1,13 @@
 {
   "records": [
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://sumisho.aero/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-08-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Marriott International Inc",
@@ -50,28 +17,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Northrop Grumman Corp",
-      "symbol": "NOC",
-      "date": "2026-08-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.northropgrumman.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-08-03",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investors.southwest.com/",
-      "source": "investor_relations"
     },
     {
       "company": "AMETEK Inc",
@@ -95,18 +40,18 @@
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Caterpillar",
       "symbol": "CAT",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -115,7 +60,7 @@
       "date": "2026-08-04",
       "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 pm EDT",
       "ir_source_url": "https://ir.emerson.com/",
       "source": "investor_relations"
@@ -142,10 +87,12 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.leidos.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Rockwell Automation Inc",
@@ -160,9 +107,9 @@
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2026-08-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -171,7 +118,7 @@
       "date": "2026-08-04",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -304,22 +251,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 31,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-03T22:03:03Z",
+  "generatedAt": "2026-08-04T01:23:09Z",
   "irCompanies": [
-    "Air Lease",
     "Axon Enterprise Inc",
     "Emerson Electric Co",
-    "Honeywell",
     "Host Hotels & Resorts Inc",
     "Leidos Holdings Inc",
-    "Northrop Grumman Corp",
     "Parker-Hannifin Corp",
     "Peloton",
     "Republic Services Inc",
-    "Southwest Airlines Co",
     "WW Grainger Inc"
   ],
   "fallbackCompanies": [
@@ -336,7 +279,6 @@
     "Host Hotels & Resorts Inc",
     "Howmet Aerospace",
     "Jacobs Solutions Inc",
-    "Leidos Holdings Inc",
     "Marriott International Inc",
     "Realty Income Corp",
     "Rockwell Automation Inc",

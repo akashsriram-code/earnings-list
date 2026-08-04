@@ -40,9 +40,9 @@
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -76,17 +76,8 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Waters Corp",
-      "symbol": "WAT",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -109,10 +100,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-03T21:58:00Z",
+  "generatedAt": "2026-08-04T01:18:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
