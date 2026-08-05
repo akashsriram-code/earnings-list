@@ -22,12 +22,10 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-08-04",
-      "bmo_amc": "6:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EDT",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -39,46 +37,22 @@
       "source": "aggregator"
     },
     {
-      "company": "Colgate-Palmolive",
-      "symbol": "CL",
-      "date": "2026-08-04",
-      "bmo_amc": "4:42 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:42 PM EDT",
-      "ir_source_url": "https://investor.colgatepalmolive.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Kimberly Clark Corp",
       "symbol": "KMB",
       "date": "2026-08-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://www.investor.kimberly-clark.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Kimco Realty Corp",
@@ -87,9 +61,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mattel",
@@ -110,34 +82,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-08-04",
-      "bmo_amc": "3:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:30 PM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-08-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "DoorDash",
       "symbol": "DASH",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -214,33 +173,30 @@
       "source": "investor_relations"
     }
   ],
-  "count": 21,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-04T22:07:41Z",
+  "generatedAt": "2026-08-05T01:26:56Z",
   "irCompanies": [
-    "Ball Corp",
-    "Colgate-Palmolive",
     "Etsy Inc",
-    "Home Depot Inc",
     "Instacart",
     "Keurig Dr. Pepper",
-    "Kimberly Clark Corp",
-    "Kimco Realty Corp",
     "Monster Beverage",
-    "Norwegian Cruise Line",
-    "Ralph Lauren Corp",
-    "Sysco Corp"
+    "Ralph Lauren Corp"
   ],
   "fallbackCompanies": [
+    "Ball Corp",
     "Clorox Co",
     "Coca-Cola Europacific",
     "DoorDash",
     "International Flavours & Fragrances",
+    "Kimberly Clark Corp",
+    "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Mattel",
     "McDonald\u2019s Corp",
     "Molson Coors Beverage Co",
+    "Sysco Corp",
     "Tyson Foods"
   ],
   "week": {

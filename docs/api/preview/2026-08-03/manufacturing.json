@@ -40,9 +40,9 @@
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,12 +58,10 @@
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-08-04",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Expeditors International of Washington Inc",
@@ -78,9 +76,9 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -90,20 +88,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.leidos.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
-      "date": "2026-08-04",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Rockwell Automation Inc",
@@ -127,12 +112,10 @@
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-08-04",
-      "bmo_amc": "10:00 A.M. CT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 a.m. CT",
-      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wynn Resorts Ltd",
@@ -176,9 +159,9 @@
       "company": "Honeywell Aerospace",
       "symbol": "HONA",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -194,9 +177,9 @@
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -262,20 +245,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 27,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-04T22:07:41Z",
+  "generatedAt": "2026-08-05T01:26:57Z",
   "irCompanies": [
     "Axon Enterprise Inc",
-    "Emerson Electric Co",
     "Host Hotels & Resorts Inc",
-    "Leidos Holdings Inc",
-    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Peloton",
-    "Republic Services Inc",
-    "WW Grainger Inc"
+    "Republic Services Inc"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -285,16 +264,19 @@
     "Booking Holdings Inc",
     "Borgwarner Inc",
     "Caterpillar",
+    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Honeywell Aerospace",
     "Host Hotels & Resorts Inc",
     "Howmet Aerospace",
     "Jacobs Solutions Inc",
+    "Leidos Holdings Inc",
     "Marriott International Inc",
     "Realty Income Corp",
     "Rockwell Automation Inc",
     "TransDigm Group Inc",
+    "WW Grainger Inc",
     "Wynn Resorts Ltd"
   ],
   "week": {

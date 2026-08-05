@@ -35,16 +35,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-08-18",
@@ -93,7 +83,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -157,6 +149,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 15,
@@ -165,16 +167,16 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-04T22:08:06Z",
+  "generatedAt": "2026-08-05T01:27:21Z",
   "irCompanies": [
     "Analog Devices",
     "Baidu",
     "Estee Lauder",
+    "Home Depot Inc",
     "Wabtec"
   ],
   "fallbackCompanies": [
     "Deere",
-    "Home Depot Inc",
     "Jack Henry and Associates",
     "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",

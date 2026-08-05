@@ -13,38 +13,36 @@
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.davita.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-08-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -60,12 +58,10 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-08-04",
-      "bmo_amc": "6:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Merck",
@@ -74,9 +70,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pfizer Inc",
@@ -95,17 +89,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Viatris",
-      "symbol": "VTRS",
-      "date": "2026-08-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.viatris.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Waters Corp",
@@ -129,18 +112,18 @@
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Cencora Inc",
       "symbol": "COR",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -158,7 +141,7 @@
       "date": "2026-08-05",
       "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00 AM EDT",
       "ir_source_url": "https://investor.lilly.com/",
       "source": "investor_relations"
@@ -176,9 +159,9 @@
       "company": "Mckesson Corp",
       "symbol": "MCK",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -265,10 +248,12 @@
       "company": "Viatris",
       "symbol": "VTRS",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.viatris.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zoetis",
@@ -280,17 +265,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-04T22:07:41Z",
+  "generatedAt": "2026-08-05T01:26:58Z",
   "irCompanies": [
     "Becton Dickinson and Co",
-    "DaVita Inc",
     "Dentsply Sirona",
     "Eli Lilly and Co",
-    "IDEXX Laboratories Inc",
-    "Merck",
     "Novavax",
     "Solventum Corp",
     "Viatris"
@@ -302,17 +284,19 @@
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
+    "DaVita Inc",
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
+    "IDEXX Laboratories Inc",
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
+    "Merck",
     "Pfizer Inc",
     "Revvity",
     "STERIS plc",
     "Vertex Pharmaceuticals Inc",
-    "Viatris",
     "Waters Corp",
     "Zimmer Biomet Holdings Inc",
     "Zoetis"
