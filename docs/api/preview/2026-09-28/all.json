@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-09-29",
-      "bmo_amc": "11:30 A.M. EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Lamb Weston Holdings",
       "symbol": "LW",
       "date": "2026-09-29",
@@ -41,6 +29,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-09-29",
+      "bmo_amc": "11:30 A.M. EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 a.m. EDT",
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 4,
@@ -49,7 +49,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-05T13:38:11Z",
+  "generatedAt": "2026-08-05T16:33:29Z",
   "irCompanies": [
     "Alaska Air"
   ],
