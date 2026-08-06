@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-09-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-09-02",
@@ -28,12 +37,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-06T11:18:11Z",
+  "generatedAt": "2026-08-06T13:37:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Brown-Forman Corp",
     "Campbell Soup Co",
     "Dollar Tree",
     "Lululemon Athletica"
