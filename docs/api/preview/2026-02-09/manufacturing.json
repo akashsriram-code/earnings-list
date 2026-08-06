@@ -104,8 +104,17 @@
       "symbol": "ABNB",
       "date": "2026-02-12",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
+      "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -121,9 +130,9 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -163,15 +172,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-06T13:31:14Z",
+  "generatedAt": "2026-08-06T23:47:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
+    "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",

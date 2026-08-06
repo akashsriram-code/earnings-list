@@ -204,19 +204,19 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-08-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-08-06",
-      "bmo_amc": "11:00 AM ET",
+      "bmo_amc": "7:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "11:00 am ET",
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EDT",
       "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
     },
@@ -235,10 +235,10 @@
       "company": "Republic Services Inc",
       "symbol": "RSG",
       "date": "2026-08-06",
-      "bmo_amc": "5:00 PM EDT",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 PM EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://investor.republicservices.com/",
       "source": "investor_relations"
     }
@@ -246,7 +246,7 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-06T13:36:38Z",
+  "generatedAt": "2026-08-06T23:52:45Z",
   "irCompanies": [
     "Host Hotels & Resorts Inc",
     "Parker-Hannifin Corp",

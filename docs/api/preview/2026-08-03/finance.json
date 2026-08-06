@@ -120,18 +120,30 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "T. Rowe Price Group",
+      "symbol": "TROW",
+      "date": "2026-08-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.troweprice.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-06T13:36:36Z",
+  "generatedAt": "2026-08-06T23:52:46Z",
   "irCompanies": [
     "Allstate Corp",
-    "Fiserv"
+    "Fiserv",
+    "T. Rowe Price Group"
   ],
   "fallbackCompanies": [
     "Allstate Corp",

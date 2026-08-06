@@ -121,11 +121,22 @@
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-08-06",
-      "bmo_amc": "6:39 AM EDT",
+      "bmo_amc": "5:18 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:39 AM EDT",
+      "ir_time_label": "5:18 PM EDT",
       "ir_source_url": "https://investor.colgatepalmolive.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-08-06",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm EDT",
+      "ir_source_url": "https://investors.etsy.com/",
       "source": "investor_relations"
     },
     {
@@ -143,10 +154,10 @@
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2026-08-06",
-      "bmo_amc": "8:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00am",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations"
     },
@@ -204,14 +215,14 @@
       "source": "investor_relations"
     },
     {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
+      "company": "Ross Stores",
+      "symbol": "ROST",
       "date": "2026-08-06",
-      "bmo_amc": "9:06 AM",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:06 am ",
-      "ir_source_url": "https://www.rclinvestor.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.rossstores.com/",
       "source": "investor_relations"
     },
     {
@@ -226,19 +237,20 @@
       "source": "investor_relations"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-06T13:36:37Z",
+  "generatedAt": "2026-08-06T23:52:44Z",
   "irCompanies": [
     "Colgate-Palmolive",
+    "Etsy Inc",
     "Instacart",
     "Keurig Dr. Pepper",
     "Monster Beverage",
     "Norwegian Cruise Line",
     "Ralph Lauren Corp",
     "Regency Centers Corp",
-    "Royal Caribbean Group",
+    "Ross Stores",
     "TJX Cos Inc"
   ],
   "fallbackCompanies": [
