@@ -148,8 +148,8 @@
       "company": "APA",
       "symbol": "APA",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -157,8 +157,8 @@
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,8 +166,8 @@
       "company": "Atmos Energy",
       "symbol": "ATO",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -175,8 +175,8 @@
       "company": "CF Industries",
       "symbol": "CF",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -184,8 +184,8 @@
       "company": "NiSource",
       "symbol": "NI",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -193,8 +193,8 @@
       "company": "NuScale Power",
       "symbol": "SMR",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -202,8 +202,8 @@
       "company": "Nutrien",
       "symbol": "NTR",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,8 +211,8 @@
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -220,8 +220,8 @@
       "company": "Phillips 66",
       "symbol": "PSX",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -229,8 +229,8 @@
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2026-08-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -247,9 +247,9 @@
       "company": "Canadian Natural Resources",
       "symbol": "CNQ",
       "date": "2026-08-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -274,9 +274,9 @@
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -355,7 +355,7 @@
   "count": 39,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-08-06T08:18:11Z",
+  "generatedAt": "2026-08-06T11:17:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

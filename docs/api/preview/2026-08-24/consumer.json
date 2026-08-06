@@ -4,8 +4,8 @@
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -24,15 +24,6 @@
       "date": "2026-08-27",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -66,17 +57,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-06T08:18:50Z",
+  "generatedAt": "2026-08-06T11:17:59Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Best Buy Co Inc",
-    "Brown-Forman Corp",
     "Dollar General",
     "Hormel Foods",
     "J.M. Smucker Co"
