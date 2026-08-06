@@ -130,12 +130,10 @@
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-08-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Borgwarner Inc",
@@ -150,18 +148,18 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-08-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Honeywell Aerospace",
       "symbol": "HONA",
       "date": "2026-08-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -177,40 +175,18 @@
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-08-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-08-05",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "VICI Properties Inc",
-      "symbol": "VICI",
-      "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.viciproperties.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -228,9 +204,9 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -239,7 +215,7 @@
       "date": "2026-08-06",
       "bmo_amc": "11:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "11:00 am ET",
       "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
@@ -261,30 +237,28 @@
       "date": "2026-08-06",
       "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://investor.republicservices.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 28,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-05T22:09:53Z",
+  "generatedAt": "2026-08-06T01:24:10Z",
   "irCompanies": [
-    "Axon Enterprise Inc",
     "Host Hotels & Resorts Inc",
     "Parker-Hannifin Corp",
     "Peloton",
-    "Republic Services Inc",
-    "UPS",
-    "VICI Properties Inc"
+    "Republic Services Inc"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",
     "Airbnb Inc",
     "Alexandria Real Estate Equities Inc",
     "Aptiv PLC",
+    "Axon Enterprise Inc",
     "Booking Holdings Inc",
     "Borgwarner Inc",
     "Caterpillar",

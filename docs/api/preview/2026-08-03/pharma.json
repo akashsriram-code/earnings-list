@@ -127,17 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-08-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Charles River Labs",
       "symbol": "CRL",
       "date": "2026-08-05",
@@ -153,9 +142,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lilly.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Insulet",
@@ -164,17 +151,15 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mckesson Corp",
       "symbol": "MCK",
       "date": "2026-08-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -190,12 +175,10 @@
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-08-05",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zimmer Biomet Holdings Inc",
@@ -210,9 +193,9 @@
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -221,7 +204,7 @@
       "date": "2026-08-06",
       "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 am EDT",
       "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations"
@@ -278,18 +261,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-05T22:09:55Z",
+  "generatedAt": "2026-08-06T01:24:10Z",
   "irCompanies": [
     "Becton Dickinson and Co",
-    "Centene Corp",
     "Dentsply Sirona",
-    "Eli Lilly and Co",
-    "Insulet",
     "Novavax",
-    "Solventum Corp",
     "Viatris"
   ],
   "fallbackCompanies": [
@@ -300,16 +279,19 @@
     "Cencora Inc",
     "Charles River Labs",
     "DaVita Inc",
+    "Eli Lilly and Co",
     "Gilead",
     "Healthpeak Properties",
     "Henry Schein Inc",
     "IDEXX Laboratories Inc",
+    "Insulet",
     "Kenvue",
     "Mckesson Corp",
     "Merck",
     "Pfizer Inc",
     "Revvity",
     "STERIS plc",
+    "Solventum Corp",
     "Vertex Pharmaceuticals Inc",
     "Waters Corp",
     "Zimmer Biomet Holdings Inc",

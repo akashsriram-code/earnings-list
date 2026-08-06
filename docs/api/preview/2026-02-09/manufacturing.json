@@ -103,9 +103,9 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -121,18 +121,18 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -175,7 +175,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-05T22:05:00Z",
+  "generatedAt": "2026-08-06T01:19:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",

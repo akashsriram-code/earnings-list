@@ -15,10 +15,12 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Lowe\u2019s Cos Inc",
@@ -33,10 +35,12 @@
       "company": "TJX Cos Inc",
       "symbol": "TJX",
       "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "11:30 AM EDT",
+      "ir_source_url": "https://investor.tjx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Target Corp",
@@ -69,15 +73,15 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-05T22:10:19Z",
+  "generatedAt": "2026-08-06T01:24:34Z",
   "irCompanies": [
-    "Home Depot Inc"
+    "Estee Lauder",
+    "Home Depot Inc",
+    "TJX Cos Inc"
   ],
   "fallbackCompanies": [
-    "Estee Lauder",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
-    "TJX Cos Inc",
     "Target Corp",
     "Walmart Inc"
   ],

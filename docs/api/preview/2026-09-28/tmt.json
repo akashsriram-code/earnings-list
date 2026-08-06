@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.crowncastle.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-05T22:11:29Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-06T01:25:39Z",
+  "irCompanies": [
+    "Crown Castle"
+  ],
   "fallbackCompanies": [
     "Paychex"
   ],
