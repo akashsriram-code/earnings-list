@@ -235,8 +235,8 @@
       "source": "aggregator"
     },
     {
-      "company": "AES Corp",
-      "symbol": "AES",
+      "company": "Canadian Natural Resources",
+      "symbol": "CNQ",
       "date": "2026-08-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -244,20 +244,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Canadian Natural Resources",
-      "symbol": "CNQ",
-      "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Cheniere Energy",
       "symbol": "LNG",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -265,8 +256,8 @@
       "company": "ConocoPhillips",
       "symbol": "COP",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -275,7 +266,7 @@
       "symbol": "ED",
       "date": "2026-08-06",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -283,8 +274,8 @@
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,8 +283,8 @@
       "company": "Evergy",
       "symbol": "EVRG",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -301,8 +292,17 @@
       "company": "MP Materials",
       "symbol": "MP",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-08-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -310,8 +310,8 @@
       "company": "Sempra",
       "symbol": "SRE",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -319,8 +319,8 @@
       "company": "Targa Resources",
       "symbol": "TRGP",
       "date": "2026-08-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -355,10 +355,9 @@
   "count": 39,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-08-07T09:54:22Z",
+  "generatedAt": "2026-08-07T12:42:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "AES Corp",
     "APA",
     "Albemarle",
     "Archer-Daniels-Midland",
@@ -382,6 +381,7 @@
     "Marathon Petroleum",
     "Mosaic",
     "NRG Energy",
+    "New Fortress Energy",
     "NiSource",
     "NuScale Power",
     "Nutrien",
