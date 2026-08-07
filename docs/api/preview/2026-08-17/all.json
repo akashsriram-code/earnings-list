@@ -38,10 +38,12 @@
       "company": "TJX Cos Inc",
       "symbol": "TJX",
       "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "11:30 AM EDT",
+      "ir_source_url": "https://investor.tjx.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -58,10 +60,12 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-08-20",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:00 P.M.",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:00 p.m. ",
+      "ir_source_url": "https://investors.rossstores.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -181,7 +185,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-06T23:53:09Z",
+  "generatedAt": "2026-08-07T02:06:29Z",
   "irCompanies": [
     "Analog Devices",
     "Baidu",
@@ -189,6 +193,8 @@
     "Fortinet",
     "Home Depot Inc",
     "Jack Henry and Associates",
+    "Ross Stores",
+    "TJX Cos Inc",
     "Wabtec"
   ],
   "fallbackCompanies": [
@@ -197,8 +203,6 @@
     "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",
     "Nordson Corp",
-    "Ross Stores",
-    "TJX Cos Inc",
     "Target Corp",
     "Walmart Inc"
   ],

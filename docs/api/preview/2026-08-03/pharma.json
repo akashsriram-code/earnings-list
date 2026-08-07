@@ -202,12 +202,10 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-08-06",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Dentsply Sirona",
@@ -216,9 +214,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.dentsplysirona.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Kenvue",
@@ -236,9 +232,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Viatris",
@@ -247,9 +241,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.viatris.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zoetis",
@@ -264,21 +256,18 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-06T23:52:44Z",
-  "irCompanies": [
-    "Becton Dickinson and Co",
-    "Dentsply Sirona",
-    "Novavax",
-    "Viatris"
-  ],
+  "generatedAt": "2026-08-07T02:06:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "CVS Health Corp",
     "Cencora Inc",
     "Charles River Labs",
     "DaVita Inc",
+    "Dentsply Sirona",
     "Eli Lilly and Co",
     "Gilead",
     "Healthpeak Properties",
@@ -288,11 +277,13 @@
     "Kenvue",
     "Mckesson Corp",
     "Merck",
+    "Novavax",
     "Pfizer Inc",
     "Revvity",
     "STERIS plc",
     "Solventum Corp",
     "Vertex Pharmaceuticals Inc",
+    "Viatris",
     "Waters Corp",
     "Zimmer Biomet Holdings Inc",
     "Zoetis"

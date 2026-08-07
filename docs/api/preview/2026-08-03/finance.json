@@ -91,28 +91,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Allstate Corp",
-      "symbol": "ALL",
-      "date": "2026-08-06",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.allstateinvestors.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Sun Life",
       "symbol": "SLF",
       "date": "2026-08-06",
@@ -120,31 +98,16 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "T. Rowe Price Group",
-      "symbol": "TROW",
-      "date": "2026-08-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.troweprice.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 14,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-06T23:52:46Z",
-  "irCompanies": [
-    "Allstate Corp",
-    "Fiserv",
-    "T. Rowe Price Group"
-  ],
+  "generatedAt": "2026-08-07T02:06:05Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
     "Apollo",

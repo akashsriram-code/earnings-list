@@ -108,6 +108,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-09-03",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://ir.zscaler.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Alibaba",
       "symbol": "BABA",
       "date": "2026-09-04",
@@ -117,15 +128,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-06T23:53:32Z",
+  "generatedAt": "2026-08-07T02:06:53Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
     "Dell",
-    "Palo Alto"
+    "Palo Alto",
+    "Zscaler"
   ],
   "fallbackCompanies": [
     "Alibaba",
