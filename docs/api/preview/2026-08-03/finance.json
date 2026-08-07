@@ -98,16 +98,29 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-08-07",
+      "bmo_amc": "12:39 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:39 PM EDT",
+      "ir_source_url": "https://ir.mtb.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-07T15:48:32Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-07T18:43:17Z",
+  "irCompanies": [
+    "M&T Bank Corp"
+  ],
   "fallbackCompanies": [
     "Allstate Corp",
     "Apollo",
