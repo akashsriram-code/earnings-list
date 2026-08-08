@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
@@ -41,6 +31,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-09-09",
@@ -53,14 +53,14 @@
       "sector": "Pharma"
     },
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-08",
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     }
   ],
   "count": 6,
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-08T06:38:24Z",
+  "generatedAt": "2026-08-08T09:33:12Z",
   "irCompanies": [
     "Cooper Companies Inc"
   ],
