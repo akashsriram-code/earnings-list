@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-09-09",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investor.coopercos.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-09-08",
@@ -49,18 +61,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-09-09",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.coopercos.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
   "count": 6,
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-08T12:28:56Z",
+  "generatedAt": "2026-08-08T15:24:36Z",
   "irCompanies": [
     "Cooper Companies Inc"
   ],
