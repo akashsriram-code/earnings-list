@@ -379,84 +379,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations"
-    },
-    {
-      "company": "CoStar Group",
-      "symbol": "CSGP",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.costargroup.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Paramount",
-      "symbol": "PARA",
-      "date": "2026-08-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.paramount.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-08-07",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 48,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-07T21:33:36Z",
-  "irCompanies": [
-    "Alibaba",
-    "CoStar Group",
-    "Live Nation Entertainment",
-    "News Corp",
-    "Paramount",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-08-08T00:49:30Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
     "AppLovin",
@@ -494,6 +430,7 @@
     "Shopify",
     "Snap",
     "Spotify",
+    "Take-Two Interactive",
     "Tower Semiconductor",
     "Trade Desk",
     "Uber",
