@@ -1,6 +1,62 @@
 {
   "records": [
     {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-08-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-08-13",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "MSCI Inc",
+      "symbol": "MSCI",
+      "date": "2026-08-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.msci.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-08-12",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.robinhood.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-08-10",
@@ -169,60 +225,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-08-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
+      "company": "Honeywell",
+      "symbol": "HON",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-08-13",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "MSCI Inc",
-      "symbol": "MSCI",
-      "date": "2026-08-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.msci.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-08-12",
-      "bmo_amc": "4:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investors.robinhood.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
       "company": "Venture Global",
@@ -301,18 +313,6 @@
       "ir_source_url": "https://investors.tapestry.com/",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-08-11",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EDT",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 28,
@@ -321,7 +321,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-09T09:33:37Z",
+  "generatedAt": "2026-08-09T12:29:49Z",
   "irCompanies": [
     "Applied Materials",
     "Etsy Inc",
