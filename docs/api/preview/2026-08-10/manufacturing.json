@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-08-10",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://sumisho.aero/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-08-11",
@@ -12,11 +23,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-10T00:53:47Z",
+  "generatedAt": "2026-08-10T04:27:07Z",
   "irCompanies": [
+    "Air Lease",
     "Honeywell"
   ],
   "fallbackCompanies": [],
