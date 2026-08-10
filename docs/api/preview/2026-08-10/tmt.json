@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.kyndryl.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-08-10",
@@ -37,11 +48,22 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-08-10",
-      "bmo_amc": "2:18 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:18 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-08-10",
+      "bmo_amc": "4:17 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:17 PM EDT",
+      "ir_source_url": "https://investor.verisign.com/",
       "source": "investor_relations"
     },
     {
@@ -176,22 +198,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-10T18:46:26Z",
+  "generatedAt": "2026-08-10T21:37:02Z",
   "irCompanies": [
     "Applied Materials",
     "Duolingo",
     "IAC",
     "JD.com",
+    "Kyndryl",
     "Micron",
     "News Corp",
     "Onsemi",
     "Roper Technologies",
     "Take-Two Interactive",
     "Tencent Music",
-    "Texas Instruments"
+    "Texas Instruments",
+    "VeriSign"
   ],
   "fallbackCompanies": [
     "Cisco Systems",
