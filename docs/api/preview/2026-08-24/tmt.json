@@ -46,8 +46,8 @@
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -101,15 +101,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Dell",
-      "symbol": "DELL",
-      "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-08-27",
@@ -124,8 +115,8 @@
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -139,10 +130,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-10T10:13:57Z",
+  "generatedAt": "2026-08-10T12:46:08Z",
   "irCompanies": [
     "Autodesk",
     "Intuit",
@@ -153,7 +144,6 @@
   ],
   "fallbackCompanies": [
     "Crowdstrike",
-    "Dell",
     "HP Inc",
     "NVIDIA",
     "Salesforce",
