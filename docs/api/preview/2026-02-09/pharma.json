@@ -71,12 +71,48 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "West Pharmaceutical Services Inc",
+      "symbol": "WST",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zoetis",
+      "symbol": "ZTS",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-11T15:48:23Z",
+  "generatedAt": "2026-08-11T18:44:47Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
@@ -85,8 +121,11 @@
     "Gilead",
     "Quest Diagnostics Inc",
     "Tenet Healthcare",
+    "Vertex Pharmaceuticals Inc",
     "Waters Corp",
-    "Zimmer Biomet Holdings Inc"
+    "West Pharmaceutical Services Inc",
+    "Zimmer Biomet Holdings Inc",
+    "Zoetis"
   ],
   "week": {
     "id": "2026-02-09",

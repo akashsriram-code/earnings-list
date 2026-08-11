@@ -1,54 +1,14 @@
 {
   "records": [
     {
-      "company": "Constellation Energy",
-      "symbol": "CEG",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
       "date": "2026-05-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Mosaic",
-      "symbol": "MOS",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Ovintiv",
-      "symbol": "OVV",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-05-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-05-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
       "company": "Fox Corp",
@@ -84,9 +44,9 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-05-12",
-      "bmo_amc": "TBD",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -94,9 +54,9 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-05-12",
-      "bmo_amc": "TBD",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -161,22 +121,62 @@
       "sector": "TMT"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
+      "company": "Constellation Energy",
+      "symbol": "CEG",
       "date": "2026-05-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Resources"
+    },
+    {
+      "company": "Mosaic",
+      "symbol": "MOS",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Ovintiv",
+      "symbol": "OVV",
+      "date": "2026-05-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-05-12",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-05-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-05-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
     },
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-11T15:51:16Z",
+  "generatedAt": "2026-08-11T18:47:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
