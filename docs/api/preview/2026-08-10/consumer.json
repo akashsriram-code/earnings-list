@@ -4,23 +4,10 @@
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-08-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.simon.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
-      "date": "2026-08-10",
-      "bmo_amc": "11:05 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:05 AM EDT",
-      "ir_source_url": "https://investor.tjx.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": "AMC",
+      "source": "aggregator"
     },
     {
       "company": "Smithfield Foods",
@@ -65,19 +52,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-10T21:37:00Z",
+  "generatedAt": "2026-08-11T00:52:42Z",
   "irCompanies": [
     "Etsy Inc",
-    "Simon Property Group",
     "Smithfield Foods",
-    "TJX Cos Inc",
     "Tapestry Inc"
   ],
   "fallbackCompanies": [
-    "Amcor PLC"
+    "Amcor PLC",
+    "Simon Property Group"
   ],
   "week": {
     "id": "2026-08-10",
