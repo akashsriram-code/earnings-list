@@ -21,6 +21,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Digital Realty",
+      "symbol": "DLR",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.digitalrealty.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-08-11",
@@ -86,10 +97,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-08-11",
-      "bmo_amc": "2:25 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:25 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -113,6 +124,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investor.ti.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-08-11",
+      "bmo_amc": "4:50 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:50 PM EDT",
+      "ir_source_url": "https://investor.verisign.com/",
       "source": "investor_relations"
     },
     {
@@ -176,13 +198,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-11T18:49:40Z",
+  "generatedAt": "2026-08-11T21:39:51Z",
   "irCompanies": [
     "Applied Materials",
     "Crowdstrike",
+    "Digital Realty",
     "IAC",
     "JD.com",
     "Live Nation Entertainment",
@@ -191,7 +214,8 @@
     "Roper Technologies",
     "Take-Two Interactive",
     "Tencent Music",
-    "Texas Instruments"
+    "Texas Instruments",
+    "VeriSign"
   ],
   "fallbackCompanies": [
     "Cisco Systems",
