@@ -15,12 +15,10 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-08-25",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zoom",
@@ -79,6 +77,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.towersemi.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2026-08-27",
@@ -130,21 +139,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-12T09:59:23Z",
+  "generatedAt": "2026-08-12T12:47:08Z",
   "irCompanies": [
     "Autodesk",
-    "Intuit",
     "Marvell",
     "Onsemi",
+    "Tower Semiconductor",
     "Xpeng",
     "Zoom"
   ],
   "fallbackCompanies": [
     "Crowdstrike",
     "HP Inc",
+    "Intuit",
     "NVIDIA",
     "Salesforce",
     "SentinelOne",

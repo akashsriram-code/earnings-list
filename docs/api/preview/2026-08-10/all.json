@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-08-13",
-      "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 PM ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-08-10",
@@ -26,8 +14,8 @@
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
@@ -55,35 +43,99 @@
       "sector": "Pharma"
     },
     {
-      "company": "MSCI Inc",
-      "symbol": "MSCI",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Amcor PLC",
+      "symbol": "AMCR",
+      "date": "2026-08-12",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
       "date": "2026-08-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://ir.msci.com/",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Robinhood",
-      "symbol": "HOOD",
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
       "date": "2026-08-12",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "11:05 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investors.robinhood.com/",
+      "ir_time_label": "11:05 AM EDT",
+      "ir_source_url": "https://investor.tjx.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2026-08-13",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.tapestry.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-08-13",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -92,8 +144,8 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -102,8 +154,8 @@
       "company": "Super Micro",
       "symbol": "SMCI",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -112,8 +164,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -137,6 +189,30 @@
       "yahoo_time_label": null,
       "ir_time_label": "10:45 AM EDT",
       "ir_source_url": "https://ir.people-incorporated.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-08-12",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -185,113 +261,52 @@
       "sector": "TMT"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-08-10",
+      "company": "MSCI Inc",
+      "symbol": "MSCI",
+      "date": "2026-08-12",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
-      "date": "2026-08-12",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-08-12",
-      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://investors.etsy.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.msci.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
+      "company": "Robinhood",
+      "symbol": "HOOD",
       "date": "2026-08-12",
-      "bmo_amc": "11:05 AM EDT",
+      "bmo_amc": "4:05 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:05 AM EDT",
-      "ir_source_url": "https://investor.tjx.com/",
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.robinhood.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tapestry Inc",
-      "symbol": "TPR",
-      "date": "2026-08-13",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://investors.tapestry.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-08-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "AES Corp",
-      "symbol": "AES",
-      "date": "2026-08-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Finance"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-12T09:59:02Z",
+  "generatedAt": "2026-08-12T12:46:47Z",
   "irCompanies": [
     "Applied Materials",
-    "Etsy Inc",
     "IAC",
     "IDEXX Laboratories Inc",
+    "Intuit",
     "JD.com",
+    "Keurig Dr. Pepper",
     "MSCI Inc",
     "Magna International",
+    "News Corp",
     "Robinhood",
     "TJX Cos Inc",
     "Tapestry Inc"
   ],
   "fallbackCompanies": [
-    "AES Corp",
     "Amcor PLC",
     "Bio-Techne Corp",
     "Cardinal Health Inc",
