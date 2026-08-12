@@ -8,16 +8,29 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-19",
+      "bmo_amc": "8:45 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 AM EDT",
+      "ir_source_url": "https://ir.jackhenry.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-11T21:40:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-12T01:01:08Z",
+  "irCompanies": [
+    "Jack Henry and Associates"
+  ],
   "fallbackCompanies": [
     "Jack Henry and Associates"
   ],
