@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-09-14",
@@ -63,6 +53,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 6,
@@ -71,7 +71,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-12T12:47:47Z",
+  "generatedAt": "2026-08-12T15:55:06Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Wells Fargo"

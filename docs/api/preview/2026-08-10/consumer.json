@@ -22,9 +22,9 @@
       "company": "Amcor PLC",
       "symbol": "AMCR",
       "date": "2026-08-12",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -36,6 +36,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-08-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
     },
     {
@@ -61,12 +72,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-12T12:46:45Z",
+  "generatedAt": "2026-08-12T15:54:07Z",
   "irCompanies": [
     "Keurig Dr. Pepper",
+    "Sysco Corp",
     "TJX Cos Inc",
     "Tapestry Inc"
   ],

@@ -1,6 +1,88 @@
 {
   "records": [
     {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-08-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-08-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-08-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-08-24",
@@ -203,88 +285,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-08-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-08-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Bath & Body Works",
-      "symbol": "BBWI",
-      "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-08-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-08-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
-      "date": "2026-08-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
-      "date": "2026-08-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-08-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
     }
   ],
   "count": 27,
@@ -293,7 +293,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-12T12:47:11Z",
+  "generatedAt": "2026-08-12T15:54:30Z",
   "irCompanies": [
     "Autodesk",
     "Marvell",
