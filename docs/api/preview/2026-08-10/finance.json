@@ -1,13 +1,51 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.factset.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Fair Issac Corp",
+      "symbol": "FICO",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.fico.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-13T09:59:11Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-13T12:47:52Z",
+  "irCompanies": [
+    "Apollo",
+    "FactSet Research",
+    "Fair Issac Corp"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-08-10",

@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-08-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-08-26",
@@ -57,14 +66,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-13T09:59:34Z",
+  "generatedAt": "2026-08-13T12:48:14Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
+    "Bath & Body Works",
     "Best Buy Co Inc",
     "Dollar General",
     "Dollar Tree",
