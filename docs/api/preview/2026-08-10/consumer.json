@@ -22,32 +22,10 @@
       "company": "Amcor PLC",
       "symbol": "AMCR",
       "date": "2026-08-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-08-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
-      "date": "2026-08-12",
-      "bmo_amc": "11:05 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:05 AM EDT",
-      "ir_source_url": "https://investor.tjx.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Tapestry Inc",
@@ -55,19 +33,17 @@
       "date": "2026-08-13",
       "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 AM EDT",
       "ir_source_url": "https://investors.tapestry.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-12T21:39:32Z",
+  "generatedAt": "2026-08-13T01:02:56Z",
   "irCompanies": [
-    "Keurig Dr. Pepper",
-    "TJX Cos Inc",
     "Tapestry Inc"
   ],
   "fallbackCompanies": [

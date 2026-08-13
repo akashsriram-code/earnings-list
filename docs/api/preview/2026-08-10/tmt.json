@@ -40,82 +40,27 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-08-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "CoStar Group",
-      "symbol": "CSGP",
-      "date": "2026-08-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.costargroup.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "IAC",
-      "symbol": "IAC",
-      "date": "2026-08-12",
-      "bmo_amc": "10:45 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:45 AM EDT",
-      "ir_source_url": "https://ir.people-incorporated.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-08-12",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-08-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-08-12",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2026-08-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-08-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://ir.appliedmaterials.com/",
       "source": "investor_relations"
@@ -124,9 +69,9 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-08-13",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.jd.com/",
       "source": "investor_relations"
@@ -141,18 +86,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-12T21:39:33Z",
+  "generatedAt": "2026-08-13T01:02:57Z",
   "irCompanies": [
     "Applied Materials",
-    "CoStar Group",
-    "IAC",
-    "Intuit",
-    "JD.com",
-    "News Corp",
-    "Take-Two Interactive"
+    "JD.com"
   ],
   "fallbackCompanies": [
     "Cisco Systems",

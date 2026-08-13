@@ -15,10 +15,12 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-08-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zoom",
@@ -142,9 +144,10 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-12T21:39:57Z",
+  "generatedAt": "2026-08-13T01:03:23Z",
   "irCompanies": [
     "Autodesk",
+    "Intuit",
     "Marvell",
     "Onsemi",
     "Tower Semiconductor",
@@ -154,7 +157,6 @@
   "fallbackCompanies": [
     "Crowdstrike",
     "HP Inc",
-    "Intuit",
     "NVIDIA",
     "Salesforce",
     "SentinelOne",
