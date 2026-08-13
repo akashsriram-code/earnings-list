@@ -66,6 +66,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.crowdstrike.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Duolingo",
       "symbol": "DUOL",
       "date": "2026-08-13",
@@ -80,9 +91,9 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-08-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.jd.com/",
       "source": "investor_relations"
@@ -106,17 +117,42 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-08-13",
+      "bmo_amc": "11:28 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:28 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-08-13",
+      "bmo_amc": "9:28 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:28 AM EDT",
+      "ir_source_url": "https://investor.verisign.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-13T12:47:51Z",
+  "generatedAt": "2026-08-13T15:52:50Z",
   "irCompanies": [
     "Applied Materials",
+    "Crowdstrike",
     "Duolingo",
     "JD.com",
-    "News Corp"
+    "News Corp",
+    "Take-Two Interactive",
+    "VeriSign"
   ],
   "fallbackCompanies": [
     "Cisco Systems",

@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
-      "date": "2026-10-29",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EDT",
-      "ir_source_url": "https://investor.lilly.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-10-27",
@@ -23,6 +11,18 @@
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-10-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM EDT",
+      "ir_source_url": "https://investor.lilly.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
   "count": 2,
@@ -31,7 +31,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-13T12:50:11Z",
+  "generatedAt": "2026-08-13T15:55:02Z",
   "irCompanies": [
     "Eli Lilly and Co",
     "UPS"
