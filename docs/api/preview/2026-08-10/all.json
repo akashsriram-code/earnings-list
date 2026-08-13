@@ -41,6 +41,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-08-13",
+      "bmo_amc": "11:05 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:05 AM EDT",
+      "ir_source_url": "https://investor.tjx.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
       "company": "Tapestry Inc",
       "symbol": "TPR",
       "date": "2026-08-13",
@@ -53,46 +65,16 @@
       "sector": "Consumer"
     },
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-08-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-08-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-08-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
+      "company": "Magna International",
+      "symbol": "MGA",
       "date": "2026-08-13",
-      "bmo_amc": "6:30 AM EDT",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "CoreWeave",
@@ -167,6 +149,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Duolingo",
+      "symbol": "DUOL",
+      "date": "2026-08-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.duolingo.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-08-13",
@@ -189,30 +183,62 @@
       "sector": "TMT"
     },
     {
-      "company": "Magna International",
-      "symbol": "MGA",
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-08-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-08-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2026-08-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
       "date": "2026-08-13",
-      "bmo_amc": "12:00 PM ET",
+      "bmo_amc": "6:30 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "12:00 PM ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     }
   ],
-  "count": 19,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-13T01:02:58Z",
+  "generatedAt": "2026-08-13T04:49:43Z",
   "irCompanies": [
     "Applied Materials",
+    "Duolingo",
     "IDEXX Laboratories Inc",
     "JD.com",
     "Magna International",
+    "TJX Cos Inc",
     "Tapestry Inc"
   ],
   "fallbackCompanies": [
