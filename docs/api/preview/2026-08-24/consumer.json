@@ -58,25 +58,28 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-08-27",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     }
   ],
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-13T21:40:41Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-14T01:02:28Z",
+  "irCompanies": [
+    "Ulta Beauty"
+  ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Best Buy Co Inc",
     "Dollar General",
     "Dollar Tree",
     "Hormel Foods",
-    "J.M. Smucker Co",
-    "Ulta Beauty"
+    "J.M. Smucker Co"
   ],
   "week": {
     "id": "2026-08-24",
