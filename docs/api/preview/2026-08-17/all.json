@@ -1,48 +1,6 @@
 {
   "records": [
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-08-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Wabtec",
-      "symbol": "WAB",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.wabteccorp.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2026-08-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-08-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-08-18",
@@ -80,12 +38,10 @@
       "company": "TJX Cos Inc",
       "symbol": "TJX",
       "date": "2026-08-19",
-      "bmo_amc": "11:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "11:30 AM EDT",
-      "ir_source_url": "https://investor.tjx.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Consumer"
     },
     {
@@ -181,6 +137,48 @@
       "sector": "TMT"
     },
     {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-08-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Wabtec",
+      "symbol": "WAB",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.wabteccorp.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-08-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2026-08-18",
@@ -209,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-16T03:44:09Z",
+  "generatedAt": "2026-08-16T06:25:25Z",
   "irCompanies": [
     "Alibaba",
     "Analog Devices",
@@ -219,7 +217,6 @@
     "Home Depot Inc",
     "Jack Henry and Associates",
     "Ross Stores",
-    "TJX Cos Inc",
     "Wabtec",
     "Walmart Inc"
   ],
@@ -229,6 +226,7 @@
     "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",
     "Nordson Corp",
+    "TJX Cos Inc",
     "Target Corp",
     "Wolfspeed"
   ],
