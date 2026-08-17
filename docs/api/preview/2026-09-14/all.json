@@ -1,14 +1,26 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-09-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Deckers Outdoors",
@@ -43,26 +55,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
       "date": "2026-09-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     }
   ],
   "count": 6,
@@ -71,7 +71,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-17T18:27:51Z",
+  "generatedAt": "2026-08-17T21:22:19Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Wells Fargo"
