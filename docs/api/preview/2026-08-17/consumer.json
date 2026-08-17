@@ -35,10 +35,12 @@
       "company": "TJX Cos Inc",
       "symbol": "TJX",
       "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "11:30 AM EDT",
+      "ir_source_url": "https://investor.tjx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Target Corp",
@@ -75,16 +77,16 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-16T21:15:27Z",
+  "generatedAt": "2026-08-17T00:38:08Z",
   "irCompanies": [
     "Estee Lauder",
     "Home Depot Inc",
     "Ross Stores",
+    "TJX Cos Inc",
     "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Lowe\u2019s Cos Inc",
-    "TJX Cos Inc",
     "Target Corp"
   ],
   "week": {
