@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-19",
-      "bmo_amc": "8:45 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:45 AM EDT",
-      "ir_source_url": "https://ir.jackhenry.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-08-18",
@@ -31,6 +9,30 @@
       "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.baidu.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -111,6 +113,28 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-18",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-19",
+      "bmo_amc": "8:45 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 AM EDT",
+      "ir_source_url": "https://ir.jackhenry.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-08-18",
@@ -131,6 +155,18 @@
       "yahoo_time_label": null,
       "ir_time_label": "11:05 AM EDT",
       "ir_source_url": "https://investor.tjx.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
       "source": "investor_relations",
       "sector": "Consumer"
     },
@@ -201,13 +237,13 @@
       "sector": "Consumer"
     }
   ],
-  "count": 18,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-18T09:26:59Z",
+  "generatedAt": "2026-08-18T12:26:36Z",
   "irCompanies": [
     "Alibaba",
     "Analog Devices",
@@ -215,8 +251,11 @@
     "Estee Lauder",
     "Home Depot Inc",
     "Jack Henry and Associates",
+    "Live Nation Entertainment",
+    "News Corp",
     "Ross Stores",
     "TJX Cos Inc",
+    "Target Corp",
     "Wabtec",
     "Walmart Inc"
   ],
