@@ -4,11 +4,22 @@
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-08-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.baidu.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.costargroup.com/",
       "source": "investor_relations"
     },
     {
@@ -31,6 +42,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-08-18",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
     {
@@ -65,16 +87,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-18T12:26:34Z",
+  "generatedAt": "2026-08-18T15:26:32Z",
   "irCompanies": [
     "Alibaba",
     "Analog Devices",
     "Baidu",
+    "CoStar Group",
     "Live Nation Entertainment",
-    "News Corp"
+    "News Corp",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Wolfspeed"
