@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-09-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-09-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-09-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-09-01",
@@ -108,12 +138,10 @@
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-03",
-      "bmo_amc": "3:30 PM CDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "3:30 PM CDT",
-      "ir_source_url": "https://investors.delltechnologies.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -137,36 +165,6 @@
       "ir_source_url": "https://ir.zscaler.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-09-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-09-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-09-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 15,
@@ -175,11 +173,10 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-18T18:26:10Z",
+  "generatedAt": "2026-08-18T21:19:34Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
-    "Dell",
     "HPE",
     "Juniper Networks",
     "Medtronic PLC",
@@ -191,6 +188,7 @@
     "Brown-Forman Corp",
     "C3.ai",
     "Campbell Soup Co",
+    "Dell",
     "Lululemon Athletica",
     "Snowflake",
     "VinFast"
