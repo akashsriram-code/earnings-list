@@ -270,10 +270,12 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-08-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -293,7 +295,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-17T21:21:44Z",
+  "generatedAt": "2026-08-18T00:37:57Z",
   "irCompanies": [
     "Autodesk",
     "Intuit",
@@ -301,6 +303,7 @@
     "Onsemi",
     "Royal Bank of Canada",
     "Tower Semiconductor",
+    "Ulta Beauty",
     "Xpeng",
     "Zoom"
   ],
@@ -322,7 +325,6 @@
     "SentinelOne",
     "Synopsys",
     "TD Bank",
-    "Ulta Beauty",
     "Workday"
   ],
   "week": {

@@ -1,34 +1,12 @@
 {
   "records": [
     {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-08-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "M&T Bank Corp",
-      "symbol": "MTB",
-      "date": "2026-08-17",
-      "bmo_amc": "3:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:05 PM EDT",
-      "ir_source_url": "https://ir.mtb.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2026-08-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -43,17 +21,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-17T21:21:32Z",
+  "generatedAt": "2026-08-18T00:37:45Z",
   "irCompanies": [
-    "Fiserv",
-    "Jack Henry and Associates",
-    "M&T Bank Corp"
+    "Jack Henry and Associates"
   ],
   "fallbackCompanies": [
     "Jack Henry and Associates"

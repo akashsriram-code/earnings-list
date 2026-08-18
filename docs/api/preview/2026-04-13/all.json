@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-04-13",
@@ -241,6 +221,26 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-04-14",
@@ -267,7 +267,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-17T21:17:56Z",
+  "generatedAt": "2026-08-18T00:34:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
