@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Crown Castle",
-      "symbol": "CCI",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.crowncastle.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Lamb Weston Holdings",
       "symbol": "LW",
       "date": "2026-09-29",
@@ -53,6 +31,28 @@
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.crowncastle.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 5,
@@ -61,7 +61,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-18T06:30:00Z",
+  "generatedAt": "2026-08-18T09:28:12Z",
   "irCompanies": [
     "Alaska Air",
     "Crown Castle"
