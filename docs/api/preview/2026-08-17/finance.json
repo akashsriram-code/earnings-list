@@ -1,52 +1,39 @@
 {
   "records": [
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
       "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.jackhenry.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "M&T Bank Corp",
-      "symbol": "MTB",
-      "date": "2026-08-18",
-      "bmo_amc": "4:39 PM EDT",
+      "date": "2026-08-19",
+      "bmo_amc": "8:45 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:39 PM EDT",
-      "ir_source_url": "https://ir.mtb.com/",
+      "ir_time_label": "8:45 AM EDT",
+      "ir_source_url": "https://ir.jackhenry.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-18T21:19:12Z",
+  "generatedAt": "2026-08-19T00:37:57Z",
   "irCompanies": [
-    "Huntington Bancshares",
-    "Jack Henry and Associates",
-    "M&T Bank Corp"
+    "Jack Henry and Associates"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Jack Henry and Associates"
+  ],
   "week": {
     "id": "2026-08-17",
     "start_date": "2026-08-17",
