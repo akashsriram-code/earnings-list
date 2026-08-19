@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-10-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-10-14",
@@ -11,16 +21,6 @@
       "ir_source_url": "https://investor.accenture.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-10-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     },
     {
       "company": "Citigroup",
@@ -65,7 +65,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-19T03:44:59Z",
+  "generatedAt": "2026-08-19T06:30:59Z",
   "irCompanies": [
     "Accenture",
     "Bank of America",
