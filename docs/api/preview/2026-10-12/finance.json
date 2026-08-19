@@ -1,26 +1,53 @@
 {
   "records": [
     {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-10-13",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
     },
     {
+      "company": "Goldman Sachs",
+      "symbol": "GS",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-10-13",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bank of America",
@@ -34,19 +61,23 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-19T09:29:32Z",
+  "generatedAt": "2026-08-19T12:27:55Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "JPMorgan"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "BlackRock Inc",
+    "Goldman Sachs",
+    "Wells Fargo"
+  ],
   "week": {
     "id": "2026-10-12",
     "start_date": "2026-10-12",
