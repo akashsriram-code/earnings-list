@@ -46,6 +46,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-08-20",
@@ -60,11 +71,22 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-08-20",
-      "bmo_amc": "4:00 P.M.",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "4:00 p.m. ",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.rossstores.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
     },
     {
@@ -79,13 +101,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-20T18:27:21Z",
+  "generatedAt": "2026-08-20T21:23:52Z",
   "irCompanies": [
+    "Home Depot Inc",
     "Lululemon Athletica",
     "Ross Stores",
+    "Sysco Corp",
     "Walmart Inc"
   ],
   "fallbackCompanies": [
