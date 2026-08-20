@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-11-02",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-11-03",
@@ -13,14 +25,15 @@
       "sector": "TMT"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-20T09:30:36Z",
+  "generatedAt": "2026-08-20T12:30:26Z",
   "irCompanies": [
+    "Estee Lauder",
     "Zebra Technologies"
   ],
   "fallbackCompanies": [],

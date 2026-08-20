@@ -22,8 +22,8 @@
       "company": "Wolfspeed",
       "symbol": "WOLF",
       "date": "2026-08-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -39,6 +39,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.crowdstrike.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-08-20",
@@ -48,15 +59,40 @@
       "ir_time_label": null,
       "ir_source_url": "https://ir.kla.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-08-20",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 5,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-20T09:28:28Z",
+  "generatedAt": "2026-08-20T12:28:12Z",
   "irCompanies": [
     "Alibaba",
-    "KLA Corp"
+    "Crowdstrike",
+    "KLA Corp",
+    "News Corp",
+    "Qnity"
   ],
   "fallbackCompanies": [
     "Analog Devices",
