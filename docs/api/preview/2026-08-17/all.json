@@ -1,46 +1,14 @@
 {
   "records": [
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
       "date": "2026-08-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Analog Devices",
-      "symbol": "ADI",
-      "date": "2026-08-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Wolfspeed",
-      "symbol": "WOLF",
-      "date": "2026-08-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2026-08-20",
-      "bmo_amc": "7:30 PM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "7:30 PM",
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "Home Depot Inc",
@@ -117,6 +85,48 @@
       "sector": "Consumer"
     },
     {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-08-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Analog Devices",
+      "symbol": "ADI",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Wolfspeed",
+      "symbol": "WOLF",
+      "date": "2026-08-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-08-20",
+      "bmo_amc": "7:30 PM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "ir_time_label": "7:30 PM",
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-08-18",
@@ -145,16 +155,6 @@
       "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-08-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
   "count": 15,
@@ -163,7 +163,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-20T00:38:32Z",
+  "generatedAt": "2026-08-20T03:44:10Z",
   "irCompanies": [
     "Alibaba",
     "Ross Stores",
