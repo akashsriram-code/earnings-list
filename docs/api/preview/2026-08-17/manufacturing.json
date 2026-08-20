@@ -10,54 +10,29 @@
       "source": "aggregator"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-08-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Nordson Corp",
       "symbol": "NDSN",
       "date": "2026-08-19",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-08-19",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Deere",
       "symbol": "DE",
       "date": "2026-08-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-19T21:21:50Z",
-  "irCompanies": [
-    "Honeywell",
-    "Veralto Corp"
-  ],
+  "generatedAt": "2026-08-20T00:38:31Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Deere",
     "Keysight Technologies Inc",
