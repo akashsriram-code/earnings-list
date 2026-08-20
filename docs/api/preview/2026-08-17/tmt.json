@@ -33,9 +33,20 @@
       "date": "2026-08-20",
       "bmo_amc": "7:30 PM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "7:30 PM",
       "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations"
+    },
+    {
+      "company": "C3.ai",
+      "symbol": "AI",
+      "date": "2026-08-20",
+      "bmo_amc": "9:00 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM PST",
+      "ir_source_url": "https://ir.c3.ai/",
       "source": "investor_relations"
     },
     {
@@ -81,18 +92,31 @@
       "ir_time_label": "6:30 am EDT",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-08-20",
+      "bmo_amc": "11:04 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:04 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-20T12:28:12Z",
+  "generatedAt": "2026-08-20T15:29:18Z",
   "irCompanies": [
     "Alibaba",
+    "C3.ai",
     "Crowdstrike",
     "KLA Corp",
     "News Corp",
-    "Qnity"
+    "Qnity",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Analog Devices",
