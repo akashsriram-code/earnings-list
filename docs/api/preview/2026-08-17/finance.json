@@ -8,16 +8,29 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-08-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-21T12:27:43Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-21T15:29:03Z",
+  "irCompanies": [
+    "Huntington Bancshares"
+  ],
   "fallbackCompanies": [
     "Jack Henry and Associates"
   ],

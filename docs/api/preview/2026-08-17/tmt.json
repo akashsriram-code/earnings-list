@@ -37,6 +37,28 @@
       "source": "aggregator"
     },
     {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-08-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.costargroup.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-08-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "News Corp",
       "symbol": "NWSA",
       "date": "2026-08-21",
@@ -57,15 +79,29 @@
       "ir_time_label": "7:05 am EDT",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-08-21",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-21T12:27:44Z",
+  "generatedAt": "2026-08-21T15:29:02Z",
   "irCompanies": [
+    "CoStar Group",
+    "Live Nation Entertainment",
     "News Corp",
-    "Qnity"
+    "Qnity",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Alibaba",
