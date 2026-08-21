@@ -75,14 +75,16 @@
       "sector": "Pharma"
     },
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-14",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -95,16 +97,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-10-13",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 10,
@@ -113,7 +113,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-21T03:48:32Z",
+  "generatedAt": "2026-08-21T06:31:40Z",
   "irCompanies": [
     "Accenture",
     "Bank of America",
