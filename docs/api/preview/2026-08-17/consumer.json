@@ -46,78 +46,37 @@
       "source": "aggregator"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-08-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-08-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.lululemon.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-08-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.rossstores.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-08-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-08-20",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://stock.walmart.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-20T21:23:52Z",
-  "irCompanies": [
-    "Home Depot Inc",
-    "Lululemon Athletica",
-    "Ross Stores",
-    "Sysco Corp",
-    "Walmart Inc"
-  ],
+  "generatedAt": "2026-08-21T00:40:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Estee Lauder",
     "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
+    "Ross Stores",
     "TJX Cos Inc",
-    "Target Corp"
+    "Target Corp",
+    "Walmart Inc"
   ],
   "week": {
     "id": "2026-08-17",

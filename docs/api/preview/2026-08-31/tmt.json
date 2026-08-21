@@ -48,10 +48,12 @@
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2026-09-02",
-      "bmo_amc": "TBD",
+      "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://ir.c3.ai/",
+      "source": "investor_relations"
     },
     {
       "company": "HPE",
@@ -108,10 +110,11 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-20T21:24:12Z",
+  "generatedAt": "2026-08-21T00:41:10Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
+    "C3.ai",
     "Dell",
     "HPE",
     "Juniper Networks",
@@ -119,7 +122,6 @@
     "Zscaler"
   ],
   "fallbackCompanies": [
-    "C3.ai",
     "Snowflake",
     "VinFast"
   ],
