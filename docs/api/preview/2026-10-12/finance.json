@@ -57,23 +57,73 @@
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Charles Schwab",
+      "symbol": "SCHW",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "KeyCorp",
+      "symbol": "KEY",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "US Bancorp",
+      "symbol": "USB",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-21T09:32:04Z",
+  "generatedAt": "2026-08-21T12:29:23Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup"
   ],
   "fallbackCompanies": [
     "BlackRock Inc",
+    "Charles Schwab",
     "Goldman Sachs",
+    "Interactive Brokers",
     "JPMorgan",
+    "KeyCorp",
+    "M&T Bank Corp",
+    "US Bancorp",
     "Wells Fargo"
   ],
   "week": {

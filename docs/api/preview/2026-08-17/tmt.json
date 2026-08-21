@@ -31,17 +31,42 @@
       "company": "Alibaba",
       "symbol": "BABA",
       "date": "2026-08-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-08-21",
+      "bmo_amc": "7:05 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:05 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-21T09:30:26Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-21T12:27:44Z",
+  "irCompanies": [
+    "News Corp",
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "Alibaba",
     "Analog Devices",

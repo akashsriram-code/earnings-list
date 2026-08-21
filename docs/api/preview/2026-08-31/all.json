@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-01",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-08-31",
@@ -65,7 +53,7 @@
       "symbol": "AI",
       "date": "2026-09-02",
       "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://ir.c3.ai/",
@@ -129,14 +117,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Brown-Forman Corp",
@@ -162,23 +152,23 @@
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2026-09-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
       "date": "2026-09-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
       "company": "Wabtec",
@@ -191,6 +181,16 @@
       "ir_source_url": "https://ir.wabteccorp.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 17,
@@ -199,7 +199,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-21T09:30:50Z",
+  "generatedAt": "2026-08-21T12:28:10Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
