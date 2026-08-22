@@ -1,14 +1,38 @@
 {
   "records": [
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-09-15",
+      "bmo_amc": "2:45 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:45 PM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-09-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Deckers Outdoors",
@@ -43,38 +67,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-09-15",
-      "bmo_amc": "2:45 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:45 PM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
       "date": "2026-09-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     }
   ],
   "count": 7,
@@ -83,7 +83,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-22T12:21:36Z",
+  "generatedAt": "2026-08-22T15:16:43Z",
   "irCompanies": [
     "Deckers Outdoors",
     "JPMorgan",
