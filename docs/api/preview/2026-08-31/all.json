@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-09-01",
@@ -21,6 +11,28 @@
       "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Brown-Forman Corp",
@@ -51,6 +63,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Wabtec",
+      "symbol": "WAB",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.wabteccorp.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "BlackBerry",
@@ -167,30 +191,6 @@
       "ir_source_url": "https://ir.zscaler.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-09-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wabtec",
-      "symbol": "WAB",
-      "date": "2026-09-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.wabteccorp.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 17,
@@ -199,7 +199,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-22T09:22:41Z",
+  "generatedAt": "2026-08-22T12:21:15Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
