@@ -8,53 +8,16 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-08-21",
-      "bmo_amc": "11:00AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am EDT",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-08-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "M&T Bank Corp",
-      "symbol": "MTB",
-      "date": "2026-08-21",
-      "bmo_amc": "3:34 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:34 PM EDT",
-      "ir_source_url": "https://ir.mtb.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-21T21:19:23Z",
-  "irCompanies": [
-    "Cincinnati Financial",
-    "Huntington Bancshares",
-    "M&T Bank Corp"
-  ],
+  "generatedAt": "2026-08-22T00:37:37Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Jack Henry and Associates"
   ],
