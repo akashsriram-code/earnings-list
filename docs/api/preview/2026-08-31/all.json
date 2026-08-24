@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2026-09-01",
@@ -179,6 +169,16 @@
       "ir_source_url": "https://ir.zscaler.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 16,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-24T18:29:02Z",
+  "generatedAt": "2026-08-24T21:24:44Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
