@@ -127,16 +127,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-08-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-08-24",
@@ -301,6 +291,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-08-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 28,
@@ -309,7 +309,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-24T06:40:23Z",
+  "generatedAt": "2026-08-24T09:41:01Z",
   "irCompanies": [
     "Autodesk",
     "Baidu",
