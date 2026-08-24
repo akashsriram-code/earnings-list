@@ -1,6 +1,39 @@
 {
   "records": [
     {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-08-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-08-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.jackhenry.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-08-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-08-25",
@@ -50,16 +83,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-24T12:28:52Z",
+  "generatedAt": "2026-08-24T15:34:57Z",
   "irCompanies": [
+    "Apollo",
     "CIBC",
-    "Royal Bank of Canada"
+    "Jack Henry and Associates",
+    "Royal Bank of Canada",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
