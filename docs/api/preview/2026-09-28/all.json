@@ -1,24 +1,16 @@
 {
   "records": [
     {
-      "company": "Lamb Weston Holdings",
-      "symbol": "LW",
+      "company": "Alaska Air",
+      "symbol": "ALK",
       "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "11:30 A.M. EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Nike Inc",
-      "symbol": "NKE",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "11:30 a.m. EDT",
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Paychex",
@@ -53,16 +45,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Alaska Air",
-      "symbol": "ALK",
+      "company": "Lamb Weston Holdings",
+      "symbol": "LW",
       "date": "2026-09-29",
-      "bmo_amc": "11:30 A.M. EDT",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "11:30 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Nike Inc",
+      "symbol": "NKE",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 6,
@@ -71,7 +71,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-24T09:42:03Z",
+  "generatedAt": "2026-08-24T12:29:48Z",
   "irCompanies": [
     "Alaska Air",
     "Crown Castle"
