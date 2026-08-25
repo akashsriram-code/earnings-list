@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Gartner",
+      "symbol": "IT",
+      "date": "2026-08-25",
+      "bmo_amc": "10:11 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:11 AM EDT",
+      "ir_source_url": "https://investor.gartner.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-08-25",
@@ -40,6 +51,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "6:30 am EDT",
       "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-08-25",
+      "bmo_amc": "11:11 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:11 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
     {
@@ -161,18 +183,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-25T12:29:36Z",
+  "generatedAt": "2026-08-25T15:38:54Z",
   "irCompanies": [
     "Autodesk",
     "Baidu",
+    "Gartner",
     "Intuit",
     "Marvell",
     "News Corp",
     "Onsemi",
     "Qnity",
+    "Take-Two Interactive",
     "Zoom"
   ],
   "fallbackCompanies": [
