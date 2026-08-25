@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
+      "company": "UPS",
+      "symbol": "UPS",
       "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "Eli Lilly and Co",
@@ -23,29 +23,16 @@
       "ir_source_url": "https://investor.lilly.com/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-10-27",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-25T18:30:18Z",
+  "generatedAt": "2026-08-25T21:24:26Z",
   "irCompanies": [
-    "Centene Corp",
     "Eli Lilly and Co",
     "UPS"
   ],

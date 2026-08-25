@@ -1,40 +1,6 @@
 {
   "records": [
     {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-09-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.rossstores.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2026-09-09",
-      "bmo_amc": "11:15 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:15 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-09-08",
@@ -197,6 +163,52 @@
       "sector": "Pharma"
     },
     {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.rossstores.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-09-09",
+      "bmo_amc": "11:15 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Mondelez International",
+      "symbol": "MDLZ",
+      "date": "2026-09-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.mondelezinternational.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-09-08",
@@ -221,13 +233,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-25T18:28:56Z",
+  "generatedAt": "2026-08-25T21:23:02Z",
   "irCompanies": [
     "AT&T",
     "Axon Enterprise Inc",
@@ -238,6 +250,7 @@
     "GlobalFoundries",
     "Intuitive Surgical Inc",
     "Labcorp Holdings Inc",
+    "Mondelez International",
     "Republic Services Inc",
     "Ross Stores",
     "SiriusXM",
