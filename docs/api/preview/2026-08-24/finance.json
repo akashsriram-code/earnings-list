@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-08-25",
+      "bmo_amc": "7:34 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:34 AM EDT",
+      "ir_source_url": "https://ir.mtb.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-08-25",
@@ -17,6 +28,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-08-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     },
     {
       "company": "CIBC",
@@ -61,17 +83,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-25T09:30:28Z",
+  "generatedAt": "2026-08-25T12:29:36Z",
   "irCompanies": [
     "CIBC",
     "Global Payments",
-    "Royal Bank of Canada"
+    "M&T Bank Corp",
+    "Royal Bank of Canada",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",

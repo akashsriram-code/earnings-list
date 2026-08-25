@@ -4,8 +4,8 @@
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-08-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -18,6 +18,28 @@
       "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 PM EDT",
       "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-08-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-08-25",
+      "bmo_amc": "6:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
     },
     {
@@ -88,17 +110,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.towersemi.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2026-08-27",
@@ -150,17 +161,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-25T09:30:28Z",
+  "generatedAt": "2026-08-25T12:29:36Z",
   "irCompanies": [
     "Autodesk",
     "Baidu",
     "Intuit",
     "Marvell",
+    "News Corp",
     "Onsemi",
-    "Tower Semiconductor",
+    "Qnity",
     "Zoom"
   ],
   "fallbackCompanies": [

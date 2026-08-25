@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2026-10-20",
@@ -11,6 +31,16 @@
       "ir_source_url": "https://ir.msci.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Steel Dynamics",
+      "symbol": "STLD",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Southwest Airlines Co",
@@ -25,18 +55,22 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 2,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-25T09:32:01Z",
+  "generatedAt": "2026-08-25T12:31:12Z",
   "irCompanies": [
     "MSCI Inc",
     "Southwest Airlines Co"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Steel Dynamics",
+    "W. R. Berkley Corp",
+    "Zions Bancorporation"
+  ],
   "week": {
     "id": "2026-10-19",
     "start_date": "2026-10-19",
