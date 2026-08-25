@@ -7,7 +7,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://about.autozone.com/investor-overview",
+      "source": "investor_relations"
     },
     {
       "company": "Carmax Inc",
@@ -31,10 +33,11 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-08-24T21:25:20Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-25T00:40:15Z",
+  "irCompanies": [
+    "Autozone Inc"
+  ],
   "fallbackCompanies": [
-    "Autozone Inc",
     "Carmax Inc",
     "Jabil Inc"
   ],
