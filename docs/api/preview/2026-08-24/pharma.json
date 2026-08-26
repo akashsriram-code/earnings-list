@@ -1,45 +1,20 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-08-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.davita.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Agilent",
       "symbol": "A",
       "date": "2026-08-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-25T21:22:37Z",
-  "irCompanies": [
-    "Centene Corp",
-    "DaVita Inc"
-  ],
+  "generatedAt": "2026-08-26T00:40:17Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Agilent"
   ],
