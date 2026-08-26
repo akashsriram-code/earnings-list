@@ -4,19 +4,30 @@
       "company": "Bath & Body Works",
       "symbol": "BBWI",
       "date": "2026-08-26",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-08-26",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-08-26",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Sysco Corp",
@@ -77,11 +88,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-26T12:31:45Z",
+  "generatedAt": "2026-08-26T16:16:57Z",
   "irCompanies": [
+    "Norwegian Cruise Line",
     "Sysco Corp",
     "Ulta Beauty"
   ],

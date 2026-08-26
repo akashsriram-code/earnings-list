@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-08-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-26T12:31:47Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-26T16:16:57Z",
+  "irCompanies": [
+    "Centene Corp"
+  ],
   "fallbackCompanies": [
     "Agilent"
   ],
