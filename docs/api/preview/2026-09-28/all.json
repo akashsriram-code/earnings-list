@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-01",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Lamb Weston Holdings",
       "symbol": "LW",
       "date": "2026-09-29",
@@ -21,38 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Crown Castle",
-      "symbol": "CCI",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.crowncastle.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-09-29",
@@ -65,16 +53,15 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-26T19:39:00Z",
+  "generatedAt": "2026-08-27T00:28:23Z",
   "irCompanies": [
-    "Alaska Air",
-    "Crown Castle"
+    "Alaska Air"
   ],
   "fallbackCompanies": [
     "Accenture",

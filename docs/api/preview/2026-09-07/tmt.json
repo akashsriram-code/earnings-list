@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-09-08",
+      "bmo_amc": "11:30 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM PDT",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
@@ -41,13 +52,24 @@
       "source": "investor_relations"
     },
     {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-09-09",
+      "bmo_amc": "9:30 A.M.",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 a.m. ",
+      "ir_source_url": "https://investor.crowncastle.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-09-09",
-      "bmo_amc": "4:25 PM PDT",
+      "bmo_amc": "8:50 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:25 pm PDT",
+      "ir_time_label": "8:50 am EDT",
       "ir_source_url": "https://investor.siriusxm.com/",
       "source": "investor_relations"
     },
@@ -94,6 +116,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2026-09-10",
+      "bmo_amc": "7:10AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:10am PDT",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-09-10",
@@ -105,13 +138,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-26T19:38:17Z",
+  "generatedAt": "2026-08-27T00:27:43Z",
   "irCompanies": [
     "AT&T",
+    "Crown Castle",
+    "Fortinet",
     "GlobalFoundries",
+    "Lam Research",
     "SiriusXM",
     "Tower Semiconductor",
     "Verizon",

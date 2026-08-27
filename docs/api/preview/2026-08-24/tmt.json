@@ -28,104 +28,49 @@
       "source": "aggregator"
     },
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.baidu.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "CoStar Group",
-      "symbol": "CSGP",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.costargroup.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-08-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2026-08-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-08-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-08-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-08-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Synopsys",
       "symbol": "SNPS",
       "date": "2026-08-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-08-26",
-      "bmo_amc": "3:08 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:08 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Autodesk",
@@ -133,7 +78,7 @@
       "date": "2026-08-27",
       "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://investors.autodesk.com/",
       "source": "investor_relations"
@@ -144,7 +89,7 @@
       "date": "2026-08-27",
       "bmo_amc": "1:45 PM PDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "1:45 pm PDT",
       "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations"
@@ -164,34 +109,29 @@
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-08-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2026-08-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-26T19:37:51Z",
+  "generatedAt": "2026-08-27T00:27:19Z",
   "irCompanies": [
     "Autodesk",
-    "Baidu",
-    "CoStar Group",
-    "Fortinet",
     "Marvell",
-    "News Corp",
-    "Onsemi",
-    "Take-Two Interactive"
+    "Onsemi"
   ],
   "fallbackCompanies": [
     "Crowdstrike",
