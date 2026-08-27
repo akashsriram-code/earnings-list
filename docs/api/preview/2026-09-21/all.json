@@ -1,11 +1,33 @@
 {
   "records": [
     {
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
+      "date": "2026-09-23",
+      "bmo_amc": "5:05 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:05 AM EDT",
+      "ir_source_url": "https://investors.vrtx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-09-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-09-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -53,16 +75,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-09-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-09-24",
@@ -71,18 +83,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
-      "date": "2026-09-23",
-      "bmo_amc": "5:05 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:05 AM EDT",
-      "ir_source_url": "https://investors.vrtx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
   "count": 8,
@@ -91,7 +91,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-27T00:28:09Z",
+  "generatedAt": "2026-08-27T13:23:19Z",
   "irCompanies": [
     "Autozone Inc",
     "Vertex Pharmaceuticals Inc"
@@ -101,8 +101,8 @@
     "Carmax Inc",
     "Cintas Corp",
     "Costco Wholesale Corp",
-    "Jabil Inc",
-    "Micron"
+    "General Mills",
+    "Jabil Inc"
   ],
   "week": {
     "id": "2026-09-21",

@@ -30,6 +30,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Global Payments",
       "symbol": "GPN",
       "date": "2026-08-27",
@@ -59,19 +70,32 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-08-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-27T00:27:19Z",
+  "generatedAt": "2026-08-27T13:22:30Z",
   "irCompanies": [
     "CIBC",
+    "Fiserv",
     "Global Payments",
-    "Royal Bank of Canada"
+    "Royal Bank of Canada",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",

@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-09-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-09-24",
@@ -19,14 +10,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-27T00:28:09Z",
+  "generatedAt": "2026-08-27T13:23:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "BlackBerry",
-    "Micron"
+    "BlackBerry"
   ],
   "week": {
     "id": "2026-09-21",

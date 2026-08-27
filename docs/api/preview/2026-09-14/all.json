@@ -1,38 +1,6 @@
 {
   "records": [
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-09-14",
-      "bmo_amc": "1:00 PM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:00 pm PDT",
-      "ir_source_url": "https://ir.deckers.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "General Mills",
-      "symbol": "GIS",
-      "date": "2026-09-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
-      "date": "2026-09-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-09-17",
@@ -99,15 +67,37 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-09-14",
+      "bmo_amc": "1:00 PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 pm PDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-09-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-27T00:27:56Z",
+  "generatedAt": "2026-08-27T13:23:07Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Intuit",
@@ -118,7 +108,6 @@
   "fallbackCompanies": [
     "Darden Restaurants",
     "FactSet Research",
-    "General Mills",
     "Lennar Corp"
   ],
   "week": {

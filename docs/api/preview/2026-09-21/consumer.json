@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-09-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2026-09-24",
@@ -19,14 +28,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-27T00:28:07Z",
+  "generatedAt": "2026-08-27T13:23:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Cintas Corp",
-    "Costco Wholesale Corp"
+    "Costco Wholesale Corp",
+    "General Mills"
   ],
   "week": {
     "id": "2026-09-21",
