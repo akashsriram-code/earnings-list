@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-08-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-01",
@@ -96,11 +107,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-27T13:22:41Z",
+  "generatedAt": "2026-08-28T00:16:31Z",
   "irCompanies": [
+    "BlackBerry",
     "Broadcom",
     "C3.ai",
     "Dell",
