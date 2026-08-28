@@ -118,24 +118,44 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Blackstone",
+      "symbol": "BX",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lazard",
+      "symbol": "LAZ",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-28T00:17:57Z",
+  "generatedAt": "2026-08-28T14:49:52Z",
   "irCompanies": [
     "MSCI Inc"
   ],
   "fallbackCompanies": [
     "Bank of America",
+    "Blackstone",
     "Capital One Financial",
     "Chubb",
     "Citizens Financial",
     "Fifth Third Bancorp",
+    "Lazard",
     "Morgan Stanley",
     "Nasdaq",
     "PNC Financial",
