@@ -23,6 +23,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-09-16",
+      "bmo_amc": "8:15 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:15 AM EDT",
+      "ir_source_url": "https://ir.mtb.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-09-17",
@@ -32,15 +43,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-08-29T12:00:41Z",
+  "generatedAt": "2026-08-29T15:58:47Z",
   "irCompanies": [
     "JPMorgan",
+    "M&T Bank Corp",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
