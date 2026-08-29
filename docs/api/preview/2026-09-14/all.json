@@ -33,6 +33,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-09-17",
+      "bmo_amc": "8:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM PDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-09-15",
@@ -57,18 +69,6 @@
       "sector": "Finance"
     },
     {
-      "company": "M&T Bank Corp",
-      "symbol": "MTB",
-      "date": "2026-09-16",
-      "bmo_amc": "8:15 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:15 AM EDT",
-      "ir_source_url": "https://ir.mtb.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-09-17",
@@ -77,32 +77,19 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-09-17",
-      "bmo_amc": "8:00 AM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM PDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-29T04:40:15Z",
+  "generatedAt": "2026-08-29T12:00:42Z",
   "irCompanies": [
     "Deckers Outdoors",
     "Intuit",
     "JPMorgan",
-    "M&T Bank Corp",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
