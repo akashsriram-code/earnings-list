@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-10-22",
@@ -91,12 +100,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-31T09:11:00Z",
+  "generatedAt": "2026-08-31T16:52:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AT&T",
     "Digital Realty",
     "Intel",
     "Mobileye",

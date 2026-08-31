@@ -1,44 +1,16 @@
 {
   "records": [
     {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
       "date": "2026-09-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "5:05 AM EDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "General Mills",
-      "symbol": "GIS",
-      "date": "2026-09-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-09-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-09-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "5:05 AM EDT",
+      "ir_source_url": "https://investors.vrtx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Autozone Inc",
@@ -73,25 +45,63 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
       "date": "2026-09-23",
-      "bmo_amc": "5:05 AM EDT",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "5:05 AM EDT",
-      "ir_source_url": "https://investors.vrtx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-09-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-09-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-09-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-09-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-31T09:09:58Z",
+  "generatedAt": "2026-08-31T16:51:36Z",
   "irCompanies": [
     "Autozone Inc",
     "Vertex Pharmaceuticals Inc"
@@ -101,6 +111,7 @@
     "Carmax Inc",
     "Cintas Corp",
     "Costco Wholesale Corp",
+    "Darden Restaurants",
     "General Mills",
     "Jabil Inc"
   ],
