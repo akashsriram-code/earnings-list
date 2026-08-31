@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-10-14",
@@ -21,6 +11,16 @@
       "ir_source_url": "https://investor.accenture.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Fastenal Co",
@@ -53,14 +53,14 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-10-16",
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
       "company": "BlackRock Inc",
@@ -227,14 +227,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-10-13",
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-10-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     }
   ],
   "count": 23,
@@ -243,7 +243,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-30T23:07:37Z",
+  "generatedAt": "2026-08-31T02:08:40Z",
   "irCompanies": [
     "Accenture",
     "Bank of America",
