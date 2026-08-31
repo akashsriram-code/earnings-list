@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Colgate-Palmolive",
+      "symbol": "CL",
+      "date": "2026-08-31",
+      "bmo_amc": "2:49 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:49 AM EDT",
+      "ir_source_url": "https://investor.colgatepalmolive.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-09-02",
@@ -28,11 +39,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-08-31T02:07:12Z",
-  "irCompanies": [],
+  "generatedAt": "2026-08-31T09:09:12Z",
+  "irCompanies": [
+    "Colgate-Palmolive"
+  ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Campbell Soup Co",
