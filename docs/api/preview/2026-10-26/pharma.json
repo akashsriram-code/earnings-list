@@ -1,15 +1,13 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
@@ -26,12 +24,13 @@
   "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-01T08:12:36Z",
+  "generatedAt": "2026-09-01T13:56:04Z",
   "irCompanies": [
-    "Centene Corp",
     "Eli Lilly and Co"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Revvity"
+  ],
   "week": {
     "id": "2026-10-26",
     "start_date": "2026-10-26",

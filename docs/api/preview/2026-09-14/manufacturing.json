@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2026-09-15",
+      "bmo_amc": "11:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM EDT",
+      "ir_source_url": "https://investors.rtx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-09-17",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-01T08:11:14Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-01T13:54:41Z",
+  "irCompanies": [
+    "RTX"
+  ],
   "fallbackCompanies": [
     "Lennar Corp"
   ],

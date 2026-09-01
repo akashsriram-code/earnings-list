@@ -23,6 +23,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-09-01",
@@ -31,6 +42,28 @@
       "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investors.paloaltonetworks.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-01",
+      "bmo_amc": "2:15 PM UTC",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:15 PM UTC",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.zoom.us/",
       "source": "investor_relations"
     },
     {
@@ -107,10 +140,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-01T08:10:48Z",
+  "generatedAt": "2026-09-01T13:54:15Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
@@ -118,7 +151,10 @@
     "Dell",
     "HPE",
     "Juniper Networks",
+    "News Corp",
     "Palo Alto",
+    "Take-Two Interactive",
+    "Zoom",
     "Zscaler"
   ],
   "fallbackCompanies": [

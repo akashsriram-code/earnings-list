@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-09-01",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-09-01",
+      "bmo_amc": "9:00AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00am EDT",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-09-02",
@@ -28,11 +50,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-01T08:10:49Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-01T13:54:16Z",
+  "irCompanies": [
+    "Deckers Outdoors",
+    "Keurig Dr. Pepper"
+  ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Campbell Soup Co",

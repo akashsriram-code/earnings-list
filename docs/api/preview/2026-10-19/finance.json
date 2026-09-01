@@ -66,15 +66,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-10-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-10-21",
@@ -136,6 +127,15 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "American Express",
+      "symbol": "AXP",
+      "date": "2026-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 15,
@@ -144,12 +144,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-01T08:12:22Z",
+  "generatedAt": "2026-09-01T13:55:49Z",
   "irCompanies": [
     "MSCI Inc"
   ],
   "fallbackCompanies": [
-    "Bank of America",
+    "American Express",
     "Blackstone",
     "Capital One Financial",
     "Chubb",
