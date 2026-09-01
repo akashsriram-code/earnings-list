@@ -1,26 +1,14 @@
 {
   "records": [
     {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
       "date": "2026-10-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "BlackRock Inc",
@@ -175,14 +163,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-14",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "SLB",
@@ -223,6 +213,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 22,
@@ -231,7 +231,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-01T18:11:29Z",
+  "generatedAt": "2026-09-01T23:03:18Z",
   "irCompanies": [
     "Accenture",
     "Citigroup"

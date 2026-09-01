@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-09-01",
@@ -20,6 +31,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "9:00am EDT",
       "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-09-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.investor.kimberly-clark.com/",
       "source": "investor_relations"
     },
     {
@@ -50,13 +72,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-01T18:10:06Z",
+  "generatedAt": "2026-09-01T23:01:58Z",
   "irCompanies": [
+    "Chipotle Mexican Grill",
     "Deckers Outdoors",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Kimberly Clark Corp"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
