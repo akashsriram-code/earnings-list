@@ -1,16 +1,38 @@
 {
   "records": [
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-09-14",
-      "bmo_amc": "1:00 PM PDT",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Onsemi",
+      "symbol": "ON",
+      "date": "2026-09-16",
+      "bmo_amc": "2:00 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:00 pm PDT",
-      "ir_source_url": "https://ir.deckers.com/",
+      "ir_time_label": "2:00 PM EDT",
+      "ir_source_url": "https://investor.onsemi.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-09-17",
+      "bmo_amc": "8:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM PDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Bank of America",
@@ -83,38 +105,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Onsemi",
-      "symbol": "ON",
-      "date": "2026-09-16",
-      "bmo_amc": "2:00 PM EDT",
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-09-14",
+      "bmo_amc": "1:00 PM PDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM EDT",
-      "ir_source_url": "https://investor.onsemi.com/",
+      "ir_time_label": "1:00 pm PDT",
+      "ir_source_url": "https://ir.deckers.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-09-17",
-      "bmo_amc": "8:00 AM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM PDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     }
   ],
   "count": 10,
@@ -123,7 +123,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-08-31T22:16:17Z",
+  "generatedAt": "2026-09-01T02:28:55Z",
   "irCompanies": [
     "Bank of America",
     "Deckers Outdoors",

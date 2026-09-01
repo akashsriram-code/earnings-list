@@ -3,7 +3,7 @@
     {
       "company": "BlackBerry",
       "symbol": "BB",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
@@ -12,100 +12,12 @@
       "source": "investor_relations"
     },
     {
-      "company": "CoStar Group",
-      "symbol": "CSGP",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.costargroup.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.crowdstrike.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.newscorp.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Paramount",
-      "symbol": "PARA",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.paramount.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-08-31",
-      "bmo_amc": "6:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:30 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-08-31",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "VeriSign",
-      "symbol": "VRSN",
-      "date": "2026-08-31",
-      "bmo_amc": "4:41 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:41 PM EDT",
-      "ir_source_url": "https://investor.verisign.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-01",
       "bmo_amc": "3:30 PM CDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "3:30 PM CDT",
       "ir_source_url": "https://investors.delltechnologies.com/",
       "source": "investor_relations"
@@ -114,9 +26,9 @@
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-09-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investors.paloaltonetworks.com/",
       "source": "investor_relations"
@@ -195,26 +107,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-08-31T22:15:49Z",
+  "generatedAt": "2026-09-01T02:28:22Z",
   "irCompanies": [
     "BlackBerry",
     "Broadcom",
     "C3.ai",
-    "CoStar Group",
-    "Crowdstrike",
     "Dell",
-    "Fortinet",
     "HPE",
     "Juniper Networks",
-    "News Corp",
     "Palo Alto",
-    "Paramount",
-    "Qnity",
-    "Take-Two Interactive",
-    "VeriSign",
     "Zscaler"
   ],
   "fallbackCompanies": [

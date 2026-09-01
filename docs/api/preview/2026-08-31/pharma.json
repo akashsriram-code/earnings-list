@@ -1,46 +1,22 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-08-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-08-31",
-      "bmo_amc": "2:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm EDT",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-09-01",
       "bmo_amc": "5:45 AM CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "5:45 AM CT",
       "ir_source_url": "https://investorrelations.medtronic.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-08-31T22:15:47Z",
+  "generatedAt": "2026-09-01T02:28:21Z",
   "irCompanies": [
-    "Centene Corp",
-    "IDEXX Laboratories Inc",
     "Medtronic PLC"
   ],
   "fallbackCompanies": [],
