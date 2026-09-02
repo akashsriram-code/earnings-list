@@ -4,8 +4,8 @@
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-09-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -41,6 +41,28 @@
       "source": "investor_relations"
     },
     {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.crowdstrike.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "GlobalFoundries",
+      "symbol": "GFS",
+      "date": "2026-09-02",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://investors.gf.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-09-02",
@@ -60,6 +82,28 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.hpe.com:443/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ropertech.com/",
       "source": "investor_relations"
     },
     {
@@ -92,15 +136,19 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-02T07:32:02Z",
+  "generatedAt": "2026-09-02T13:11:14Z",
   "irCompanies": [
     "Broadcom",
     "C3.ai",
+    "Crowdstrike",
+    "GlobalFoundries",
     "HPE",
     "Juniper Networks",
+    "News Corp",
+    "Roper Technologies",
     "Zscaler"
   ],
   "fallbackCompanies": [

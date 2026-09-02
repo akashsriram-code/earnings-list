@@ -14,11 +14,56 @@
       "symbol": "CNC",
       "date": "2026-10-27",
       "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30am",
       "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "IQVIA Holdings Inc",
+      "symbol": "IQV",
+      "date": "2026-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tenet Healthcare",
+      "symbol": "THC",
+      "date": "2026-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
@@ -32,16 +77,21 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-02T07:33:57Z",
+  "generatedAt": "2026-09-02T13:13:08Z",
   "irCompanies": [
     "Centene Corp",
     "Eli Lilly and Co"
   ],
   "fallbackCompanies": [
-    "Revvity"
+    "IQVIA Holdings Inc",
+    "Labcorp Holdings Inc",
+    "Regeneron Pharmaceuticals",
+    "Revvity",
+    "Tenet Healthcare",
+    "UnitedHealth Group"
   ],
   "week": {
     "id": "2026-10-26",
