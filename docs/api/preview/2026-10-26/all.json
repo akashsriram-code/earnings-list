@@ -1,68 +1,6 @@
 {
   "records": [
     {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
-      "date": "2026-10-29",
-      "bmo_amc": "1:50 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:50 PM EDT",
-      "ir_source_url": "https://investor.lilly.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Alexandria Real Estate Equities Inc",
-      "symbol": "ARE",
-      "date": "2026-10-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nucor Corp",
-      "symbol": "NUE",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-10-26",
@@ -123,6 +61,82 @@
       "sector": "Finance"
     },
     {
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-10-27",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-10-29",
+      "bmo_amc": "1:50 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:50 PM EDT",
+      "ir_source_url": "https://investor.lilly.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Alexandria Real Estate Equities Inc",
+      "symbol": "ARE",
+      "date": "2026-10-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nucor Corp",
+      "symbol": "NUE",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-10-27",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-10-26",
@@ -151,17 +165,42 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2026-10-28",
+      "bmo_amc": "4:30 P.M. ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 p.m. ET",
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 15,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-01T23:03:44Z",
+  "generatedAt": "2026-09-02T01:52:20Z",
   "irCompanies": [
-    "Eli Lilly and Co"
+    "Centene Corp",
+    "Chipotle Mexican Grill",
+    "Eli Lilly and Co",
+    "UPS"
   ],
   "fallbackCompanies": [
     "Alexandria Real Estate Equities Inc",

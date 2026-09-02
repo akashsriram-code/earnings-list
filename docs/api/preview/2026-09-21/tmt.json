@@ -7,17 +7,19 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-01T23:02:38Z",
-  "irCompanies": [],
-  "fallbackCompanies": [
+  "generatedAt": "2026-09-02T01:51:04Z",
+  "irCompanies": [
     "BlackBerry"
   ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-09-21",
     "start_date": "2026-09-21",
