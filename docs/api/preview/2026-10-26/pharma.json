@@ -13,12 +13,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IQVIA Holdings Inc",
@@ -80,12 +78,12 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-02T13:13:08Z",
+  "generatedAt": "2026-09-02T18:21:45Z",
   "irCompanies": [
-    "Centene Corp",
     "Eli Lilly and Co"
   ],
   "fallbackCompanies": [
+    "Centene Corp",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
     "Regeneron Pharmaceuticals",
