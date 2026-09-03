@@ -16,9 +16,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
@@ -135,14 +133,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-03T18:19:38Z",
-  "irCompanies": [
-    "Citigroup"
-  ],
+  "generatedAt": "2026-09-03T23:02:00Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
+    "Citigroup",
     "Goldman Sachs",
     "Interactive Brokers",
     "JPMorgan",

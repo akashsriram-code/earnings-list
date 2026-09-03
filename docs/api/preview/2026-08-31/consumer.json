@@ -36,20 +36,34 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-09-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-03T18:18:25Z",
+  "generatedAt": "2026-09-03T23:00:41Z",
   "irCompanies": [
-    "Kimberly Clark Corp"
+    "Kimberly Clark Corp",
+    "Lululemon Athletica",
+    "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
-    "Campbell Soup Co",
-    "Lululemon Athletica"
+    "Campbell Soup Co"
   ],
   "week": {
     "id": "2026-08-31",
