@@ -66,6 +66,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Thermo Fisher Scientific Inc",
+      "symbol": "TMO",
+      "date": "2026-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-10-29",
@@ -77,20 +95,22 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-03T07:38:13Z",
+  "generatedAt": "2026-09-03T13:16:22Z",
   "irCompanies": [
     "Centene Corp",
     "Eli Lilly and Co"
   ],
   "fallbackCompanies": [
+    "Boston Scientific Corp",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
     "Regeneron Pharmaceuticals",
     "Revvity",
     "Tenet Healthcare",
+    "Thermo Fisher Scientific Inc",
     "UnitedHealth Group"
   ],
   "week": {

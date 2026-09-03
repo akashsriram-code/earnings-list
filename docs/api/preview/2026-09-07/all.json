@@ -13,16 +13,28 @@
       "sector": "Finance"
     },
     {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-09-10",
-      "bmo_amc": "5:25 PM EDT",
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "5:25 PM EDT",
-      "ir_source_url": "https://investors.fiserv.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Republic Services Inc",
+      "symbol": "RSG",
+      "date": "2026-09-10",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investor.republicservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Becton Dickinson and Co",
@@ -131,30 +143,6 @@
       "ir_source_url": "https://ir.labcorp.com/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-09-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-09-10",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.republicservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     },
     {
       "company": "Ross Stores",
@@ -427,18 +415,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ropertech.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-09-09",
@@ -509,6 +485,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
+      "date": "2026-09-10",
+      "bmo_amc": "2:25 PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:25 PM PDT",
+      "ir_source_url": "https://investors.skyworksinc.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-09-10",
@@ -521,13 +509,13 @@
       "sector": "TMT"
     }
   ],
-  "count": 44,
+  "count": 43,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-03T07:36:40Z",
+  "generatedAt": "2026-09-03T13:14:45Z",
   "irCompanies": [
     "AT&T",
     "Autodesk",
@@ -541,7 +529,6 @@
     "Dell",
     "Duolingo",
     "Etsy Inc",
-    "Fiserv",
     "Fortinet",
     "GE HealthCare Technologies Inc",
     "GlobalFoundries",
@@ -559,9 +546,9 @@
     "Regeneron Pharmaceuticals",
     "Republic Services Inc",
     "Robinhood",
-    "Roper Technologies",
     "Ross Stores",
     "SiriusXM",
+    "Skyworks Solutions",
     "Smithfield Foods",
     "Solventum Corp",
     "Sysco Corp",

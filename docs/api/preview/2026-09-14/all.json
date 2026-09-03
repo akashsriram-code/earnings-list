@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Onsemi",
-      "symbol": "ON",
-      "date": "2026-09-16",
-      "bmo_amc": "2:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM EDT",
-      "ir_source_url": "https://investor.onsemi.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-09-17",
-      "bmo_amc": "8:00 AM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM PDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-09-15",
@@ -85,18 +49,6 @@
       "sector": "Finance"
     },
     {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-09-14",
-      "bmo_amc": "12:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-09-15",
@@ -133,23 +85,49 @@
       "sector": "Finance"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-17",
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-09-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Onsemi",
+      "symbol": "ON",
+      "date": "2026-09-16",
+      "bmo_amc": "2:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 PM EDT",
+      "ir_source_url": "https://investor.onsemi.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-09-17",
+      "bmo_amc": "8:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM PDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 12,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-03T07:36:52Z",
+  "generatedAt": "2026-09-03T13:14:59Z",
   "irCompanies": [
     "Bank of America",
     "Fortive Corp",
@@ -159,13 +137,10 @@
     "Lennar Corp",
     "M&T Bank Corp",
     "Onsemi",
-    "PNC Financial",
     "RTX",
     "Wells Fargo"
   ],
-  "fallbackCompanies": [
-    "FactSet Research"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-09-14",
     "start_date": "2026-09-14",
