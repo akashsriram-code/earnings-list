@@ -1,16 +1,14 @@
 {
   "records": [
     {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-10-13",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "SLB",
@@ -21,6 +19,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "BlackRock Inc",
@@ -183,6 +191,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-10-15",
+      "bmo_amc": "9:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Snap-On Inc",
       "symbol": "SNA",
       "date": "2026-10-15",
@@ -193,35 +213,28 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-14",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-03T23:02:02Z",
+  "generatedAt": "2026-09-04T01:49:59Z",
   "irCompanies": [
-    "Accenture"
+    "Accenture",
+    "Prologis Inc"
   ],
   "fallbackCompanies": [
     "Bank of America",
