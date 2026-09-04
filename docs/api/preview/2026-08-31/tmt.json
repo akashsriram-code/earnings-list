@@ -67,17 +67,42 @@
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-09-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-09-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.newscorp.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-09-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.zscaler.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-04T07:37:30Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-04T13:08:06Z",
+  "irCompanies": [
+    "News Corp",
+    "Zscaler"
+  ],
   "fallbackCompanies": [
     "Broadcom",
     "C3.ai",

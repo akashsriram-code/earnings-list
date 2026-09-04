@@ -36,26 +36,37 @@
     {
       "company": "Lennar Corp",
       "symbol": "LEN",
+      "date": "2026-09-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
       "date": "2026-09-17",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-04T07:37:59Z",
+  "generatedAt": "2026-09-04T13:08:37Z",
   "irCompanies": [
     "Fortive Corp",
     "Honeywell",
     "Lennar Corp",
     "RTX"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Lennar Corp"
+  ],
   "week": {
     "id": "2026-09-14",
     "start_date": "2026-09-14",
