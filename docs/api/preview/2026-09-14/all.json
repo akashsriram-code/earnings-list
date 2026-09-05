@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Dentsply Sirona",
+      "symbol": "XRAY",
+      "date": "2026-09-15",
+      "bmo_amc": "11:25 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:25 AM EDT",
+      "ir_source_url": "https://investors.dentsplysirona.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-09-15",
@@ -11,64 +23,6 @@
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-09-15",
-      "bmo_amc": "1:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:05 pm EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-09-15",
-      "bmo_amc": "11:30 AM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 AM PDT",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "RTX",
-      "symbol": "RTX",
-      "date": "2026-09-15",
-      "bmo_amc": "11:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 AM EDT",
-      "ir_source_url": "https://investors.rtx.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     },
     {
       "company": "Bank of America",
@@ -155,16 +109,62 @@
       "sector": "Finance"
     },
     {
-      "company": "Dentsply Sirona",
-      "symbol": "XRAY",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
       "date": "2026-09-15",
-      "bmo_amc": "11:25 AM EDT",
+      "bmo_amc": "1:05 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:25 AM EDT",
-      "ir_source_url": "https://investors.dentsplysirona.com/",
+      "ir_time_label": "1:05 pm EDT",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-09-15",
+      "bmo_amc": "11:30 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM PDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2026-09-15",
+      "bmo_amc": "11:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM EDT",
+      "ir_source_url": "https://investors.rtx.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Onsemi",
@@ -185,7 +185,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-05T12:18:50Z",
+  "generatedAt": "2026-09-05T17:07:01Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
