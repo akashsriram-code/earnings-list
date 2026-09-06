@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-10-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-10-08",
@@ -19,6 +9,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-10-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Carnival Corp",
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-06T17:31:54Z",
+  "generatedAt": "2026-09-06T19:49:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",
