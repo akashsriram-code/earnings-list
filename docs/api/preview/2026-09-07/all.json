@@ -1,6 +1,42 @@
 {
   "records": [
     {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Republic Services Inc",
+      "symbol": "RSG",
+      "date": "2026-09-10",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investor.republicservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-09-09",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.robinhood.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-09-08",
@@ -319,42 +355,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-09-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-09-10",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.republicservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-09-09",
-      "bmo_amc": "4:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investors.robinhood.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-09-08",
@@ -387,6 +387,18 @@
       "yahoo_time_label": null,
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://investor.coopercos.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-09-09",
+      "bmo_amc": "10:15 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:15 AM EDT",
+      "ir_source_url": "https://investor.gehealthcare.com/news-events/events",
       "source": "investor_relations",
       "sector": "Pharma"
     },
@@ -581,13 +593,13 @@
       "sector": "Consumer"
     }
   ],
-  "count": 49,
+  "count": 50,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-06T01:43:17Z",
+  "generatedAt": "2026-09-06T07:29:32Z",
   "irCompanies": [
     "AT&T",
     "Autodesk",
@@ -602,6 +614,7 @@
     "Duolingo",
     "Etsy Inc",
     "Fortinet",
+    "GE HealthCare Technologies Inc",
     "GlobalFoundries",
     "HPE",
     "IAC",
