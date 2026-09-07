@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
+      "company": "Onsemi",
+      "symbol": "ON",
+      "date": "2026-09-16",
+      "bmo_amc": "2:00 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
+      "ir_time_label": "2:00 PM EDT",
+      "ir_source_url": "https://investor.onsemi.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
       "company": "Bank of America",
@@ -97,18 +97,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Onsemi",
-      "symbol": "ON",
-      "date": "2026-09-16",
-      "bmo_amc": "2:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM EDT",
-      "ir_source_url": "https://investor.onsemi.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Dentsply Sirona",
       "symbol": "XRAY",
       "date": "2026-09-15",
@@ -177,6 +165,18 @@
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 15,
@@ -185,7 +185,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-07T01:43:14Z",
+  "generatedAt": "2026-09-07T07:45:08Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
