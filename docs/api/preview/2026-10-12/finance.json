@@ -31,8 +31,8 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -48,6 +48,15 @@
     {
       "company": "Bank of America",
       "symbol": "BAC",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
       "date": "2026-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -73,24 +82,6 @@
       "source": "aggregator"
     },
     {
-      "company": "KeyCorp",
-      "symbol": "KEY",
-      "date": "2026-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "M&T Bank Corp",
-      "symbol": "MTB",
-      "date": "2026-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-10-15",
@@ -105,6 +96,15 @@
       "date": "2026-10-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2026-10-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -142,7 +142,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-07T07:46:00Z",
+  "generatedAt": "2026-09-07T14:40:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
@@ -152,8 +152,8 @@
     "Goldman Sachs",
     "Interactive Brokers",
     "JPMorgan",
-    "KeyCorp",
     "M&T Bank Corp",
+    "Morgan Stanley",
     "PNC Financial",
     "Regions Financial",
     "State Street Corp",

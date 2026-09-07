@@ -118,15 +118,6 @@
       "source": "aggregator"
     },
     {
-      "company": "IBM",
-      "symbol": "IBM",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-10-28",
@@ -269,12 +260,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Charter Communications",
+      "symbol": "CHTR",
+      "date": "2026-10-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 30,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-07T07:46:26Z",
+  "generatedAt": "2026-09-07T14:41:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amazon",
@@ -283,6 +283,7 @@
     "Apple",
     "Atlassian",
     "Cadence",
+    "Charter Communications",
     "CoStar Group",
     "Comcast",
     "Corning",
@@ -290,7 +291,6 @@
     "F5",
     "Fox Corp",
     "GoDaddy",
-    "IBM",
     "Lam Research",
     "Lumen Tech",
     "Monolithic Power",
