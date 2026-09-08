@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.costargroup.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-09-08",
@@ -46,10 +57,10 @@
       "company": "GlobalFoundries",
       "symbol": "GFS",
       "date": "2026-09-08",
-      "bmo_amc": "5:25 PM EDT",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "5:25 PM EDT",
+      "ir_time_label": "9:00 AM EDT",
       "ir_source_url": "https://investors.gf.com/",
       "source": "investor_relations"
     },
@@ -95,6 +106,39 @@
       "yahoo_time_label": null,
       "ir_time_label": "8:50 AM EDT",
       "ir_source_url": "https://investors.kyndryl.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Paramount",
+      "symbol": "PARA",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.paramount.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ropertech.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-09-08",
+      "bmo_amc": "8:47 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:47 AM EDT",
+      "ir_source_url": "https://investor.verisign.com/",
       "source": "investor_relations"
     },
     {
@@ -172,17 +216,6 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.nytco.com/investors/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ropertech.com/",
       "source": "investor_relations"
     },
     {
@@ -281,6 +314,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-09-10",
+      "bmo_amc": "3:45 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:45 PM EDT",
+      "ir_source_url": "https://investors.paloaltonetworks.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-09-10",
@@ -312,17 +356,27 @@
       "ir_time_label": null,
       "ir_source_url": "https://ir.towersemi.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-09-10",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-08T07:38:46Z",
+  "generatedAt": "2026-09-08T13:18:42Z",
   "irCompanies": [
     "AT&T",
     "Autodesk",
     "Broadcom",
     "Charter Communications",
+    "CoStar Group",
     "Crown Castle",
     "Datadog",
     "Dell",
@@ -336,12 +390,15 @@
     "Lam Research",
     "Lyft",
     "NYT",
+    "Palo Alto",
+    "Paramount",
     "Roper Technologies",
     "Shopify",
     "SiriusXM",
     "Skyworks Solutions",
     "T-Mobile US",
     "Tower Semiconductor",
+    "VeriSign",
     "Verizon",
     "Western Digital",
     "Zoom"
@@ -349,7 +406,8 @@
   "fallbackCompanies": [
     "Adobe",
     "GameStop",
-    "Oracle"
+    "Oracle",
+    "VinFast"
   ],
   "week": {
     "id": "2026-09-07",

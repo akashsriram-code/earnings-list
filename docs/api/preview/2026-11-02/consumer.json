@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Clorox Co",
+      "symbol": "CLX",
+      "date": "2026-11-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-11-02",
@@ -10,16 +19,28 @@
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
+    },
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-11-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-08T07:40:39Z",
+  "generatedAt": "2026-09-08T13:20:39Z",
   "irCompanies": [
     "Estee Lauder"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Clorox Co",
+    "Simon Property Group"
+  ],
   "week": {
     "id": "2026-11-02",
     "start_date": "2026-11-02",
