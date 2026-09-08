@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-09-07",
-      "bmo_amc": "2:36 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:36 PM EDT",
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2026-09-08",
@@ -23,12 +12,23 @@
       "source": "investor_relations"
     },
     {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-09-08",
+      "bmo_amc": "11:30 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM PDT",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -306,7 +306,7 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-07T23:14:39Z",
+  "generatedAt": "2026-09-08T01:52:12Z",
   "irCompanies": [
     "AT&T",
     "Autodesk",

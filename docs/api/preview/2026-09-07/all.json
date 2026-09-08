@@ -121,18 +121,6 @@
       "sector": "Pharma"
     },
     {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-09-07",
-      "bmo_amc": "2:36 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:36 PM EDT",
-      "ir_source_url": "https://investor.fortinet.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2026-09-08",
@@ -145,12 +133,24 @@
       "sector": "TMT"
     },
     {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-09-08",
+      "bmo_amc": "11:30 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 AM PDT",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -451,6 +451,30 @@
       "sector": "TMT"
     },
     {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-09-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Republic Services Inc",
+      "symbol": "RSG",
+      "date": "2026-09-10",
+      "bmo_amc": "5:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 PM EDT",
+      "ir_source_url": "https://investor.republicservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2026-09-08",
@@ -579,30 +603,6 @@
       "ir_source_url": "https://investors.robinhood.com/",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-09-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-09-10",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.republicservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 51,
@@ -611,7 +611,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-07T23:14:40Z",
+  "generatedAt": "2026-09-08T01:52:12Z",
   "irCompanies": [
     "AT&T",
     "Autodesk",
