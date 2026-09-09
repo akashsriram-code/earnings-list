@@ -7,9 +7,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://about.autozone.com/investor-overview",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Carmax Inc",
@@ -33,11 +31,10 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-09T13:22:51Z",
-  "irCompanies": [
-    "Autozone Inc"
-  ],
+  "generatedAt": "2026-09-09T18:15:54Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Autozone Inc",
     "Carmax Inc",
     "Jabil Inc"
   ],

@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-09-09",
-      "bmo_amc": "4:05 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://investors.robinhood.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-09-09",
@@ -34,16 +23,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-09T13:22:24Z",
+  "generatedAt": "2026-09-09T18:15:23Z",
   "irCompanies": [
     "Aon",
-    "Robinhood",
     "Truist Financial"
   ],
   "fallbackCompanies": [],

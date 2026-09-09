@@ -15,23 +15,10 @@
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-09-09",
-      "bmo_amc": "5:00 PM EDT",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 PM EDT",
-      "ir_source_url": "https://investor.coopercos.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
-      "date": "2026-09-09",
-      "bmo_amc": "10:15 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:15 AM EDT",
-      "ir_source_url": "https://investor.gehealthcare.com/news-events/events",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Merck",
@@ -42,17 +29,6 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
-      "date": "2026-09-09",
-      "bmo_amc": "8:45 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:45 AM EDT",
-      "ir_source_url": "https://investor.regeneron.com/events-and-presentations/events-and-recent",
       "source": "investor_relations"
     },
     {
@@ -76,34 +52,21 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-09-10",
-      "bmo_amc": "1:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:30 AM EDT",
-      "ir_source_url": "https://ir.labcorp.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-09T13:22:24Z",
+  "generatedAt": "2026-09-09T18:15:23Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Boston Scientific Corp",
-    "Cooper Companies Inc",
-    "GE HealthCare Technologies Inc",
-    "Labcorp Holdings Inc",
     "Merck",
-    "Regeneron Pharmaceuticals",
     "Solventum Corp"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Cooper Companies Inc"
+  ],
   "week": {
     "id": "2026-09-07",
     "start_date": "2026-09-07",

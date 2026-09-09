@@ -13,12 +13,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IQVIA Holdings Inc",
@@ -123,12 +121,10 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-10-29",
-      "bmo_amc": "1:50 PM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "1:50 PM EDT",
-      "ir_source_url": "https://investor.lilly.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Gilead",
@@ -152,17 +148,16 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-09T13:24:05Z",
-  "irCompanies": [
-    "Centene Corp",
-    "Eli Lilly and Co"
-  ],
+  "generatedAt": "2026-09-09T18:17:08Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
+    "Centene Corp",
     "Cigna",
     "Edwards Lifesciences Corp",
+    "Eli Lilly and Co",
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
