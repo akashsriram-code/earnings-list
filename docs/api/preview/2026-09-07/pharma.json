@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-08",
-      "bmo_amc": "11:45AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:45am ET",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-09-09",
@@ -28,7 +17,7 @@
       "date": "2026-09-09",
       "bmo_amc": "5:00 PM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:00 PM EDT",
       "ir_source_url": "https://investor.coopercos.com/",
       "source": "investor_relations"
@@ -100,17 +89,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-08T23:11:57Z",
+  "generatedAt": "2026-09-09T02:00:27Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Boston Scientific Corp",
     "Cooper Companies Inc",
     "GE HealthCare Technologies Inc",
     "Labcorp Holdings Inc",
-    "Medtronic PLC",
     "Merck",
     "Regeneron Pharmaceuticals",
     "Solventum Corp"
