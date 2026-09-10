@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-09-23",
+      "bmo_amc": "9:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-09-24",
@@ -12,12 +23,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-09T22:59:23Z",
+  "generatedAt": "2026-09-10T01:56:33Z",
   "irCompanies": [
-    "BlackBerry"
+    "BlackBerry",
+    "Paychex"
   ],
   "fallbackCompanies": [],
   "week": {

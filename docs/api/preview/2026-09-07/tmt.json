@@ -12,109 +12,21 @@
     {
       "company": "AT&T",
       "symbol": "T",
-      "date": "2026-09-09",
-      "bmo_amc": "8:30 AM\n                    ET",
+      "date": "2026-09-10",
+      "bmo_amc": "09:30 AM\n                    ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM\n                    ET",
+      "ir_time_label": "09:30 AM\n                    ET",
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-09-09",
-      "bmo_amc": "11:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 am EDT",
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "NYT",
-      "symbol": "NYT",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.nytco.com/investors/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "SiriusXM",
-      "symbol": "SIRI",
-      "date": "2026-09-09",
-      "bmo_amc": "4:25 PM PDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:25 pm PDT",
-      "ir_source_url": "https://investor.siriusxm.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-09-09",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-09-09",
-      "bmo_amc": "8:10 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:10 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations"
     },
     {
       "company": "Adobe",
       "symbol": "ADBE",
       "date": "2026-09-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -143,9 +55,9 @@
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2026-09-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -163,29 +75,21 @@
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-09-10",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-09T22:58:56Z",
+  "generatedAt": "2026-09-10T01:56:06Z",
   "irCompanies": [
     "AT&T",
-    "HPE",
-    "Juniper Networks",
     "Lam Research",
     "Lyft",
-    "Marvell",
-    "NYT",
-    "Paychex",
-    "Shopify",
-    "SiriusXM",
-    "Take-Two Interactive",
-    "Verizon"
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Adobe",
