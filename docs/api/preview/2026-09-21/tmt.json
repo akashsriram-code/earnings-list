@@ -15,22 +15,23 @@
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-09-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-10T20:22:42Z",
+  "generatedAt": "2026-09-10T23:00:42Z",
   "irCompanies": [
+    "BlackBerry",
     "Paychex"
   ],
-  "fallbackCompanies": [
-    "BlackBerry"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-09-21",
     "start_date": "2026-09-21",
