@@ -219,6 +219,17 @@
       "source": "aggregator"
     },
     {
+      "company": "DR Horton Inc",
+      "symbol": "DHI",
+      "date": "2026-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.drhorton.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-10-29",
@@ -318,11 +329,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-10T18:06:54Z",
+  "generatedAt": "2026-09-10T20:23:56Z",
   "irCompanies": [
+    "DR Horton Inc",
     "UPS"
   ],
   "fallbackCompanies": [

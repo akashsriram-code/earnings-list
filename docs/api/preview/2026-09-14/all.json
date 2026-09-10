@@ -59,6 +59,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-09-17",
+      "bmo_amc": "8:00 AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM PDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Juniper Networks",
       "symbol": "JNPR",
       "date": "2026-09-17",
@@ -69,6 +81,18 @@
       "ir_source_url": "https://investors.hpe.com:443/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Bank of America",
@@ -129,27 +153,15 @@
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-10T18:05:39Z",
+  "generatedAt": "2026-09-10T20:22:29Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -157,6 +169,7 @@
     "HPE",
     "Home Depot Inc",
     "Honeywell",
+    "Intuit",
     "JPMorgan",
     "Juniper Networks",
     "Lennar Corp",
