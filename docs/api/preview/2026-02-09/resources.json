@@ -55,11 +55,65 @@
       "source": "aggregator"
     },
     {
+      "company": "AEP",
+      "symbol": "AEP",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Entergy Corp",
+      "symbol": "ETR",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Eversource Energy",
+      "symbol": "ES",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Exelon Corp",
+      "symbol": "EXC",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "PBF Energy",
+      "symbol": "PBF",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "PG&E Corp",
+      "symbol": "PCG",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,25 +121,31 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-02-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-09-10T01:49:12Z",
+  "generatedAt": "2026-09-10T07:36:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AEP",
     "Albemarle",
     "Ameren",
     "DuPont",
     "Duke Energy",
     "Ecolab",
     "Enbridge",
+    "Entergy Corp",
+    "Eversource Energy",
+    "Exelon Corp",
     "NiSource",
+    "PBF Energy",
+    "PG&E Corp",
     "TC Energy"
   ],
   "week": {
