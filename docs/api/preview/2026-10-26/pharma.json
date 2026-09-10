@@ -70,7 +70,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Thermo Fisher Scientific Inc",
@@ -148,10 +150,11 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-10T07:45:31Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-10T13:23:01Z",
+  "irCompanies": [
+    "Boston Scientific Corp"
+  ],
   "fallbackCompanies": [
-    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Centene Corp",

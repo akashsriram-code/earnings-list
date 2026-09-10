@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-10-21",
@@ -145,13 +154,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-10T07:45:18Z",
+  "generatedAt": "2026-09-10T13:22:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
@@ -166,6 +175,7 @@
     "Lazard",
     "MSCI Inc",
     "Nasdaq",
+    "Northern Trust",
     "Progressive Corporation",
     "Synchrony Financial",
     "W. R. Berkley Corp",

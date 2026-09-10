@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-09-30",
@@ -28,15 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-10T07:44:38Z",
+  "generatedAt": "2026-09-10T13:22:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
-    "Micron",
-    "Paychex"
+    "Micron"
   ],
   "week": {
     "id": "2026-09-28",

@@ -30,6 +30,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2026-09-10",
+      "bmo_amc": "7:10AM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:10am PDT",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-09-10",
@@ -61,6 +72,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-09-10",
@@ -70,14 +92,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-10T07:43:52Z",
+  "generatedAt": "2026-09-10T13:21:26Z",
   "irCompanies": [
     "AT&T",
+    "Lam Research",
     "Lyft",
-    "Shopify"
+    "Shopify",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Adobe",
