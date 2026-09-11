@@ -4,13 +4,25 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-09-14",
-      "bmo_amc": "3:30 AM ET",
+      "bmo_amc": "8:51 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:30 am ET",
+      "ir_time_label": "8:51 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Fortive Corp",
@@ -59,18 +71,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-09-17",
@@ -116,6 +116,16 @@
       "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-09-17",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -179,13 +189,13 @@
       "sector": "Finance"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T07:43:12Z",
+  "generatedAt": "2026-09-11T13:15:19Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -203,7 +213,8 @@
     "Wells Fargo"
   ],
   "fallbackCompanies": [
-    "Lennar Corp"
+    "Lennar Corp",
+    "VinFast"
   ],
   "week": {
     "id": "2026-09-14",

@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-09-30",
@@ -31,16 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-09-29",
@@ -50,6 +50,26 @@
       "ir_time_label": "11:30 a.m. EDT",
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
       "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-09-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
       "sector": "Manufacturing"
     },
     {
@@ -73,20 +93,22 @@
       "sector": "TMT"
     }
   ],
-  "count": 7,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T07:43:39Z",
+  "generatedAt": "2026-09-11T13:15:46Z",
   "irCompanies": [
     "Alaska Air"
   ],
   "fallbackCompanies": [
     "Accenture",
+    "Carmax Inc",
     "Conagra Brands",
     "FactSet Research",
+    "Jabil Inc",
     "McCormick & Co",
     "Micron",
     "Nike Inc"

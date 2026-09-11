@@ -10,16 +10,37 @@
       "ir_time_label": "11:30 a.m. EDT",
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
       "source": "investor_relations"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-09-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-11T07:43:38Z",
+  "generatedAt": "2026-09-11T13:15:46Z",
   "irCompanies": [
     "Alaska Air"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Carmax Inc",
+    "Jabil Inc"
+  ],
   "week": {
     "id": "2026-09-28",
     "start_date": "2026-09-28",

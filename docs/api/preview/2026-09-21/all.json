@@ -1,30 +1,6 @@
 {
   "records": [
     {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-09-23",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-09-24",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2026-09-22",
@@ -35,31 +11,11 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2026-09-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-09-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-09-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -93,27 +49,49 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-09-23",
+      "bmo_amc": "9:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-09-24",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 9,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T07:43:26Z",
+  "generatedAt": "2026-09-11T13:15:32Z",
   "irCompanies": [
     "BlackBerry",
     "Paychex"
   ],
   "fallbackCompanies": [
     "Autozone Inc",
-    "Carmax Inc",
     "Cintas Corp",
     "Costco Wholesale Corp",
     "Darden Restaurants",
-    "General Mills",
-    "Jabil Inc"
+    "General Mills"
   ],
   "week": {
     "id": "2026-09-21",
