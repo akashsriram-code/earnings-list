@@ -11,16 +11,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
@@ -54,13 +44,23 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-09-11",
-      "bmo_amc": "3:59 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:59 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-09-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 6,
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T20:28:55Z",
+  "generatedAt": "2026-09-11T23:00:15Z",
   "irCompanies": [
     "Take-Two Interactive"
   ],
