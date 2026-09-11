@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-11",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-09-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
@@ -34,33 +54,13 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-09-11",
-      "bmo_amc": "1:43 PM ET",
+      "bmo_amc": "3:59 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:43 PM ET",
+      "ir_time_label": "3:59 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-11",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 6,
@@ -69,7 +69,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T18:08:37Z",
+  "generatedAt": "2026-09-11T20:28:55Z",
   "irCompanies": [
     "Take-Two Interactive"
   ],
