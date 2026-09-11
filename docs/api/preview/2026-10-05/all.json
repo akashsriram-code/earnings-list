@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-10-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-10-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-10-05",
@@ -18,6 +38,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-10-06",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EDT",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -39,36 +71,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-10-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-10-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-10T23:01:11Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-11T01:55:53Z",
+  "irCompanies": [
+    "Constellation Brands"
+  ],
   "fallbackCompanies": [
     "Applied Digital",
     "Carnival Corp",

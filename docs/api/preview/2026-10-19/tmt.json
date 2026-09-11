@@ -31,10 +31,12 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
     },
     {
       "company": "IBM",
@@ -112,10 +114,11 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-10T23:01:42Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-11T01:56:21Z",
+  "irCompanies": [
+    "AT&T"
+  ],
   "fallbackCompanies": [
-    "AT&T",
     "Digital Realty",
     "IBM",
     "Intel",
