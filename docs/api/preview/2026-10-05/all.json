@@ -11,6 +11,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-10-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-10-08",
@@ -73,15 +85,16 @@
       "sector": "Consumer"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-11T01:55:53Z",
+  "generatedAt": "2026-09-11T07:43:53Z",
   "irCompanies": [
-    "Constellation Brands"
+    "Constellation Brands",
+    "Marvell"
   ],
   "fallbackCompanies": [
     "Applied Digital",
