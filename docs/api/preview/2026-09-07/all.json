@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-09-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-09-08",
@@ -41,11 +31,21 @@
       "sector": "TMT"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-09-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Kroger Co",
       "symbol": "KR",
       "date": "2026-09-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-12T12:36:36Z",
+  "generatedAt": "2026-09-12T17:38:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",

@@ -1,6 +1,50 @@
 {
   "records": [
     {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-10-14",
+      "bmo_amc": "3:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:00 PM EDT",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-10-14",
@@ -51,16 +95,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "BlackRock Inc",
@@ -223,40 +257,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-10-14",
-      "bmo_amc": "3:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:00 PM EDT",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
   "count": 25,
@@ -265,7 +265,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-12T12:37:40Z",
+  "generatedAt": "2026-09-12T17:39:07Z",
   "irCompanies": [
     "Accenture",
     "Citizens Financial",
