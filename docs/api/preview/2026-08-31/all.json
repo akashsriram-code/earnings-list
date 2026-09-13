@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-09-02",
@@ -39,6 +29,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Medtronic PLC",
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-13T01:50:40Z",
+  "generatedAt": "2026-09-13T07:51:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Barrick Mining",
