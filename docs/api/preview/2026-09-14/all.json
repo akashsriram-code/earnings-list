@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-09-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-09-17",
@@ -74,10 +62,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-09-14",
-      "bmo_amc": "9:31 PM ET",
+      "bmo_amc": "3:35 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:31 pm ET",
+      "ir_time_label": "3:35 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -187,6 +175,18 @@
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 16,
@@ -195,7 +195,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-14T02:11:37Z",
+  "generatedAt": "2026-09-14T08:21:10Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
