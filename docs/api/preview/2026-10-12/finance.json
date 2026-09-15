@@ -16,7 +16,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Goldman Sachs",
@@ -85,10 +87,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "US Bancorp",
@@ -153,21 +157,21 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-14T21:16:21Z",
+  "generatedAt": "2026-09-15T02:18:10Z",
   "irCompanies": [
-    "Citizens Financial"
+    "Citigroup",
+    "Citizens Financial",
+    "PNC Financial"
   ],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
-    "Citigroup",
     "Goldman Sachs",
     "Interactive Brokers",
     "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Regions Financial",
     "State Street Corp",
     "Truist Financial",

@@ -1,61 +1,6 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-09-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-09-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-09-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-09-14",
-      "bmo_amc": "12:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
-      "date": "2026-09-14",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-09-15",
@@ -78,20 +23,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-14T21:15:36Z",
+  "generatedAt": "2026-09-15T02:17:25Z",
   "irCompanies": [
-    "Bank of America",
-    "Citigroup",
-    "Huntington Bancshares",
     "JPMorgan",
-    "PNC Financial",
-    "Synchrony Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [],
