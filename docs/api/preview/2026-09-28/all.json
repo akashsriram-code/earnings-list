@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-09-30",
@@ -64,10 +54,10 @@
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-09-29",
-      "bmo_amc": "11:30 A.M. EDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:30 a.m. EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
       "source": "investor_relations",
       "sector": "Manufacturing"
@@ -91,6 +81,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 9,
@@ -99,7 +99,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-15T18:43:13Z",
+  "generatedAt": "2026-09-15T23:24:26Z",
   "irCompanies": [
     "Alaska Air"
   ],

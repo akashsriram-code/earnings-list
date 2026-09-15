@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-09-15",
+      "bmo_amc": "8:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-09-15",
@@ -12,11 +23,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-15T18:42:50Z",
+  "generatedAt": "2026-09-15T23:24:02Z",
   "irCompanies": [
+    "Danaher Corp",
     "Medtronic PLC"
   ],
   "fallbackCompanies": [],

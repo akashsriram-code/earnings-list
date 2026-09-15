@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-09-15",
-      "bmo_amc": "2:45 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:45 PM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-09-15",
@@ -23,15 +12,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-15T18:42:48Z",
+  "generatedAt": "2026-09-15T23:24:03Z",
   "irCompanies": [
-    "JPMorgan",
     "Wells Fargo"
   ],
   "fallbackCompanies": [],

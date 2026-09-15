@@ -1,13 +1,24 @@
 {
   "records": [
     {
+      "company": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-09-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-09-15",
-      "bmo_amc": "2:14 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:14 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -54,14 +65,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-15T18:42:48Z",
+  "generatedAt": "2026-09-15T23:24:02Z",
   "irCompanies": [
     "HPE",
     "Intuit",
     "Juniper Networks",
+    "Microsoft",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
