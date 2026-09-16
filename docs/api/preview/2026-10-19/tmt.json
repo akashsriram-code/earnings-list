@@ -48,6 +48,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Comcast",
+      "symbol": "CMCSA",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-10-22",
@@ -111,14 +120,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-16T08:08:33Z",
+  "generatedAt": "2026-09-16T13:59:37Z",
   "irCompanies": [
     "AT&T"
   ],
   "fallbackCompanies": [
+    "Comcast",
     "Digital Realty",
     "IBM",
     "Intel",

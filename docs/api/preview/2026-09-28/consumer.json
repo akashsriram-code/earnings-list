@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-09-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-09-30",
@@ -28,12 +37,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-16T08:08:00Z",
+  "generatedAt": "2026-09-16T13:58:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Carnival Corp",
     "Conagra Brands",
     "McCormick & Co",
     "Nike Inc"

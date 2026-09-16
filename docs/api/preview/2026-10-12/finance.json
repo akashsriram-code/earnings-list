@@ -45,7 +45,7 @@
       "symbol": "WFC",
       "date": "2026-10-13",
       "bmo_amc": "8:15AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": "8:15am ET",
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
@@ -63,6 +63,15 @@
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
       "date": "2026-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -155,13 +164,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-16T08:08:21Z",
+  "generatedAt": "2026-09-16T13:59:23Z",
   "irCompanies": [
     "Citigroup",
     "Citizens Financial",
@@ -180,7 +189,8 @@
     "Regions Financial",
     "State Street Corp",
     "Truist Financial",
-    "US Bancorp"
+    "US Bancorp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2026-10-12",
