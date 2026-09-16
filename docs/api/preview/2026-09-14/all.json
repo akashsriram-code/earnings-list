@@ -1,47 +1,37 @@
 {
   "records": [
     {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
       "date": "2026-09-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
       "date": "2026-09-16",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-09-16",
-      "bmo_amc": "2:13 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:13 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -93,16 +83,28 @@
       "sector": "TMT"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
       "date": "2026-09-16",
-      "bmo_amc": "7:30 AM EDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-16",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
   "count": 9,
@@ -111,18 +113,18 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-16T18:40:29Z",
+  "generatedAt": "2026-09-16T23:28:56Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "HPE",
     "Huntington Bancshares",
     "Intuit",
     "Juniper Networks",
+    "Keurig Dr. Pepper",
     "Lennar Corp",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
-    "Lennar Corp",
     "VinFast"
   ],
   "week": {
