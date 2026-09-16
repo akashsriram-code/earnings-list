@@ -44,10 +44,12 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-10-13",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:15AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:15am ET",
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Bank of America",
@@ -159,12 +161,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-15T23:24:47Z",
+  "generatedAt": "2026-09-16T02:09:44Z",
   "irCompanies": [
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
-    "PNC Financial"
+    "PNC Financial",
+    "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Bank of America",
@@ -177,8 +180,7 @@
     "Regions Financial",
     "State Street Corp",
     "Truist Financial",
-    "US Bancorp",
-    "Wells Fargo"
+    "US Bancorp"
   ],
   "week": {
     "id": "2026-10-12",

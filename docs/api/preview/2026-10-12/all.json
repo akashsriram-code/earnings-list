@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.accenture.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-10-14",
+      "bmo_amc": "3:00 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:00 PM EDT",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-10-13",
@@ -9,6 +33,68 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-10-15",
+      "bmo_amc": "9:00 AM PDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "BlackRock Inc",
@@ -58,10 +144,12 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-10-13",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:15AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "8:15am ET",
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -177,92 +265,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.accenture.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-10-14",
-      "bmo_amc": "3:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:00 PM EDT",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "CSX Corp",
-      "symbol": "CSX",
-      "date": "2026-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-10-15",
-      "bmo_amc": "9:00 AM PDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am PDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
-      "date": "2026-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 25,
@@ -271,7 +273,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-15T23:24:49Z",
+  "generatedAt": "2026-09-16T02:09:44Z",
   "irCompanies": [
     "Accenture",
     "Citigroup",
@@ -279,7 +281,8 @@
     "Fox Corp",
     "JPMorgan",
     "PNC Financial",
-    "Prologis Inc"
+    "Prologis Inc",
+    "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Bank of America",
@@ -298,8 +301,7 @@
     "Snap-On Inc",
     "State Street Corp",
     "Truist Financial",
-    "US Bancorp",
-    "Wells Fargo"
+    "US Bancorp"
   ],
   "week": {
     "id": "2026-10-12",
