@@ -13,10 +13,12 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     },
     {
       "company": "IQVIA Holdings Inc",
@@ -152,15 +154,15 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-17T14:02:11Z",
+  "generatedAt": "2026-09-17T18:49:51Z",
   "irCompanies": [
     "Boston Scientific Corp",
+    "Centene Corp",
     "Danaher Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
-    "Centene Corp",
     "Cigna",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
