@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-04-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-04-16",
@@ -19,6 +9,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2026-04-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Johnson & Johnson",
@@ -267,7 +267,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-17T18:44:16Z",
+  "generatedAt": "2026-09-17T23:15:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
