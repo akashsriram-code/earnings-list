@@ -4,8 +4,8 @@
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-09-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -19,14 +19,26 @@
       "ir_time_label": "11:00 AM ET",
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-09-17",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-17T08:12:02Z",
+  "generatedAt": "2026-09-17T14:00:57Z",
   "irCompanies": [
-    "Lennar Corp"
+    "Lennar Corp",
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "Lennar Corp"

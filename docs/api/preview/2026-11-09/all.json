@@ -1,34 +1,14 @@
 {
   "records": [
     {
-      "company": "CoreWeave",
-      "symbol": "CRWV",
-      "date": "2026-11-09",
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2026-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "Occidental Petroleum",
@@ -69,22 +49,97 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "GlobalFoundries",
+      "symbol": "GFS",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 7,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-17T08:13:43Z",
+  "generatedAt": "2026-09-17T14:02:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Cisco Systems",
     "CoreWeave",
+    "GlobalFoundries",
     "Instacart",
+    "Manulife",
     "Occidental Petroleum",
     "Sea Limited",
+    "Tencent Music",
     "Tower Semiconductor",
+    "TransDigm Group Inc",
     "Tyson Foods",
     "Venture Global"
   ],
