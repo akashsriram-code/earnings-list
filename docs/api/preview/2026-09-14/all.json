@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-09-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-09-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-09-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-09-17",
@@ -73,58 +37,66 @@
       "sector": "TMT"
     },
     {
-      "company": "VinFast",
-      "symbol": "VFS",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
       "date": "2026-09-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-09-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-09-17",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-09-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-17",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM ET",
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
     }
   ],
-  "count": 9,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-16T23:28:56Z",
+  "generatedAt": "2026-09-17T02:13:06Z",
   "irCompanies": [
-    "Axon Enterprise Inc",
     "HPE",
-    "Huntington Bancshares",
     "Intuit",
     "Juniper Networks",
-    "Keurig Dr. Pepper",
     "Lennar Corp",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
+    "Lennar Corp",
     "VinFast"
   ],
   "week": {

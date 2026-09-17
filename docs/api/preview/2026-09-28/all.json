@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-01",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-09-29",
@@ -61,6 +41,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-09-29",
@@ -93,14 +83,24 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "Micron",
+      "symbol": "MU",
       "date": "2026-09-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-01",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     }
   ],
   "count": 10,
@@ -109,7 +109,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-16T23:29:21Z",
+  "generatedAt": "2026-09-17T02:13:27Z",
   "irCompanies": [
     "Alaska Air"
   ],
