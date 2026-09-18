@@ -21,12 +21,22 @@
       "sector": "Consumer"
     },
     {
-      "company": "VinFast",
-      "symbol": "VFS",
-      "date": "2026-06-08",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-06-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-06-08",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -49,16 +59,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-06-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 6,
@@ -67,7 +67,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-17T23:17:17Z",
+  "generatedAt": "2026-09-18T01:57:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
