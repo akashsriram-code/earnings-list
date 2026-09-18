@@ -127,6 +127,15 @@
       "source": "aggregator"
     },
     {
+      "company": "T-Mobile US",
+      "symbol": "TMUS",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-10-28",
@@ -262,10 +271,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-18T07:50:00Z",
+  "generatedAt": "2026-09-18T13:23:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amazon",
@@ -293,6 +302,7 @@
     "Seagate",
     "SiriusXM",
     "Skyworks Solutions",
+    "T-Mobile US",
     "Teradyne",
     "Tesla",
     "Western Digital",

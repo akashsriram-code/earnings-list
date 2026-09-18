@@ -53,17 +53,47 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Disney",
+      "symbol": "DIS",
+      "date": "2026-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-18T07:50:20Z",
+  "generatedAt": "2026-09-18T13:23:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
+    "Disney",
     "GlobalFoundries",
+    "JD.com",
     "Sea Limited",
     "Tencent Music",
     "Tower Semiconductor"
