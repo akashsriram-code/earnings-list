@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-09-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-09-18",
@@ -13,14 +25,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-09-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-18",
+      "bmo_amc": "3:51 PM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "3:51 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Merck",
@@ -35,26 +49,25 @@
       "sector": "Pharma"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-09-18",
-      "bmo_amc": "1:39 PM ET",
-      "nasdaq_time_label": null,
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-09-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "1:39 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-18T18:05:16Z",
+  "generatedAt": "2026-09-18T20:16:54Z",
   "irCompanies": [
+    "Huntington Bancshares",
     "Merck",
     "Take-Two Interactive",
     "Truist Financial"
