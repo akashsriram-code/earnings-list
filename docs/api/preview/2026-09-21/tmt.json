@@ -15,10 +15,12 @@
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-09-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
     },
     {
       "company": "VinFast",
@@ -33,12 +35,12 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-18T23:03:40Z",
+  "generatedAt": "2026-09-19T02:05:18Z",
   "irCompanies": [
+    "BlackBerry",
     "Paychex"
   ],
   "fallbackCompanies": [
-    "BlackBerry",
     "VinFast"
   ],
   "week": {

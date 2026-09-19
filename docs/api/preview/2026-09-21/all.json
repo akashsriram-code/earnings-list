@@ -1,14 +1,38 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-09-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-09-23",
+      "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-09-24",
+      "bmo_amc": "8:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-09-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
       "company": "Cintas Corp",
@@ -51,51 +75,42 @@
       "sector": "Consumer"
     },
     {
-      "company": "Paychex",
-      "symbol": "PAYX",
+      "company": "Bank of America",
+      "symbol": "BAC",
       "date": "2026-09-23",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "8:15 AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
+      "ir_time_label": "8:15 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-09-24",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-09-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "VinFast",
-      "symbol": "VFS",
-      "date": "2026-09-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-18T23:03:40Z",
+  "generatedAt": "2026-09-19T02:05:20Z",
   "irCompanies": [
+    "Bank of America",
+    "BlackBerry",
     "Paychex"
   ],
   "fallbackCompanies": [
     "Autozone Inc",
-    "BlackBerry",
     "Cintas Corp",
     "Costco Wholesale Corp",
     "Darden Restaurants",
