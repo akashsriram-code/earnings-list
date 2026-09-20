@@ -51,6 +51,16 @@
       "sector": "Pharma"
     },
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-07-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-07-14",
@@ -89,36 +99,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-07-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cintas Corp",
-      "symbol": "CTAS",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-07-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     },
     {
       "company": "Bank of America",
@@ -279,6 +259,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Cintas Corp",
+      "symbol": "CTAS",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-07-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 28,
@@ -287,7 +287,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-20T13:23:03Z",
+  "generatedAt": "2026-09-20T17:52:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
