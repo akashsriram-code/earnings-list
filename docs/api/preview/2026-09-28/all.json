@@ -33,16 +33,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Carnival Corp",
       "symbol": "CCL",
       "date": "2026-09-29",
@@ -81,6 +71,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "HPE",
@@ -133,7 +133,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-21T21:27:26Z",
+  "generatedAt": "2026-09-22T02:16:09Z",
   "irCompanies": [
     "Alaska Air",
     "HPE",
