@@ -11,19 +11,31 @@
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-11-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-22T08:10:31Z",
+  "generatedAt": "2026-09-22T13:55:28Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Xpeng"
+  ],
   "week": {
     "id": "2026-11-16",
     "start_date": "2026-11-16",

@@ -109,15 +109,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "CMS Energy Corp",
       "symbol": "CMS",
       "date": "2026-10-29",
@@ -177,6 +168,15 @@
       "date": "2026-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -274,7 +274,7 @@
   "count": 30,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-09-22T08:09:54Z",
+  "generatedAt": "2026-09-22T13:54:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CMS Energy Corp",
