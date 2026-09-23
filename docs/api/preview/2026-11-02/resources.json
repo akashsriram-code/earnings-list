@@ -184,8 +184,8 @@
       "company": "CF Industries",
       "symbol": "CF",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -210,15 +210,6 @@
     {
       "company": "Entergy Corp",
       "symbol": "ETR",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "FMC",
-      "symbol": "FMC",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -460,10 +451,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 51,
+  "count": 50,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-09-23T08:12:05Z",
+  "generatedAt": "2026-09-23T14:06:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -496,7 +487,6 @@
     "Evergy",
     "Eversource Energy",
     "Exelon Corp",
-    "FMC",
     "Hawaiian Electric",
     "MP Materials",
     "Marathon Petroleum",

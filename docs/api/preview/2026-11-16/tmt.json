@@ -8,14 +8,34 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-23T08:12:23Z",
+  "generatedAt": "2026-09-23T14:07:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Baidu",
+    "Qnity",
     "Xpeng"
   ],
   "week": {

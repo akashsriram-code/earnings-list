@@ -77,7 +77,7 @@
       "symbol": "SYF",
       "date": "2026-10-20",
       "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 AM EDT",
       "ir_source_url": "https://investors.synchrony.com/",
@@ -104,15 +104,6 @@
     {
       "company": "Progressive Corporation",
       "symbol": "PGR",
-      "date": "2026-10-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
       "date": "2026-10-21",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -156,13 +147,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-23T08:11:38Z",
+  "generatedAt": "2026-09-23T14:06:22Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
@@ -180,7 +171,6 @@
     "Nasdaq",
     "Northern Trust",
     "Progressive Corporation",
-    "Synchrony Financial",
     "W. R. Berkley Corp",
     "Zions Bancorporation"
   ],
