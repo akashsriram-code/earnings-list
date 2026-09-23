@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-09-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-09-09",
@@ -19,6 +9,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-09-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "GameStop",
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-23T02:14:58Z",
+  "generatedAt": "2026-09-23T08:10:27Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
