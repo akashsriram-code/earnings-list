@@ -46,6 +46,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-10-21",
+      "bmo_amc": "8:00 A.M. ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2026-10-21",
@@ -82,11 +93,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-22T23:30:33Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-23T02:16:11Z",
+  "irCompanies": [
+    "Danaher Corp"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Danaher Corp",

@@ -1,43 +1,21 @@
 {
   "records": [
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-09-22",
-      "bmo_amc": "10:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30 am EDT",
-      "ir_source_url": "https://ir.deckers.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Kimco Realty Corp",
-      "symbol": "KIM",
-      "date": "2026-09-22",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2026-09-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2026-09-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -59,14 +37,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-22T23:29:47Z",
-  "irCompanies": [
-    "Deckers Outdoors",
-    "Kimco Realty Corp"
-  ],
+  "generatedAt": "2026-09-23T02:15:18Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Cintas Corp",
     "Costco Wholesale Corp",

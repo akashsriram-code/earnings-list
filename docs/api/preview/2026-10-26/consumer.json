@@ -123,10 +123,12 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Church & Dwight",
@@ -159,9 +161,10 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-22T23:30:43Z",
+  "generatedAt": "2026-09-23T02:16:23Z",
   "irCompanies": [
-    "Chipotle Mexican Grill"
+    "Chipotle Mexican Grill",
+    "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -173,7 +176,6 @@
     "International Paper Co",
     "Keurig Dr. Pepper",
     "Kimberly Clark Corp",
-    "Kimco Realty Corp",
     "Mondelez International",
     "Regency Centers Corp",
     "Royal Caribbean Group",

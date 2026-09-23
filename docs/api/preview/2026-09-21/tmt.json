@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-09-22",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Paychex",
       "symbol": "PAYX",
       "date": "2026-09-23",
       "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:30 AM ET",
       "ir_source_url": "https://investor.paychex.com/",
       "source": "investor_relations"
@@ -48,20 +37,19 @@
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-09-24",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-22T23:29:47Z",
+  "generatedAt": "2026-09-23T02:15:18Z",
   "irCompanies": [
     "BlackBerry",
     "Paychex",
-    "Take-Two Interactive",
     "Teradyne"
   ],
   "fallbackCompanies": [
