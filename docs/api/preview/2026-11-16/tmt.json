@@ -26,15 +26,35 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-24T14:04:38Z",
+  "generatedAt": "2026-09-24T18:54:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baidu",
+    "NVIDIA",
+    "Palo Alto",
     "Qnity",
     "Xpeng"
   ],

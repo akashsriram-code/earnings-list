@@ -72,6 +72,15 @@
       "source": "aggregator"
     },
     {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-10-14",
@@ -168,13 +177,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-24T14:03:35Z",
+  "generatedAt": "2026-09-24T18:53:11Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
