@@ -4,34 +4,10 @@
       "company": "Paychex",
       "symbol": "PAYX",
       "date": "2026-09-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-09-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-09-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "BlackBerry",
@@ -39,7 +15,7 @@
       "date": "2026-09-24",
       "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 AM EDT",
       "ir_source_url": "https://investors.blackberry.com/",
       "source": "investor_relations"
@@ -48,23 +24,21 @@
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-09-24",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-23T23:25:23Z",
+  "generatedAt": "2026-09-24T02:03:12Z",
   "irCompanies": [
-    "BlackBerry",
-    "Paychex",
-    "Take-Two Interactive",
-    "Teradyne"
+    "BlackBerry"
   ],
   "fallbackCompanies": [
+    "Paychex",
     "VinFast"
   ],
   "week": {

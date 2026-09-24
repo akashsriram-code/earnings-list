@@ -55,10 +55,12 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:15 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:15 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Morgan Stanley",
@@ -172,8 +174,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-23T23:25:59Z",
+  "generatedAt": "2026-09-24T02:03:47Z",
   "irCompanies": [
+    "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
@@ -182,7 +185,6 @@
     "Wells Fargo"
   ],
   "fallbackCompanies": [
-    "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
     "Goldman Sachs",
