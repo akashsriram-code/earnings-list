@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-10-12",
+      "bmo_amc": "09:00 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
+    },
+    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-10-14",
@@ -34,11 +45,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-24T18:53:12Z",
+  "generatedAt": "2026-09-24T23:46:37Z",
   "irCompanies": [
+    "AT&T",
     "Accenture",
     "Fox Corp",
     "Paychex"
