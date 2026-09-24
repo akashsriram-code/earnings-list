@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-01",
@@ -91,14 +71,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-09-02",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-09-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Campbell Soup Co",
@@ -119,20 +99,29 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-24T02:02:37Z",
+  "generatedAt": "2026-09-24T08:02:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Barrick Mining",
     "Broadcom",
-    "Brown-Forman Corp",
     "C3.ai",
     "Campbell Soup Co",
     "Dell",
