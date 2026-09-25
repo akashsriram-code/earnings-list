@@ -1,6 +1,48 @@
 {
   "records": [
     {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-09-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-09-30",
@@ -45,46 +87,14 @@
       "sector": "TMT"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-10-01",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2026-09-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-09-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
       "company": "Carnival Corp",
@@ -127,13 +137,13 @@
       "sector": "Consumer"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-25T08:25:21Z",
+  "generatedAt": "2026-09-25T14:24:16Z",
   "irCompanies": [
     "Alaska Air",
     "HPE",
@@ -148,7 +158,8 @@
     "Jabil Inc",
     "McCormick & Co",
     "Micron",
-    "Nike Inc"
+    "Nike Inc",
+    "VinFast"
   ],
   "week": {
     "id": "2026-09-28",

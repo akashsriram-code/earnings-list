@@ -22,20 +22,30 @@
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2026-09-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
+      "date": "2026-09-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-25T08:25:07Z",
+  "generatedAt": "2026-09-25T14:24:03Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Cintas Corp",
     "Costco Wholesale Corp",
+    "Darden Restaurants",
     "General Mills"
   ],
   "week": {

@@ -100,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Spotify",
+      "symbol": "SPOT",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-10-22",
@@ -109,10 +118,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-25T08:25:52Z",
+  "generatedAt": "2026-09-25T14:24:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
@@ -125,6 +134,7 @@
     "Omnicom",
     "Rogers Communications",
     "Roper Technologies",
+    "Spotify",
     "Texas Instruments",
     "VeriSign"
   ],

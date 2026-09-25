@@ -10,23 +10,36 @@
       "source": "aggregator"
     },
     {
-      "company": "VinFast",
-      "symbol": "VFS",
+      "company": "BlackBerry",
+      "symbol": "BB",
       "date": "2026-09-24",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-25",
+      "bmo_amc": "9:54 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:54 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-25T08:25:07Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-25T14:24:01Z",
+  "irCompanies": [
+    "Take-Two Interactive"
+  ],
   "fallbackCompanies": [
-    "Paychex",
-    "VinFast"
+    "BlackBerry",
+    "Paychex"
   ],
   "week": {
     "id": "2026-09-21",
