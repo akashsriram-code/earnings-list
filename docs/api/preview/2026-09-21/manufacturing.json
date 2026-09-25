@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-09-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-25T14:24:02Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-25T19:08:08Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [
     "Autozone Inc"
   ],
