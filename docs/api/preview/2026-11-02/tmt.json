@@ -139,8 +139,8 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.zebra.com/overview/default.aspx",
@@ -239,15 +239,6 @@
     {
       "company": "Freshworks",
       "symbol": "FRSH",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Garmin",
-      "symbol": "GRMN",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -480,10 +471,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 53,
+  "count": 52,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-24T23:47:13Z",
+  "generatedAt": "2026-09-25T02:20:22Z",
   "irCompanies": [
     "Zebra Technologies"
   ],
@@ -503,7 +494,6 @@
     "Figma",
     "Fortinet",
     "Freshworks",
-    "Garmin",
     "Gartner",
     "Gen Digital",
     "Grab",
