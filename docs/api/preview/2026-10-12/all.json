@@ -1,48 +1,6 @@
 {
   "records": [
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-10-15",
-      "bmo_amc": "9:00 AM PDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am PDT",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
-      "date": "2026-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-10-13",
@@ -227,6 +185,36 @@
       "sector": "Finance"
     },
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2026-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "SLB",
       "symbol": "SLB",
       "date": "2026-10-16",
@@ -235,6 +223,38 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-10-15",
+      "bmo_amc": "9:00 AM PDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PDT",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2026-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "AT&T",
@@ -283,26 +303,6 @@
       "ir_source_url": "https://investor.paychex.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-10-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 28,
@@ -311,7 +311,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-26T18:18:15Z",
+  "generatedAt": "2026-09-26T23:22:33Z",
   "irCompanies": [
     "AT&T",
     "Accenture",
