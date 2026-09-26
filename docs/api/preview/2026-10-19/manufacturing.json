@@ -130,10 +130,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -213,8 +215,9 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-25T23:49:39Z",
+  "generatedAt": "2026-09-26T02:25:18Z",
   "irCompanies": [
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -226,7 +229,6 @@
     "Ford Motor Co",
     "GE Aerospace",
     "General Dynamics Corp",
-    "Honeywell",
     "Illinois Tool Works Inc",
     "J B Hunt Transport Services Inc",
     "Lockheed Martin",
