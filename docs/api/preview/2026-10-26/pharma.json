@@ -39,15 +39,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Tenet Healthcare",
       "symbol": "THC",
       "date": "2026-10-27",
@@ -138,12 +129,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 15,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-28T09:12:29Z",
+  "generatedAt": "2026-09-28T19:00:59Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp"

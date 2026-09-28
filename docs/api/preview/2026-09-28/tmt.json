@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-28",
+      "bmo_amc": "2:31 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:31 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-09-30",
+      "bmo_amc": "9:30AM PT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30AM PT",
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Juniper Networks",
       "symbol": "JNPR",
       "date": "2026-09-30",
@@ -33,18 +55,20 @@
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-10-01",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-28T09:11:32Z",
+  "generatedAt": "2026-09-28T19:00:16Z",
   "irCompanies": [
-    "Juniper Networks"
+    "HPE",
+    "Juniper Networks",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Accenture",

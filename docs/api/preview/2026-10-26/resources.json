@@ -172,15 +172,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Southern Co",
-      "symbol": "SO",
-      "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Teck Resources",
       "symbol": "TECK",
       "date": "2026-10-29",
@@ -202,8 +193,8 @@
       "company": "Weyerhaeuser",
       "symbol": "WY",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -280,10 +271,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-09-28T09:12:27Z",
+  "generatedAt": "2026-09-28T19:01:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CMS Energy Corp",
@@ -312,7 +303,6 @@
     "PPG Industries",
     "Phillips 66",
     "Sherwin-Williams",
-    "Southern Co",
     "Teck Resources",
     "WEC Energy Group Inc",
     "Weyerhaeuser",

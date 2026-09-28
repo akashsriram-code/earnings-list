@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2026-11-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-11-17",
@@ -66,10 +75,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-09-28T09:13:03Z",
+  "generatedAt": "2026-09-28T19:01:36Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
@@ -79,6 +88,7 @@
     "Ross Stores",
     "TJX Cos Inc",
     "Target Corp",
+    "Tyson Foods",
     "Walmart Inc"
   ],
   "week": {
