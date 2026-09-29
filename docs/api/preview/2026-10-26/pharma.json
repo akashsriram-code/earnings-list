@@ -51,21 +51,12 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Thermo Fisher Scientific Inc",
-      "symbol": "TMO",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Bristol Myers-Squibb",
@@ -125,8 +116,8 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -140,10 +131,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-09-29T09:20:49Z",
+  "generatedAt": "2026-09-29T17:18:04Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp"
@@ -160,8 +151,7 @@
     "Merck",
     "Regeneron Pharmaceuticals",
     "Revvity",
-    "Tenet Healthcare",
-    "Thermo Fisher Scientific Inc"
+    "Tenet Healthcare"
   ],
   "week": {
     "id": "2026-10-26",

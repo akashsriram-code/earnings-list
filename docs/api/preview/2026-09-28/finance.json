@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-09-29",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-09-30",
@@ -10,14 +32,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-29T09:20:02Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-29T17:17:19Z",
+  "irCompanies": [
+    "Apollo",
+    "PNC Financial"
+  ],
   "fallbackCompanies": [
     "FactSet Research"
   ],
