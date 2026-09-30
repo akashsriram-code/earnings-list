@@ -4,8 +4,8 @@
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-09-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -21,21 +21,45 @@
       "source": "investor_relations"
     },
     {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-09-30",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://ir.hilton.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-09-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2026-09-30",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-30T09:13:58Z",
+  "generatedAt": "2026-09-30T17:15:36Z",
   "irCompanies": [
-    "Bombardier"
+    "Bombardier",
+    "Hilton Worldwide Holdings Inc",
+    "Old Dominion Freight Line Inc"
   ],
   "fallbackCompanies": [
     "Carmax Inc",

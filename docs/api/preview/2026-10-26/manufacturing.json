@@ -120,6 +120,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Honeywell Aerospace",
+      "symbol": "HONA",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "IDEX Corp",
+      "symbol": "IEX",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2026-10-28",
@@ -132,8 +150,8 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.mgmresorts.com/",
@@ -288,6 +306,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Textron Inc",
+      "symbol": "TXT",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-10-29",
@@ -324,10 +351,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-09-30T09:14:47Z",
+  "generatedAt": "2026-09-30T17:16:24Z",
   "irCompanies": [
     "DR Horton Inc",
     "MGM Resorts International",
@@ -345,9 +372,11 @@
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell Aerospace",
     "Howmet Aerospace",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
+    "IDEX Corp",
     "Ingersoll Rand Inc",
     "JetBlue",
     "L3Harris Technologies Inc",
@@ -359,6 +388,7 @@
     "Republic Services Inc",
     "Southwest Airlines Co",
     "Teledyne Technologies Inc",
+    "Textron Inc",
     "Trane Technologies PLC",
     "United Rentals Inc",
     "VICI Properties Inc",

@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-09-30",
+      "bmo_amc": "9:05 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:05 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Juniper Networks",
       "symbol": "JNPR",
       "date": "2026-09-30",
@@ -32,6 +43,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-09-30",
+      "bmo_amc": "12:46 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:46 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2026-10-01",
@@ -50,13 +72,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-09-30T09:13:59Z",
+  "generatedAt": "2026-09-30T17:15:38Z",
   "irCompanies": [
     "HPE",
-    "Juniper Networks"
+    "Intuit",
+    "Juniper Networks",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Accenture",
