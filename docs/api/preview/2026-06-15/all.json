@@ -1,24 +1,14 @@
 {
   "records": [
     {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2026-06-17",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-06-17",
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-06-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
       "company": "Accenture",
@@ -31,14 +21,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-06-18",
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-06-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-06-17",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 4,
@@ -47,7 +47,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-09-29T21:41:32Z",
+  "generatedAt": "2026-09-30T02:47:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",

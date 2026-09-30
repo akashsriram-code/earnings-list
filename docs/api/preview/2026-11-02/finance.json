@@ -4,10 +4,12 @@
       "company": "Apollo",
       "symbol": "APO",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
     },
     {
       "company": "Assurant Inc",
@@ -151,11 +153,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-09-29T21:45:33Z",
-  "irCompanies": [],
+  "generatedAt": "2026-09-30T02:52:05Z",
+  "irCompanies": [
+    "Apollo"
+  ],
   "fallbackCompanies": [
     "Allstate Corp",
-    "Apollo",
     "Assurant Inc",
     "Carlyle",
     "Fair Issac Corp",
