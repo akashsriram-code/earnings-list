@@ -13,28 +13,17 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -57,6 +46,15 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bristol Myers-Squibb",
@@ -134,14 +132,14 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-01T09:41:39Z",
+  "generatedAt": "2026-10-01T17:46:35Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Centene Corp"
+    "Boston Scientific Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
+    "Centene Corp",
     "Cigna",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",

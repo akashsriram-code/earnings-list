@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-11-09",
@@ -33,16 +43,6 @@
     {
       "company": "Cisco Systems",
       "symbol": "CSCO",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "GlobalFoundries",
-      "symbol": "GFS",
       "date": "2026-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -101,26 +101,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Instacart",
       "symbol": "CART",
       "date": "2026-11-09",
@@ -139,6 +119,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
   "count": 14,
@@ -147,16 +147,16 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-01T09:42:05Z",
+  "generatedAt": "2026-10-01T17:47:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "Disney",
-    "GlobalFoundries",
     "Instacart",
     "JD.com",
+    "KKR",
     "Occidental Petroleum",
     "Paramount",
     "Sea Limited",

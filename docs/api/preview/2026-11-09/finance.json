@@ -1,14 +1,26 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-01T09:42:04Z",
+  "generatedAt": "2026-10-01T17:46:58Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "KKR"
+  ],
   "week": {
     "id": "2026-11-09",
     "start_date": "2026-11-09",
