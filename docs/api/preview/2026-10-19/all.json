@@ -165,66 +165,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-10-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
-      "date": "2026-10-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Philip Morris International",
-      "symbol": "PM",
-      "date": "2026-10-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tractor Supply Co",
-      "symbol": "TSCO",
-      "date": "2026-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-10-20",
@@ -367,84 +307,106 @@
       "sector": "TMT"
     },
     {
-      "company": "EQT Corp",
-      "symbol": "EQT",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2026-10-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Halliburton",
-      "symbol": "HAL",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
       "date": "2026-10-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Dow",
-      "symbol": "DOW",
-      "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
-      "date": "2026-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Newmont Corp",
-      "symbol": "NEM",
-      "date": "2026-10-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "PG&E Corp",
-      "symbol": "PCG",
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-10-21",
+      "bmo_amc": "8:00 A.M. ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Molina Healthcare Inc",
+      "symbol": "MOH",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Thermo Fisher Scientific Inc",
+      "symbol": "TMO",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Healthpeak Properties",
+      "symbol": "DOC",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Quest Diagnostics Inc",
+      "symbol": "DGX",
       "date": "2026-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "Valero Energy Corp",
-      "symbol": "VLO",
+      "company": "West Pharmaceutical Services Inc",
+      "symbol": "WST",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "SLB",
-      "symbol": "SLB",
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
       "date": "2026-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
       "company": "Steel Dynamics",
@@ -629,18 +591,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-10-22",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investors.southwest.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-10-22",
@@ -671,121 +621,158 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-10-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
       "date": "2026-10-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
+      "company": "Philip Morris International",
+      "symbol": "PM",
       "date": "2026-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2026-10-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Danaher Corp",
-      "symbol": "DHR",
-      "date": "2026-10-21",
-      "bmo_amc": "8:00 A.M. ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m. ET",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Molina Healthcare Inc",
-      "symbol": "MOH",
-      "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Thermo Fisher Scientific Inc",
-      "symbol": "TMO",
-      "date": "2026-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Healthpeak Properties",
-      "symbol": "DOC",
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
       "date": "2026-10-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Quest Diagnostics Inc",
-      "symbol": "DGX",
+      "company": "Procter & Gamble",
+      "symbol": "PG",
       "date": "2026-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "West Pharmaceutical Services Inc",
-      "symbol": "WST",
+      "company": "Tractor Supply Co",
+      "symbol": "TSCO",
       "date": "2026-10-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "HCA Healthcare Inc",
-      "symbol": "HCA",
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2026-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-10-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Dow",
+      "symbol": "DOW",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PG&E Corp",
+      "symbol": "PCG",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Valero Energy Corp",
+      "symbol": "VLO",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
       "date": "2026-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     }
   ],
-  "count": 76,
+  "count": 75,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-01T17:46:25Z",
+  "generatedAt": "2026-10-01T22:14:24Z",
   "irCompanies": [
     "Danaher Corp",
     "Honeywell",
     "Huntington Bancshares",
     "Lam Research",
-    "Southwest Airlines Co",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [

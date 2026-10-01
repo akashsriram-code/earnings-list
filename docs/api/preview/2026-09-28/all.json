@@ -21,6 +21,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-10-01",
+      "bmo_amc": "4:40PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:40pm EDT",
+      "ir_source_url": "https://investors.southwest.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-09-30",
@@ -43,40 +55,68 @@
       "sector": "Finance"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-10-01",
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-09-29",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-10-01",
-      "bmo_amc": "11:30 AM EDT",
-      "nasdaq_time_label": null,
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "11:30 am EDT",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
       "date": "2026-10-01",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00AM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-10-01",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Nike Inc",
+      "symbol": "NKE",
+      "date": "2026-10-01",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-10-01",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Micron",
@@ -138,10 +178,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-10-01",
-      "bmo_amc": "1:18 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:18 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -157,77 +197,49 @@
       "sector": "TMT"
     },
     {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
+      "company": "Centene Corp",
+      "symbol": "CNC",
       "date": "2026-10-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
       "date": "2026-10-01",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Nike Inc",
-      "symbol": "NKE",
-      "date": "2026-10-01",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-10-01",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "11:30 AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
+      "ir_time_label": "11:30 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-10-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-01T17:45:52Z",
+  "generatedAt": "2026-10-01T22:13:50Z",
   "irCompanies": [
     "Centene Corp",
     "Equinix",
@@ -238,6 +250,7 @@
     "Merck",
     "Norwegian Cruise Line",
     "Qnity",
+    "Southwest Airlines Co",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
