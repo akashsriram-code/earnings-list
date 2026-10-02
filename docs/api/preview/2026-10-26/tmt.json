@@ -51,8 +51,8 @@
       "company": "Corning",
       "symbol": "GLW",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -120,20 +120,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Crown Castle",
-      "symbol": "CCI",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-10-28",
       "bmo_amc": "5:30 PM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:30 pm EDT",
       "ir_source_url": "https://investor.equinix.com/",
@@ -158,15 +149,6 @@
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://ir.kla.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "T-Mobile US",
@@ -268,6 +250,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Roblox",
       "symbol": "RBLX",
       "date": "2026-10-29",
@@ -313,13 +306,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 34,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-02T09:16:01Z",
+  "generatedAt": "2026-10-02T17:05:17Z",
   "irCompanies": [
     "Equinix",
     "KLA Corp",
+    "Rivian",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -333,12 +327,10 @@
     "Charter Communications",
     "CoStar Group",
     "Corning",
-    "Crown Castle",
     "F5",
     "Fox Corp",
     "Garmin",
     "GoDaddy",
-    "Lam Research",
     "Lumen Tech",
     "Monolithic Power",
     "Motorola",

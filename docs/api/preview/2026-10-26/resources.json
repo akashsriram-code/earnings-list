@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Edison International",
-      "symbol": "EIX",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Enphase Energy",
       "symbol": "ENPH",
       "date": "2026-10-27",
@@ -85,8 +76,17 @@
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "AEP",
+      "symbol": "AEP",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -136,6 +136,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CMS Energy Corp",
       "symbol": "CMS",
       "date": "2026-10-29",
@@ -148,8 +157,8 @@
       "company": "Cheniere Energy",
       "symbol": "LNG",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -159,6 +168,15 @@
       "date": "2026-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -238,8 +256,8 @@
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2026-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -289,13 +307,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-02T09:16:04Z",
+  "generatedAt": "2026-10-02T17:05:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AEP",
     "Baker Hughes",
+    "Bunge",
     "CMS Energy Corp",
     "Cenovus Energy",
     "CenterPoint Energy",

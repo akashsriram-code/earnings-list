@@ -111,6 +111,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
+      "date": "2026-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Carlyle",
       "symbol": "CG",
       "date": "2026-11-06",
@@ -129,13 +138,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-02T09:16:13Z",
+  "generatedAt": "2026-10-02T17:05:28Z",
   "irCompanies": [
     "Apollo"
   ],
@@ -148,6 +157,7 @@
     "Franklin Templeton",
     "Global Payments",
     "Jack Henry and Associates",
+    "Lincoln National Corporation",
     "Manulife",
     "MetLife",
     "Prudential Financial",

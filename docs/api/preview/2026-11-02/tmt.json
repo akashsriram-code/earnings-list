@@ -192,15 +192,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Figma",
       "symbol": "FIG",
       "date": "2026-11-04",
@@ -314,6 +305,15 @@
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -456,7 +456,7 @@
   "count": 50,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-02T09:16:13Z",
+  "generatedAt": "2026-10-02T17:05:27Z",
   "irCompanies": [
     "Zebra Technologies"
   ],
@@ -471,7 +471,6 @@
     "Datadog",
     "Duolingo",
     "EPAM",
-    "Equinix",
     "Figma",
     "Fortinet",
     "Freshworks",
@@ -496,6 +495,7 @@
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Qnity",
     "Qualcomm",
     "Rivian",
     "SBA Communications",

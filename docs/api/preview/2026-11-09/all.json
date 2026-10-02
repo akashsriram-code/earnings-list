@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2026-11-09",
@@ -111,16 +101,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-11-09",
@@ -139,6 +119,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 14,
@@ -147,7 +147,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-02T09:16:26Z",
+  "generatedAt": "2026-10-02T17:05:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",

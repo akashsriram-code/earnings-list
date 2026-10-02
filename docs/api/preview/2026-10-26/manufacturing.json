@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Boeing",
+      "symbol": "BA",
+      "date": "2026-10-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-10-27",
@@ -68,7 +77,7 @@
       "symbol": "HLT",
       "date": "2026-10-27",
       "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://ir.hilton.com/",
@@ -89,6 +98,15 @@
       "date": "2026-10-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-10-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -126,20 +144,11 @@
       "symbol": "FTV",
       "date": "2026-10-28",
       "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "12:00 pm ET",
       "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Honeywell Aerospace",
@@ -175,9 +184,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "NVR Inc",
@@ -247,15 +254,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Wabtec",
-      "symbol": "WAB",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-10-29",
@@ -297,8 +295,8 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -387,12 +385,11 @@
   "count": 41,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-02T09:16:02Z",
+  "generatedAt": "2026-10-02T17:05:17Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
-    "MGM Resorts International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "UPS"
@@ -402,12 +399,12 @@
     "AMETEK Inc",
     "Alexandria Real Estate Equities Inc",
     "Aptiv PLC",
+    "Boeing",
     "Booking Holdings Inc",
     "Borgwarner Inc",
     "Boston Properties",
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
-    "Hilton Worldwide Holdings Inc",
     "Honeywell Aerospace",
     "Howmet Aerospace",
     "Hubbell Inc",
@@ -415,8 +412,10 @@
     "IDEX Corp",
     "Ingersoll Rand Inc",
     "JetBlue",
+    "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
+    "MGM Resorts International",
     "Magna International",
     "NVR Inc",
     "Nucor Corp",
@@ -430,7 +429,6 @@
     "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",
-    "Wabtec",
     "Waste Management Inc"
   ],
   "week": {
