@@ -48,6 +48,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-11-03",
+      "bmo_amc": "8:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Molson Coors Beverage Co",
       "symbol": "TAP",
       "date": "2026-11-03",
@@ -174,12 +185,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-01T22:14:46Z",
+  "generatedAt": "2026-10-02T02:59:38Z",
   "irCompanies": [
-    "Estee Lauder"
+    "Estee Lauder",
+    "Keurig Dr. Pepper"
   ],
   "fallbackCompanies": [
     "Amcor PLC",

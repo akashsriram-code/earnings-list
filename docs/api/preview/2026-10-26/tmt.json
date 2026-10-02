@@ -129,6 +129,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-10-28",
+      "bmo_amc": "5:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30 pm EDT",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Garmin",
       "symbol": "GRMN",
       "date": "2026-10-28",
@@ -136,6 +147,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "KLA Corp",
+      "symbol": "KLAC",
+      "date": "2026-10-28",
+      "bmo_amc": "2:00 PM PT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lam Research",
@@ -291,11 +313,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-01T22:14:35Z",
+  "generatedAt": "2026-10-02T02:59:28Z",
   "irCompanies": [
+    "Equinix",
+    "KLA Corp",
     "Verizon"
   ],
   "fallbackCompanies": [

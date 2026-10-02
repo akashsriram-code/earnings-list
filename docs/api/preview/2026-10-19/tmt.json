@@ -93,6 +93,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Rogers Communications",
       "symbol": "RCI",
       "date": "2026-10-22",
@@ -129,12 +140,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-01T22:14:23Z",
+  "generatedAt": "2026-10-02T02:59:16Z",
   "irCompanies": [
-    "Lam Research"
+    "Lam Research",
+    "Qnity"
   ],
   "fallbackCompanies": [
     "AT&T",

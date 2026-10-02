@@ -165,6 +165,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-10-22",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://investors.southwest.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-10-22",
@@ -192,12 +203,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-01T22:14:24Z",
+  "generatedAt": "2026-10-02T02:59:16Z",
   "irCompanies": [
-    "Honeywell"
+    "Honeywell",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "3M Co",

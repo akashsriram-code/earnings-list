@@ -13,10 +13,12 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-11-02",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Kenvue",
@@ -229,8 +231,10 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-01T22:14:44Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-02T02:59:41Z",
+  "irCompanies": [
+    "IDEXX Laboratories Inc"
+  ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -244,7 +248,6 @@
     "GE HealthCare Technologies Inc",
     "Henry Schein Inc",
     "Hims and Hers",
-    "IDEXX Laboratories Inc",
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
