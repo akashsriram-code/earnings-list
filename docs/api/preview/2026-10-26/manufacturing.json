@@ -184,7 +184,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "NVR Inc",
@@ -385,11 +387,12 @@
   "count": 41,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-02T21:40:22Z",
+  "generatedAt": "2026-10-03T02:45:16Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
+    "MGM Resorts International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "UPS"
@@ -415,7 +418,6 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
-    "MGM Resorts International",
     "Magna International",
     "NVR Inc",
     "Nucor Corp",

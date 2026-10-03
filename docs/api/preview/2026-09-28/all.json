@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-09-30",
@@ -21,28 +31,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-10-02",
-      "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": null,
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2026-09-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM ET",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-10-02",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Carnival Corp",
@@ -83,88 +89,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-10-02",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2026-09-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-10-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-10-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 14,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-02T21:39:34Z",
-  "irCompanies": [
-    "Applied Digital",
-    "Lennar Corp",
-    "MGM Resorts International",
-    "PNC Financial",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-10-03T02:44:34Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
     "Carmax Inc",

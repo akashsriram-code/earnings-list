@@ -15,22 +15,23 @@
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-10-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00 PM ET",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-02T21:39:44Z",
+  "generatedAt": "2026-10-03T02:44:43Z",
   "irCompanies": [
+    "Applied Digital",
     "Marvell"
   ],
-  "fallbackCompanies": [
-    "Applied Digital"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-10-05",
     "start_date": "2026-10-05",
