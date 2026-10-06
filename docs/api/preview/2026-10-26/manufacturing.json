@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "A O Smith Corp",
-      "symbol": "AOS",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-10-27",
@@ -220,15 +211,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2026-10-28",
@@ -252,6 +234,15 @@
       "date": "2026-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "A O Smith Corp",
+      "symbol": "AOS",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -384,10 +375,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 41,
+  "count": 40,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-05T09:52:12Z",
+  "generatedAt": "2026-10-06T01:44:54Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -423,7 +414,6 @@
     "Nucor Corp",
     "Quanta Services Inc",
     "Republic Services Inc",
-    "Southwest Airlines Co",
     "Teledyne Technologies Inc",
     "Textron Inc",
     "Trane Technologies PLC",

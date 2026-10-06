@@ -91,15 +91,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-11-03",
@@ -174,15 +165,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Cognizant",
-      "symbol": "CTSH",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Duolingo",
       "symbol": "DUOL",
       "date": "2026-11-04",
@@ -194,15 +176,6 @@
     {
       "company": "Figma",
       "symbol": "FIG",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -312,10 +285,12 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qualcomm",
@@ -453,11 +428,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 50,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-05T09:52:23Z",
+  "generatedAt": "2026-10-06T01:45:07Z",
   "irCompanies": [
+    "Qnity",
     "Zebra Technologies"
   ],
   "fallbackCompanies": [
@@ -467,12 +443,10 @@
     "Arista Networks",
     "Arm Holdings",
     "Bumble",
-    "Cognizant",
     "Datadog",
     "Duolingo",
     "EPAM",
     "Figma",
-    "Fortinet",
     "Freshworks",
     "Gartner",
     "Gen Digital",
@@ -495,9 +469,7 @@
     "Palantir",
     "Paycom",
     "Pinterest",
-    "Qnity",
     "Qualcomm",
-    "Rivian",
     "SBA Communications",
     "ServiceNow",
     "Shopify",

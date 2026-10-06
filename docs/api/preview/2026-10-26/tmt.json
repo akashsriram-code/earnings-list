@@ -42,8 +42,8 @@
       "company": "CoStar Group",
       "symbol": "CSGP",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -131,6 +131,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Garmin",
       "symbol": "GRMN",
       "date": "2026-10-28",
@@ -196,6 +205,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Cognizant",
+      "symbol": "CTSH",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Digital Realty",
+      "symbol": "DLR",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-10-29",
@@ -253,8 +280,8 @@
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://rivian.com/investors",
@@ -282,10 +309,12 @@
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Western Digital",
@@ -306,14 +335,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-05T09:52:12Z",
+  "generatedAt": "2026-10-06T01:44:55Z",
   "irCompanies": [
     "Equinix",
     "KLA Corp",
     "Rivian",
+    "SiriusXM",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -326,8 +356,11 @@
     "Cadence",
     "Charter Communications",
     "CoStar Group",
+    "Cognizant",
     "Corning",
+    "Digital Realty",
     "F5",
+    "Fortinet",
     "Fox Corp",
     "Garmin",
     "GoDaddy",
@@ -340,7 +373,6 @@
     "Roblox",
     "Roku",
     "Seagate",
-    "SiriusXM",
     "Skyworks Solutions",
     "T-Mobile US",
     "Teradyne",
