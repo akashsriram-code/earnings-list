@@ -1,13 +1,24 @@
 {
   "records": [
     {
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2026-10-06",
+      "bmo_amc": "4:30 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-10-06",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "4:05 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 PM EDT",
+      "ir_time_label": "4:05 pm EDT",
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations"
     },
@@ -32,6 +43,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-10-06",
+      "bmo_amc": "4:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 pm EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "PepsiCo Inc",
       "symbol": "PEP",
       "date": "2026-10-08",
@@ -41,13 +63,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-06T17:39:26Z",
+  "generatedAt": "2026-10-06T22:06:06Z",
   "irCompanies": [
+    "Ball Corp",
     "Constellation Brands",
-    "Norwegian Cruise Line"
+    "Norwegian Cruise Line",
+    "Smithfield Foods"
   ],
   "fallbackCompanies": [
     "Lamb Weston Holdings",

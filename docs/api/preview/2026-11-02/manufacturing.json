@@ -211,10 +211,12 @@
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Airbnb Inc",
@@ -294,9 +296,10 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-06T17:40:18Z",
+  "generatedAt": "2026-10-06T22:06:50Z",
   "irCompanies": [
-    "Bombardier"
+    "Bombardier",
+    "WW Grainger Inc"
   ],
   "fallbackCompanies": [
     "Airbnb Inc",
@@ -328,7 +331,6 @@
     "Stanley Black & Decker",
     "TE Connectivity Ltd",
     "UDR INC",
-    "WW Grainger Inc",
     "Wynn Resorts Ltd"
   ],
   "week": {
