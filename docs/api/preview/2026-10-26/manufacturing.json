@@ -49,8 +49,8 @@
       "company": "Caesars Entertainment Inc",
       "symbol": "CZR",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -60,6 +60,15 @@
       "date": "2026-10-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Extra Space Storage Inc",
+      "symbol": "EXR",
+      "date": "2026-10-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -131,6 +140,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ford Motor Co",
+      "symbol": "F",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-10-28",
@@ -175,9 +193,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "NVR Inc",
@@ -192,12 +208,10 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-10-28",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Parker-Hannifin Corp",
@@ -315,8 +329,8 @@
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -375,16 +389,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-06T09:40:49Z",
+  "generatedAt": "2026-10-06T17:40:05Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
-    "MGM Resorts International",
-    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "UPS"
   ],
@@ -399,6 +411,8 @@
     "Boston Properties",
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
+    "Extra Space Storage Inc",
+    "Ford Motor Co",
     "Honeywell Aerospace",
     "Howmet Aerospace",
     "Hubbell Inc",
@@ -409,9 +423,11 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
+    "MGM Resorts International",
     "Magna International",
     "NVR Inc",
     "Nucor Corp",
+    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "Republic Services Inc",
     "Teledyne Technologies Inc",

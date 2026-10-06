@@ -124,9 +124,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.zebra.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Alphabet Inc",
@@ -150,8 +148,8 @@
       "company": "Arm Holdings",
       "symbol": "ARM",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -285,12 +283,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Qualcomm",
@@ -377,8 +373,8 @@
       "company": "EPAM",
       "symbol": "EPAM",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -431,11 +427,8 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-06T09:41:00Z",
-  "irCompanies": [
-    "Qnity",
-    "Zebra Technologies"
-  ],
+  "generatedAt": "2026-10-06T17:40:16Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alphabet Inc",
@@ -469,6 +462,7 @@
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Qnity",
     "Qualcomm",
     "SBA Communications",
     "ServiceNow",
@@ -481,6 +475,7 @@
     "Tyler Tech",
     "Uber",
     "Wolfspeed",
+    "Zebra Technologies",
     "eBay"
   ],
   "week": {
