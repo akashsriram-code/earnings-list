@@ -57,6 +57,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Tesla",
+      "symbol": "TSLA",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2026-10-21",
@@ -129,10 +138,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-07T09:54:23Z",
+  "generatedAt": "2026-10-07T18:12:20Z",
   "irCompanies": [
     "Lam Research"
   ],
@@ -148,6 +157,7 @@
     "Rogers Communications",
     "Roper Technologies",
     "Spotify",
+    "Tesla",
     "Texas Instruments",
     "VeriSign"
   ],

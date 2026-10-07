@@ -19,20 +19,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-10-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-10-27",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Booking Holdings Inc",
-      "symbol": "BKNG",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -134,6 +134,15 @@
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-10-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2026-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
@@ -393,10 +402,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-07T09:54:35Z",
+  "generatedAt": "2026-10-07T18:12:34Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -412,12 +421,12 @@
     "Alexandria Real Estate Equities Inc",
     "Aptiv PLC",
     "Boeing",
-    "Booking Holdings Inc",
     "Borgwarner Inc",
     "Boston Properties",
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
     "Extra Space Storage Inc",
+    "FedEx",
     "Ford Motor Co",
     "Honeywell Aerospace",
     "Howmet Aerospace",
@@ -432,6 +441,7 @@
     "Magna International",
     "NVR Inc",
     "Nucor Corp",
+    "Public Storage",
     "Quanta Services Inc",
     "Republic Services Inc",
     "Teledyne Technologies Inc",

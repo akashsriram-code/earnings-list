@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Eastman Chemical",
-      "symbol": "EMN",
-      "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Public Service Enterprise Co",
       "symbol": "PEG",
       "date": "2026-11-02",
@@ -58,17 +49,17 @@
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Corteva",
-      "symbol": "CTVA",
+      "company": "DuPont",
+      "symbol": "DD",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -247,8 +238,8 @@
       "company": "Air Products",
       "symbol": "APD",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -298,20 +289,11 @@
       "source": "aggregator"
     },
     {
-      "company": "DuPont",
-      "symbol": "DD",
-      "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Duke Energy",
       "symbol": "DUK",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -364,8 +346,8 @@
       "company": "NuScale Power",
       "symbol": "SMR",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -400,8 +382,8 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -424,10 +406,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 47,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-07T09:54:49Z",
+  "generatedAt": "2026-10-07T18:12:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -445,13 +427,11 @@
     "ConocoPhillips",
     "Consolidated Edison",
     "Constellation Energy",
-    "Corteva",
     "Devon Energy",
     "Diamondback Energy",
     "DuPont",
     "Duke Energy",
     "EOG Resources",
-    "Eastman Chemical",
     "Enbridge",
     "Entergy Corp",
     "Evergy",

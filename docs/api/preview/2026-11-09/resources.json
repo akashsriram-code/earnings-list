@@ -17,14 +17,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Corteva",
+      "symbol": "CTVA",
+      "date": "2026-11-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-07T09:54:58Z",
+  "generatedAt": "2026-10-07T18:12:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Corteva",
     "Occidental Petroleum",
     "Venture Global"
   ],

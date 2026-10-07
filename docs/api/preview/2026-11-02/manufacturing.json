@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Booking Holdings Inc",
+      "symbol": "BKNG",
+      "date": "2026-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-11-03",
@@ -49,8 +58,8 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -165,15 +174,6 @@
     {
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Public Storage",
-      "symbol": "PSA",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -296,7 +296,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-07T09:54:47Z",
+  "generatedAt": "2026-10-07T18:12:45Z",
   "irCompanies": [
     "Bombardier",
     "WW Grainger Inc"
@@ -305,6 +305,7 @@
     "Airbnb Inc",
     "American Water Works",
     "Axon Enterprise Inc",
+    "Booking Holdings Inc",
     "CH Robinson Worldwide Inc",
     "Camden Property Trust",
     "Caterpillar",
@@ -325,7 +326,6 @@
     "Otis Worldwide Corp",
     "Parker-Hannifin Corp",
     "Peloton",
-    "Public Storage",
     "Realty Income Corp",
     "Rockwell Automation Inc",
     "Stanley Black & Decker",
