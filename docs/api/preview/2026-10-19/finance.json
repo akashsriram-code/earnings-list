@@ -123,10 +123,12 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lazard",
@@ -162,8 +164,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-06T22:06:30Z",
+  "generatedAt": "2026-10-07T03:08:39Z",
   "irCompanies": [
+    "Huntington Bancshares",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
@@ -173,7 +176,6 @@
     "Capital One Financial",
     "Chubb",
     "Fifth Third Bancorp",
-    "Huntington Bancshares",
     "KeyCorp",
     "Lazard",
     "MSCI Inc",

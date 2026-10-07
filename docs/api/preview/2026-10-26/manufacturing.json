@@ -193,7 +193,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "NVR Inc",
@@ -208,10 +210,12 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Parker-Hannifin Corp",
@@ -392,11 +396,13 @@
   "count": 42,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-06T22:06:40Z",
+  "generatedAt": "2026-10-07T03:08:51Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
+    "MGM Resorts International",
+    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "UPS"
   ],
@@ -423,11 +429,9 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
-    "MGM Resorts International",
     "Magna International",
     "NVR Inc",
     "Nucor Corp",
-    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "Republic Services Inc",
     "Teledyne Technologies Inc",

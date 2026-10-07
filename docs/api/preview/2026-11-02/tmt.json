@@ -97,7 +97,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.shopify.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Super Micro",
@@ -283,10 +285,12 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qualcomm",
@@ -427,8 +431,11 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-06T22:06:51Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-07T03:09:02Z",
+  "irCompanies": [
+    "Qnity",
+    "Shopify"
+  ],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alphabet Inc",
@@ -462,11 +469,9 @@
     "Palantir",
     "Paycom",
     "Pinterest",
-    "Qnity",
     "Qualcomm",
     "SBA Communications",
     "ServiceNow",
-    "Shopify",
     "Snap",
     "Super Micro",
     "Take-Two Interactive",
