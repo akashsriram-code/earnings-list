@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2026-09-30",
@@ -51,26 +71,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-09-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Carmax Inc",
       "symbol": "KMX",
       "date": "2026-09-29",
@@ -97,7 +97,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-07T03:08:05Z",
+  "generatedAt": "2026-10-07T09:53:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
