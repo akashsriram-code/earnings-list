@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-12-03",
@@ -12,14 +21,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-08T09:47:38Z",
+  "generatedAt": "2026-10-08T18:15:34Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Dollar Tree"
+  ],
   "week": {
     "id": "2026-11-30",
     "start_date": "2026-11-30",

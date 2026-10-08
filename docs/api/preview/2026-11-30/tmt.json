@@ -28,18 +28,48 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "C3.ai",
+      "symbol": "AI",
+      "date": "2026-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Salesforce",
+      "symbol": "CRM",
+      "date": "2026-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Snowflake",
+      "symbol": "SNOW",
+      "date": "2026-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-08T09:47:38Z",
+  "generatedAt": "2026-10-08T18:15:33Z",
   "irCompanies": [
     "BlackBerry"
   ],
   "fallbackCompanies": [
+    "C3.ai",
     "Crowdstrike",
-    "Marvell"
+    "Marvell",
+    "Salesforce",
+    "Snowflake"
   ],
   "week": {
     "id": "2026-11-30",
