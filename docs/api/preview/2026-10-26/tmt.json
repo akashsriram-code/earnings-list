@@ -151,6 +151,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
+      "source": "investor_relations"
+    },
+    {
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2026-10-28",
@@ -319,14 +330,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-07T18:12:33Z",
+  "generatedAt": "2026-10-08T00:40:21Z",
   "irCompanies": [
     "Equinix",
     "Intel",
     "KLA Corp",
+    "Microsoft",
     "Rivian",
     "SiriusXM",
     "Verizon"

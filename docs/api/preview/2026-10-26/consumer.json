@@ -118,10 +118,12 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Church & Dwight",
@@ -154,10 +156,11 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-07T18:12:33Z",
+  "generatedAt": "2026-10-08T00:40:22Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
+    "Kimco Realty Corp",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
@@ -168,7 +171,6 @@
     "Hershey Co",
     "International Paper Co",
     "Kimberly Clark Corp",
-    "Kimco Realty Corp",
     "Masco Corp",
     "Mondelez International",
     "Royal Caribbean Group",

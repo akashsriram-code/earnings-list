@@ -55,6 +55,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-10-21",
+      "bmo_amc": "11:30 A.M. EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:30 a.m. EDT",
+      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+      "source": "investor_relations"
+    },
+    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-10-21",
@@ -121,10 +132,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -201,11 +214,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-07T18:12:22Z",
+  "generatedAt": "2026-10-08T00:40:10Z",
   "irCompanies": [
+    "Alaska Air",
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -216,7 +231,6 @@
     "Dover Corp",
     "GE Aerospace",
     "General Dynamics Corp",
-    "Honeywell",
     "Illinois Tool Works Inc",
     "Lockheed Martin",
     "Norfolk Southern Corp",

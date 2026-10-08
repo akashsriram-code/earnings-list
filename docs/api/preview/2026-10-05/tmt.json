@@ -4,34 +4,20 @@
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-10-07",
-      "bmo_amc": "5:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM ET",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-10-07",
-      "bmo_amc": "1:42 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:42 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-07T18:11:58Z",
-  "irCompanies": [
-    "Applied Digital",
-    "Take-Two Interactive"
+  "generatedAt": "2026-10-08T00:39:49Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Applied Digital"
   ],
-  "fallbackCompanies": [],
   "week": {
     "id": "2026-10-05",
     "start_date": "2026-10-05",

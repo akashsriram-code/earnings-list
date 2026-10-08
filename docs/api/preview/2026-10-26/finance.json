@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Hartford Financial Services",
@@ -214,8 +216,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-07T18:12:35Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-08T00:40:20Z",
+  "irCompanies": [
+    "Cincinnati Financial"
+  ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
     "Aon",
@@ -223,7 +227,6 @@
     "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
-    "Cincinnati Financial",
     "Coinbase",
     "Everest",
     "Globe Life",
