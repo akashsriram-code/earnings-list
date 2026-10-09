@@ -195,10 +195,12 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cardinal Health Inc",
@@ -258,14 +260,14 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-08T18:14:43Z",
+  "generatedAt": "2026-10-09T00:55:44Z",
   "irCompanies": [
+    "Becton Dickinson and Co",
     "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
-    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "CVS Health Corp",
     "Cardinal Health Inc",

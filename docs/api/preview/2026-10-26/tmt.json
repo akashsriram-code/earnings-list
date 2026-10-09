@@ -240,7 +240,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Intel",
@@ -351,9 +353,10 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-08T18:14:33Z",
+  "generatedAt": "2026-10-09T00:55:32Z",
   "irCompanies": [
     "Equinix",
+    "GoDaddy",
     "Intel",
     "KLA Corp",
     "Microsoft",
@@ -378,7 +381,6 @@
     "Fortinet",
     "Fox Corp",
     "Garmin",
-    "GoDaddy",
     "Lumen Tech",
     "Monolithic Power",
     "Motorola",
