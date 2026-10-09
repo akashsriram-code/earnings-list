@@ -24,10 +24,12 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-10-27",
-      "bmo_amc": "TBD",
+      "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Smithfield Foods",
@@ -156,11 +158,12 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-09T00:55:31Z",
+  "generatedAt": "2026-10-09T09:53:38Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
     "Kimco Realty Corp",
+    "Royal Caribbean Group",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
@@ -173,7 +176,6 @@
     "Kimberly Clark Corp",
     "Masco Corp",
     "Mondelez International",
-    "Royal Caribbean Group",
     "Sysco Corp",
     "VF Corp"
   ],
