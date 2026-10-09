@@ -205,6 +205,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Invitation Homes Inc",
+      "symbol": "INVH",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2026-10-28",
@@ -225,6 +234,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Mid-America Apartment Communities Inc",
+      "symbol": "MAA",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "NVR Inc",
       "symbol": "NVR",
       "date": "2026-10-28",
@@ -243,6 +261,15 @@
       "ir_time_label": "10:00 am ET",
       "ir_source_url": "https://ir.odfl.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Otis Worldwide Corp",
+      "symbol": "OTIS",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Parker-Hannifin Corp",
@@ -274,15 +301,6 @@
       "source": "aggregator"
     },
     {
-      "company": "United Rentals Inc",
-      "symbol": "URI",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "VICI Properties Inc",
       "symbol": "VICI",
       "date": "2026-10-28",
@@ -303,15 +321,6 @@
     {
       "company": "AMETEK Inc",
       "symbol": "AME",
-      "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Aptiv PLC",
-      "symbol": "APTV",
       "date": "2026-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -351,8 +360,8 @@
       "company": "Huntington Ingalls Industries Inc",
       "symbol": "HII",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -360,8 +369,8 @@
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -405,8 +414,8 @@
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -423,21 +432,24 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-10-30",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-09T09:53:38Z",
+  "generatedAt": "2026-10-09T17:47:14Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
     "MGM Resorts International",
+    "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "UPS"
@@ -447,7 +459,6 @@
     "AMETEK Inc",
     "Alexandria Real Estate Equities Inc",
     "American Water Works",
-    "Aptiv PLC",
     "Boeing",
     "Borgwarner Inc",
     "Boston Properties",
@@ -463,13 +474,15 @@
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
     "Ingersoll Rand Inc",
+    "Invitation Homes Inc",
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
-    "Magna International",
+    "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
+    "Otis Worldwide Corp",
     "Public Storage",
     "Quanta Services Inc",
     "Republic Services Inc",
@@ -477,7 +490,6 @@
     "Teledyne Technologies Inc",
     "Textron Inc",
     "Trane Technologies PLC",
-    "United Rentals Inc",
     "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",

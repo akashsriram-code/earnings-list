@@ -10,26 +10,66 @@
       "source": "aggregator"
     },
     {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-12-03",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-09T09:54:34Z",
+  "generatedAt": "2026-10-09T17:48:11Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
-    "Dollar Tree"
+    "Brown-Forman Corp",
+    "Dollar General",
+    "Dollar Tree",
+    "Hormel Foods",
+    "Kroger Co"
   ],
   "week": {
     "id": "2026-11-30",

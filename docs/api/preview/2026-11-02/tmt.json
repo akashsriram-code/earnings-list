@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-11-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
@@ -30,6 +39,24 @@
     {
       "company": "Arista Networks",
       "symbol": "ANET",
+      "date": "2026-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Duolingo",
+      "symbol": "DUOL",
+      "date": "2026-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Freshworks",
+      "symbol": "FRSH",
       "date": "2026-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -123,8 +150,8 @@
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -147,26 +174,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Duolingo",
-      "symbol": "DUOL",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Figma",
       "symbol": "FIG",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Freshworks",
-      "symbol": "FRSH",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -212,15 +221,6 @@
     {
       "company": "Meta",
       "symbol": "META",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Microsoft",
-      "symbol": "MSFT",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -332,8 +332,8 @@
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -408,12 +408,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Charter Communications",
+      "symbol": "CHTR",
+      "date": "2026-11-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-09T09:53:49Z",
+  "generatedAt": "2026-10-09T17:47:25Z",
   "irCompanies": [
     "Qnity",
     "Shopify"
@@ -421,10 +430,12 @@
   "fallbackCompanies": [
     "Akamai Technologies",
     "AppLovin",
+    "Apple",
     "Arista Networks",
     "Arm Holdings",
     "Atlassian",
     "Bumble",
+    "Charter Communications",
     "Datadog",
     "Duolingo",
     "EPAM",
@@ -442,7 +453,6 @@
     "Match Group",
     "Meta",
     "Microchip Tech",
-    "Microsoft",
     "NYT",
     "News Corp",
     "Onsemi",

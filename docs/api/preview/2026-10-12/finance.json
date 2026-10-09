@@ -72,6 +72,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
+      "date": "2026-10-14",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-10-14",
@@ -102,12 +111,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-10-15",
-      "bmo_amc": "10:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "US Bancorp",
@@ -159,19 +166,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-09T09:53:15Z",
+  "generatedAt": "2026-10-09T17:46:54Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "JPMorgan",
-    "PNC Financial",
     "Truist Financial",
     "Wells Fargo"
   ],
@@ -182,6 +188,8 @@
     "Interactive Brokers",
     "M&T Bank Corp",
     "Morgan Stanley",
+    "PNC Financial",
+    "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
     "US Bancorp"
