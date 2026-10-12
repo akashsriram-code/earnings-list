@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-10-12",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm EDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-10-13",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-12T10:08:15Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-12T20:40:11Z",
+  "irCompanies": [
+    "Deckers Outdoors"
+  ],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],

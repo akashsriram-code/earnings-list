@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carrier Global Corp",
-      "symbol": "CARR",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Essex Property Trust Inc",
       "symbol": "ESS",
       "date": "2026-10-27",
@@ -154,6 +145,15 @@
       "date": "2026-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CH Robinson Worldwide Inc",
+      "symbol": "CHRW",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -337,6 +337,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-10-29",
@@ -346,6 +355,15 @@
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Howmet Aerospace",
@@ -433,17 +451,17 @@
       "symbol": "MGA",
       "date": "2026-10-30",
       "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 AM EDT",
       "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations"
     }
   ],
-  "count": 47,
+  "count": 49,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-12T10:08:39Z",
+  "generatedAt": "2026-10-12T20:40:32Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -462,12 +480,14 @@
     "Boeing",
     "Borgwarner Inc",
     "Boston Properties",
+    "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
     "Essex Property Trust Inc",
     "Extra Space Storage Inc",
     "FedEx",
     "Ford Motor Co",
+    "Harley Davidson",
     "Honeywell Aerospace",
     "Howmet Aerospace",
     "Hubbell Inc",

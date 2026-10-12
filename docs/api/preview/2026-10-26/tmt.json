@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "F5",
-      "symbol": "FFIV",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-10-26",
@@ -53,6 +44,15 @@
       "date": "2026-10-27",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "F5",
+      "symbol": "FFIV",
+      "date": "2026-10-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -149,6 +149,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Gen Digital",
+      "symbol": "GEN",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-10-28",
@@ -228,8 +237,8 @@
       "company": "GoDaddy",
       "symbol": "GDDY",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
@@ -259,8 +268,8 @@
       "company": "Monolithic Power",
       "symbol": "MPWR",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -323,10 +332,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-12T10:08:39Z",
+  "generatedAt": "2026-10-12T20:40:34Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -352,6 +361,7 @@
     "Fortinet",
     "Fox Corp",
     "Garmin",
+    "Gen Digital",
     "Lumen Tech",
     "Monolithic Power",
     "Motorola",
