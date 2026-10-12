@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-09-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-09-01",
@@ -71,14 +81,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-09-02",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-09-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
       "company": "Brown-Forman Corp",
@@ -109,16 +119,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-09-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-12T03:05:07Z",
+  "generatedAt": "2026-10-12T10:07:03Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Barrick Mining",
