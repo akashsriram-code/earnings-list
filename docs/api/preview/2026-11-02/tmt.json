@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-11-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
@@ -75,15 +84,6 @@
     {
       "company": "Grab",
       "symbol": "GRAB",
-      "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Kyndryl",
-      "symbol": "KD",
       "date": "2026-11-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -210,6 +210,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2026-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-11-04",
@@ -258,12 +267,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Qualcomm",
@@ -410,12 +417,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-13T09:59:50Z",
+  "generatedAt": "2026-10-13T18:45:04Z",
   "irCompanies": [
-    "Qnity",
     "Shopify"
   ],
   "fallbackCompanies": [
@@ -431,6 +437,7 @@
     "Duolingo",
     "EPAM",
     "Figma",
+    "Fox Corp",
     "Freshworks",
     "Gartner",
     "GlobalFoundries",
@@ -450,6 +457,7 @@
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Qnity",
     "Qualcomm",
     "SBA Communications",
     "Snap",

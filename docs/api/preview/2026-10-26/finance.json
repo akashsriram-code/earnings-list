@@ -97,7 +97,7 @@
       "symbol": "AON",
       "date": "2026-10-28",
       "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30am",
       "ir_source_url": "https://ir.aon.com/",
@@ -194,15 +194,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Aon",
-      "symbol": "AON",
-      "date": "2026-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-10-30",
@@ -212,20 +203,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-13T09:59:41Z",
+  "generatedAt": "2026-10-13T18:44:56Z",
   "irCompanies": [
     "Aon",
     "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
-    "Aon",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",

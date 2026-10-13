@@ -4,40 +4,49 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-10-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": "TAS",
+      "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-10-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-10-13",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations"
+      "yahoo_time_label": "TAS",
+      "source": "aggregator"
     },
     {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-10-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -168,18 +177,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-13T09:59:18Z",
+  "generatedAt": "2026-10-13T18:44:34Z",
   "irCompanies": [
     "Bank of America",
-    "Citigroup",
     "Citizens Financial",
-    "JPMorgan",
+    "Goldman Sachs",
+    "Huntington Bancshares",
     "PNC Financial",
     "Truist Financial",
     "Wells Fargo"
@@ -187,8 +196,9 @@
   "fallbackCompanies": [
     "BlackRock Inc",
     "Charles Schwab",
-    "Goldman Sachs",
+    "Citigroup",
     "Interactive Brokers",
+    "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
     "Progressive Corporation",

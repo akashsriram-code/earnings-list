@@ -122,15 +122,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-10-27",
@@ -229,9 +220,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -438,11 +427,29 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Vulcan Materials Co",
       "symbol": "VMC",
       "date": "2026-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "General Dynamics Corp",
+      "symbol": "GD",
+      "date": "2026-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -469,15 +476,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 50,
+  "count": 51,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-13T09:59:40Z",
+  "generatedAt": "2026-10-13T18:44:55Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
-    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
@@ -499,6 +505,7 @@
     "Extra Space Storage Inc",
     "FedEx",
     "Ford Motor Co",
+    "General Dynamics Corp",
     "Harley Davidson",
     "Honeywell Aerospace",
     "Howmet Aerospace",
@@ -511,6 +518,7 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
+    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",

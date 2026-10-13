@@ -1,29 +1,54 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-10-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2026-10-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-13T09:59:19Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-13T18:44:32Z",
+  "irCompanies": [
+    "Centene Corp",
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Johnson & Johnson",
     "UnitedHealth Group"
