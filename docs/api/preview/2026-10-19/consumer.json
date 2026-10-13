@@ -40,10 +40,12 @@
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-10-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EDT",
+      "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Procter & Gamble",
@@ -67,10 +69,11 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-12T20:40:20Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-13T02:27:51Z",
+  "irCompanies": [
+    "Deckers Outdoors"
+  ],
   "fallbackCompanies": [
-    "Deckers Outdoors",
     "Hasbro Inc",
     "Mattel",
     "Philip Morris International",
