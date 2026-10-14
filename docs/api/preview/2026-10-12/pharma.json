@@ -17,13 +17,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-14T16:13:49Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-14T21:12:46Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Johnson & Johnson",
     "UnitedHealth Group"
