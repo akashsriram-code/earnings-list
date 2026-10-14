@@ -220,7 +220,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -394,10 +396,12 @@
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-10-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Republic Services Inc",
@@ -479,14 +483,16 @@
   "count": 51,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-13T18:44:55Z",
+  "generatedAt": "2026-10-14T00:10:26Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
+    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
+    "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
   ],
@@ -518,13 +524,11 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
-    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
     "Otis Worldwide Corp",
     "Public Storage",
-    "Quanta Services Inc",
     "Republic Services Inc",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc",

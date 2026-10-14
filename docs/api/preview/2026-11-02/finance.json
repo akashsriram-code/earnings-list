@@ -131,6 +131,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-11-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-11-06",
@@ -140,16 +151,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-13T18:45:05Z",
+  "generatedAt": "2026-10-14T00:10:38Z",
   "irCompanies": [
     "Apollo",
-    "JPMorgan"
+    "JPMorgan",
+    "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Allstate Corp",

@@ -267,10 +267,12 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qualcomm",
@@ -420,8 +422,9 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-13T18:45:04Z",
+  "generatedAt": "2026-10-14T00:10:40Z",
   "irCompanies": [
+    "Qnity",
     "Shopify"
   ],
   "fallbackCompanies": [
@@ -457,7 +460,6 @@
     "Palantir",
     "Paycom",
     "Pinterest",
-    "Qnity",
     "Qualcomm",
     "SBA Communications",
     "Snap",

@@ -4,52 +4,37 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-10-13",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-10-13",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-10-13",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-10-13",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bank of America",
@@ -57,7 +42,7 @@
       "date": "2026-10-14",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
@@ -66,36 +51,36 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Progressive Corporation",
       "symbol": "PGR",
       "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -177,26 +162,24 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-13T18:44:34Z",
+  "generatedAt": "2026-10-14T00:10:05Z",
   "irCompanies": [
     "Bank of America",
     "Citizens Financial",
-    "Goldman Sachs",
-    "Huntington Bancshares",
     "PNC Financial",
-    "Truist Financial",
-    "Wells Fargo"
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "BlackRock Inc",
     "Charles Schwab",
     "Citigroup",
+    "Goldman Sachs",
     "Interactive Brokers",
     "JPMorgan",
     "M&T Bank Corp",
@@ -204,7 +187,8 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
-    "US Bancorp"
+    "US Bancorp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2026-10-12",
