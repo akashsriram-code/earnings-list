@@ -154,6 +154,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Alliant Energy",
+      "symbol": "LNT",
+      "date": "2026-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bunge",
       "symbol": "BG",
       "date": "2026-10-29",
@@ -334,13 +343,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-14T10:56:07Z",
+  "generatedAt": "2026-10-14T16:14:12Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
+    "Alliant Energy",
     "Baker Hughes",
     "Bunge",
     "CMS Energy Corp",

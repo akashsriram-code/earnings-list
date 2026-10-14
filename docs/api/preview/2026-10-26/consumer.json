@@ -24,12 +24,10 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-10-27",
-      "bmo_amc": "10:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Smithfield Foods",
@@ -41,15 +39,6 @@
       "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://investors.smithfieldfoods.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Chipotle Mexican Grill",
@@ -164,15 +153,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-14T10:56:07Z",
+  "generatedAt": "2026-10-14T16:14:12Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
     "Kimco Realty Corp",
-    "Royal Caribbean Group",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
@@ -185,8 +173,8 @@
     "Kimberly Clark Corp",
     "Masco Corp",
     "Mondelez International",
+    "Royal Caribbean Group",
     "Starbucks Corp",
-    "Sysco Corp",
     "VF Corp"
   ],
   "week": {

@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-12-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-14T10:57:18Z",
+  "generatedAt": "2026-10-14T16:15:24Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "GameStop"
+  ],
   "week": {
     "id": "2026-12-07",
     "start_date": "2026-12-07",

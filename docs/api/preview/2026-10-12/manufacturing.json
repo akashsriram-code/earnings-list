@@ -1,12 +1,23 @@
 {
   "records": [
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-10-14",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EDT",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-10-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -30,11 +41,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-14T10:55:41Z",
+  "generatedAt": "2026-10-14T16:13:48Z",
   "irCompanies": [
+    "Emerson Electric Co",
     "Prologis Inc"
   ],
   "fallbackCompanies": [
