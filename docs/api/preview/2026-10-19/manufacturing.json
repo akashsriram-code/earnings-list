@@ -141,10 +141,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -224,9 +226,10 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-15T02:15:02Z",
+  "generatedAt": "2026-10-15T07:57:09Z",
   "irCompanies": [
     "Alaska Air",
+    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -236,7 +239,6 @@
     "CSX Corp",
     "Dover Corp",
     "GE Aerospace",
-    "Honeywell",
     "Illinois Tool Works Inc",
     "Lockheed Martin",
     "Norfolk Southern Corp",

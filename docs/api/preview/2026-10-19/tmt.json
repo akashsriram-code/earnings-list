@@ -59,6 +59,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Meta",
+      "symbol": "META",
+      "date": "2026-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-10-21",
@@ -131,10 +140,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-15T02:15:02Z",
+  "generatedAt": "2026-10-15T07:57:10Z",
   "irCompanies": [
     "AT&T",
     "Lam Research"
@@ -143,6 +152,7 @@
     "Comcast",
     "Crown Castle",
     "IBM",
+    "Meta",
     "Netflix",
     "Omnicom",
     "Rogers Communications",
