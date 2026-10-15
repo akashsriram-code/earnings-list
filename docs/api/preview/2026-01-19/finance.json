@@ -13,9 +13,9 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -31,9 +31,9 @@
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-01-21",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -106,7 +106,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-14T21:04:42Z",
+  "generatedAt": "2026-10-15T02:07:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Capital One Financial",

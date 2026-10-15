@@ -13,19 +13,12 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "3:00 PM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Match Group",
-      "symbol": "MTCH",
-      "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "3:00 PM EDT",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Onsemi",
@@ -40,8 +33,8 @@
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -51,15 +44,6 @@
       "date": "2026-11-02",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -111,6 +95,15 @@
     {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
+      "date": "2026-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Match Group",
+      "symbol": "MTCH",
       "date": "2026-11-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -228,17 +221,17 @@
       "source": "aggregator"
     },
     {
-      "company": "Lumen Tech",
-      "symbol": "LUMN",
+      "company": "Lyft",
+      "symbol": "LYFT",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Lyft",
-      "symbol": "LYFT",
+      "company": "Meta",
+      "symbol": "META",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -304,6 +297,15 @@
     {
       "company": "Trimble",
       "symbol": "TRMB",
+      "date": "2026-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tyler Tech",
+      "symbol": "TYL",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -392,15 +394,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2026-11-05",
@@ -419,11 +412,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 46,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-14T21:13:23Z",
+  "generatedAt": "2026-10-15T02:15:25Z",
   "irCompanies": [
+    "Fox Corp",
     "NYT",
     "Shopify"
   ],
@@ -440,7 +434,6 @@
     "Duolingo",
     "EPAM",
     "Figma",
-    "Fox Corp",
     "Freshworks",
     "Gartner",
     "GlobalFoundries",
@@ -449,9 +442,9 @@
     "KLA Corp",
     "Kyndryl",
     "Live Nation Entertainment",
-    "Lumen Tech",
     "Lyft",
     "Match Group",
+    "Meta",
     "Microchip Tech",
     "News Corp",
     "Onsemi",
@@ -464,10 +457,9 @@
     "SBA Communications",
     "Snap",
     "Super Micro",
-    "Take-Two Interactive",
-    "Tower Semiconductor",
     "Trade Desk",
     "Trimble",
+    "Tyler Tech",
     "Uber",
     "Wolfspeed",
     "Zebra Technologies",

@@ -24,10 +24,12 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Smithfield Foods",
@@ -49,6 +51,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "4:30 p.m. ET",
       "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-10-28",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.etsy.com/",
       "source": "investor_relations"
     },
     {
@@ -153,14 +166,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-14T21:13:11Z",
+  "generatedAt": "2026-10-15T02:15:12Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Coca-Cola Co",
+    "Etsy Inc",
     "Kimco Realty Corp",
+    "Royal Caribbean Group",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
@@ -173,7 +188,6 @@
     "Kimberly Clark Corp",
     "Masco Corp",
     "Mondelez International",
-    "Royal Caribbean Group",
     "Starbucks Corp",
     "VF Corp"
   ],

@@ -21,15 +21,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
-      "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Global Payments",
       "symbol": "GPN",
       "date": "2026-11-03",
@@ -68,6 +59,15 @@
     {
       "company": "Fair Issac Corp",
       "symbol": "FICO",
+      "date": "2026-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -157,7 +157,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-14T21:13:22Z",
+  "generatedAt": "2026-10-15T02:15:23Z",
   "irCompanies": [
     "Apollo",
     "JPMorgan",

@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-10-14",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-10-14",
@@ -24,9 +13,9 @@
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-10-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -35,18 +24,17 @@
       "date": "2026-10-15",
       "bmo_amc": "9:00 AM PDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 am PDT",
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-14T21:12:46Z",
+  "generatedAt": "2026-10-15T02:14:48Z",
   "irCompanies": [
-    "Emerson Electric Co",
     "Prologis Inc"
   ],
   "fallbackCompanies": [

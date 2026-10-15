@@ -94,10 +94,12 @@
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Expedia Group Inc",
@@ -233,9 +235,10 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-14T21:13:22Z",
+  "generatedAt": "2026-10-15T02:15:23Z",
   "irCompanies": [
     "Bombardier",
+    "Emerson Electric Co",
     "WW Grainger Inc"
   ],
   "fallbackCompanies": [
@@ -246,7 +249,6 @@
     "Camden Property Trust",
     "Caterpillar",
     "Eaton Corporation PLC",
-    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",

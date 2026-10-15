@@ -40,32 +40,28 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-10-14",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-10-14",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-10-14",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Progressive Corporation",
@@ -80,27 +76,27 @@
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-10-14",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Charles Schwab",
-      "symbol": "SCHW",
-      "date": "2026-10-15",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
+      "company": "Charles Schwab",
+      "symbol": "SCHW",
+      "date": "2026-10-15",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-10-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -109,7 +105,7 @@
       "date": "2026-10-15",
       "bmo_amc": "10:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00 am EDT",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations"
@@ -118,9 +114,9 @@
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2026-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -170,15 +166,14 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-14T21:12:46Z",
+  "generatedAt": "2026-10-15T02:14:51Z",
   "irCompanies": [
-    "Bank of America",
     "Citizens Financial",
-    "Morgan Stanley",
     "PNC Financial",
     "Truist Financial"
   ],
   "fallbackCompanies": [
+    "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
     "Citigroup",
@@ -186,6 +181,7 @@
     "Interactive Brokers",
     "JPMorgan",
     "M&T Bank Corp",
+    "Morgan Stanley",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
