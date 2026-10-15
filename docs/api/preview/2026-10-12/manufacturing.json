@@ -57,21 +57,33 @@
       "date": "2026-10-15",
       "bmo_amc": "9:00 AM PDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "9:00 am PDT",
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-10-15",
+      "bmo_amc": "10:41AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:41am EDT",
+      "ir_source_url": "https://investors.southwest.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-15T13:54:54Z",
+  "generatedAt": "2026-10-15T18:54:23Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Lennar Corp",
     "MGM Resorts International",
-    "Prologis Inc"
+    "Prologis Inc",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "Fastenal Co",
