@@ -21,6 +21,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Match Group",
+      "symbol": "MTCH",
+      "date": "2026-11-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
@@ -33,8 +42,8 @@
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -44,6 +53,15 @@
       "date": "2026-11-02",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-11-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -233,8 +251,8 @@
       "company": "NYT",
       "symbol": "NYT",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.nytco.com/investors/",
@@ -394,10 +412,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-15T07:57:33Z",
+  "generatedAt": "2026-10-15T13:55:34Z",
   "irCompanies": [
     "Fox Corp",
     "NYT",
@@ -426,6 +444,7 @@
     "Live Nation Entertainment",
     "Lumen Tech",
     "Lyft",
+    "Match Group",
     "Microchip Tech",
     "News Corp",
     "Onsemi",
@@ -438,6 +457,7 @@
     "SBA Communications",
     "Snap",
     "Super Micro",
+    "Tower Semiconductor",
     "Trade Desk",
     "Trimble",
     "Uber",
