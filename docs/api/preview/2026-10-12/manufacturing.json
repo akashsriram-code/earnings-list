@@ -26,13 +26,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-16T13:44:56Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-16T18:38:32Z",
+  "irCompanies": [
+    "Bombardier"
+  ],
   "fallbackCompanies": [
     "Fastenal Co",
     "J B Hunt Transport Services Inc",
