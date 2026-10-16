@@ -4,10 +4,12 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mondelez International",
@@ -128,6 +130,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-10-29",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-10-29",
@@ -164,21 +177,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-15T23:32:45Z",
+  "generatedAt": "2026-10-16T02:05:41Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
+    "Coca-Cola Co",
     "Etsy Inc",
     "Kimco Realty Corp",
+    "Norwegian Cruise Line",
     "Royal Caribbean Group",
     "Smithfield Foods"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Church & Dwight",
-    "Coca-Cola Co",
     "Colgate-Palmolive",
     "Federal Realty Investment Trust",
     "Hershey Co",

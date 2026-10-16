@@ -85,40 +85,36 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-10-15",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-10-15",
-      "bmo_amc": "4:30PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "4:30pm ET",
-      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-10-15",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2026-10-15",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -127,7 +123,7 @@
       "date": "2026-10-16",
       "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 AM ET",
       "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
       "source": "investor_relations"
@@ -136,27 +132,27 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
@@ -168,11 +164,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-15T23:32:22Z",
+  "generatedAt": "2026-10-16T02:05:19Z",
   "irCompanies": [
     "Citizens Financial",
-    "Interactive Brokers",
-    "PNC Financial",
     "Truist Financial"
   ],
   "fallbackCompanies": [
@@ -181,9 +175,11 @@
     "Charles Schwab",
     "Citigroup",
     "Goldman Sachs",
+    "Interactive Brokers",
     "JPMorgan",
     "M&T Bank Corp",
     "Morgan Stanley",
+    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",

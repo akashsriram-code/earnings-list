@@ -233,10 +233,12 @@
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EST",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Viatris",
@@ -260,10 +262,11 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-15T23:32:59Z",
+  "generatedAt": "2026-10-16T02:05:56Z",
   "irCompanies": [
     "Becton Dickinson and Co",
-    "IDEXX Laboratories Inc"
+    "IDEXX Laboratories Inc",
+    "Solventum Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -286,7 +289,6 @@
     "Pfizer Inc",
     "Revvity",
     "STERIS plc",
-    "Solventum Corp",
     "Vertex Pharmaceuticals Inc",
     "Viatris",
     "Waters Corp",
