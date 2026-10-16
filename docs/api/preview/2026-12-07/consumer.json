@@ -8,15 +8,35 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-16T07:46:23Z",
+  "generatedAt": "2026-10-16T13:46:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Campbell Soup Co"
+    "Campbell Soup Co",
+    "Costco Wholesale Corp",
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2026-12-07",

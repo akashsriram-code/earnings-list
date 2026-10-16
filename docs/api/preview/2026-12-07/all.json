@@ -1,14 +1,24 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
       "date": "2026-12-08",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "GameStop",
@@ -51,39 +61,62 @@
       "sector": "TMT"
     },
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
+      "company": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
       "date": "2026-12-08",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2026-12-09",
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-12-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 7,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-16T07:46:25Z",
+  "generatedAt": "2026-10-16T13:46:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Autozone Inc",
+    "Broadcom",
     "Campbell Soup Co",
+    "Costco Wholesale Corp",
     "GameStop",
+    "Lululemon Athletica",
     "Nordson Corp",
     "Oracle",
     "Synopsys"

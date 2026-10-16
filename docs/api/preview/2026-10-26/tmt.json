@@ -207,6 +207,15 @@
       "source": "aggregator"
     },
     {
+      "company": "eBay",
+      "symbol": "EBAY",
+      "date": "2026-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2026-10-29",
@@ -332,10 +341,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 35,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-16T07:45:13Z",
+  "generatedAt": "2026-10-16T13:45:19Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -373,7 +382,8 @@
     "Skyworks Solutions",
     "T-Mobile US",
     "Teradyne",
-    "Tyler Tech"
+    "Tyler Tech",
+    "eBay"
   ],
   "week": {
     "id": "2026-10-26",

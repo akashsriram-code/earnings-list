@@ -22,8 +22,8 @@
       "company": "Public Service Enterprise Co",
       "symbol": "PEG",
       "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Williams Co",
       "symbol": "WMB",
       "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Mosaic",
       "symbol": "MOS",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -136,15 +136,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Ameren",
-      "symbol": "AEE",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Atmos Energy",
       "symbol": "ATO",
       "date": "2026-11-04",
@@ -165,15 +156,6 @@
     {
       "company": "Entergy Corp",
       "symbol": "ETR",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "NiSource",
-      "symbol": "NI",
       "date": "2026-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -226,6 +208,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ameren",
+      "symbol": "AEE",
+      "date": "2026-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-11-05",
@@ -256,8 +247,17 @@
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "DTE",
+      "symbol": "DTE",
+      "date": "2026-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,8 +292,8 @@
       "company": "Evergy",
       "symbol": "EVRG",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -352,6 +352,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2026-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-11-06",
@@ -388,10 +397,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-16T07:45:24Z",
+  "generatedAt": "2026-10-16T13:45:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -408,6 +417,7 @@
     "ConocoPhillips",
     "Consolidated Edison",
     "Constellation Energy",
+    "DTE",
     "Devon Energy",
     "Diamondback Energy",
     "DuPont",
@@ -423,7 +433,6 @@
     "Mosaic",
     "NRG Energy",
     "New Fortress Energy",
-    "NiSource",
     "NuScale Power",
     "Nutrien",
     "Ovintiv",
@@ -434,6 +443,7 @@
     "Southern Co",
     "Suncor Energy",
     "TC Energy",
+    "Targa Resources",
     "Texas Pacific Land",
     "Vistra Corp",
     "Williams Co"

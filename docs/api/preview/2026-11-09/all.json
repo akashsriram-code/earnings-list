@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-11-09",
@@ -29,6 +39,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "CoreWeave",
@@ -101,55 +131,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-16T07:45:38Z",
+  "generatedAt": "2026-10-16T13:45:42Z",
   "irCompanies": [
     "Take-Two Interactive"
   ],
@@ -159,7 +149,6 @@
     "CoreWeave",
     "Corteva",
     "Hims and Hers",
-    "Instacart",
     "JD.com",
     "KKR",
     "Lucid",
