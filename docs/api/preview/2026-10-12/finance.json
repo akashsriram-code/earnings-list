@@ -118,74 +118,56 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-10-16",
-      "bmo_amc": "12:40 PM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "12:40 pm EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-16T23:15:01Z",
-  "irCompanies": [
-    "Bank of America",
-    "Citizens Financial",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-10-17T02:00:23Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
     "Citigroup",
+    "Citizens Financial",
     "Goldman Sachs",
     "Interactive Brokers",
     "JPMorgan",
@@ -195,6 +177,7 @@
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
+    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],

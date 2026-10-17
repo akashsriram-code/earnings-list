@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-10-13",
@@ -9,54 +29,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Juniper Networks",
-      "symbol": "JNPR",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com:443/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-10-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-10-16",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -86,18 +58,6 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -231,36 +191,22 @@
       "sector": "Finance"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-10-16",
-      "bmo_amc": "12:40 PM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "12:40 pm EST",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
+      "yahoo_time_label": null,
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -268,9 +214,9 @@
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -278,70 +224,27 @@
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
+      "yahoo_time_label": null,
+      "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
-  "count": 30,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-16T23:15:01Z",
-  "irCompanies": [
-    "Bank of America",
-    "Bombardier",
-    "Centene Corp",
-    "Citizens Financial",
-    "HPE",
-    "Juniper Networks",
-    "Take-Two Interactive",
-    "Teradyne",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-10-17T02:00:24Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "BlackRock Inc",
     "Charles Schwab",
     "Citigroup",
+    "Citizens Financial",
     "Domino\u2019s Pizza Inc",
     "Fastenal Co",
     "Goldman Sachs",
@@ -356,6 +259,7 @@
     "Prologis Inc",
     "Regions Financial",
     "State Street Corp",
+    "Truist Financial",
     "US Bancorp",
     "UnitedHealth Group",
     "Wells Fargo"
