@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-05-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2026-05-26",
@@ -109,6 +99,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-05-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Bath & Body Works",
@@ -211,14 +211,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-05-27",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-05-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     }
   ],
   "count": 22,
@@ -227,7 +227,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-18T01:54:32Z",
+  "generatedAt": "2026-10-18T07:34:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
