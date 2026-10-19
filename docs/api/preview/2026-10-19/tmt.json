@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-10-19",
+      "bmo_amc": "11:37 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:37 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://vinfastauto.us/investor-relations",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-10-20",
@@ -140,13 +162,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-19T08:20:40Z",
+  "generatedAt": "2026-10-19T16:06:55Z",
   "irCompanies": [
     "AT&T",
-    "Lam Research"
+    "Lam Research",
+    "Take-Two Interactive",
+    "VinFast"
   ],
   "fallbackCompanies": [
     "Comcast",

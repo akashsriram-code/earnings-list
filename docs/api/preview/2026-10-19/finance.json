@@ -4,10 +4,21 @@
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-10-19",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "W. R. Berkley Corp",
@@ -123,12 +134,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-10-22",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lazard",
@@ -158,13 +167,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-19T08:20:43Z",
+  "generatedAt": "2026-10-19T16:06:55Z",
   "irCompanies": [
     "Huntington Bancshares",
     "Synchrony Financial"
@@ -177,6 +186,7 @@
     "Chubb",
     "Fifth Third Bancorp",
     "Globe Life",
+    "Huntington Bancshares",
     "KeyCorp",
     "Lazard",
     "MSCI Inc",

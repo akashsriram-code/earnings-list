@@ -104,6 +104,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-10-28",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Everest",
       "symbol": "EG",
       "date": "2026-10-28",
@@ -203,15 +214,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-19T08:20:53Z",
+  "generatedAt": "2026-10-19T16:07:08Z",
   "irCompanies": [
     "Aon",
+    "Arch Capital Group",
     "Cincinnati Financial"
   ],
   "fallbackCompanies": [

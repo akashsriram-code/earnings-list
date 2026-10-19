@@ -42,8 +42,8 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -239,15 +239,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Lyft",
-      "symbol": "LYFT",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "NYT",
       "symbol": "NYT",
       "date": "2026-11-04",
@@ -327,8 +318,8 @@
       "company": "Wolfspeed",
       "symbol": "WOLF",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -373,7 +364,7 @@
       "symbol": "LYFT",
       "date": "2026-11-05",
       "bmo_amc": "5:00 PM EST",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 pm EST",
       "ir_source_url": "https://investor.lyft.com/",
@@ -383,8 +374,8 @@
       "company": "Microchip Tech",
       "symbol": "MCHP",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -416,10 +407,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 45,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-19T08:21:04Z",
+  "generatedAt": "2026-10-19T16:07:19Z",
   "irCompanies": [
     "Fox Corp",
     "Lyft",
@@ -449,7 +440,6 @@
     "Kyndryl",
     "Live Nation Entertainment",
     "Lumen Tech",
-    "Lyft",
     "Match Group",
     "Microchip Tech",
     "News Corp",
