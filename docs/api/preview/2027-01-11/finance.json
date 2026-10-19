@@ -1,0 +1,47 @@
+{
+  "records": [
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2027-01-14",
+      "bmo_amc": "11:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM EST",
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2027-01-15",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 2,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB"
+  ],
+  "tickerCount": 85,
+  "generatedAt": "2026-10-19T08:23:10Z",
+  "irCompanies": [
+    "Bank of America",
+    "Citigroup"
+  ],
+  "fallbackCompanies": [],
+  "week": {
+    "id": "2027-01-11",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-15",
+    "label": "Week of Jan 11 to Jan 15"
+  },
+  "sector": "Finance",
+  "sectorSlug": "finance",
+  "downloadPath": "downloads/2027-01-11/earnings_finance_2027-01-11.csv"
+}
