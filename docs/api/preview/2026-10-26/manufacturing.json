@@ -470,10 +470,12 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Veralto Corp",
@@ -490,12 +492,13 @@
   "count": 52,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-18T22:49:05Z",
+  "generatedAt": "2026-10-19T02:15:58Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
     "MGM Resorts International",
+    "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
@@ -531,7 +534,6 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "Magna International",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",

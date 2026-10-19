@@ -11,6 +11,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
@@ -91,16 +101,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Paramount",
@@ -188,9 +188,9 @@
       "company": "VinFast",
       "symbol": "VFS",
       "date": "2026-11-20",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
     }
@@ -201,7 +201,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-18T22:49:39Z",
+  "generatedAt": "2026-10-19T02:16:32Z",
   "irCompanies": [
     "Home Depot Inc",
     "Tencent Music"
