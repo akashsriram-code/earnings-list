@@ -59,6 +59,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-10-20",
+      "bmo_amc": "11:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am ET",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "RTX",
       "symbol": "RTX",
       "date": "2026-10-20",
@@ -66,17 +77,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
-    },
-    {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2026-10-21",
-      "bmo_amc": "11:30 A.M. EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:30 a.m. EDT",
-      "ir_source_url": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
-      "source": "investor_relations"
     },
     {
       "company": "CSX Corp",
@@ -239,12 +239,12 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-20T18:57:36Z",
+  "generatedAt": "2026-10-20T23:41:04Z",
   "irCompanies": [
     "3M Co",
-    "Alaska Air",
     "Hilton Worldwide Holdings Inc",
     "Honeywell",
+    "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [

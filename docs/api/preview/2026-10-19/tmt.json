@@ -24,9 +24,9 @@
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-10-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -42,10 +42,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-10-20",
-      "bmo_amc": "2:28 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:28 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -174,7 +174,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-20T18:57:35Z",
+  "generatedAt": "2026-10-20T23:41:04Z",
   "irCompanies": [
     "AT&T",
     "Intuit",

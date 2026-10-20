@@ -279,17 +279,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-10-28",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-10-28",
@@ -468,10 +457,12 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Veralto Corp",
@@ -485,16 +476,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 52,
+  "count": 51,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-20T18:57:47Z",
+  "generatedAt": "2026-10-20T23:41:19Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "MGM Resorts International",
+    "Magna International",
     "Old Dominion Freight Line Inc",
-    "Parker-Hannifin Corp",
     "Quanta Services Inc",
     "UPS",
     "Veralto Corp"
@@ -529,7 +520,6 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "Magna International",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
