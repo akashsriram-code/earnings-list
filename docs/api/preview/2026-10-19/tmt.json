@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2026-10-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-10-20",
+      "bmo_amc": "9:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-10-20",
@@ -17,6 +37,17 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-10-20",
+      "bmo_amc": "9:36 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:36 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "AT&T",
@@ -140,13 +171,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-20T08:08:00Z",
+  "generatedAt": "2026-10-20T14:05:13Z",
   "irCompanies": [
     "AT&T",
-    "Lam Research"
+    "Intuit",
+    "Lam Research",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Comcast",
@@ -161,6 +194,7 @@
     "Tesla",
     "Texas Instruments",
     "VeriSign",
+    "VinFast",
     "Western Digital"
   ],
   "week": {
