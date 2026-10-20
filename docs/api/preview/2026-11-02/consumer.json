@@ -58,7 +58,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Yum Brands",
@@ -190,11 +192,12 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-20T14:05:36Z",
+  "generatedAt": "2026-10-20T18:57:58Z",
   "irCompanies": [
     "Ball Corp",
     "Estee Lauder",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
@@ -211,7 +214,6 @@
     "Ralph Lauren Corp",
     "Regency Centers Corp",
     "Simon Property Group",
-    "Sysco Corp",
     "Tapestry Inc",
     "Yum Brands"
   ],
