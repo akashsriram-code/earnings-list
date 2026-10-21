@@ -22,9 +22,9 @@
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2026-07-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -85,9 +85,9 @@
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -103,18 +103,18 @@
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-07-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -196,7 +196,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-20T23:38:20Z",
+  "generatedAt": "2026-10-21T02:22:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
