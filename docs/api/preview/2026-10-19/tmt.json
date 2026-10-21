@@ -13,15 +13,6 @@
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-10-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -33,7 +24,7 @@
       "date": "2026-10-21",
       "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "08:30 AM\n                    ET",
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations"
@@ -46,6 +37,28 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Dell",
+      "symbol": "DELL",
+      "date": "2026-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.delltechnologies.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "IBM",
@@ -77,6 +90,28 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-10-21",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-10-21",
+      "bmo_amc": "9:52 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:52 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-10-21",
@@ -100,6 +135,15 @@
       "date": "2026-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -149,13 +193,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-21T08:13:41Z",
+  "generatedAt": "2026-10-21T14:22:16Z",
   "irCompanies": [
     "AT&T",
-    "Lam Research"
+    "Dell",
+    "Equinix",
+    "Lam Research",
+    "Qnity",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Comcast",

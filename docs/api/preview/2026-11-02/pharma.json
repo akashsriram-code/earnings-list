@@ -51,8 +51,8 @@
       "company": "Henry Schein Inc",
       "symbol": "HSIC",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -125,15 +125,6 @@
       "date": "2026-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -259,10 +250,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-21T08:14:06Z",
+  "generatedAt": "2026-10-21T14:22:41Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "IDEXX Laboratories Inc",
@@ -277,7 +268,6 @@
     "Cencora Inc",
     "Charles River Labs",
     "Cigna",
-    "DaVita Inc",
     "Dentsply Sirona",
     "Edwards Lifesciences Corp",
     "Healthpeak Properties",

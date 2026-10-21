@@ -4,8 +4,8 @@
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,28 +13,41 @@
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Molina Healthcare Inc",
@@ -49,9 +62,9 @@
       "company": "Thermo Fisher Scientific Inc",
       "symbol": "TMO",
       "date": "2026-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -64,14 +77,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-21T08:13:42Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-21T14:22:14Z",
+  "irCompanies": [
+    "Danaher Corp",
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
-    "Danaher Corp",
     "Elevance Health Inc",
     "Intuitive Surgical Inc",
     "Molina Healthcare Inc",
