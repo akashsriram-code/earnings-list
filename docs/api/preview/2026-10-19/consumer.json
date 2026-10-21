@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Philip Morris International",
       "symbol": "PM",
       "date": "2026-10-21",
@@ -59,12 +70,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-21T14:22:17Z",
+  "generatedAt": "2026-10-21T19:11:35Z",
   "irCompanies": [
     "Deckers Outdoors",
+    "Estee Lauder",
     "Philip Morris International"
   ],
   "fallbackCompanies": [
