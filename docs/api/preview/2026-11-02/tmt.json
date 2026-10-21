@@ -13,12 +13,10 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-11-02",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Grab",
@@ -417,9 +415,8 @@
   "count": 45,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-21T19:11:58Z",
+  "generatedAt": "2026-10-21T23:56:36Z",
   "irCompanies": [
-    "Fox Corp",
     "Lyft",
     "NYT",
     "Shopify"
@@ -437,6 +434,7 @@
     "Duolingo",
     "EPAM",
     "Figma",
+    "Fox Corp",
     "Freshworks",
     "Gartner",
     "GlobalFoundries",

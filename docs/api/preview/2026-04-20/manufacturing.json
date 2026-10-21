@@ -76,18 +76,18 @@
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-04-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2026-04-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -112,9 +112,9 @@
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2026-04-22",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -247,7 +247,7 @@
   "count": 27,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-21T19:05:55Z",
+  "generatedAt": "2026-10-21T23:50:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
