@@ -112,10 +112,21 @@
       "company": "Blackstone",
       "symbol": "BX",
       "date": "2026-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-10-22",
+      "bmo_amc": "2:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:05 PM EDT",
+      "ir_source_url": "https://investors.globalpayments.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Huntington Bancshares",
@@ -156,14 +167,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-22T14:19:21Z",
+  "generatedAt": "2026-10-22T19:04:10Z",
   "irCompanies": [
+    "Global Payments",
     "Huntington Bancshares"
   ],
   "fallbackCompanies": [
