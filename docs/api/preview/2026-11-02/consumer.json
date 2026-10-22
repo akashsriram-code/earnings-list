@@ -13,10 +13,12 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Ball Corp",
@@ -190,9 +192,10 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-21T23:56:33Z",
+  "generatedAt": "2026-10-22T02:20:17Z",
   "irCompanies": [
     "Ball Corp",
+    "Estee Lauder",
     "Keurig Dr. Pepper",
     "Sysco Corp"
   ],
@@ -200,7 +203,6 @@
     "Amcor PLC",
     "Clorox Co",
     "DoorDash",
-    "Estee Lauder",
     "Instacart",
     "International Flavours & Fragrances",
     "Kimberly Clark Corp",

@@ -40,10 +40,12 @@
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-11-24",
-      "bmo_amc": "TBD",
+      "bmo_amc": "3:30 PM CST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "3:30 pm CST",
+      "ir_source_url": "https://investors.delltechnologies.com/",
+      "source": "investor_relations"
     },
     {
       "company": "HP Inc",
@@ -76,13 +78,14 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-21T23:57:10Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-22T02:20:53Z",
+  "irCompanies": [
+    "Dell"
+  ],
   "fallbackCompanies": [
     "Alibaba",
     "Analog Devices",
     "Autodesk",
-    "Dell",
     "HP Inc",
     "Workday",
     "Zoom",

@@ -21,36 +21,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-11-23",
@@ -94,10 +64,12 @@
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-11-24",
-      "bmo_amc": "TBD",
+      "bmo_amc": "3:30 PM CST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "3:30 pm CST",
+      "ir_source_url": "https://investors.delltechnologies.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -129,6 +101,36 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 13,
@@ -137,8 +139,10 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-21T23:57:10Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-22T02:20:53Z",
+  "irCompanies": [
+    "Dell"
+  ],
   "fallbackCompanies": [
     "Agilent",
     "Alibaba",
@@ -146,7 +150,6 @@
     "Autodesk",
     "Best Buy Co Inc",
     "Deere",
-    "Dell",
     "HP Inc",
     "J.M. Smucker Co",
     "Keysight Technologies Inc",

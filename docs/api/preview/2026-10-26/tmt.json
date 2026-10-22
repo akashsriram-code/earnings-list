@@ -114,10 +114,12 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:30 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:30 pm EDT",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Fortinet",
@@ -335,8 +337,9 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-21T23:56:24Z",
+  "generatedAt": "2026-10-22T02:20:06Z",
   "irCompanies": [
+    "Equinix",
     "GoDaddy",
     "Intel",
     "KLA Corp",
@@ -357,7 +360,6 @@
     "Cognizant",
     "Corning",
     "Digital Realty",
-    "Equinix",
     "F5",
     "Fortinet",
     "Garmin",
