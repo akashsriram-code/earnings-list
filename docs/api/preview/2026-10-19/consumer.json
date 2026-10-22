@@ -28,14 +28,36 @@
       "source": "aggregator"
     },
     {
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2026-10-22",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-10-22",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "4:07 PM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
+      "ir_time_label": "4:07 pm EDT",
       "ir_source_url": "https://ir.deckers.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
       "source": "investor_relations"
     },
     {
@@ -51,18 +73,20 @@
       "company": "Tractor Supply Co",
       "symbol": "TSCO",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-22T19:04:11Z",
+  "generatedAt": "2026-10-22T23:53:52Z",
   "irCompanies": [
-    "Deckers Outdoors"
+    "Coca-Cola Co",
+    "Deckers Outdoors",
+    "Lululemon Athletica"
   ],
   "fallbackCompanies": [
     "Hasbro Inc",

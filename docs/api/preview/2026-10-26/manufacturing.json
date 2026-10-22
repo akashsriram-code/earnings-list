@@ -188,12 +188,10 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-10-28",
-      "bmo_amc": "12:00 PM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm ET",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Frontier Holdings",
@@ -262,9 +260,9 @@
       "company": "NVR Inc",
       "symbol": "NVR",
       "date": "2026-10-28",
-      "bmo_amc": "TBD",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -497,10 +495,9 @@
   "count": 53,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-22T19:04:22Z",
+  "generatedAt": "2026-10-22T23:54:04Z",
   "irCompanies": [
     "DR Horton Inc",
-    "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
     "Magna International",
     "Parker-Hannifin Corp",
@@ -523,6 +520,7 @@
     "Extra Space Storage Inc",
     "FedEx",
     "Ford Motor Co",
+    "Fortive Corp",
     "Frontier Holdings",
     "Generac Holdings Inc",
     "General Dynamics Corp",

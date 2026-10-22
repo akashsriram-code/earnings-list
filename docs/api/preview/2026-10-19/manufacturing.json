@@ -127,6 +127,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Dover Corp",
       "symbol": "DOV",
       "date": "2026-10-22",
@@ -136,13 +147,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-10-22",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-10-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -197,18 +221,18 @@
       "company": "Pultegroup Inc",
       "symbol": "PHM",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Snap-On Inc",
       "symbol": "SNA",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -221,11 +245,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-22T19:04:11Z",
+  "generatedAt": "2026-10-22T23:53:53Z",
   "irCompanies": [
+    "Axon Enterprise Inc",
+    "Fortive Corp",
+    "Honeywell",
     "MGM Resorts International",
     "Old Dominion Freight Line Inc"
   ],
@@ -236,7 +263,6 @@
     "CSX Corp",
     "Dover Corp",
     "GE Aerospace",
-    "Honeywell",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
     "Norfolk Southern Corp",
