@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-01-22",
@@ -19,14 +28,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-22T08:03:56Z",
+  "generatedAt": "2026-10-22T14:11:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Intel",
-    "Mobileye"
+    "Mobileye",
+    "Netflix"
   ],
   "week": {
     "id": "2026-01-19",

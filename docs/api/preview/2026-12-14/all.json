@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-12-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-12-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-12-15",
@@ -9,18 +29,31 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-12-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 1,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-22T08:14:05Z",
+  "generatedAt": "2026-10-22T14:20:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Lennar Corp"
+    "General Mills",
+    "Jabil Inc",
+    "Lennar Corp",
+    "Micron"
   ],
   "week": {
     "id": "2026-12-14",

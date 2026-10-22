@@ -22,8 +22,8 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Crown Castle",
       "symbol": "CCI",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "IBM",
       "symbol": "IBM",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "Meta",
       "symbol": "META",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2026-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,37 +85,48 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2026-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2026-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-10-22",
+      "bmo_amc": "9:53 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:53 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "VeriSign",
@@ -145,11 +156,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-22T08:12:33Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-22T14:19:20Z",
+  "irCompanies": [
+    "Take-Two Interactive"
+  ],
   "fallbackCompanies": [
     "AT&T",
     "Comcast",

@@ -1,6 +1,33 @@
 {
   "records": [
     {
+      "company": "3M Co",
+      "symbol": "MMM",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "DR Horton Inc",
+      "symbol": "DHI",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-01-21",
@@ -55,14 +82,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-22T08:03:58Z",
+  "generatedAt": "2026-10-22T14:11:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "3M Co",
     "Alaska Air",
     "CSX Corp",
+    "DR Horton Inc",
+    "Fastenal Co",
     "GE Aerospace",
     "Prologis Inc",
     "TE Connectivity Ltd",

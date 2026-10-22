@@ -4,12 +4,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "8:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "HCA Healthcare Inc",
@@ -134,13 +132,13 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-22T08:12:45Z",
+  "generatedAt": "2026-10-22T14:19:32Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Centene Corp"
+    "Boston Scientific Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
+    "Centene Corp",
     "DaVita Inc",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",

@@ -172,8 +172,8 @@
       "company": "Super Micro",
       "symbol": "SMCI",
       "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -329,8 +329,8 @@
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -439,7 +439,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-22T08:12:56Z",
+  "generatedAt": "2026-10-22T14:19:44Z",
   "irCompanies": [
     "AT&T",
     "Lam Research",
