@@ -170,37 +170,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "Charter Communications",
-      "symbol": "CHTR",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-22T02:12:03Z",
+  "generatedAt": "2026-10-22T08:04:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "ADP",
     "AT&T",
     "Amphenol",
     "Apple",
-    "Charter Communications",
     "Comcast",
     "Corning",
     "F5",
@@ -215,7 +196,6 @@
     "ServiceNow",
     "Tesla",
     "Texas Instruments",
-    "Verizon",
     "Western Digital"
   ],
   "week": {

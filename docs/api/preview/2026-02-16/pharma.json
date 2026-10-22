@@ -1,33 +1,6 @@
 {
   "records": [
     {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Charles River Labs",
       "symbol": "CRL",
       "date": "2026-02-18",
@@ -46,17 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-22T02:12:41Z",
+  "generatedAt": "2026-10-22T08:05:12Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Charles River Labs",
-    "Insulet",
-    "Kenvue",
-    "Labcorp Holdings Inc",
-    "Medtronic PLC"
+    "Insulet"
   ],
   "week": {
     "id": "2026-02-16",
