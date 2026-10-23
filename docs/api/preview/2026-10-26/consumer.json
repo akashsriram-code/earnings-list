@@ -4,10 +4,12 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Royal Caribbean Group",
@@ -169,9 +171,10 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-22T23:54:04Z",
+  "generatedAt": "2026-10-23T02:25:59Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
+    "Coca-Cola Co",
     "Etsy Inc",
     "Kimco Realty Corp",
     "Norwegian Cruise Line",
@@ -181,7 +184,6 @@
   "fallbackCompanies": [
     "Altria Group Inc",
     "Church & Dwight",
-    "Coca-Cola Co",
     "Colgate-Palmolive",
     "Federal Realty Investment Trust",
     "Hershey Co",

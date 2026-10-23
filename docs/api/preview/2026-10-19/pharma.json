@@ -55,45 +55,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
       "date": "2026-10-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-22T23:53:53Z",
-  "irCompanies": [
-    "Centene Corp",
-    "Merck"
-  ],
+  "generatedAt": "2026-10-23T02:25:49Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Danaher Corp",

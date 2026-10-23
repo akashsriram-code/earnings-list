@@ -1,24 +1,34 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
       "date": "2026-12-08",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2026-12-09",
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-12-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "GameStop",
@@ -71,34 +81,24 @@
       "sector": "TMT"
     },
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
       "date": "2026-12-08",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-12-10",
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-12-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-12-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
   "count": 10,
@@ -107,7 +107,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-22T23:55:12Z",
+  "generatedAt": "2026-10-23T02:27:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
