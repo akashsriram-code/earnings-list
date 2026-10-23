@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-10-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-10-06",
@@ -29,26 +49,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-10-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-10-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 5,
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-23T08:12:24Z",
+  "generatedAt": "2026-10-23T14:03:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",

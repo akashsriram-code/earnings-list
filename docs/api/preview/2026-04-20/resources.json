@@ -19,6 +19,24 @@
       "source": "aggregator"
     },
     {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2026-04-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-04-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Baker Hughes",
       "symbol": "BKR",
       "date": "2026-04-23",
@@ -94,16 +112,16 @@
       "company": "SLB",
       "symbol": "SLB",
       "date": "2026-04-24",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-23T08:07:07Z",
+  "generatedAt": "2026-10-23T13:58:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
@@ -111,7 +129,9 @@
     "Dow",
     "EQT Corp",
     "Freeport McMoRan",
+    "GE Vernova",
     "Halliburton",
+    "Kinder Morgan",
     "Newmont Corp",
     "NextEra Energy",
     "PG&E Corp",

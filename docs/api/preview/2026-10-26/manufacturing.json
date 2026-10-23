@@ -259,15 +259,6 @@
       "source": "aggregator"
     },
     {
-      "company": "NVR Inc",
-      "symbol": "NVR",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-10-28",
@@ -477,12 +468,10 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-10-30",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Veralto Corp",
@@ -496,15 +485,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 53,
+  "count": 52,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-23T08:13:03Z",
+  "generatedAt": "2026-10-23T14:03:58Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
-    "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
@@ -542,8 +530,8 @@
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
     "MGM Resorts International",
+    "Magna International",
     "Mid-America Apartment Communities Inc",
-    "NVR Inc",
     "Nucor Corp",
     "Otis Worldwide Corp",
     "Pentair PLC",

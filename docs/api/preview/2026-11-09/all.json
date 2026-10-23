@@ -1,34 +1,24 @@
 {
   "records": [
     {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
+      "company": "KKR",
+      "symbol": "KKR",
       "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-11-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Finance"
     },
     {
-      "company": "Corteva",
-      "symbol": "CTVA",
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
       "date": "2026-11-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Manufacturing"
     },
     {
       "company": "CoreWeave",
@@ -54,12 +44,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-11-09",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -103,14 +91,34 @@
       "sector": "TMT"
     },
     {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Corteva",
+      "symbol": "CTVA",
+      "date": "2026-11-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Hims and Hers",
@@ -121,16 +129,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
   "count": 13,
@@ -139,10 +137,8 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-23T08:13:28Z",
-  "irCompanies": [
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-10-23T14:04:22Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
@@ -154,6 +150,7 @@
     "Lucid",
     "Occidental Petroleum",
     "Sea Limited",
+    "Take-Two Interactive",
     "TransDigm Group Inc",
     "Venture Global"
   ],
