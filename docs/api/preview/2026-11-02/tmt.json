@@ -24,10 +24,12 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Grab",
@@ -450,9 +452,10 @@
   "count": 48,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-23T18:57:14Z",
+  "generatedAt": "2026-10-23T23:46:50Z",
   "irCompanies": [
     "AT&T",
+    "Fox Corp",
     "Lam Research",
     "Live Nation Entertainment",
     "Lyft",
@@ -473,7 +476,6 @@
     "Duolingo",
     "EPAM",
     "Figma",
-    "Fox Corp",
     "Freshworks",
     "Gartner",
     "GlobalFoundries",
