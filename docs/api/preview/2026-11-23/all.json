@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-11-23",
@@ -83,16 +103,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-11-24",
@@ -113,24 +123,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-11-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     }
   ],
   "count": 13,
@@ -139,7 +139,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-23T23:47:27Z",
+  "generatedAt": "2026-10-24T02:24:19Z",
   "irCompanies": [
     "Dell"
   ],

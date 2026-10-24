@@ -148,33 +148,20 @@
       "company": "American Express",
       "symbol": "AXP",
       "date": "2026-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-23T23:46:28Z",
-  "irCompanies": [
-    "PNC Financial"
-  ],
+  "generatedAt": "2026-10-24T02:23:20Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
     "Blackstone",
