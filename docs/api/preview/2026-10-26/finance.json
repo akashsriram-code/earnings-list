@@ -24,10 +24,10 @@
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "11:00AM",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
       "ir_source_url": "https://investors.cinfin.com/",
       "source": "investor_relations"
     },
@@ -38,7 +38,9 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Huntington Bancshares",
@@ -55,9 +57,9 @@
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -242,12 +244,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-26T15:44:15Z",
+  "generatedAt": "2026-10-26T22:09:23Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
     "Bank of America",
     "Cincinnati Financial",
+    "Hartford Financial Services",
     "Huntington Bancshares"
   ],
   "fallbackCompanies": [
@@ -258,7 +261,6 @@
     "Cboe Global Markets",
     "Coinbase",
     "Everest",
-    "Hartford Financial Services",
     "Intercontinental Exchange",
     "Invesco",
     "Mastercard",
