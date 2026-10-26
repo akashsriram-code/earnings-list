@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Constellation Energy",
+      "symbol": "CEG",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-11-09",
@@ -28,12 +37,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-26T08:23:19Z",
+  "generatedAt": "2026-10-26T15:44:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Constellation Energy",
     "Corteva",
     "Occidental Petroleum",
     "Venture Global"

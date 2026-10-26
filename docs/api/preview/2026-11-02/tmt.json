@@ -142,15 +142,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-11-03",
@@ -281,6 +272,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "PTC",
       "symbol": "PTC",
       "date": "2026-11-04",
@@ -395,7 +395,7 @@
       "symbol": "LYV",
       "date": "2026-11-05",
       "bmo_amc": "2:00PM PDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00pm PDT",
       "ir_source_url": "https://investors.livenationentertainment.com/",
@@ -422,15 +422,6 @@
       "source": "aggregator"
     },
     {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2026-11-05",
@@ -449,10 +440,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 48,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-26T08:23:06Z",
+  "generatedAt": "2026-10-26T15:44:26Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
@@ -482,7 +473,6 @@
     "Grab",
     "Iron Mountain",
     "Kyndryl",
-    "Live Nation Entertainment",
     "Lumen Tech",
     "Match Group",
     "Microchip Tech",

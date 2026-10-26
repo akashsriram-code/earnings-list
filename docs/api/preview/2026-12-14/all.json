@@ -31,6 +31,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-12-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-12-16",
@@ -54,6 +64,16 @@
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-12-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-12-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -101,36 +121,60 @@
       "sector": "Consumer"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-12-17",
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-12-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Conagra Brands",
+      "symbol": "CAG",
+      "date": "2026-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lamb Weston Holdings",
+      "symbol": "LW",
+      "date": "2026-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 11,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-26T08:24:18Z",
+  "generatedAt": "2026-10-26T15:45:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
     "BlackBerry",
     "Carmax Inc",
+    "Carnival Corp",
     "Cintas Corp",
+    "Conagra Brands",
     "Darden Restaurants",
     "FactSet Research",
     "General Mills",
     "Jabil Inc",
+    "Lamb Weston Holdings",
     "Lennar Corp",
     "Micron",
-    "Nike Inc"
+    "Nike Inc",
+    "Paychex"
   ],
   "week": {
     "id": "2026-12-14",

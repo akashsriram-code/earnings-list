@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-11-03",
@@ -161,8 +152,8 @@
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investor.axon.com/",
@@ -225,10 +216,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-26T08:23:05Z",
+  "generatedAt": "2026-10-26T15:44:29Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
@@ -239,7 +230,6 @@
     "AMETEK Inc",
     "Airbnb Inc",
     "Aptiv PLC",
-    "Axon Enterprise Inc",
     "Booking Holdings Inc",
     "Camden Property Trust",
     "Eaton Corporation PLC",
