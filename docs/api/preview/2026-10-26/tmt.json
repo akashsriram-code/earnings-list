@@ -4,9 +4,9 @@
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2026-10-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -15,7 +15,7 @@
       "date": "2026-10-26",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations"
@@ -337,7 +337,7 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-25T23:02:33Z",
+  "generatedAt": "2026-10-26T02:12:25Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
