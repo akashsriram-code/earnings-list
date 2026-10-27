@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
@@ -105,14 +95,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Paramount",
-      "symbol": "PARA",
-      "date": "2026-11-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Pharma"
     },
     {
       "company": "Xpeng",
@@ -195,25 +185,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2026-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 20,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-27T08:37:17Z",
+  "generatedAt": "2026-10-27T15:14:50Z",
   "irCompanies": [
     "Home Depot Inc",
     "Nike Inc",
@@ -224,12 +204,10 @@
     "Bath & Body Works",
     "Disney",
     "Intuit",
-    "Jacobs Solutions Inc",
     "Lowe\u2019s Cos Inc",
     "Medtronic PLC",
     "NVIDIA",
     "Palo Alto",
-    "Paramount",
     "Ross Stores",
     "TJX Cos Inc",
     "Target Corp",

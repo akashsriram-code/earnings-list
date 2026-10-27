@@ -4,8 +4,17 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-10-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "JetBlue",
+      "symbol": "JBLU",
+      "date": "2026-10-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +22,8 @@
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-10-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +31,8 @@
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-10-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,9 +40,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-10-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -76,10 +85,10 @@
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-10-27",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "6:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "9:00 am EDT",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "6:00 am EDT",
       "ir_source_url": "https://ir.hilton.com/",
       "source": "investor_relations"
     },
@@ -96,15 +105,6 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-10-27",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
-    },
-    {
-      "company": "JetBlue",
-      "symbol": "JBLU",
-      "date": "2026-10-27",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
@@ -114,9 +114,9 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-10-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -132,10 +132,10 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-10-27",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "6:00 AM  ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 am ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "6:00 AM  ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
     },
@@ -490,7 +490,7 @@
   "count": 52,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-27T08:36:41Z",
+  "generatedAt": "2026-10-27T15:14:14Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",

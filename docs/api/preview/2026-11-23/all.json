@@ -1,6 +1,46 @@
 {
   "records": [
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-11-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2026-11-23",
@@ -19,36 +59,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     },
     {
       "company": "Zoom",
@@ -94,12 +104,10 @@
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-11-24",
-      "bmo_amc": "3:30 PM CST",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "3:30 pm CST",
-      "ir_source_url": "https://investors.delltechnologies.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -133,16 +141,14 @@
       "sector": "TMT"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-27T08:37:27Z",
-  "irCompanies": [
-    "Dell"
-  ],
+  "generatedAt": "2026-10-27T15:15:05Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
     "Alibaba",
@@ -150,8 +156,10 @@
     "Autodesk",
     "Best Buy Co Inc",
     "Deere",
+    "Dell",
     "HP Inc",
     "J.M. Smucker Co",
+    "Jacobs Solutions Inc",
     "Keysight Technologies Inc",
     "Workday",
     "Zoom",
