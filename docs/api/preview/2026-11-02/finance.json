@@ -93,6 +93,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-11-05",
+      "bmo_amc": "5:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 pm ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Carlyle",
       "symbol": "CG",
       "date": "2026-11-05",
@@ -175,15 +186,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-26T22:09:37Z",
+  "generatedAt": "2026-10-27T02:50:20Z",
   "irCompanies": [
     "Apollo",
+    "Bank of America",
     "Citizens Financial",
     "Global Payments",
     "JPMorgan",

@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-10-26",
-      "bmo_amc": "5:12 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:12 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
@@ -26,9 +15,9 @@
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -151,14 +140,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-26T22:09:23Z",
+  "generatedAt": "2026-10-27T02:50:08Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Centene Corp",
-    "Merck"
+    "Centene Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",

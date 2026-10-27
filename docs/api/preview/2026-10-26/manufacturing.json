@@ -4,29 +4,18 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -39,23 +28,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-10-26",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://investors.southwest.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -100,7 +78,7 @@
       "date": "2026-10-27",
       "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://ir.hilton.com/",
       "source": "investor_relations"
@@ -118,9 +96,9 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -136,9 +114,9 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -156,7 +134,7 @@
       "date": "2026-10-27",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
@@ -165,9 +143,9 @@
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -509,20 +487,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 54,
+  "count": 52,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-26T22:09:23Z",
+  "generatedAt": "2026-10-27T02:50:08Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Hilton Worldwide Holdings Inc",
-    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
-    "Southwest Airlines Co",
     "UPS",
     "Veralto Corp"
   ],

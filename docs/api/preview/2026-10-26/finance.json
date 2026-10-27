@@ -1,57 +1,31 @@
 {
   "records": [
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-10-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-10-26",
-      "bmo_amc": "11:00AM",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Hartford Financial Services",
       "symbol": "HIG",
       "date": "2026-10-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-10-26",
-      "bmo_amc": "10:49 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:49 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Principal Financial Group",
@@ -70,6 +44,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-10-27",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Invesco",
@@ -93,27 +78,27 @@
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Visa",
       "symbol": "V",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -238,20 +223,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 24,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-26T22:09:23Z",
+  "generatedAt": "2026-10-27T02:50:09Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
-    "Bank of America",
-    "Cincinnati Financial",
-    "Hartford Financial Services",
-    "Huntington Bancshares"
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
@@ -259,8 +241,10 @@
     "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
+    "Cincinnati Financial",
     "Coinbase",
     "Everest",
+    "Hartford Financial Services",
     "Intercontinental Exchange",
     "Invesco",
     "Mastercard",
