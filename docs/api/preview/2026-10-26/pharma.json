@@ -4,8 +4,8 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2026-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,12 +31,10 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-10-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": "TAS",
+      "source": "aggregator"
     },
     {
       "company": "GE HealthCare Technologies Inc",
@@ -60,10 +58,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-10-28",
-      "bmo_amc": "4:45 AM ET",
+      "bmo_amc": "1:29 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:45 am ET",
+      "ir_time_label": "1:29 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -152,12 +150,12 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-28T09:13:37Z",
+  "generatedAt": "2026-10-28T17:40:39Z",
   "irCompanies": [
-    "Boston Scientific Corp",
     "Merck"
   ],
   "fallbackCompanies": [
+    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Centene Corp",
     "DaVita Inc",

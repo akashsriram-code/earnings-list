@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "NRG Energy",
+      "symbol": "NRG",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-11-09",
@@ -37,14 +46,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-28T09:14:01Z",
+  "generatedAt": "2026-10-28T17:41:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Constellation Energy",
     "Corteva",
+    "NRG Energy",
     "Occidental Petroleum",
     "Venture Global"
   ],

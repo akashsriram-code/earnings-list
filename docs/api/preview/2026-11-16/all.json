@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
@@ -19,18 +29,6 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Nike Inc",
-      "symbol": "NKE",
-      "date": "2026-11-17",
-      "bmo_amc": "8:30 AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am PST",
-      "ir_source_url": "https://investors.nike.com/",
       "source": "investor_relations",
       "sector": "Consumer"
     },
@@ -95,29 +93,29 @@
       "sector": "Consumer"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
+      "company": "Baidu",
+      "symbol": "BIDU",
       "date": "2026-11-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
     },
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2026-11-17",
+      "company": "Paramount",
+      "symbol": "PARA",
+      "date": "2026-11-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-11-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -193,10 +191,9 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-28T09:14:11Z",
+  "generatedAt": "2026-10-28T17:41:14Z",
   "irCompanies": [
     "Home Depot Inc",
-    "Nike Inc",
     "Tencent Music"
   ],
   "fallbackCompanies": [
@@ -208,6 +205,7 @@
     "Medtronic PLC",
     "NVIDIA",
     "Palo Alto",
+    "Paramount",
     "Ross Stores",
     "TJX Cos Inc",
     "Target Corp",
