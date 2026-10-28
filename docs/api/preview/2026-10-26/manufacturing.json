@@ -40,9 +40,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-10-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -85,12 +85,10 @@
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-10-27",
-      "bmo_amc": "6:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:00 am EDT",
-      "ir_source_url": "https://ir.hilton.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hubbell Inc",
@@ -105,18 +103,18 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-10-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-10-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -132,20 +130,18 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-10-27",
-      "bmo_amc": "6:00 AM  ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:00 AM  ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2026-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -244,10 +240,12 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm",
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -293,9 +291,9 @@
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -490,16 +488,15 @@
   "count": 52,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-27T19:57:59Z",
+  "generatedAt": "2026-10-28T00:17:42Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
-    "Hilton Worldwide Holdings Inc",
+    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
-    "UPS",
     "Veralto Corp"
   ],
   "fallbackCompanies": [
@@ -521,6 +518,7 @@
     "Generac Holdings Inc",
     "General Dynamics Corp",
     "Harley Davidson",
+    "Hilton Worldwide Holdings Inc",
     "Honeywell Aerospace",
     "Howmet Aerospace",
     "Hubbell Inc",
@@ -532,7 +530,6 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
     "Otis Worldwide Corp",
@@ -542,6 +539,7 @@
     "TE Connectivity Ltd",
     "Textron Inc",
     "Trane Technologies PLC",
+    "UPS",
     "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",
