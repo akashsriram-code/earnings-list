@@ -57,6 +57,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-10-28",
+      "bmo_amc": "4:45 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:45 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-10-29",
@@ -96,12 +107,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-10-29",
-      "bmo_amc": "8:05 PM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:05 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tenet Healthcare",
@@ -140,10 +149,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-28T00:17:42Z",
+  "generatedAt": "2026-10-28T09:13:37Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Merck"
@@ -159,6 +168,7 @@
     "IQVIA Holdings Inc",
     "Kenvue",
     "Labcorp Holdings Inc",
+    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "West Pharmaceutical Services Inc"

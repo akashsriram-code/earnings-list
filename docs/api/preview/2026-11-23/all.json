@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-11-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-11-23",
@@ -103,6 +83,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-11-23",
@@ -133,14 +123,24 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-11-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-11-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     }
   ],
   "count": 14,
@@ -149,7 +149,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-28T00:18:39Z",
+  "generatedAt": "2026-10-28T09:14:24Z",
   "irCompanies": [
     "Dell"
   ],
