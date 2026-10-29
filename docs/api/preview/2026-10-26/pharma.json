@@ -58,9 +58,9 @@
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-10-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-10-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -94,11 +94,22 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-10-29",
-      "bmo_amc": "7:24 AM ET",
+      "bmo_amc": "12:40 PM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "7:24 am ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "12:40 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2026-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
       "source": "investor_relations"
     },
     {
@@ -138,12 +149,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-29T12:03:34Z",
+  "generatedAt": "2026-10-29T17:52:33Z",
   "irCompanies": [
-    "Merck"
+    "Merck",
+    "Novavax"
   ],
   "fallbackCompanies": [
     "Boston Scientific Corp",
