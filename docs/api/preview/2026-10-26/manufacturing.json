@@ -175,21 +175,19 @@
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2026-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-10-28",
-      "bmo_amc": "7:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 AM EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Frontier Holdings",
@@ -213,9 +211,9 @@
       "company": "Honeywell Aerospace",
       "symbol": "HONA",
       "date": "2026-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -243,9 +241,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -260,12 +256,10 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-10-28",
-      "bmo_amc": "7:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 AM EDT",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Otis Worldwide Corp",
@@ -280,9 +274,9 @@
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -325,9 +319,9 @@
       "company": "Caterpillar",
       "symbol": "CAT",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -392,7 +386,7 @@
       "date": "2026-10-29",
       "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 AM ET",
       "ir_source_url": "https://investors.quantaservices.com/",
       "source": "investor_relations"
@@ -419,9 +413,9 @@
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -477,13 +471,10 @@
   "count": 51,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-10-28T22:07:34Z",
+  "generatedAt": "2026-10-29T03:19:35Z",
   "irCompanies": [
     "DR Horton Inc",
-    "Fortive Corp",
-    "MGM Resorts International",
     "Magna International",
-    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "Veralto Corp"
   ],
@@ -502,6 +493,7 @@
     "Extra Space Storage Inc",
     "FedEx",
     "Ford Motor Co",
+    "Fortive Corp",
     "Frontier Holdings",
     "Generac Holdings Inc",
     "General Dynamics Corp",
@@ -518,8 +510,10 @@
     "JetBlue",
     "Johnson Controls International PLC",
     "L3Harris Technologies Inc",
+    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
     "Nucor Corp",
+    "Old Dominion Freight Line Inc",
     "Otis Worldwide Corp",
     "Pentair PLC",
     "Public Storage",

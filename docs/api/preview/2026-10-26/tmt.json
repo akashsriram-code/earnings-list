@@ -85,9 +85,9 @@
       "company": "ADP",
       "symbol": "ADP",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -103,38 +103,36 @@
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-10-28",
-      "bmo_amc": "5:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:30 pm EDT",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Garmin",
       "symbol": "GRMN",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -150,23 +148,10 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-10-28",
-      "bmo_amc": "4:05 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "4:05 PM EDT",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Microsoft",
@@ -175,51 +160,25 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "ServiceNow",
       "symbol": "NOW",
       "date": "2026-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2026-10-28",
-      "bmo_amc": "4:30 PM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 PM EDT",
-      "ir_source_url": "https://investor.t-mobile.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-10-28",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-10-28",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tyler Tech",
@@ -234,18 +193,18 @@
       "company": "eBay",
       "symbol": "EBAY",
       "date": "2026-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -283,7 +242,7 @@
       "date": "2026-10-29",
       "bmo_amc": "2:00 PM PDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00 PM PDT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
@@ -356,22 +315,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 37,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-28T22:07:32Z",
+  "generatedAt": "2026-10-29T03:19:34Z",
   "irCompanies": [
-    "Equinix",
     "GoDaddy",
     "Intel",
-    "KLA Corp",
-    "Live Nation Entertainment",
-    "Microsoft",
     "Rivian",
-    "SiriusXM",
-    "T-Mobile US",
-    "Take-Two Interactive",
-    "Teradyne"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -384,10 +336,13 @@
     "Cognizant",
     "Corning",
     "Digital Realty",
+    "Equinix",
     "F5",
     "Fortinet",
     "Garmin",
     "Gen Digital",
+    "KLA Corp",
+    "Microsoft",
     "Mobileye",
     "Monolithic Power",
     "NXP Semiconductors",
@@ -396,6 +351,7 @@
     "Roblox",
     "Seagate",
     "ServiceNow",
+    "T-Mobile US",
     "Teradyne",
     "Tyler Tech",
     "Verizon",

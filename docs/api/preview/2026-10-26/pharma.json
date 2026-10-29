@@ -31,9 +31,9 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -55,23 +55,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-10-28",
-      "bmo_amc": "5:48 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:48 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -87,28 +76,30 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:48 PM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "BMO",
+      "ir_time_label": "10:48 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Tenet Healthcare",
@@ -147,10 +138,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-10-28T22:07:32Z",
+  "generatedAt": "2026-10-29T03:19:32Z",
   "irCompanies": [
     "Merck"
   ],
@@ -166,7 +157,6 @@
     "IQVIA Holdings Inc",
     "Kenvue",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "West Pharmaceutical Services Inc"

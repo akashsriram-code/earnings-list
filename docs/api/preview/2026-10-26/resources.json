@@ -112,18 +112,18 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "GE Vernova",
       "symbol": "GEV",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -148,9 +148,9 @@
       "company": "Phillips 66",
       "symbol": "PSX",
       "date": "2026-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -220,9 +220,9 @@
       "company": "Linde",
       "symbol": "LIN",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -337,7 +337,7 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-28T22:07:34Z",
+  "generatedAt": "2026-10-29T03:19:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

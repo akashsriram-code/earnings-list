@@ -139,9 +139,9 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-07-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -328,9 +328,9 @@
       "company": "Linde",
       "symbol": "LIN",
       "date": "2026-07-31",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -346,7 +346,7 @@
   "count": 38,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-10-28T22:04:49Z",
+  "generatedAt": "2026-10-29T03:16:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
