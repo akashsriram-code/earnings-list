@@ -1,6 +1,88 @@
 {
   "records": [
     {
+      "company": "Lucid",
+      "symbol": "LCID",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-09",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2026-11-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-11-09",
@@ -21,38 +103,6 @@
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-11-10",
-      "bmo_amc": "10:50 AM CDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:50 am CDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     },
     {
       "company": "Constellation Energy",
@@ -105,85 +155,45 @@
       "sector": "Resources"
     },
     {
-      "company": "CoreWeave",
-      "symbol": "CRWV",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lucid",
-      "symbol": "LCID",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-09",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
       "date": "2026-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "10:50 AM CDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "10:50 am CDT",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
-      "company": "Cisco Systems",
-      "symbol": "CSCO",
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
       "date": "2026-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Applied Materials",
-      "symbol": "AMAT",
-      "date": "2026-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "JD.com",
-      "symbol": "JD",
-      "date": "2026-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-29T03:19:59Z",
+  "generatedAt": "2026-10-29T12:03:59Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Fortive Corp",
@@ -202,6 +212,7 @@
     "NRG Energy",
     "Occidental Petroleum",
     "Sea Limited",
+    "Trade Desk",
     "TransDigm Group Inc",
     "Venture Global"
   ],
