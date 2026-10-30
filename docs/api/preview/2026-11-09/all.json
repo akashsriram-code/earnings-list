@@ -23,6 +23,16 @@
       "sector": "Pharma"
     },
     {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Lucid",
       "symbol": "LCID",
       "date": "2026-11-09",
@@ -36,12 +46,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-11-09",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -105,28 +113,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-11-10",
-      "bmo_amc": "10:50 AM CDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:50 am CDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-11-09",
@@ -177,14 +163,26 @@
       "sector": "Resources"
     },
     {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-11-10",
+      "bmo_amc": "10:50 AM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:50 am CDT",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     }
   ],
   "count": 18,
@@ -193,11 +191,10 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-30T11:56:22Z",
+  "generatedAt": "2026-10-30T17:32:20Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Fortive Corp",
-    "Take-Two Interactive"
+    "Fortive Corp"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -212,6 +209,7 @@
     "NRG Energy",
     "Occidental Petroleum",
     "Sea Limited",
+    "Take-Two Interactive",
     "Trade Desk",
     "TransDigm Group Inc",
     "Venture Global"
