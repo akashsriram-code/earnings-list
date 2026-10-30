@@ -76,8 +76,17 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "DoorDash",
+      "symbol": "DASH",
+      "date": "2026-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +94,17 @@
       "company": "Hershey Co",
       "symbol": "HSY",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2026-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +112,8 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +121,8 @@
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +130,8 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +139,8 @@
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -154,10 +172,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-30T03:22:43Z",
+  "generatedAt": "2026-10-30T11:55:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -165,9 +183,11 @@
     "Church & Dwight",
     "Coca-Cola Co",
     "Colgate-Palmolive",
+    "DoorDash",
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
+    "Instacart",
     "International Paper Co",
     "Kimco Realty Corp",
     "Masco Corp",

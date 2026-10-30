@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-11-16",
@@ -41,6 +51,16 @@
       "sector": "TMT"
     },
     {
+      "company": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-11-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-11-17",
@@ -50,16 +70,6 @@
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "NVIDIA",
-      "symbol": "NVDA",
-      "date": "2026-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -76,10 +86,12 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-11-19",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:30 PM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -175,32 +187,33 @@
       "sector": "Consumer"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-11-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-10-30T03:23:18Z",
+  "generatedAt": "2026-10-30T11:56:33Z",
   "irCompanies": [
     "Home Depot Inc",
+    "Intuit",
     "Tencent Music"
   ],
   "fallbackCompanies": [
     "Baidu",
     "Bath & Body Works",
     "Disney",
-    "Intuit",
+    "Keysight Technologies Inc",
     "Lowe\u2019s Cos Inc",
     "Medtronic PLC",
     "NVIDIA",
