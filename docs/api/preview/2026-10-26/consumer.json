@@ -76,9 +76,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -97,9 +97,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.kimcorealty.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mondelez International",
@@ -114,23 +112,10 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-10-29",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2026-10-29",
-      "bmo_amc": "4:39 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:39 pm EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Starbucks Corp",
@@ -145,18 +130,18 @@
       "company": "Church & Dwight",
       "symbol": "CHD",
       "date": "2026-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -169,15 +154,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-10-29T22:17:26Z",
-  "irCompanies": [
-    "Kimco Realty Corp",
-    "Norwegian Cruise Line",
-    "Smithfield Foods"
-  ],
+  "generatedAt": "2026-10-30T03:22:43Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Chipotle Mexican Grill",
@@ -188,8 +169,10 @@
     "Federal Realty Investment Trust",
     "Hershey Co",
     "International Paper Co",
+    "Kimco Realty Corp",
     "Masco Corp",
     "Mondelez International",
+    "Norwegian Cruise Line",
     "Royal Caribbean Group",
     "Smithfield Foods",
     "Starbucks Corp",

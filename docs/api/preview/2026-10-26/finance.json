@@ -130,9 +130,9 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2026-10-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -148,18 +148,18 @@
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Mastercard",
       "symbol": "MA",
       "date": "2026-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -181,17 +181,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Willis Tower Watson",
       "symbol": "WTW",
       "date": "2026-10-29",
@@ -204,22 +193,20 @@
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-10-29T22:17:27Z",
-  "irCompanies": [
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-10-30T03:22:41Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
     "Aon",
