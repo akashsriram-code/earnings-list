@@ -13,10 +13,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -76,8 +78,10 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-10-30T21:55:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-10-31T03:08:03Z",
+  "irCompanies": [
+    "Take-Two Interactive"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
@@ -85,7 +89,6 @@
     "JD.com",
     "Lucid",
     "Sea Limited",
-    "Take-Two Interactive",
     "Trade Desk"
   ],
   "week": {
