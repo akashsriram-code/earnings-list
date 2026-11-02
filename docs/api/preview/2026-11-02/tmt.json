@@ -15,9 +15,9 @@
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -26,7 +26,7 @@
       "date": "2026-11-02",
       "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM EST",
       "ir_source_url": "https://investor.foxcorporation.com/",
       "source": "investor_relations"
@@ -53,45 +53,45 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -445,7 +445,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-01T21:35:58Z",
+  "generatedAt": "2026-11-02T03:09:22Z",
   "irCompanies": [
     "AT&T",
     "Fox Corp",
