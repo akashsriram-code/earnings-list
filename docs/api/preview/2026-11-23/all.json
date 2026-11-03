@@ -1,11 +1,61 @@
 {
   "records": [
     {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-11-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.hpe.com/",
@@ -58,8 +108,8 @@
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -90,8 +140,8 @@
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -105,56 +155,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-11-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 15,
@@ -163,7 +163,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-03T10:23:49Z",
+  "generatedAt": "2026-11-03T18:56:30Z",
   "irCompanies": [
     "Dell",
     "HPE",

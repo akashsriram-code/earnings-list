@@ -8,16 +8,29 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-11-10",
+      "bmo_amc": "10:55 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:55 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-03T10:23:23Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-03T18:56:05Z",
+  "irCompanies": [
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [
     "KKR"
   ],

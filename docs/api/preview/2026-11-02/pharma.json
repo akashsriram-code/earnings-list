@@ -4,8 +4,8 @@
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-11-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,10 +49,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-11-03",
-      "bmo_amc": "4:58 AM ET",
+      "bmo_amc": "11:49 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:58 am ET",
+      "ir_time_label": "11:49 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -60,9 +60,9 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-11-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -78,9 +78,9 @@
       "company": "Waters Corp",
       "symbol": "WAT",
       "date": "2026-11-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -255,7 +255,7 @@
   "count": 27,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-11-03T10:23:13Z",
+  "generatedAt": "2026-11-03T18:55:50Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Merck",

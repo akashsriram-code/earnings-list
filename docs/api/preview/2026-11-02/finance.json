@@ -4,10 +4,10 @@
       "company": "Apollo",
       "symbol": "APO",
       "date": "2026-11-03",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://ir.apollo.com?source=redirect",
       "source": "investor_relations"
     },
@@ -37,6 +37,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Allstate Corp",
@@ -197,13 +208,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-03T10:23:12Z",
+  "generatedAt": "2026-11-03T18:55:49Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
@@ -212,6 +223,7 @@
     "JPMorgan",
     "PNC Financial",
     "Prudential Financial",
+    "Truist Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [

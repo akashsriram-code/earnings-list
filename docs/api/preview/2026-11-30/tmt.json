@@ -51,17 +51,8 @@
       "company": "Snowflake",
       "symbol": "SNOW",
       "date": "2026-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -75,17 +66,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-03T10:23:59Z",
+  "generatedAt": "2026-11-03T18:56:40Z",
   "irCompanies": [
     "BlackBerry"
   ],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",
-    "HPE",
     "Marvell",
     "Salesforce",
     "SentinelOne",
