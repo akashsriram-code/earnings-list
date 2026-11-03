@@ -1,6 +1,38 @@
 {
   "records": [
     {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-11-09",
@@ -49,6 +81,40 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-11-10",
+      "bmo_amc": "10:50 AM CDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:50 am CDT",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Lucid",
@@ -131,72 +197,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-11-10",
-      "bmo_amc": "10:50 AM CDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:50 am CDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 19,
@@ -205,7 +205,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-03T02:53:38Z",
+  "generatedAt": "2026-11-03T10:23:26Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Fortive Corp",

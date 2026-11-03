@@ -100,6 +100,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-11-03",
+      "bmo_amc": "5:30 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30 pm EST",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Freshworks",
       "symbol": "FRSH",
       "date": "2026-11-03",
@@ -440,11 +451,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 47,
+  "count": 48,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-03T02:53:26Z",
+  "generatedAt": "2026-11-03T10:23:12Z",
   "irCompanies": [
+    "Equinix",
     "Fox Corp",
     "KLA Corp",
     "Lam Research",
