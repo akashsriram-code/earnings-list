@@ -1,35 +1,22 @@
 {
   "records": [
     {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations"
-    },
-    {
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-11-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-11-02",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Grab",
@@ -39,17 +26,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-11-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Match Group",
@@ -64,65 +40,54 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-11-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2026-11-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-11-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2026-11-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-02",
-      "bmo_amc": "3:40 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:40 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2026-11-02",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -167,9 +132,9 @@
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.shopify.com/investors",
       "source": "investor_relations"
@@ -245,6 +210,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-11-04",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
     },
     {
       "company": "GlobalFoundries",
@@ -464,22 +440,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 49,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-02T21:07:43Z",
+  "generatedAt": "2026-11-03T02:53:26Z",
   "irCompanies": [
-    "AT&T",
     "Fox Corp",
     "KLA Corp",
     "Lam Research",
     "Live Nation Entertainment",
     "Lyft",
-    "Marvell",
     "NYT",
     "Qnity",
-    "Shopify",
-    "Take-Two Interactive"
+    "Shopify"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -494,6 +467,7 @@
     "Duolingo",
     "EPAM",
     "Figma",
+    "Fox Corp",
     "Freshworks",
     "Gartner",
     "GlobalFoundries",

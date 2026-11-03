@@ -10,26 +10,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-11-02",
-      "bmo_amc": "1:01 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:01 pm EST",
-      "ir_source_url": "https://ir.deckers.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-11-02",
-      "bmo_amc": "08:30AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Ball Corp",
@@ -57,7 +44,7 @@
       "date": "2026-11-03",
       "bmo_amc": "8:00AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00am",
       "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations"
@@ -77,9 +64,9 @@
       "company": "Yum Brands",
       "symbol": "YUM",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -90,6 +77,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-11-04",
+      "bmo_amc": "1:00PM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00PM ",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Kraft Heinz Co",
@@ -185,10 +183,9 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-02T21:07:43Z",
+  "generatedAt": "2026-11-03T02:53:25Z",
   "irCompanies": [
     "Ball Corp",
-    "Deckers Outdoors",
     "Estee Lauder",
     "Keurig Dr. Pepper",
     "Sysco Corp"
@@ -196,6 +193,7 @@
   "fallbackCompanies": [
     "Amcor PLC",
     "Clorox Co",
+    "Estee Lauder",
     "International Flavours & Fragrances",
     "Kimberly Clark Corp",
     "Kraft Heinz Co",
