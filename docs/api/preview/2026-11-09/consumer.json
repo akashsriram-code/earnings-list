@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2026-11-12",
+      "bmo_amc": "6:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 am EST",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-03T18:56:04Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-04T01:08:07Z",
+  "irCompanies": [
+    "Ball Corp"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-11-09",

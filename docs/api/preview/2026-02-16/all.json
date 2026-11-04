@@ -1,54 +1,74 @@
 {
   "records": [
     {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
       "date": "2026-02-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "DoorDash",
-      "symbol": "DASH",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Molson Coors Beverage Co",
-      "symbol": "TAP",
+      "company": "Insulet",
+      "symbol": "PODD",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
       "company": "Caesars Entertainment Inc",
@@ -104,9 +124,9 @@
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-02-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -136,6 +156,16 @@
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -171,314 +201,54 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Celanese",
-      "symbol": "CE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Constellation Energy",
-      "symbol": "CEG",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "DTE",
-      "symbol": "DTE",
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
       "date": "2026-02-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "Devon Energy",
-      "symbol": "DVN",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "EQT Corp",
-      "symbol": "EQT",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Energy Transfer",
-      "symbol": "ET",
-      "date": "2026-02-17",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Expand Energy",
-      "symbol": "EXE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "First Energy",
-      "symbol": "FE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "CF Industries",
-      "symbol": "CF",
+      "company": "DoorDash",
+      "symbol": "DASH",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "Edison International",
-      "symbol": "EIX",
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "HF Sinclair",
-      "symbol": "DINO",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Nutrien",
-      "symbol": "NTR",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Texas Pacific Land",
-      "symbol": "TPL",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Alliant Energy",
-      "symbol": "LNT",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Cenovus Energy",
-      "symbol": "CVE",
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
       "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "CenterPoint Energy",
-      "symbol": "CNP",
+      "company": "Walmart Inc",
+      "symbol": "WMT",
       "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Consolidated Edison",
-      "symbol": "ED",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Evergy",
-      "symbol": "EVRG",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Newmont Corp",
-      "symbol": "NEM",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Southern Co",
-      "symbol": "SO",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Targa Resources",
-      "symbol": "TRGP",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "PPL Corp",
-      "symbol": "PPL",
-      "date": "2026-02-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Cadence",
@@ -589,15 +359,255 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Celanese",
+      "symbol": "CE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Constellation Energy",
+      "symbol": "CEG",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "DTE",
+      "symbol": "DTE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Devon Energy",
+      "symbol": "DVN",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Energy Transfer",
+      "symbol": "ET",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Expand Energy",
+      "symbol": "EXE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "CF Industries",
+      "symbol": "CF",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "HF Sinclair",
+      "symbol": "DINO",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Nutrien",
+      "symbol": "NTR",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Texas Pacific Land",
+      "symbol": "TPL",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Alliant Energy",
+      "symbol": "LNT",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Cenovus Energy",
+      "symbol": "CVE",
+      "date": "2026-02-19",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Consolidated Edison",
+      "symbol": "ED",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Evergy",
+      "symbol": "EVRG",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Southern Co",
+      "symbol": "SO",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PPL Corp",
+      "symbol": "PPL",
+      "date": "2026-02-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
-  "count": 59,
+  "count": 60,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-03T18:47:16Z",
+  "generatedAt": "2026-11-04T01:00:05Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -617,6 +627,7 @@
     "Consolidated Edison",
     "Constellation Energy",
     "DTE",
+    "Deere",
     "Devon Energy",
     "DoorDash",
     "EPAM",

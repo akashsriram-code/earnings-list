@@ -85,9 +85,9 @@
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -98,17 +98,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-11-03",
-      "bmo_amc": "5:30 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:30 pm EST",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Freshworks",
@@ -129,26 +118,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-11-03",
-      "bmo_amc": "9:30AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30am PST",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-11-03",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Skyworks Solutions",
@@ -169,17 +145,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-03",
-      "bmo_amc": "1:28 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:28 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-11-03",
@@ -192,18 +157,18 @@
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Arm Holdings",
       "symbol": "ARM",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -219,9 +184,9 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -286,9 +251,9 @@
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -333,10 +298,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "8:00 AM EDT",
+      "bmo_amc": "8:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EDT",
+      "ir_time_label": "8:00 am EST",
       "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations"
     },
@@ -344,10 +309,12 @@
       "company": "Qualcomm",
       "symbol": "QCOM",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "1:45 PM PT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "AMC",
+      "ir_time_label": "1:45 PM PT",
+      "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Snap",
@@ -371,9 +338,9 @@
       "company": "Uber",
       "symbol": "UBER",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -462,21 +429,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 49,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-03T18:55:51Z",
+  "generatedAt": "2026-11-04T01:07:55Z",
   "irCompanies": [
-    "Equinix",
     "Fox Corp",
     "KLA Corp",
-    "Lam Research",
     "Live Nation Entertainment",
     "Lyft",
     "NYT",
     "Qnity",
-    "Shopify",
-    "Take-Two Interactive"
+    "Qualcomm"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -507,9 +471,9 @@
     "PTC",
     "Palantir",
     "Paycom",
-    "Qualcomm",
     "Roku",
     "SBA Communications",
+    "Shopify",
     "Skyworks Solutions",
     "Snap",
     "Super Micro",
