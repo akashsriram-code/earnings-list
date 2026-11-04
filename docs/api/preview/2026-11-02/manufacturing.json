@@ -31,8 +31,8 @@
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Aptiv PLC",
       "symbol": "APTV",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "Booking Holdings Inc",
       "symbol": "BKNG",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2026-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -87,7 +87,7 @@
       "date": "2026-11-04",
       "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://ir.emerson.com/",
       "source": "investor_relations"
@@ -96,9 +96,9 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -114,9 +114,9 @@
       "company": "Martin Marietta Materials Inc",
       "symbol": "MLM",
       "date": "2026-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -134,7 +134,7 @@
       "date": "2026-11-04",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -232,7 +232,7 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-04T10:12:22Z",
+  "generatedAt": "2026-11-04T19:08:38Z",
   "irCompanies": [
     "Air Lease",
     "Axon Enterprise Inc",
