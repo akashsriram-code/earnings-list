@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-11-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2026-11-24",
@@ -19,13 +28,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-05T10:09:19Z",
+  "generatedAt": "2026-11-05T19:20:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Best Buy Co Inc",
+    "Dollar Tree",
     "J.M. Smucker Co"
   ],
   "week": {

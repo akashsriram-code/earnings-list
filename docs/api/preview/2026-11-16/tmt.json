@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-11-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-11-17",
@@ -97,10 +106,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-05T10:09:09Z",
+  "generatedAt": "2026-11-05T19:19:47Z",
   "irCompanies": [
     "Intuit",
     "Paychex",
@@ -109,6 +118,7 @@
   "fallbackCompanies": [
     "Baidu",
     "Disney",
+    "JD.com",
     "NVIDIA",
     "Palo Alto",
     "Paramount",

@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-11-10",
@@ -32,15 +43,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-05T10:08:55Z",
+  "generatedAt": "2026-11-05T19:19:35Z",
   "irCompanies": [
     "Citigroup",
+    "Morgan Stanley",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
