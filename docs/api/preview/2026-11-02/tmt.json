@@ -157,18 +157,18 @@
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Arm Holdings",
       "symbol": "ARM",
       "date": "2026-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -184,9 +184,9 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-11-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -199,17 +199,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-11-04",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM EST",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "GlobalFoundries",
       "symbol": "GFS",
       "date": "2026-11-04",
@@ -219,17 +208,6 @@
       "source": "aggregator"
     },
     {
-      "company": "KLA Corp",
-      "symbol": "KLAC",
-      "date": "2026-11-04",
-      "bmo_amc": "12:00 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm EST",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Kyndryl",
       "symbol": "KD",
       "date": "2026-11-04",
@@ -237,17 +215,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Lumen Tech",
@@ -262,9 +229,9 @@
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2026-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -274,9 +241,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.nytco.com/investors/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "News Corp",
@@ -309,23 +274,19 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-11-04",
-      "bmo_amc": "6:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Qualcomm",
       "symbol": "QCOM",
       "date": "2026-11-04",
-      "bmo_amc": "1:45 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "1:45 PM PT",
-      "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Snap",
@@ -335,17 +296,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-04",
-      "bmo_amc": "1:38 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:38 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Trimble",
@@ -360,9 +310,9 @@
       "company": "Uber",
       "symbol": "UBER",
       "date": "2026-11-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -414,10 +364,12 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm PST",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lyft",
@@ -449,19 +401,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 48,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-04T19:08:36Z",
+  "generatedAt": "2026-11-05T01:16:48Z",
   "irCompanies": [
-    "Fox Corp",
-    "KLA Corp",
     "Live Nation Entertainment",
-    "Lyft",
-    "NYT",
-    "Qnity",
-    "Qualcomm",
-    "Take-Two Interactive"
+    "Lyft"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -483,16 +429,18 @@
     "Grab",
     "Iron Mountain",
     "Kyndryl",
-    "Live Nation Entertainment",
     "Lumen Tech",
     "Match Group",
     "Microchip Tech",
     "Motorola",
+    "NYT",
     "News Corp",
     "Onsemi",
     "PTC",
     "Palantir",
     "Paycom",
+    "Qnity",
+    "Qualcomm",
     "Roku",
     "SBA Communications",
     "Shopify",

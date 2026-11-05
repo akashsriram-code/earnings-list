@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-12-01",
@@ -73,6 +63,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-11-30",
@@ -112,6 +112,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-12-02",
+      "bmo_amc": "2:15 PM MST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:15 pm MST",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -207,15 +219,16 @@
       "sector": "Consumer"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-04T19:09:23Z",
+  "generatedAt": "2026-11-05T01:17:33Z",
   "irCompanies": [
     "BlackBerry",
+    "Qnity",
     "Truist Financial",
     "Ulta Beauty"
   ],
