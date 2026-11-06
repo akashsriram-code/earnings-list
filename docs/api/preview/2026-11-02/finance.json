@@ -100,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2026-11-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Global Payments",
       "symbol": "GPN",
       "date": "2026-11-05",
@@ -130,9 +121,9 @@
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -147,13 +138,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-06T10:10:28Z",
+  "generatedAt": "2026-11-06T18:47:23Z",
   "irCompanies": [
     "PNC Financial"
   ],
