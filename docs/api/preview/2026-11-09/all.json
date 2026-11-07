@@ -14,10 +14,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -71,38 +73,38 @@
       "sector": "TMT"
     },
     {
-      "company": "Ball Corp",
-      "symbol": "BALL",
-      "date": "2026-11-12",
-      "bmo_amc": "6:00 AM EST",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-11-10",
+      "bmo_amc": "10:50 AM CST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://investors.ball.com/",
+      "ir_time_label": "10:50 am CST",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-11-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
+      "company": "Magna International",
+      "symbol": "MGA",
       "date": "2026-11-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "1:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
+      "ir_time_label": "1:00 pm ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "KKR",
@@ -151,38 +153,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-11-10",
-      "bmo_amc": "10:50 AM CST",
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2026-11-12",
+      "bmo_amc": "6:00 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:50 am CST",
-      "ir_source_url": "https://investors.fortive.com/",
+      "ir_time_label": "6:00 am EST",
+      "ir_source_url": "https://investors.ball.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-11-11",
-      "bmo_amc": "1:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:00 pm ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
       "company": "Constellation Energy",
@@ -233,6 +213,28 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-11-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
   "count": 22,
@@ -241,7 +243,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-06T18:47:37Z",
+  "generatedAt": "2026-11-07T00:38:06Z",
   "irCompanies": [
     "Ball Corp",
     "Boston Scientific Corp",
@@ -249,7 +251,8 @@
     "Fortive Corp",
     "Magna International",
     "Morgan Stanley",
-    "Synchrony Financial"
+    "Synchrony Financial",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -263,7 +266,6 @@
     "NRG Energy",
     "Occidental Petroleum",
     "Sea Limited",
-    "Take-Two Interactive",
     "Trade Desk",
     "TransDigm Group Inc",
     "Venture Global"

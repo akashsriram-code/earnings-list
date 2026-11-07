@@ -24,10 +24,12 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-12-01",
-      "bmo_amc": "TBD",
+      "bmo_amc": "1:30 PM PST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "1:30 pm PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "C3.ai",
@@ -68,6 +70,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-12-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-12-03",
@@ -77,21 +88,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-06T18:48:14Z",
+  "generatedAt": "2026-11-07T00:38:40Z",
   "irCompanies": [
     "BlackBerry",
+    "Marvell",
     "Qnity"
   ],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",
-    "Marvell",
     "Salesforce",
     "SentinelOne",
-    "Snowflake"
+    "Snowflake",
+    "Zscaler"
   ],
   "week": {
     "id": "2026-11-30",

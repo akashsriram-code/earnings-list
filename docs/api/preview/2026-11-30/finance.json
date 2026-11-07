@@ -12,6 +12,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-12-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-12-02",
@@ -48,17 +57,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-06T18:48:16Z",
+  "generatedAt": "2026-11-07T00:38:42Z",
   "irCompanies": [
     "Truist Financial"
   ],
   "fallbackCompanies": [
+    "Bank of Montreal",
     "CIBC",
     "Royal Bank of Canada",
     "Scotiabank",
