@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-11-24",
@@ -49,6 +29,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "HPE",
@@ -175,7 +175,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-08T03:08:33Z",
+  "generatedAt": "2026-11-08T09:56:35Z",
   "irCompanies": [
     "Dell",
     "HPE",
