@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-11-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-12-01",
@@ -25,7 +14,7 @@
       "symbol": "MRVL",
       "date": "2026-12-01",
       "bmo_amc": "1:30 PM PST",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "1:30 pm PST",
       "ir_source_url": "https://investor.marvell.com/",
@@ -88,12 +77,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-09T03:30:29Z",
+  "generatedAt": "2026-11-09T14:42:43Z",
   "irCompanies": [
-    "BlackBerry",
     "Marvell",
     "Qnity"
   ],
