@@ -1,156 +1,6 @@
 {
   "records": [
     {
-      "company": "Lucid",
-      "symbol": "LCID",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Trade Desk",
-      "symbol": "TTD",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "CoreWeave",
-      "symbol": "CRWV",
-      "date": "2026-11-10",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2026-11-10",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Bumble",
-      "symbol": "BMBL",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Applied Materials",
-      "symbol": "AMAT",
-      "date": "2026-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cisco Systems",
-      "symbol": "CSCO",
-      "date": "2026-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Ball Corp",
-      "symbol": "BALL",
-      "date": "2026-11-12",
-      "bmo_amc": "6:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-11-10",
-      "bmo_amc": "10:50 AM CST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:50 am CST",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-11-10",
-      "bmo_amc": "11:50 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:50 am EST",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-10",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-11-11",
-      "bmo_amc": "1:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:00 pm ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-11-11",
-      "bmo_amc": "5:05 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:05 pm EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-11-09",
@@ -176,10 +26,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-11-10",
-      "bmo_amc": "8:51 AM ET",
+      "bmo_amc": "3:49 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:51 am ET",
+      "ir_time_label": "3:49 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -205,6 +55,18 @@
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2026-11-12",
+      "bmo_amc": "6:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 am EST",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Constellation Energy",
@@ -267,6 +129,98 @@
       "sector": "Resources"
     },
     {
+      "company": "Lucid",
+      "symbol": "LCID",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2026-11-10",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-11-10",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-10",
+      "bmo_amc": "3:47 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:47 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Bumble",
+      "symbol": "BMBL",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
+      "date": "2026-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-11-09",
@@ -277,48 +231,107 @@
       "sector": "Finance"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
       "date": "2026-11-10",
-      "bmo_amc": "12:45 PM EST",
+      "bmo_amc": "10:50 AM CST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "12:45 PM EST",
-      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "ir_time_label": "10:50 am CST",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
       "date": "2026-11-10",
-      "bmo_amc": "10:55 AM EST",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:55 AM EST",
-      "ir_source_url": "https://investors.synchrony.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2026-11-10",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-11-10",
+      "bmo_amc": "11:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:50 am EST",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-10",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-11-11",
+      "bmo_amc": "1:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:00 pm ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-11-11",
+      "bmo_amc": "5:05 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:05 pm EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 28,
+  "count": 29,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-10T14:02:33Z",
+  "generatedAt": "2026-11-10T21:14:38Z",
   "irCompanies": [
     "Ball Corp",
     "Boston Scientific Corp",
     "Centene Corp",
-    "Citigroup",
     "Fortive Corp",
+    "MGM Resorts International",
     "Magna International",
     "Merck",
+    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
-    "Synchrony Financial"
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
