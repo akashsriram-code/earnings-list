@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-12-15",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2026-12-16",
@@ -28,15 +37,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-10T05:08:59Z",
+  "generatedAt": "2026-11-10T14:03:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Carmax Inc",
     "Jabil Inc",
-    "Lennar Corp"
+    "Lennar Corp",
+    "Nordson Corp"
   ],
   "week": {
     "id": "2026-12-14",
