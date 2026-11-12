@@ -10,22 +10,37 @@
       "source": "aggregator"
     },
     {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-11-11",
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-11-12",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-11-12",
+      "bmo_amc": "7:33 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:33 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-11-12T04:47:24Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-12T14:17:07Z",
+  "irCompanies": [
+    "Centene Corp",
+    "Merck"
+  ],
   "fallbackCompanies": [
-    "Bio-Techne Corp",
     "Hims and Hers"
   ],
   "week": {

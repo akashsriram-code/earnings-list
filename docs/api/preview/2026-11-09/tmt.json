@@ -62,13 +62,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-12T04:47:23Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-12T14:17:09Z",
+  "irCompanies": [
+    "Marvell"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",

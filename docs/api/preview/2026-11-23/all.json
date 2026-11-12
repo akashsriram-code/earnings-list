@@ -1,6 +1,48 @@
 {
   "records": [
     {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-24",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-11-24",
@@ -29,48 +71,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-24",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     },
     {
       "company": "HPE",
@@ -165,7 +165,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-12T04:47:49Z",
+  "generatedAt": "2026-11-12T14:17:35Z",
   "irCompanies": [
     "Dell",
     "HPE",
