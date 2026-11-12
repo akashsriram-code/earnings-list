@@ -64,6 +64,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2026-11-12",
+      "bmo_amc": "3:30 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:30 PM EST",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-11-12",
@@ -73,14 +84,27 @@
       "ir_time_label": null,
       "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-12",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-12T14:17:09Z",
+  "generatedAt": "2026-11-12T21:48:23Z",
   "irCompanies": [
-    "Marvell"
+    "Intel",
+    "Marvell",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
