@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2026-11-09",
@@ -18,6 +8,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-11-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
       "sector": "Pharma"
     },
     {
@@ -31,66 +33,6 @@
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "Constellation Energy",
-      "symbol": "CEG",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "NRG Energy",
-      "symbol": "NRG",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2026-11-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Corteva",
-      "symbol": "CTVA",
-      "date": "2026-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2026-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     },
     {
       "company": "Lucid",
@@ -161,17 +103,127 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-11-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-13",
+      "bmo_amc": "3:46 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:46 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Constellation Energy",
+      "symbol": "CEG",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NRG Energy",
+      "symbol": "NRG",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Corteva",
+      "symbol": "CTVA",
+      "date": "2026-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-11-13",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2026-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 16,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-13T13:41:22Z",
+  "generatedAt": "2026-11-13T21:14:56Z",
   "irCompanies": [
-    "Merck"
+    "Centene Corp",
+    "Cincinnati Financial",
+    "Marvell",
+    "Merck",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
