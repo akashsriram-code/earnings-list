@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-11-20",
+      "bmo_amc": "8:45 AM GMT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 am GMT",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-11-16",
@@ -143,6 +155,28 @@
       "sector": "TMT"
     },
     {
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-11-19",
+      "bmo_amc": "10:31 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:31 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
@@ -233,18 +267,10 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Honeywell",
@@ -279,27 +305,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-11-20",
-      "bmo_amc": "8:45 AM GMT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:45 am GMT",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-12T21:48:36Z",
+  "generatedAt": "2026-11-13T04:01:19Z",
   "irCompanies": [
     "Alibaba",
     "Citizens Financial",
@@ -309,9 +323,11 @@
     "Intuit",
     "Lyft",
     "Magna International",
+    "Merck",
     "Nike Inc",
     "Paychex",
-    "Tencent Music"
+    "Tencent Music",
+    "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Baidu",
@@ -328,7 +344,6 @@
     "TJX Cos Inc",
     "Target Corp",
     "Tyson Foods",
-    "Walmart Inc",
     "Xpeng"
   ],
   "week": {

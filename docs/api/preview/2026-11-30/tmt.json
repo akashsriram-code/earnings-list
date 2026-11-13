@@ -24,10 +24,12 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-12-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "1:30 PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "1:30 pm PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "C3.ai",
@@ -98,15 +100,15 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-12T21:48:59Z",
+  "generatedAt": "2026-11-13T04:01:42Z",
   "irCompanies": [
     "BlackBerry",
+    "Marvell",
     "Qnity"
   ],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",
-    "Marvell",
     "Salesforce",
     "SentinelOne",
     "Snowflake",

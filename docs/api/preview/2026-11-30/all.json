@@ -53,28 +53,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-12-02",
-      "bmo_amc": "8:50 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:50 am EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-12-01",
@@ -137,6 +115,28 @@
       "sector": "Finance"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-12-02",
+      "bmo_amc": "8:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-11-30",
@@ -162,10 +162,12 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2026-12-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "1:30 PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "1:30 pm PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -247,9 +249,10 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-12T21:48:59Z",
+  "generatedAt": "2026-11-13T04:01:42Z",
   "irCompanies": [
     "BlackBerry",
+    "Marvell",
     "Qnity",
     "Quanta Services Inc",
     "Truist Financial",
@@ -265,7 +268,6 @@
     "Dollar General",
     "Hormel Foods",
     "Kroger Co",
-    "Marvell",
     "Royal Bank of Canada",
     "Salesforce",
     "Scotiabank",

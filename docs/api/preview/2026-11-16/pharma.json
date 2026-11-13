@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-11-19",
+      "bmo_amc": "10:31 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:31 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-11-12T21:48:35Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-13T04:01:18Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Bio-Techne Corp"
   ],

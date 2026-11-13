@@ -83,16 +83,19 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-12T21:48:34Z",
+  "generatedAt": "2026-11-13T04:01:19Z",
   "irCompanies": [
     "Home Depot Inc",
-    "Nike Inc"
+    "Nike Inc",
+    "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
@@ -100,8 +103,7 @@
     "Ross Stores",
     "TJX Cos Inc",
     "Target Corp",
-    "Tyson Foods",
-    "Walmart Inc"
+    "Tyson Foods"
   ],
   "week": {
     "id": "2026-11-16",
