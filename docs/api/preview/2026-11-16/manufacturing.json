@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-11-17",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-11-17",
@@ -21,11 +32,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-14T03:58:39Z",
+  "generatedAt": "2026-11-14T12:46:42Z",
   "irCompanies": [
+    "Honeywell",
     "Magna International"
   ],
   "fallbackCompanies": [
