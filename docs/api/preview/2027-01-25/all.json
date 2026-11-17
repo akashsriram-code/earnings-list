@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2027-01-26",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2027-01-28",
@@ -13,15 +25,16 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-16T21:32:48Z",
+  "generatedAt": "2026-11-17T05:40:22Z",
   "irCompanies": [
-    "Southwest Airlines Co"
+    "Southwest Airlines Co",
+    "UPS"
   ],
   "fallbackCompanies": [],
   "week": {

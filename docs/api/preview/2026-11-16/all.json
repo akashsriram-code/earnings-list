@@ -1,47 +1,13 @@
 {
   "records": [
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-11-20",
-      "bmo_amc": "8:45 AM GMT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:45 am GMT",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-11-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -55,24 +21,12 @@
       "sector": "TMT"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -80,9 +34,9 @@
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -90,9 +44,9 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -112,9 +66,9 @@
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -134,9 +88,9 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations",
@@ -189,24 +143,46 @@
       "sector": "TMT"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-11-20",
+      "bmo_amc": "8:45 AM GMT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 am GMT",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-11-19",
-      "bmo_amc": "11:10 AM ET",
+      "bmo_amc": "11:26 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:10 am ET",
+      "ir_time_label": "11:26 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
     },
     {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -214,9 +190,9 @@
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations",
@@ -297,18 +273,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-11-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2026-11-17",
@@ -331,27 +295,24 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 30,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-16T21:30:51Z",
+  "generatedAt": "2026-11-17T05:38:33Z",
   "irCompanies": [
     "Alibaba",
     "Citizens Financial",
     "Home Depot Inc",
     "IBM",
     "Intuit",
-    "Lennar Corp",
     "Lyft",
     "Magna International",
-    "Marvell",
     "Merck",
     "Nike Inc",
     "Paychex",
-    "Take-Two Interactive",
     "Tencent Music",
     "Walmart Inc"
   ],

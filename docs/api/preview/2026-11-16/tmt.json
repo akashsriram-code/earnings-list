@@ -4,21 +4,10 @@
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-11-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Paramount",
@@ -30,41 +19,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -82,9 +60,9 @@
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -102,9 +80,9 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
@@ -152,18 +130,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 15,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-16T21:30:50Z",
+  "generatedAt": "2026-11-17T05:38:31Z",
   "irCompanies": [
     "Alibaba",
     "IBM",
     "Intuit",
     "Lyft",
-    "Marvell",
     "Paychex",
-    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [

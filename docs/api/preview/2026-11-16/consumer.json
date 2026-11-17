@@ -4,18 +4,18 @@
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-11-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2026-11-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
       "source": "investor_relations"
@@ -91,7 +91,7 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-16T21:30:51Z",
+  "generatedAt": "2026-11-17T05:38:32Z",
   "irCompanies": [
     "Home Depot Inc",
     "Nike Inc",
