@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-11-17",
+      "bmo_amc": "8:45 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-11-20",
@@ -12,15 +23,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-17T05:38:31Z",
+  "generatedAt": "2026-11-17T15:10:44Z",
   "irCompanies": [
-    "Citizens Financial"
+    "Citizens Financial",
+    "Synchrony Financial"
   ],
   "fallbackCompanies": [],
   "week": {

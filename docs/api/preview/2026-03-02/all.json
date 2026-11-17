@@ -1,66 +1,6 @@
 {
   "records": [
     {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Broadcom",
-      "symbol": "AVGO",
-      "date": "2026-03-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "JD.com",
-      "symbol": "JD",
-      "date": "2026-03-05",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2026-03-02",
@@ -141,14 +81,54 @@
       "sector": "Consumer"
     },
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
       "date": "2026-03-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-03-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-03-05",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "AES Corp",
@@ -179,6 +159,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 18,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-17T05:31:22Z",
+  "generatedAt": "2026-11-17T15:03:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
