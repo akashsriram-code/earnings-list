@@ -31,72 +31,37 @@
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-11-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2026-11-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Lyft",
-      "symbol": "LYFT",
-      "date": "2026-11-17",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://investor.lyft.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-11-17",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2026-11-17",
-      "bmo_amc": "11:40 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:40 am EST",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-17",
-      "bmo_amc": "9:41 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:41 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-11-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "IBM",
@@ -113,9 +78,9 @@
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-11-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -141,18 +106,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 14,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-17T15:10:42Z",
+  "generatedAt": "2026-11-18T00:16:31Z",
   "irCompanies": [
     "Alibaba",
     "IBM",
-    "Intuit",
-    "Lyft",
-    "Paychex",
-    "Take-Two Interactive",
-    "Tencent Music"
+    "Intuit"
   ],
   "fallbackCompanies": [
     "Baidu",
@@ -161,6 +122,7 @@
     "NVIDIA",
     "Palo Alto",
     "Paramount",
+    "Tencent Music",
     "Xpeng"
   ],
   "week": {

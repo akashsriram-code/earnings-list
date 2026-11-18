@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-12-07",
+      "bmo_amc": "9:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-12-08",
@@ -46,11 +57,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-17T15:11:14Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-18T00:17:08Z",
+  "irCompanies": [
+    "Verizon"
+  ],
   "fallbackCompanies": [
     "Adobe",
     "Broadcom",

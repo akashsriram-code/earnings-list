@@ -1,25 +1,14 @@
 {
   "records": [
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-11-17",
-      "bmo_amc": "8:00 AM EST",
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-11-18",
+      "bmo_amc": "1:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.quantaservices.com/",
+      "ir_time_label": "1:00 pm ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
       "source": "investor_relations"
     },
     {
@@ -32,13 +21,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-17T15:10:43Z",
+  "generatedAt": "2026-11-18T00:16:31Z",
   "irCompanies": [
-    "Honeywell",
-    "Quanta Services Inc"
+    "Magna International"
   ],
   "fallbackCompanies": [
     "Keysight Technologies Inc"
