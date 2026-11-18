@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2027-01-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2027-01-14",
@@ -23,18 +32,20 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-18T11:01:30Z",
+  "generatedAt": "2026-11-18T19:52:32Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "JPMorgan"
+  ],
   "week": {
     "id": "2027-01-11",
     "start_date": "2027-01-11",

@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
-      "date": "2026-05-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2026-05-11",
@@ -171,14 +161,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2026-05-13",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-05-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
       "company": "Hims and Hers",
@@ -199,6 +189,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-05-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 20,
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-18T10:54:21Z",
+  "generatedAt": "2026-11-18T19:46:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",
