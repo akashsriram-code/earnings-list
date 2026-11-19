@@ -64,35 +64,13 @@
       "source": "aggregator"
     },
     {
-      "company": "IBM",
-      "symbol": "IBM",
-      "date": "2026-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ibm.com/investor",
-      "source": "investor_relations"
-    },
-    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-11-18",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-11-18",
-      "bmo_amc": "2:23 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:23 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Alibaba",
@@ -100,7 +78,7 @@
       "date": "2026-11-19",
       "bmo_amc": "8:00 PM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 PM",
       "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
       "source": "investor_relations"
@@ -111,21 +89,19 @@
       "date": "2026-11-19",
       "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 PM EST",
       "ir_source_url": "https://investors.intuit.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 12,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-18T19:51:10Z",
+  "generatedAt": "2026-11-19T02:15:45Z",
   "irCompanies": [
     "Alibaba",
-    "IBM",
-    "Intuit",
-    "Take-Two Interactive"
+    "Intuit"
   ],
   "fallbackCompanies": [
     "Baidu",
