@@ -25,98 +25,24 @@
       "sector": "Finance"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2026-11-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-11-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lowe\u2019s Cos Inc",
-      "symbol": "LOW",
-      "date": "2026-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
-      "date": "2026-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Target Corp",
-      "symbol": "TGT",
-      "date": "2026-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Bath & Body Works",
-      "symbol": "BBWI",
-      "date": "2026-11-19",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2026-11-19",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-11-19",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": null,
-      "ir_source_url": "https://stock.walmart.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-11-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Baidu",
@@ -223,24 +149,98 @@
       "sector": "TMT"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
+      "company": "Tyson Foods",
+      "symbol": "TSN",
       "date": "2026-11-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-11-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2026-11-19",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
       "date": "2026-11-19",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-11-19",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
   "count": 23,
@@ -249,7 +249,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-19T02:15:47Z",
+  "generatedAt": "2026-11-19T11:00:38Z",
   "irCompanies": [
     "Alibaba",
     "Citizens Financial",
