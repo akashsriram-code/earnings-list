@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2026-12-14",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2026-12-16",
@@ -37,15 +46,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-20T10:50:35Z",
+  "generatedAt": "2026-11-20T19:30:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
     "BlackBerry",
     "Micron",
+    "Oracle",
     "Paychex"
   ],
   "week": {
