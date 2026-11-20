@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-12-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-12-09",
@@ -43,6 +31,40 @@
       "sector": "Consumer"
     },
     {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-12-09",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-12-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-12-07",
@@ -51,6 +73,18 @@
       "yahoo_time_label": null,
       "ir_time_label": "9:00 AM ET",
       "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-12-08",
+      "bmo_amc": "08:15 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:15 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -117,48 +151,27 @@
       "sector": "TMT"
     },
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-12-09",
-      "bmo_amc": "10:00 AM ET",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-12-10",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-12-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-12-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-19T19:51:45Z",
+  "generatedAt": "2026-11-20T02:06:39Z",
   "irCompanies": [
+    "AT&T",
     "Becton Dickinson and Co",
     "IBM",
     "JPMorgan",
