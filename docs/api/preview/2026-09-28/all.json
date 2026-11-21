@@ -21,14 +21,24 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "Micron",
+      "symbol": "MU",
       "date": "2026-09-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-10-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Carnival Corp",
@@ -71,24 +81,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-09-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2026-10-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     }
   ],
   "count": 9,
@@ -97,7 +97,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-21T10:30:49Z",
+  "generatedAt": "2026-11-21T18:30:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
