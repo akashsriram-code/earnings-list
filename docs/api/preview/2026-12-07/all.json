@@ -31,28 +31,26 @@
       "sector": "Consumer"
     },
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-12-09",
-      "bmo_amc": "10:00 AM ET",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-12-10",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-12-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-12-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Verizon",
@@ -131,26 +129,28 @@
       "sector": "TMT"
     },
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-12-10",
-      "bmo_amc": "8:30 AM EST",
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-12-09",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-12-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
   "count": 14,
@@ -159,7 +159,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-22T00:55:38Z",
+  "generatedAt": "2026-11-22T10:37:47Z",
   "irCompanies": [
     "AT&T",
     "Becton Dickinson and Co",
