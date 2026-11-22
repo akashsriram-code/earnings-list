@@ -1,16 +1,34 @@
 {
   "records": [
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-12-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-12-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "JPMorgan",
@@ -113,34 +131,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-12-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
       "date": "2026-12-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-12-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Autozone Inc",
@@ -159,7 +159,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-21T18:32:30Z",
+  "generatedAt": "2026-11-22T00:55:38Z",
   "irCompanies": [
     "AT&T",
     "Becton Dickinson and Co",

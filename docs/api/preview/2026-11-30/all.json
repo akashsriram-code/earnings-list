@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-12-02",
-      "bmo_amc": "8:50 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:50 am EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-11-30",
@@ -193,6 +171,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-12-02",
+      "bmo_amc": "8:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-12-01",
@@ -253,6 +243,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 24,
@@ -261,7 +261,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-21T18:32:18Z",
+  "generatedAt": "2026-11-22T00:55:26Z",
   "irCompanies": [
     "BlackBerry",
     "Marvell",
