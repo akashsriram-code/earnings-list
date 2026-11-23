@@ -43,6 +43,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Western Digital",
+      "symbol": "WDC",
+      "date": "2026-12-01",
+      "bmo_amc": "11:15 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15 AM PST",
+      "ir_source_url": "https://investor.wdc.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2026-12-02",
@@ -50,6 +61,17 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-12-02",
+      "bmo_amc": "8:15 AM MST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:15 AM MST",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qnity",
@@ -108,15 +130,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-11-23T01:22:49Z",
+  "generatedAt": "2026-11-23T11:36:20Z",
   "irCompanies": [
     "BlackBerry",
+    "Fortinet",
     "Marvell",
     "Qnity",
-    "Teradyne"
+    "Teradyne",
+    "Western Digital"
   ],
   "fallbackCompanies": [
     "C3.ai",

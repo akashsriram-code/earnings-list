@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-12-07",
+      "bmo_amc": "9:00 AM TO",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM to",
+      "ir_source_url": "https://investor.lilly.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-12-10",
@@ -12,12 +23,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-11-23T01:23:03Z",
+  "generatedAt": "2026-11-23T11:36:30Z",
   "irCompanies": [
-    "Becton Dickinson and Co"
+    "Becton Dickinson and Co",
+    "Eli Lilly and Co"
   ],
   "fallbackCompanies": [],
   "week": {

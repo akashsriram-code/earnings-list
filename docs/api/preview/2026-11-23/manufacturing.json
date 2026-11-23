@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://about.autozone.com/investor-overview",
+      "source": "investor_relations"
+    },
+    {
       "company": "Deere",
       "symbol": "DE",
       "date": "2026-11-25",
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-23T01:22:38Z",
-  "irCompanies": [],
+  "generatedAt": "2026-11-23T11:36:08Z",
+  "irCompanies": [
+    "Autozone Inc"
+  ],
   "fallbackCompanies": [
     "Deere",
     "Jacobs Solutions Inc"

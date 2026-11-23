@@ -1,6 +1,104 @@
 {
   "records": [
     {
+      "company": "MSCI Inc",
+      "symbol": "MSCI",
+      "date": "2026-11-30",
+      "bmo_amc": "11:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 AM EST",
+      "ir_source_url": "https://ir.msci.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-12-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-12-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-12-02",
+      "bmo_amc": "8:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-12-03",
+      "bmo_amc": "10:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:50 AM EST",
+      "ir_source_url": "https://investors.wm.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-11-30",
@@ -47,6 +145,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Western Digital",
+      "symbol": "WDC",
+      "date": "2026-12-01",
+      "bmo_amc": "11:15 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15 AM PST",
+      "ir_source_url": "https://investor.wdc.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2026-12-02",
@@ -54,6 +164,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-12-02",
+      "bmo_amc": "8:15 AM MST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:15 AM MST",
+      "ir_source_url": "https://investor.fortinet.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -119,80 +241,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-12-02",
-      "bmo_amc": "8:50 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:50 am EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-12-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-12-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-12-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Brown-Forman Corp",
       "symbol": "BF.B",
       "date": "2026-12-03",
@@ -245,38 +293,83 @@
       "sector": "Consumer"
     },
     {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-12-01",
+      "bmo_amc": "1:45 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:45 PM EST",
+      "ir_source_url": "https://investor.regeneron.com/events-and-presentations/events-and-recent",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
+      "date": "2026-12-01",
+      "bmo_amc": "4:15 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 PM EST",
+      "ir_source_url": "https://investors.vrtx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Viatris",
+      "symbol": "VTRS",
+      "date": "2026-12-01",
+      "bmo_amc": "8:45 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:45 AM EST",
+      "ir_source_url": "https://investor.viatris.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-12-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:00 PM EST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "5:00 PM EST",
+      "ir_source_url": "https://investor.coopercos.com/",
+      "source": "investor_relations",
       "sector": "Pharma"
     }
   ],
-  "count": 24,
+  "count": 31,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-23T01:22:52Z",
+  "generatedAt": "2026-11-23T11:36:21Z",
   "irCompanies": [
     "BlackBerry",
+    "Cooper Companies Inc",
+    "Fortinet",
+    "MSCI Inc",
     "Marvell",
     "Qnity",
     "Quanta Services Inc",
+    "Regeneron Pharmaceuticals",
     "Teradyne",
     "Truist Financial",
-    "Ulta Beauty"
+    "Ulta Beauty",
+    "Vertex Pharmaceuticals Inc",
+    "Viatris",
+    "Waste Management Inc",
+    "Western Digital"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
     "Brown-Forman Corp",
     "C3.ai",
     "CIBC",
-    "Cooper Companies Inc",
     "Crowdstrike",
     "Dollar General",
     "Hormel Foods",
