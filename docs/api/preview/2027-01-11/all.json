@@ -21,16 +21,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2027-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2027-01-13",
@@ -67,30 +57,73 @@
       "symbol": "BAC",
       "date": "2027-01-15",
       "bmo_amc": "5:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 pm ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "M&T Bank Corp",
+      "symbol": "MTB",
+      "date": "2027-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2027-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Regions Financial",
+      "symbol": "RF",
+      "date": "2027-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2027-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 7,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-23T11:37:33Z",
+  "generatedAt": "2026-11-23T23:11:03Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup"
   ],
   "fallbackCompanies": [
-    "Bank of America",
     "Citigroup",
     "Delta Air",
     "JPMorgan",
+    "M&T Bank Corp",
+    "PNC Financial",
+    "Regions Financial",
+    "State Street Corp",
     "Wells Fargo"
   ],
   "week": {

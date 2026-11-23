@@ -1,26 +1,48 @@
 {
   "records": [
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-11-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-11-24",
+      "bmo_amc": "5:45 AM CT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CT",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
       "date": "2026-11-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
       "date": "2026-11-23",
-      "bmo_amc": "1:48 PM EDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:48 PM EDT",
-      "ir_source_url": "https://investor.tjx.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
       "source": "investor_relations",
       "sector": "Consumer"
     },
@@ -58,22 +80,10 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-11-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://about.autozone.com/investor-overview",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Manufacturing"
     },
     {
@@ -87,46 +97,12 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-11-23",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-11-24",
-      "bmo_amc": "5:45 AM CT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.crowdstrike.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-11-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
@@ -145,26 +121,26 @@
       "sector": "TMT"
     },
     {
-      "company": "News Corp",
-      "symbol": "NWSA",
+      "company": "Qnity",
+      "symbol": "Q",
       "date": "2026-11-23",
-      "bmo_amc": "6:07 AM EST",
+      "bmo_amc": "6:30 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:07 AM EST",
-      "ir_source_url": "https://investors.newscorp.com/",
+      "ir_time_label": "6:30 am EST",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
       "source": "investor_relations",
       "sector": "TMT"
     },
     {
-      "company": "Onsemi",
-      "symbol": "ON",
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
       "date": "2026-11-23",
-      "bmo_amc": "11:35 AM MST",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:35 AM MST",
-      "ir_source_url": "https://investor.onsemi.com/",
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -172,24 +148,10 @@
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-11-23",
-      "bmo_amc": "5:00 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 PM EST",
-      "ir_source_url": "https://investors.zoom.us/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zscaler",
-      "symbol": "ZS",
-      "date": "2026-11-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.zscaler.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -199,21 +161,17 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.analog.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2026-11-24",
-      "bmo_amc": "5:00 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 PM EST",
-      "ir_source_url": "https://investors.autodesk.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -249,38 +207,35 @@
       "sector": "TMT"
     }
   ],
-  "count": 22,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-23T11:36:09Z",
+  "generatedAt": "2026-11-23T23:09:36Z",
   "irCompanies": [
-    "Analog Devices",
-    "Autodesk",
-    "Autozone Inc",
-    "Crowdstrike",
     "Dell",
     "HPE",
-    "Home Depot Inc",
     "Juniper Networks",
+    "Lululemon Athletica",
     "Medtronic PLC",
-    "News Corp",
-    "Onsemi",
-    "TJX Cos Inc",
-    "Zoom",
-    "Zscaler"
+    "Qnity",
+    "Take-Two Interactive",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Agilent",
+    "Analog Devices",
+    "Autodesk",
     "Best Buy Co Inc",
     "Deere",
     "Dollar Tree",
     "HP Inc",
     "J.M. Smucker Co",
     "Jacobs Solutions Inc",
-    "Workday"
+    "Workday",
+    "Zoom"
   ],
   "week": {
     "id": "2026-11-23",

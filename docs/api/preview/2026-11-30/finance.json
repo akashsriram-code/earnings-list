@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "MSCI Inc",
-      "symbol": "MSCI",
-      "date": "2026-11-30",
-      "bmo_amc": "11:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 AM EST",
-      "ir_source_url": "https://ir.msci.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-12-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Bank of Montreal",
       "symbol": "BMO",
       "date": "2026-12-02",
@@ -68,17 +46,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-23T11:36:19Z",
-  "irCompanies": [
-    "MSCI Inc",
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-11-23T23:09:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",

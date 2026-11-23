@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-06-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-06-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2026-06-02",
@@ -44,9 +64,9 @@
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-06-01",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -94,31 +114,11 @@
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-06-03",
-      "bmo_amc": "TBD",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-06-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-06-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-23T11:31:25Z",
+  "generatedAt": "2026-11-23T23:04:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Broadcom",

@@ -4,21 +4,10 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-11-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://about.autozone.com/investor-overview",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Deere",
@@ -30,13 +19,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 115,
-  "generatedAt": "2026-11-23T11:36:08Z",
-  "irCompanies": [
-    "Autozone Inc"
-  ],
+  "generatedAt": "2026-11-23T23:09:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Deere",
     "Jacobs Solutions Inc"
