@@ -1,11 +1,83 @@
 {
   "records": [
     {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-11-24",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar Tree",
+      "symbol": "DLTR",
+      "date": "2026-11-24",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-11-24",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -14,8 +86,18 @@
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-11-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -24,9 +106,9 @@
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-11-24",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -63,6 +145,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-11-24",
+      "bmo_amc": "2:28 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:28 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2026-11-24",
@@ -76,99 +170,64 @@
       "company": "Agilent",
       "symbol": "A",
       "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
       "sector": "Pharma"
     },
     {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-11-24",
-      "bmo_amc": "5:45 AM CT",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "5:45 AM CT",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-11-24",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar Tree",
-      "symbol": "DLTR",
-      "date": "2026-11-24",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2026-11-24",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2026-11-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 14,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-24T07:29:50Z",
+  "generatedAt": "2026-11-24T19:56:24Z",
   "irCompanies": [
+    "Centene Corp",
     "Dell",
-    "Medtronic PLC"
+    "Lululemon Athletica",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Agilent",
     "Analog Devices",
     "Autodesk",
     "Best Buy Co Inc",
+    "Crowdstrike",
     "Deere",
     "Dollar Tree",
     "HP Inc",
     "HPE",
     "J.M. Smucker Co",
     "Jacobs Solutions Inc",
+    "Medtronic PLC",
     "Workday",
-    "Zoom"
+    "Zoom",
+    "Zscaler"
   ],
   "week": {
     "id": "2026-11-23",

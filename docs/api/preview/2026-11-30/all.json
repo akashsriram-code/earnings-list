@@ -1,16 +1,26 @@
 {
   "records": [
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2026-12-02",
-      "bmo_amc": "8:50 AM EST",
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-12-01",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:50 am EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Truist Financial",
@@ -75,70 +85,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-12-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-12-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-12-03",
-      "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EST",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2026-11-30",
@@ -160,16 +106,6 @@
       "ir_time_label": "4:07 pm EST",
       "ir_source_url": "https://investors.teradyne.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2026-12-01",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -261,16 +197,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Zscaler",
-      "symbol": "ZS",
-      "date": "2026-12-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2026-12-03",
@@ -281,14 +207,92 @@
       "sector": "TMT"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-12-01",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-12-02",
+      "bmo_amc": "8:50 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:50 am EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
       "date": "2026-12-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-12-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-12-03",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EST",
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 27,
@@ -297,13 +301,15 @@
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-24T07:30:03Z",
+  "generatedAt": "2026-11-24T19:56:36Z",
   "irCompanies": [
     "BlackBerry",
     "HPE",
     "Home Depot Inc",
     "Juniper Networks",
     "Marvell",
+    "Merck",
+    "Parker-Hannifin Corp",
     "Quanta Services Inc",
     "Shopify",
     "Teradyne",
@@ -316,7 +322,6 @@
     "C3.ai",
     "CIBC",
     "Cooper Companies Inc",
-    "Crowdstrike",
     "Dollar General",
     "Hormel Foods",
     "Kroger Co",
@@ -326,8 +331,7 @@
     "SentinelOne",
     "Snowflake",
     "TD Bank",
-    "VinFast",
-    "Zscaler"
+    "VinFast"
   ],
   "week": {
     "id": "2026-11-30",
