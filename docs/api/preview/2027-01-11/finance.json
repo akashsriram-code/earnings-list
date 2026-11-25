@@ -42,12 +42,10 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2027-01-15",
-      "bmo_amc": "5:00 PM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 pm ET",
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
@@ -84,26 +82,36 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "US Bancorp",
+      "symbol": "USB",
+      "date": "2027-01-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-11-25T04:03:23Z",
+  "generatedAt": "2026-11-25T16:30:50Z",
   "irCompanies": [
-    "Bank of America",
     "Citigroup"
   ],
   "fallbackCompanies": [
+    "Bank of America",
     "Citigroup",
     "JPMorgan",
     "M&T Bank Corp",
     "PNC Financial",
     "Regions Financial",
     "State Street Corp",
+    "US Bancorp",
     "Wells Fargo"
   ],
   "week": {

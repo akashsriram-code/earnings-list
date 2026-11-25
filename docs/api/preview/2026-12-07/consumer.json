@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-12-08",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2026-12-09",
@@ -17,21 +26,12 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-12-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
   "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-11-25T04:02:21Z",
+  "generatedAt": "2026-11-25T16:29:53Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Campbell Soup Co",
