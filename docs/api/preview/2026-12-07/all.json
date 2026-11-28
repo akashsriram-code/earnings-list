@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-12-08",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-12-10",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Citizens Financial",
@@ -189,37 +191,23 @@
       "sector": "Consumer"
     },
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-12-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-12-08",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-12-10",
-      "bmo_amc": "6:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:00 PM ET",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 570,
-  "generatedAt": "2026-11-27T15:54:11Z",
+  "generatedAt": "2026-11-28T00:56:05Z",
   "irCompanies": [
     "AT&T",
     "Bank of America",
@@ -227,7 +215,6 @@
     "Citizens Financial",
     "IBM",
     "JPMorgan",
-    "Medtronic PLC",
     "PNC Financial",
     "SiriusXM",
     "Verizon",
